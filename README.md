@@ -1,5 +1,5 @@
 # Gnom. Vat.
-English translations from the Gnomologium Vaticanum.
+[English translations from the Gnomologium Vaticanum](https://github.com/ryanfb/gnomvat/blob/main/gnomvat.md).
 
 The Greek text used is: L. Sternbach, *Gnomologium Vaticanum e codice Vaticano Graeco 743. Texte und Kommentare* 2. Berlin: De Gruyter, 1887 (repr. 1963).
 
