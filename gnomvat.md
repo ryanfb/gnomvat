@@ -25,3 +25,7 @@
 7. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, τί· τὸν υἱὸν διδάξει, εἶπεν· „εἰ μὲν θεοῖς αὐτὸν συμβιοῦν ἐθέλοις, φιλόσοφον· εἰ δὲ ἀνθρώποις, ῥήτορα“. 
 
    \[Antisthenes\] was asked by someone, what he should teach his son, he said: “If you wish for him to live together with the gods, philosophy; if with mortals, rhetoric.”
+   
+8. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, πῶς ἂν προσέλθοι πολιτείᾳ, εἶπεν· μήτε λίαν ἐγγύς, ἵνα μὴ κατακαῇ, μήτε πόῤῥω, ἵνα μὴ ῥιγοῖ.
+
+   \[Antisthenes\] was asked by someone, how how the government of a city should be approached, he said: “not too close, so that you won’t get burned, but not too far either, so that you won’t freeze”
