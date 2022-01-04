@@ -24,4 +24,4 @@
    
 7. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, τί· τὸν υἱὸν διδάξει, εἶπεν· „εἰ μὲν θεοῖς αὐτὸν συμβιοῦν ἐθέλοις, φιλόσοφον· εἰ δὲ ἀνθρώποις, ῥήτορα“. 
 
-\[Antisthenes\] was asked by someone, what he should teach his son, he said: “If you wish for him to live together with the gods, philosophy; if men instead, rhetoric.”
+   \[Antisthenes\] was asked by someone, what he should teach his son, he said: “If you wish for him to live together with the gods, philosophy; if men instead, rhetoric.”
