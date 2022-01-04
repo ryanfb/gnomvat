@@ -28,4 +28,9 @@
    
 8. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, πῶς ἂν προσέλθοι πολιτείᾳ, εἶπεν· μήτε λίαν ἐγγύς, ἵνα μὴ κατακαῇ, μήτε πόῤῥω, ἵνα μὴ ῥιγοῖ.
 
-   \[Antisthenes\] was asked by someone, how how the government of a city should be approached, he said: “not too close, so that you won’t get burned, but not too far either, so that you won’t freeze”
+   \[Antisthenes\] was asked by someone, how how the government of a city should be approached, he said: “not too close, so that you won’t get burned, but not too far either, so that you won’t freeze.”
+   
+9. Ὁ αὐτὸς ἐπαινούμενος ὑπὸ μοχθηρῶν, „ἀγωνιῶ“, ἔφη, „μή τι κακὸν εἴργασται μοι, ὅτι τοιούτοις ἀρέσκω“.
+
+   When \[Antisthenes\] was being praised by idiots, he said: “I’m agonizing that I might’ve done something bad, if I’m pleasing to these sorts”
+
