@@ -32,5 +32,8 @@
    
 9. Ὁ αὐτὸς ἐπαινούμενος ὑπὸ μοχθηρῶν, „ἀγωνιῶ“, ἔφη, „μή τι κακὸν εἴργασται μοι, ὅτι τοιούτοις ἀρέσκω“.
 
-   When \[Antisthenes\] was being praised by idiots, he said: “I’m agonizing that I might’ve done something bad, if I’m pleasing to these sorts”
+   When \[Antisthenes\] was being praised by idiots, he said: “I’m agonizing that I might’ve done something bad, if I’m pleasing to these sorts.”
 
+10. Ὁ αὐτὸς λοιδοροῦντος αὐτόν τινος ὡς οὐκ Ἀθηναῖον, „καὶ μήν“, εἶπεν, „οὐδεὶς ἑώρακε λέοντα Κορίνθιον οὐδ’ Ἀττικόν, ἀλλ’ οὐδὲν ἧττον γενναῖόν ἐστι τὸ ζῷον“.
+
+   When \[Antisthenes\] was being rebuked by someone for being non-Athenian, he said: “And nobody’s seen a lion that’s Corinthian or Athenian, but the beast is no less noble for it.”
