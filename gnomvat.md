@@ -21,3 +21,7 @@
 6. Ὁ αὐτὸς πυνθανομένου τοῦ τυράννου, τί δήποτε οὐχ οἱ πλούσιοι πρὸς τοὺς σοφοὺς ἀπίασιν, ἀλλ’ ἀνάπαλιν, εἶπεν· „ὅτι οἱ σοφοὶ μὲν ἴσασιν ὧν ἐστιν αὐτοῖς χρεία πρὸς τὸν βίον, οἱ δ’ οὐκ ἴσασιν, ἐπεὶ μᾶλλον χρημάτων ἢ σοφίας ἐπεμελοῦντο.“
 
    \[Antisthenes\] was asked by a tyrant, why the rich don’t seek out the wise, but instead the opposite happens, he said: “The wise know what things they need in life, but the rich do not know, since they consider things better than wisdom.”
+   
+7. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, τί· τὸν υἱὸν διδάξει, εἶπεν· „εἰ μὲν θεοῖς αὐτὸν συμβιοῦν ἐθέλοις, φιλόσοφον· εἰ δὲ ἀνθρώποις, ῥήτορα“. 
+
+\[Antisthenes\] was asked by someone, what he should teach his son, he said: “If you wish for him to live together with the gods, philosophy; if men instead, rhetoric.”
