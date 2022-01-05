@@ -68,4 +68,4 @@
 
 18. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, τί ἐστι πολέμιον ἀνθρώποις, εἶπεν· „αὐτοὶ ἑαυτοῖς“. 
 
-    \[Anacharsis\] having been asked by someone, who is the enemy of humanity, said: “they themselves.”
+    \[Anacharsis\] having been asked by someone, what is the enemy of humanity, said: “they themselves.”
