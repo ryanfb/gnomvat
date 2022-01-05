@@ -32,8 +32,12 @@
    
 9. Ὁ αὐτὸς ἐπαινούμενος ὑπὸ μοχθηρῶν, „ἀγωνιῶ“, ἔφη, „μή τι κακὸν εἴργασται μοι, ὅτι τοιούτοις ἀρέσκω“.
 
-   When \[Antisthenes\] was being praised by idiots, he said: “I’m agonizing that I might’ve done something bad, if I’m pleasing to these sorts.”
+   When \[Antisthenes\] was being praised by idiots, he said: “I’m agonizing that I might’ve done something wrong, if I’m pleasing to these sorts.”
 
 10. Ὁ αὐτὸς λοιδοροῦντος αὐτόν τινος ὡς οὐκ Ἀθηναῖον, „καὶ μήν“, εἶπεν, „οὐδεὶς ἑώρακε λέοντα Κορίνθιον οὐδ’ Ἀττικόν, ἀλλ’ οὐδὲν ἧττον γενναῖόν ἐστι τὸ ζῷον“.
 
    When \[Antisthenes\] was being rebuked by someone for being non-Athenian, he said: “And nobody’s seen a lion that’s Corinthian or Athenian, but the beast is no less noble for it.”
+
+11. Ὁ αὐτὸς θεασάμενος ἐν πίνακι γεγραμμένον τὸν Ἀχιλλέα Χείρωνι τῷ Κενταύρῳ διακονούμενον, „εὖ γε, ὦ παιδίον“, εἶπεν, „ὅτι παιδείας ἕνεκεν καὶ θηρίῳ διακονεῖν ὑπέμεινας.“
+
+   When \[Antisthenes\] saw a tablet engraved with a drawing of Achilles serving Chiron the Centaur, he said: “Well done, child, that on account of child-rearing you’ve patiently endured to serve even a beast.”
