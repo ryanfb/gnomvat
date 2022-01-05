@@ -57,3 +57,7 @@
 15. Ὁ αὐτὸς λοιδορούμενος ὑπό τινος, ὅτι Σκύθης εἴη, ἔφη· „γένει, ἀλλ’ οὐχὶ τοῖς τρόποις· [ἐν ἤθεσι γὰρ ἡ σοφία]“.
 
     \[Anacharsis\] being rebuked by someone, that he might be Scythian, said: “by birth, but not by customs; \[for wisdom is in customs.\]”
+
+16. Ὁ αὐτὸς λοιδορούμενος ὑπ’ Ἀθηναίων ἐπὶ τῷ σολοικίζειν εἶπεν· „Ἀνάχαρσις Ἀθηναίοις σολοικίζει, Ἀθηναῖοι δὲ Ἀναχάρσιδι“.
+
+    \[Anacharsis\] being rebuked by an Athenian on account of a solecism said: “Anacharsis solecises according to Athenians, Athenians according to Anacharsis.”
