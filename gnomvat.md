@@ -77,3 +77,7 @@
 20. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, τί ἐθεάσατο ἐν τῇ Ἑλλάδι παράδοξον εἶπε, τὸ τοὺς νεκροὺς καίεσθαι μὲν ὡς ἀναισθήτους, ἀποκαίεσθαι δὲ αὐτοῖς ὡς αἰσθανομένοις. 
 
     \[Anacharsis\] having been asked by someone, what sight in Greece is incredible, said: “the bodies being burnt like they cannot feel it, or the ones being cauterized by the same people like they can.”
+    
+21. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, ποῖός ἐστι θάνατος χαλεπώτερος, εἶπεν· „ὁ τῶν εὐτυχούντων“.
+
+    \[Anacharsis\] having been asked by someone, for whom death is harder, said: “the fortunate.”
