@@ -85,3 +85,7 @@
 22. Ὁ αὐτὸς ὀνειδιζόμενος ὑπό τινος, ὅτι Σκύθης ἐστίν, εἶπεν· „καὶ γὰρ τὰ ῥόδα ἐν ἀκάνθαις φύεται, ἀλλ’ ἐν ἡδονῇ καὶ κάλλει διαφέρει.“
 
     \[Anacharsis\] being reproached by someone, on account of being Scythian, said: “The rose too is grown in thorns, but in pleasure and beauty distinguishes itself.”
+
+23. Ἀρίστιππος, ὁ Κυρηναῖος φιλόσοφος, πλέων εἰς Ἀθήνας ἐναυάγησεν καὶ ὑποληφθεὶς ὑπ’ Ἀθηναίων ὡς ἠρωτήθη, τί μέλλει εἰς Κυρήνην ἐπανελθὼν λέγειν πρὸς τοὺς οἰκείους, ἔφη· „τοιαῦτα ἐφόδια κτᾶσθαι, ἃ καὶ ναυαγοῦσι συννήχεται“.
+
+    Aristippus the Cyrenian philosopher was shipwrecked sailing into Athens, and having been taken up by the Athenians and asked, whether he intended to return to Cyrene to speak to his affairs back home, said: “to procure the sorts of travel provisions, which also float together with the shipwreck.”
