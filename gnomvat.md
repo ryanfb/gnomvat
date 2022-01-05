@@ -81,3 +81,7 @@
 21. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, ποῖός ἐστι θάνατος χαλεπώτερος, εἶπεν· „ὁ τῶν εὐτυχούντων“.
 
     \[Anacharsis\] having been asked by someone, for whom death is harder, said: “the fortunate.”
+    
+22. Ὁ αὐτὸς ὀνειδιζόμενος ὑπό τινος, ὅτι Σκύθης ἐστίν, εἶπεν· „καὶ γὰρ τὰ ῥόδα ἐν ἀκάνθαις φύεται, ἀλλ’ ἐν ἡδονῇ καὶ κάλλει διαφέρει.“
+
+    \[Anacharsis\] being reproached by someone, on account of being Scythian, said: “The rose too is grown in thorns, but in pleasure and beauty distinguishes itself.”
