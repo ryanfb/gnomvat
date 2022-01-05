@@ -65,3 +65,7 @@
 17. Ὁ αὐτὸς ἀστραγαλίζων καὶ ἐπιτιμηθείς, διότι παίζει, ἔφη· „ὥσπερ τὰ τόξα διὰ παντὸς τεταμένα ῥήσσεται, ἐπὰν δὲ ἀνεθῇ, εὔχρηστα γίνεται πρὸς τὰς ἐν τῷ βίῳ χρείας, οὕτω καὶ ὁ λογισμὸς ἐπὶ τῶν αὐτῶν μένων κάμνει“.
 
     \[Anacharsis\] was playing knucklebones, and being rebuked on account of his playing, said: “Just as a bow stretched too far breaks, but one relaxed, becomes useful to the matters of life, thus also we should treat the reasoning which remains toiling upon itself.”
+
+18. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, τί ἐστι πολέμιον ἀνθρώποις, εἶπεν· „αὐτοὶ ἑαυτοῖς“. 
+
+    \[Anacharsis\] having been asked by someone, who is the enemy of humanity, said: “they themselves.”
