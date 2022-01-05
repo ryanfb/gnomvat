@@ -53,3 +53,7 @@
 14. Ἀνάχαρσις ἔφη τοὺς Ἕλληνας ἁμαρτάνειν, ὅτι παρ’ αὐτοῖς οἱ μὲν τεχνῖται ἀγωνίζονται, οἱ δ’ ἀμαθεῖς κρίνουσιν.
 
     Anacharsis said that the Greeks screwed up, since their skilled workers contend among themselves, but the unskilled judge them.
+
+15. Ὁ αὐτὸς λοιδορούμενος ὑπό τινος, ὅτι Σκύθης εἴη, ἔφη· „γένει, ἀλλ’ οὐχὶ τοῖς τρόποις· [ἐν ἤθεσι γὰρ ἡ σοφία]“.
+
+    \[Anacharsis\] being rebuked by someone, that he might be Scythian, said: “by birth, but not by customs; \[for wisdom is in customs.\]”
