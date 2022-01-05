@@ -73,3 +73,7 @@
 19. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, διὰ τί οἱ φθονεροὶ ἄνθρωποι ἀεὶ λυποῦνται, ἔφη· „ὅτι οὐ μόνον τὰ ἑαυτῶν αὐτοὺς κακὰ δάκνει, ἀλλὰ καὶ τὰ τῶν πέλας ἀγαθὰ λυπεῖ“.
 
     \[Anacharsis\] having been asked by someone, what made jealous people so distressed, said: “Not only do their own misfortunes sting them, but good things happening to their neighbors distresses them as well.”
+
+20. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, τί ἐθεάσατο ἐν τῇ Ἑλλάδι παράδοξον εἶπε, τὸ τοὺς νεκροὺς καίεσθαι μὲν ὡς ἀναισθήτους, ἀποκαίεσθαι δὲ αὐτοῖς ὡς αἰσθανομένοις. 
+
+    \[Anacharsis\] having been asked by someone, what sight in Greece is incredible, said: “the bodies being burnt like they cannot feel it, or the ones being cauterized by the same people like they can feel it.”
