@@ -49,3 +49,7 @@
 13. Ὁ αὐτὸς Πλάτωνός ποτε ἐν τῇ σχολῇ μακρολογήσαντος εἶπεν· „οὐχ ὁ λέγων μέτρον ἐστὶ τοῦ ἀκούοντος, ἀλλ’ ὁ ἀκούων τοῦ λέγοντος.“
 
    \[Antisthenes\], when Plato had spoken at length in his school, said: “the speaker is not the measure of the listener, but the listener of the speaker.”
+   
+14. Ἀνάχαρσις ἔφη τοὺς Ἕλληνας ἁμαρτάνειν, ὅτι παρ’ αὐτοῖς οἱ μὲν τεχνῖται ἀγωνίζονται, οἱ δ’ ἀμαθεῖς κρίνουσιν.
+
+    Anacharsis said that the Greeks screwed up, since their skilled workers contend among themselves, but the unskilled judge them.
