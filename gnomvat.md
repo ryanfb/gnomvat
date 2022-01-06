@@ -334,15 +334,43 @@
 265. Democritus
 266. \[Democritus\]
 267. \[Democritus\]
-268. Euripides
-269. \[Euripides\]
-270. \[Euripides\]
-271. \[Euripides\]
-272. \[Euripides\]
-273. \[Euripides\]
-274. \[Euripides\]
-275. \[Euripides\]
-276. \[Euripides\]
+268. Εὐριπίδης ὁ τῶν τραγῳδιῶν ποιητὴς εἶπεν ὅτι τοὺς ἀγαθοὺς ἄνδρας δεῖ ζῶντας μὲν τιμᾶσθαι, τελευτήσαντας δὲ ἐγκωμιάζεσθαι.
+     
+     Euripides, the poet of tragedies, said that good men must be honored while they are alive but praised when they are dead.
+
+269. Ὁ αὐτὸς ἀγωνιᾶν ἔφησεν εἰς τὰ θέατρα παραγινόμενος οὐχὶ εἰ νικηθήσεται, ἀλλ’ ἵνα μὴ δόξῃ παρὰ τὸ πρότερον ἑαυτοῦ χείρων
+εἰσεληλυθέναι.
+     
+     \[Euripides\] said that, when he went into the theater, he was distressed not over whether he would be defeated but rather in order that he might not seem to have entered worse than himself compared to earlier.
+ 
+270. Ὁ αὐτὸς ὀνειδιζόμενός ποτε ὅτι δίκην ἔχων ἐμισθώσατο ῥήτορα ἔφη· „καὶ γάρ, ὅταν δεῖπνον ἔχω, μάγειρον μισθοῦμαι“.
+
+     When \[Euripides\] was being rebuked because he hired an orator when he had a court case, he said, "Certainly, for whenever I have dinner, I hire a cook."
+
+271. Ὁ αὐτὸς ὀνειδιζόμενος ὑπό τινων ἐπὶ τῷ βαρβαρίζειν ἔφη· „ἐγὼ μὲν τῷ λόγῳ, ὑμεῖς δὲ τῷ τρόπῳ“.
+
+     When \[Euripides\] was being rebuked by certain people for speaking gibberish, he said, "I do so in my speech, but you do so in your way of life.
+
+272. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί \[αὐτὸς\] τούς τε πονηροὺς καὶ ἀγαθοὺς μισεῖ ἔφη· „τοὺς μὲν πονηροὺς διὰ τὴν μοχθηρίαν, τοὺς δὲ ἀγαθοὺς ὅτι τοὺς κακοὺς οὐ μισοῦσιν“.
+
+     When \[Euripides\] was asked why he hated both the wicked and the good, he said, "I hate the wicked for their depravity and the good because they do not hate the bad."
+
+273. Ὁ αὐτὸς ἔφη· „ὅστις φίλον λυπούμενον ἔφυγεν, οὐδὲ τοῦ χαίροντος ἀπολαύειν ἄξιος“.
+
+     \[Euripides\] said, "Whoever avoids a friend in pain does not deserve to enjoy them when they are well."
+
+274. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί σφόδρα ἀγανακτεῖ κακῶς ἀκούων ἔφη· „ὅτι οὐδὲ ἐπαινούμενος ἡσθήσομαι, εἰ μὴ κακῶς ἀκούων ἀχθεσθήσομαι“.
+
+     When \[Euripides\] was asked why he gets so annoyed at being criticized, he said, "Because I will not enjoy being praised unless I am pained at being criticized."
+
+275. Ὁ αὐτὸς, ἐπεὶ ὀψωνοῦντος αὐτοῦ ἐπελάβετό τις λέγων ὅτι Σοφοκλῆς τοῦτο διὰ δούλου ποιεῖ <ἔφη>· „τοιγαροῦν Σοφοκλῆς μὲν ἐσθίει ὄψον, ὁποῖον ἂν τῷ οἰκέτῃ ἀρέσῃ, ἐγὼ δέ, ὁποῖον ἂν ἐμοί“.
+
+     \[Euripides\], when someone rebuked him for cooking by saying that Sophocles had a slave do this, said, "In that case, Sophocles eats the food that his slave likes, but I eat what I like."
+
+276. Ὁ αὐτός ποτε φακῆν ἕψων καὶ μὴ ἔχων ξύλα ἀνελόμενος ξόανον Ἡρακλέους ἐγγὺς ἑστηκὸς ἐπέθηκε τῇ ἑστίᾳ εἰπών· „Ἡράκλεις, τρισκαιδέκατόν σοι τοῦτον ἆθλον Εὐριπίδης ἐπέθηκεν, \[ἐπὶ\] φακῆν ἑψῆσαι“
+
+     Once, when \[Euripides\] was boiling lentils and didn't have any wood, he took up a wooden statue of Heracles standing nearby and put it onto the hearth, saying, "Heracles, Euripides imposes a thirteenth labor upon you: boil the lentils."
+
 277. Eucleides
 278. \[Eucleides\]
 279. Epaminondas
