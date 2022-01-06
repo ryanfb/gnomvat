@@ -314,4 +314,24 @@
 245. \[Demades\]
 246. \[Demades\]
 247. \[Demades\]
-
+248. Democrates
+249. \[Democrates\]
+250. \[Democrates\]
+251. \[Democrates\]
+252. \[Democrates\]
+253. Demetrius
+254. \[Demetrius\]
+255. \[Demetrius\]
+256. \[Demetrius\]
+257. \[Demetrius\]
+258. \[Demetrius\]
+259. \[Demetrius\]
+260. \[Demetrius\]
+261. Dionysius
+262. \[Dionysius\]
+263. Demochares
+264. Diocles
+265. Democritus
+266. \[Democritus\]
+267. \[Democritus\]
+268. Euripides
