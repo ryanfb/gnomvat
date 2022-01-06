@@ -1,0 +1,18 @@
+title: "Gnom. Vat."
+description: "English translations from the Gnomologium Vaticanum"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-github-metadata
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+remote_theme: ryanfb/jekyll-theme-palaios
+author:
+  name: Ryan Baumann
+  first_name: Ryan
+  last_name: Baumann
+  email: ryan.baumann@gmail.com
+  twitter: ryanfb
