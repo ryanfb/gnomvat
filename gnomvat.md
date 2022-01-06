@@ -90,7 +90,10 @@
 
     Aristippus the Cyrenian philosopher was shipwrecked sailing into Athens, and having been taken in by the Athenians and asked why he intended to return to Cyrene to speak to his affairs back home, said: “to procure the sorts of travel provisions, which also float together with the shipwreck.”
 
-24. \[Aristippus\]
+24. Ὁ αὐτὸς παρὰ τῶν μαθητῶν λαμβάνειν ἔφασκε μισθόν, οὐχ ὅπως τὸν βίον ἐπανορθώσῃ, ἀλλ’ ὅπως ἐκεῖνοι μάθωσιν εἰς τὰ καλὰ δαπανᾶν.
+
+    \[Aristippus\] used to say that he took payment from his students not in order to straighten their way of life but so that they might learn to spend their money on fine things.
+    
 25. \[Aristippus\]
 26. \[Aristippus\]
 27. \[Aristippus\]
