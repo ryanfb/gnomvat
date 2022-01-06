@@ -120,6 +120,7 @@
     \[Aristippus\] on being accused by someone, that he took money and didn’t give it back, said: “Are you not accused by yourself, if you didn’t choose rightly, o giver?”
 
 32. Ὁ αὐτὸς καθόλου τὸ εὔχεσθαι τὰ ἀγαθὰ καὶ ἀπαιτεῖν τι παρὰ τοῦ θεοῦ ἔφη γελοῖον εἶναι· οὐ γὰρ τοὺς ἰατροὺς ὅταν ἄῤῥωστος αἰτῇ τι βρωτὸν ἢ ποτόν, τότε διδόναι, ἀλλ’ ὅταν αὐτοῖς δοκήσῃ συμφέρειν.
+
     \[Aristippus\] said that to pray for something good and demand it from god is generally laughable; for doctors do not give the sick food or drink whenever they ask for it, but whenever they think it will help them.
     
 33. \[Aristippus\]
