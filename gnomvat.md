@@ -1,6 +1,6 @@
 1. Ἀντισθένης τοὺς πόνους ἔφησεν ὁμοίους εἶναι κυσί· καὶ γὰρ ἐκεῖνοι τοὺς ἀσυνήθεις δάκνουσιν.
 
-   Antisthenes said that tasks are like dogs: they bite those unfamiliar with them.
+   Antisthenes said that tasks are like dogs: for they too bite those unfamiliar with them.
 
 2. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, εἰ γήμῃ, εἶπεν· „εἰ μὲν καλήν, κοινὴν ἕξεις· εἰ δὲ αἰσχρὰν, ποινήν“.
 
