@@ -112,63 +112,126 @@
 43. \[Aristippus\]
 44. \[Aristippus\]
 45. \[Aristippus\]
-
 46. Alexis
-
 47. Aristedes
-
+48. \[Aristedes\]
 49. Aristotle
-
+50. \[Aristotle\]
+51. \[Aristotle\]
+52. \[Aristotle\]
+53. \[Aristotle\]
+54. \[Aristotle\]
+55. \[Aristotle\]
+56. \[Aristotle\]
+57. \[Aristotle\]
+58. \[Aristotle\]
+59. \[Aristotle\]
 60. Archidamos
-
 61. Anaximenes
-
 62. Aeschines
-
+63. \[Aeschines\]
 64. Anaxarchos
-
 65. Arcesilaus
-
+66. \[Arcesilaus\]
 67. Alcidamas
-
 68. Agesilaus
-
+69. \[Agesilaus\]
+70. \[Agesilaus\]
 71. Antiphon
-
 72. Anacreon
-
-73. Alexander, king of Macedon,
-
+73. Alexander, king of Macedon
+74. \[Alexander\]
+75. \[Alexander\]
+76. \[Alexander\]
+77. \[Alexander\]
+78. \[Alexander\]
+79. \[Alexander\]
+80. \[Alexander\]
+81. \[Alexander\]
+82. \[Alexander\]
+83. \[Alexander\]
+84. \[Alexander\]
+85. \[Alexander\]
+86. \[Alexander\]
+87. \[Alexander\]
+88. \[Alexander\]
+89. \[Alexander\]
+90. \[Alexander\]
+91. \[Alexander\]
+92. \[Alexander\]
+93. \[Alexander\]
+94. \[Alexander\]
+95. \[Alexander\]
+96. \[Alexander\]
+97. \[Alexander\]
+98. \[Alexander\]
+99. \[Alexander\]
+100. \[Alexander\]
+101. \[Alexander\]
+102. \[Alexander\]
+103. \[Alexander\]
+104. \[Alexander\]
+105. \[Alexander\]
 106. Antagoras
-
 107. Antigonus
-
-108. Amasis, the king of Egypt,
-
+108. Amasis, king of Egypt
 109. Antagoras
-
+110. \[Antagoras\]
+111. \[Antagoras\]
+112. \[Antagoras\]
+113. \[Antagoras\]
+114. \[Antagoras\]
+115. \[Antagoras\]
+116. \[Antagoras\]
 117. Anaxagoras
-
 118. Arimnestus
-
 119. Alcibiades
-
 120. Ariston
-
+121. \[Ariston\]
+122. \[Ariston\]
+123. \[Ariston\]
 124. Aesop
-
+125. \[Aesop\]
+126. \[Aesop\]
+127. \[Aesop\]
+128. \[Aesop\]
 129. Apelles
-
 130. Anacharsis
-
+131. \[Anacharsis\]
+132. \[Anacharsis\]
+133. \[Anacharsis\]
+134. \[Anacharsis\]
+135. \[Anacharsis\]
+136. \[Anacharsis\]
 137. Aristotle
-
+138. \[Aristotle\]
+139. \[Aristotle\]
+140. \[Aristotle\]
+141. \[Aristotle\]
+142. \[Aristotle\]
+143. \[Aristotle\]
+144. \[Aristotle\]
+145. \[Aristotle\]
+146. \[Aristotle\]
 147. Bias
-
+148. \[Bias\]
+149. \[Bias\]
+150. \[Bias\]
+151. \[Bias\]
+152. \[Bias\]
+153. \[Bias\]
+154. \[Bias\]
+155. \[Bias\]
+156. \[Bias\]
 157. Bion
-
+158. \[Bion\]
+159. \[Bion\]
+160. \[Bion\]
+161. \[Bion\]
+162. \[Bion\]
+163. \[Bion\]
 164. Glycol
-
+165. \[Glycol\]
 166. Gorgias
-
+167. \[Gorgias\]
 168. Diogenes
