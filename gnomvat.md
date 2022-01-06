@@ -112,3 +112,63 @@
 43. \[Aristippus\]
 44. \[Aristippus\]
 45. \[Aristippus\]
+
+46. Alexis
+
+47. Aristedes
+
+49. Aristotle
+
+60. Archidamos
+
+61. Anaximenes
+
+62. Aeschines
+
+64. Anaxarchos
+
+65. Arcesilaus
+
+67. Alcidamas
+
+68. Agesilaus
+
+71. Antiphon
+
+72. Anacreon
+
+73. Alexander, king of Macedon,
+
+106. Antagoras
+
+107. Antigonus
+
+108. Amasis, the king of Egypt,
+
+109. Antagoras
+
+117. Anaxagoras
+
+118. Arimnestus
+
+119. Alcibiades
+
+120. Ariston
+
+124. Aesop
+
+129. Apelles
+
+130. Anacharsis
+
+137. Aristotle
+
+147. Bias
+
+157. Bion
+
+164. Glycol
+
+166. Gorgias
+
+168. Diogenes
