@@ -617,3 +617,30 @@
 548. \[Philoxenus\]
 549. Chilon
 550. \[Chilon\]
+551. \[Chilon\]
+552. \[Chilon\]
+553. Chilon
+554. \[Chilon\]
+555. Charbias
+556. Charbias
+557. Charbias
+558. Charbias
+559. \[Charbias\]
+560. Psittacus
+561. Psittacus
+562. Orion
+563. Orion
+564. Athenian woman
+565. Athenian woman
+566. Athenian woman
+567. Athenian woman
+568. Laconian woman
+569. Laconian woman
+570. Laconian woman
+571. Syracusan woman
+572. Ἡ Κλεάρχου τοῦ Ῥαμφίου μήτηρ
+573. Xanthippe
+574. Theano
+575. Laconic woman
+576. Olympias
+577. Phryne
