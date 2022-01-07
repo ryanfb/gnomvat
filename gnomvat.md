@@ -658,13 +658,13 @@
 565. Athenian woman
 566. Athenian woman
 567. Athenian woman
-568. Laconian woman
-569. Laconian woman
-570. Laconian woman
+568. Spartan woman
+569. Spartan woman
+570. Spartan woman
 571. Syracusan woman
 572. Ἡ Κλεάρχου τοῦ Ῥαμφίου μήτηρ
 573. Xanthippe
 574. Theano
-575. Laconic woman
+575. Spartan woman
 576. Olympias
 577. Phryne
