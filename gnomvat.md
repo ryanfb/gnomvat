@@ -475,7 +475,10 @@
 372. Cleisophos
 373. Conon
 374. Cotys
-375. Anacreon
+375. \<Ἀνα\>κρέων ὁ ποιητὴς πρός τινα τῶν φίλων ἀπωδύρετο ἐπὶ τῷ πένης εἶναι εἰπόντος δὲ ἐκείνου· „ποιητὴς ὢν ἐλπίδας ἀγαθὰς ἔχε περὶ σεαυτοῦ“ εἶπεν· „αἱ ἐλπίδες ἐγρηγορότων εἰσὶν ἐνύπνια“.
+
+     The poet Anacreon was lamenting to one of his friends about being poor, and they said: "A poet is the beautiful hopes you hold to yourself, the hopes of being awoken from dreams."
+
 376. Cyrus
 377. \[Cyrus\]
 378. \[Cyrus\]
