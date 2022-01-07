@@ -673,5 +673,8 @@
 573. Xanthippe
 574. Theano
 575. Spartan woman
-576. Olympias
+576. Ὀλυμπιὰς Ἀλεξάνδρου μήτηρ ἐρωτηθεῖσα ὑπό τινος [ὅτι] „διὰ τί οὐ κοσμῇ;“ εἶπεν· „ὅτι ἀρκεῖ μοι ὁ Ἀλεξάνδρου κόσμος.“
+
+     Olympias, mother of Alexander, having been asked by someone, “Why don’t you adorn yourself?”, said: “Because Alexander is sufficient adornment for me.”
+
 577. Phryne
