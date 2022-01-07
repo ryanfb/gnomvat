@@ -544,7 +544,10 @@
 451. \[Periander\]
 452. Pericles
 453. \[Pericles\]
-454. The Persian poet
+454. Περσῖνος ὁ ποιητὴς ἐρωτηθεὶς τίς ἄριστός ἐστι ποιητὴς „παρ’ ἑαυτῷ μὲν ἕκαστος“, <εἶπε>, „παρὰ δὲ τοῖς ἄλλοις Ὅμηρος“.
+
+     The poet Persinos having been asked who the best poet is, said: "Everyone is the best poet according to themselves, but according to others the best poet is Homer."
+
 455. Pittacus
 456. \[Pittacus\]
 457. \[Pittacus\]
