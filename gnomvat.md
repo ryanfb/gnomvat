@@ -215,7 +215,7 @@
 118. Arimnestus
 119. Ἀλκιβιάδης, ὡς αὐτόν τις ἐλοιδόρει φαῦλος ὤν, εἶπεν· „οὐδ’ οἰμώζειν σοι λέγω ὡς οὐδὲ τούτου ἀξίῳ ὄντι.“
 
-     Alcibiades, when he was being rebuked by someone who was themselves worthless, said: "I won't tell you to wail, since you're not even worthy of this."
+     Alcibiades, when he was being rebuked by someone who was themselves worthless, said: "I won't tell you to wail, since you're not even worthy of that."
 
 120. Ariston
 121. \[Ariston\]
