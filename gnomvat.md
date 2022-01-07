@@ -677,4 +677,6 @@
 
      Olympias, mother of Alexander, having been asked by someone, “Why don’t you adorn yourself?”, said: “Because Alexander is sufficient adornment for me.”
 
-577. Phryne
+577. Φρύνη ἑταίρα νεανίσκου τινὸς ἀγρὸν πεπρακότος καὶ δι’ ἀῤῥωστίαν χλωροῦ ὄντος ἔφη· „νεανίσκε· τί ὠχρὸς εἶ; μή τι γῆν ἐσθίεις;
+
+     The hetaira Phryne, to a certain young man who had sold some land and was yellow from illness, said: “Young man, why are you pale? Did you eat some of the dirt?”
