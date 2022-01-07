@@ -162,7 +162,11 @@
 69. \[Agesilaus\]
 70. \[Agesilaus\]
 71. Antiphon
-72. Anacreon
+72. Ἀνακρέων λαβὼν τάλαντον χρυσίου παρὰ Πολυκράτους τοῦ τυράννου πάλιν ἀνταπέδωκεν εἰπών· „μισῶ δωρεάν, ἥτις ἀναγκάζει με
+ἀγρυπνεῖν.“ 
+
+    Anacreon, having received a gold talent from Polycrates the tyrant, gave it back to him saying: "I hate gifts, which require me to have sleepless nights."
+
 73. Alexander, king of Macedon
 74. \[Alexander\]
 75. \[Alexander\]
