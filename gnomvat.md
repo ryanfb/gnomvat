@@ -654,7 +654,14 @@
 561. Psittacus
 562. Orion
 563. Orion
-564. Athenian woman
+564. Αποφθέγματα γυναικῶν, ἤτοι φρονήματα.
+
+     Apothegms and Thoughts of Women
+     
+     Ἀττικὴ γυνὴ ἰδοῦσα γράμμα ἐπὶ θυρῶν μέλλοντος γαμεῖν· „Ἡρακλῆς ἐνθάδε κατοικεῖ· μηδὲν εἰσίτω κακὸν“ εἶπεν· „νῦν οὖν ἡ γυνὴ οὐ μὴ εἰσελεύσεται.“
+     
+     An Athenian woman having seen a sign on the door of someone intending to get married reading "Heracles lives here; let there be no evil", said: "So now the wife will not enter!"
+
 565. Athenian woman
 566. Athenian woman
 567. Athenian woman
