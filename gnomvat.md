@@ -726,7 +726,10 @@
 
      A Spartan woman having heard that her son had died in battle, said: "Child, what noble nursing-costs you've returned to your country!"
 
-570. Spartan woman
+570. Γυνὴ Λάκαινα αἰχμαλωτισθεῖσα ἐπιπράσκετο· καὶ ἐρωτωμένη τί δύναται ποιεῖν ἔφη· „ἐλευθέρα εἶναι.“
+
+     A Spartan woman was being sold into slavery; and being asked what she was able to do, said: "Be free."
+
 571. Syracusan woman
 572. Ἡ Κλεάρχου τοῦ Ῥαμφίου μήτηρ
 573. Xanthippe
