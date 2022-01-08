@@ -204,7 +204,7 @@
 108. Ἄμασις, ὁ τῶν Αἰγυπτίων βασιλεύς, φίλῳ ἀποβαλόντι υἱὸν γράφων παραμυθητικῶς εἶπεν· „εἰ, ὅτε μηδέπω ἦν, οὐκ ἐλυποῦ, μηδὲ
 νῦν, ὅτε οὐκ ἔστι, λυπηθῇς“. 
 
-     Amasis, king of Egypt, in a letter of consolation to a friend who had lost his son, said: "If, when he was not yet born, you did not grieve, neither now, that he is no longer, should you grieve."
+     Amasis, king of Egypt, in a letter of consolation to a friend who had lost his son, said: "If, when he did not yet exist, you did not grieve, neither now, when he is no longer, should you grieve."
 
 109. Antagoras
 110. \[Antagoras\]
