@@ -738,7 +738,10 @@
 
      The mother of Clearchus the Ramphian, when her son was being attacked for giving Greece over to the Persians, wrote him a letter like this: "From Mom to Clearchus my son: Your reputation is being dragged in disgrace; either put a stop to this or cease to exist."
 
-573. Xanthippe
+573. Ξανθίππη ἐρωτηθεῖσα τί μέγιστον ὑπῆρχεν τῷ Σωκράτει „τοῦτο“, ἔφη, „ὅτι καὶ ἐπὶ ἀγαθοῖς καὶ ἐπὶ φαύλοις ἡ αὐτὴ ὄψις ἦν αὐτῷ“·
+
+     Xanthippe having been asked what the best property of Socrates was, said: "This, that of the upper-class and lower-class he has the same view."
+
 574. Theano
 575. Spartan woman
 576. Ὀλυμπιὰς Ἀλεξάνδρου μήτηρ ἐρωτηθεῖσα ὑπό τινος [ὅτι] „διὰ τί οὐ κοσμῇ;“ εἶπεν· „ὅτι ἀρκεῖ μοι ὁ Ἀλεξάνδρου κόσμος.“
