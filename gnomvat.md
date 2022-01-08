@@ -742,7 +742,10 @@
 
      Xanthippe having been asked what the best property of Socrates was, said: "This, that of the upper-class and lower-class he has the same view."
 
-574. Theano
+574. Θεανὼ ἡ Πυθαγορικὴ ἔφη· „περὶ ὧν λέγειν καλόν, περὶ τούτων σιωπᾶν αἰσχρόν, καὶ περὶ ὧν λέγειν αἰσχρόν, περὶ τούτων σιωπᾶν καλόν.
+
+     Theano the Pythagorean said: "Concerning things it's good to speak about, it is shameful to be silent; and concerning things it's shameful to speak about, it is good to be silent."
+
 575. Spartan woman
 576. Ὀλυμπιὰς Ἀλεξάνδρου μήτηρ ἐρωτηθεῖσα ὑπό τινος [ὅτι] „διὰ τί οὐ κοσμῇ;“ εἶπεν· „ὅτι ἀρκεῖ μοι ὁ Ἀλεξάνδρου κόσμος.“
 
