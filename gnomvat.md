@@ -722,7 +722,10 @@
 
      A Spartan woman whose son had become disabled in battle and was angry because of this, said: "Child, don't dispair; for every step will remind you of your personal virtue."
 
-569. Spartan woman
+569. Γυνὴ Λάκαινα ἀκούσασα τὸν υἱὸν αὐτῆς ἐν παρατάξει τεθνηκέναι „τέκνον“, εἶπεν, „ὡς καλὰ τροφεῖα τῇ πατρίδι ἀπέδωκας!“
+
+     A Spartan woman having heard that her son had died in battle, said: "Child, what noble nursing-costs you've returned to your country!"
+
 570. Spartan woman
 571. Syracusan woman
 572. Ἡ Κλεάρχου τοῦ Ῥαμφίου μήτηρ
