@@ -734,7 +734,10 @@
 
      A Syracusan woman summoned by the tyrant Dionysius because he said he desired her and wanted to give her whatever she wanted, said: "Well leave me alone then, since you think all women are the same, whenever the lights are out."
 
-572. Ἡ Κλεάρχου τοῦ Ῥαμφίου μήτηρ
+572. Ἡ Κλεάρχου τοῦ Ῥαμφίου μήτηρ ἐπειδὴ διεβλήθη ὁ υἱὸς αὐτῆς προδιδόναι τοῖς Πέρσαις τὴν Ἑλλάδα τοιαύτην ἐπιστολὴν ἔγραψεν· „ἁ μάτηρ Κλεάρχῳ τῷ υἱῷ· κακά τευ κακκέχυται φάμα· ἢ ταύταν ἀπόθευ ἢ μὴ ἔσο.“
+
+     The mother of Clearchus the Ramphian, when her son was being attacked for giving Greece over to the Persians, wrote him a letter like this: "From Mom to Clearchus my son: Your reputation is being dragged in disgrace; either put a stop to this or cease to exist."
+
 573. Xanthippe
 574. Theano
 575. Spartan woman
