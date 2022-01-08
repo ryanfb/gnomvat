@@ -96,7 +96,7 @@
     
 25. Ὁ αὐτὸς ἄσωτον γενόμενον τὸν υἱὸν ἐξέκλεισεν· τῆς δὲ γυναικὸς μεμφομένης, ὅτι αὐτὸν οὐ προσίεται καὶ λεγούσης παρ’ ἕκαστα, ὡς καὶ οὗτος ἐξ αὐτοῦ εἴη, ἀποπτύσας \[ὁ Ἀρίστιππος\] \<ἔφη·\> „καὶ γὰρ καὶ τοῦτο ἐξ ἐμοῦ ἐστιν, ἀλλ’ ἀποῤῥίπτω αὐτό, ὅτι με λυπεῖ“.
 
-\[Aristippus\] shut out his son because he became profligate. But when his wife reproached him because he did not admit him and  said each time that this man also was from him, Aristippus, spitting, said, "No, for this also is from me, but I get rid of it because it pains me."
+    \[Aristippus\] shut out his son because he became profligate. But when his wife reproached him because he did not admit him and  said each time that this man also was from him, Aristippus, spitting, said, "No, for this also is from me, but I get rid of it because it pains me."
 
 26. Ὁ αὐτὸς ἐρωτώμενος, τί θαυμαστόν ἐστιν ἐν βίῳ \<εἶπεν\>· „ἄνθρωπος ἐπιεικὴς καὶ μέτριος, ὅτι ἐν πολλοῖς ὑπάρχων μοχθηροῖς οὐ διέστραπται“.
 
@@ -681,15 +681,42 @@
 498. \[Socrates\]
 499. \[Socrates\]
 500. \[Socrates\]
-501. Solon
-502. \[Solon\]
-503. \[Solon\]
-504. \[Solon\]
-505. Solon
-506. \[Solon\]
-507. Solon
-508. Solon
-509. \[Solon\]
+501. Σόλων ὁ σοφὸς ἐρωτῶντος αὐτόν τινος πῶς ἂν μὴ γένοιτο ἀδίκημα εἶπεν· „εἰ ὁμοίως ἀγανακτοῖεν ἐπὶ τοῖς ἀδικήμασιν οἱ μὴ ἀδικούμενοι τοῖς ἀδικουμένοις.“
+
+     Solon the wise man, when someone asked him how wrongs could not happen, said, "If those who are not wronged would be equally vexed as those who are wronged at the wrongs done.
+
+502. Ὁ αὐτὸς ἐπιτιμωμένου τινὸς ὑπ’ αὐτοῦ ἐπὶ τῷ κυβεύειν καὶ λέγοντος περὶ μικροῦ παίζειν „ἀλλὰ τό γε ἔθος“ εἶπεν „οὐ μικρὸν [κακόν].“
+
+     When someone was rebuked by \[Solon\] for playing at dice and said that he played for a small amount, he said, "But your character, at any rate, is no small thing."
+
+503. Ὁ αὐτὸς ἔφη ἐκείνην ἄριστα διοικεῖσθαι τὴν πόλιν, ἐν ᾗ τοὺς ἀγαθοὺς συμβαίνει τιμᾶσθαι, κάκιστα δὲ οἰκεῖσθαι, ἐν ᾗ τοὺς κακούς.
+
+     \[Solon\] said that that city is managed best in which it happens that the good are honored, but that that one is managed worst in which the bad are.
+
+504. Ὁ αὐτὸς ἔγραψεν ἐντὸς πεντήκοντα ἐτῶν γυναῖκα εἰς τὸ δημόσιον μὴ προιέναι· ἐρωτώμενος δὲ „διὰ τί τοῦτο ἐποίησας;“ εἶπεν· „ἵνα μήτις πυνθάνηται, τίνος γυνή, ἀλλὰ τίνος μήτηρ.“
+
+     \[Solon\] wrote for a woman within 50 years not to go into a public building. But when asked, "Why did you do this?" he said, "So that no one would ask, "Whose wife is this?" but rather "Whose mother?"
+
+505. Σόλων ἔλεγε τοὺς παρὰ τοῖς τυράννοις δυναστεύοντας παραπλησίους εἶναι ταῖς ψήφοις ταῖς ἐπὶ τῶν λογισμῶν· καὶ γὰρ ἐκείνων ἑκάστην ποτὲ μὲν πλείω σημαίνειν, ποτὲ δὲ ἐλάττω· καὶ τούτων τοὺς τυράννους ποτὲ μὲν μέγαν ἕκαστον ἄγειν, ποτὲ δὲ ἄτιμον.
+
+     Solon said that those who hold power alongside tyrants are akin to the pebbles used for calculations. For each of them sometimes means more, and sometimes less. And the tyrants treats each of these men sometimes as great, and sometimes as dishonored.
+
+506. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί κατὰ πατροκτόνου νόμον οὐκ ἔθηκεν εἶπε· „διὰ τὸ ἀπελπίσαι.“
+
+     \[Solon\], when he was asked why he did not establish a law against father-killing, said, "Because I hoped it would not happen."
+
+507. Σόλων ἐρωτηθεὶς ὑπό τινος τί ἐστι νόμος εἶπε· „τῶν μὲν δειλῶν φόβος, τῶν δὲ τολμηρῶν κόλασις.“
+
+     Solon, having been asked by someone what the law is, said, "A fear, for the cowardly, and a punishment, for the daring."
+
+508. Σόλων ἐπερωτῶν Κροῖσον τί παρὰ τῆς βασιλείας ἔσχε τιμιώτατον, ἐκείνου δὲ εἰπόντος· „τὸ τοὺς ἐχθροὺς μετελθεῖν καὶ φίλους εὐεργετεῖν“ „πόσῳ μᾶλλον“ ἔφη „χαριέστερον <ἂν> ἐποίησας, εἰ καὶ τούτους εἰς φιλίαν μετετρόπωσας;“
+
+     When Solon asked Croesus what he considered the most valuable thing from his kingdom and that man said, "To attack my enemies and show kindness to my friends," he said, "How much more pleasant would you have considered it if you had turned these men also towards friendship?"
+
+509. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τίνα αἰτίαν οὐ τεκνοποιεῖ ἔφη· „διὰ φιλοτεκνίαν.“
+
+     \[Solon\], having been asked why he did not bear children, said, "Because of my love for children."
+
 510. Simonides
 511. \[Simonides\]
 512. \[Simonides\]
