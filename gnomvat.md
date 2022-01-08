@@ -94,7 +94,10 @@
 
     \[Aristippus\] said he took a fee from his students, not to correct their life, but so that they would learn that they can put their money towards fine things.
     
-25. \[Aristippus\] Ὁ αὐτὸς ἄσωτον γενόμενον τὸν υἱὸν ἐξέκλεισεν· τῆς δὲ γυναικὸς μεμφομένης, ὅτι αὐτὸν οὐ προσίεται καὶ λεγούσης παρ’ ἕκαστα, ὡς καὶ οὗτος ἐξ αὐτοῦ εἴη, ἀποπτύσας \[ὁ Ἀρίστιππος\] \<ἔφη·\> „καὶ γὰρ καὶ τοῦτο ἐξ ἐμοῦ ἐστιν, ἀλλ’ ἀποῤῥίπτω αὐτό, ὅτι με λυπεῖ“.
+25. Ὁ αὐτὸς ἄσωτον γενόμενον τὸν υἱὸν ἐξέκλεισεν· τῆς δὲ γυναικὸς μεμφομένης, ὅτι αὐτὸν οὐ προσίεται καὶ λεγούσης παρ’ ἕκαστα, ὡς καὶ οὗτος ἐξ αὐτοῦ εἴη, ἀποπτύσας \[ὁ Ἀρίστιππος\] \<ἔφη·\> „καὶ γὰρ καὶ τοῦτο ἐξ ἐμοῦ ἐστιν, ἀλλ’ ἀποῤῥίπτω αὐτό, ὅτι με λυπεῖ“.
+
+\[Aristippus\] shut out his son because he became profligate. But when his wife reproached him because he did not admit him and  said each time that this man also was from him, Aristippus, spitting, said, "No, for this also is from me, but I get rid of it because it pains me."
+
 26. Ὁ αὐτὸς ἐρωτώμενος, τί θαυμαστόν ἐστιν ἐν βίῳ \<εἶπεν\>· „ἄνθρωπος ἐπιεικὴς καὶ μέτριος, ὅτι ἐν πολλοῖς ὑπάρχων μοχθηροῖς οὐ διέστραπται“.
 
     \[Aristippus\] being asked, what is amazing in life, said: “that humanity is fair and moderate, because by their many wretched leaders they are unable to be twisted.”
