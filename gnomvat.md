@@ -706,7 +706,10 @@
      
      An Athenian woman having seen a sign on the door of someone intending to get married reading "Heracles lives here; let there be no evil", said: "So now the wife will not enter!"
 
-565. Athenian woman
+565. \[Ἡ\] Ἀττικὴ γραῦς ἐρωτηθεῖσα ἐν συμποσίῳ εἰ θνητὸς ὁ Διόνυσος ἰδοῦσα κλεπτόμενον οἶνον εἶπεν· „ναὶ θνητός· εἶδον γὰρ αὐτὸν ἐκφερόμενον.“
+
+     An old Athenian woman was asked at a symposium if Dionysus was mortal, and having seen wine being stolen, said: "Yes he's mortal; for I saw him being carried out."
+
 566. Athenian woman
 567. Athenian woman
 568. Spartan woman
