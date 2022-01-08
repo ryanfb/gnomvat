@@ -720,7 +720,7 @@
 
 568. Γυνὴ Λάκαινα τοῦ υἱοῦ αὐτῆς ἐν παρατάξει χωλωθέντος καὶ δυσφοροῦντος ἐπὶ τούτῳ „τέκνον“, εἶπε, „μὴ λυποῦ· καθ’ ἕκαστον γὰρ βῆμα τῆς ἰδίας <ἀρετῆς ὑπομνησθήσῃ.“>
 
-     A Spartan woman whose son had become disabled in battle and was angry because of this, said: "Child, don't dispair; for every step will remind you of your personal virtue."
+     A Spartan woman whose son had become disabled in battle and was angry because of this, said: "Child, don't despair; for every step will remind you of your personal virtue."
 
 569. Γυνὴ Λάκαινα ἀκούσασα τὸν υἱὸν αὐτῆς ἐν παρατάξει τεθνηκέναι „τέκνον“, εἶπεν, „ὡς καλὰ τροφεῖα τῇ πατρίδι ἀπέδωκας!“
 
