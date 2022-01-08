@@ -714,7 +714,10 @@
 
      An old Athenian woman having seen a youth pouring wine, said: "Young man! You've made Peleus into Oeneus."
 
-567. Athenian woman
+567. Γραῦς Ἀττικὴ θεασαμένη Ὀλυμπιονίκην ἀθλητὴν πρόβατα βόσκοντα εἶπε· „ταχέως ἀπὸ Ὀλυμπίων ἐπὶ Νέμεα.“
+
+     An old Athenian woman having seen an Olympic champion tending to sheep, said: "He went from Olympic to Nemean quickly!"
+
 568. Spartan woman
 569. Spartan woman
 570. Spartan woman
