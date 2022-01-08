@@ -730,7 +730,10 @@
 
      A Spartan woman was being sold into slavery; and being asked what she was able to do, said: "Be free."
 
-571. Syracusan woman
+571. Γυνὴ Συρακοσία μεταπεμφθεῖσα ὑπὸ Διονυσίου τοῦ τυράννου \[καὶ\] φάσκοντος ἐρᾶν αὐτῆς καὶ χαριεῖσθαι ὃ ἂν ἐθέλῃ· „ἄφες τοίνυν με“ εἶπε „νομίσας τὰς γυναῖκας ὁμοίας εἶναι, ὅταν ὁ λύχνος ἀποσβεσθῇ.“
+
+     A Syracusan woman summoned by the tyrant Dionysius because he said he desired her and wanted to give her whatever she wanted, said: "Well leave me alone then, since you think all women are the same, whenever the lights are out."
+
 572. Ἡ Κλεάρχου τοῦ Ῥαμφίου μήτηρ
 573. Xanthippe
 574. Theano
