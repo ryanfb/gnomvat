@@ -717,15 +717,36 @@
 
      \[Solon\], having been asked why he did not bear children, said, "Because of my love for children."
 
-510. Simonides
-511. \[Simonides\]
-512. \[Simonides\]
-513. \[Simonides\]
-514. \[Simonides\]
+510. Σιμωνίδης ἐρωτηθεὶς ὑπό τινος ποῖός ἐστιν ἀσφαλέστατος βίος ἔφη· „ὅταν τις οὕτως ζήσῃ, ὥστε μήτε ἐλεεῖσθαι μήτε βασκαίνεσθαι.“
+
+     When Simonides was asked by someone what the safest sort of life was, he said, "Whenever someone lives in such a way that they never feel pity nor envy."
+
+511. Ὁ αὐτὸς ἔφη τὰ πάθη τοῖς ἀνθρώποις μαθήματα εἶναι περὶ τὸν βίον· „πολλοὶ γὰρ οὐ δυνάμενοι τῷ λόγῳ προορᾶν τὸ μέλλον τῷ πάσχειν ᾔσθοντο τὰ πράγματα.“
+
+     \[Simonides\] said that the emotions are lessons for humans about life. "For many, although they are not able through reason to foretell the future, through suffering they understood their circumstances."
+ 
+512. Ὁ αὐτὸς ἐρωτηθεὶς εἰ πάντα γηράσκει ἔφη· „<πάντα> πλὴν κέρδους ἀπλήστου.“
+
+     \[Simonides\], having been asked if all things grow old, said, "<Everything> except the insatiable desire for profit."
+
+513. Ὁ αὐτὸς νεανίσκου τινὸς αὐτὸν παρακαλοῦντος γράψαι ἐγκώμιον αὐτοῦ, χάριν γὰρ αὐτῷ ἕξειν, „δύο μοι“, εἶπεν, „ὦ βέλτιστε, κιβώτια ὑπάρχει· καὶ εἰς μὲν τὸ ἓν τὰς χάριτας ἀποτίθεμαι, εἰς δὲ τὸ ἕτερον ἀργυρίδιον· ὅταν οὖν ἀνοίξω αὐτὰ βουλόμενος χρῆσθαι, τὸ μὲν τοῦ ἀργυρίου πλῆρες εὑρίσκω, τὸ δὲ τῶν χαρίτων κεκενωμένον.“
+
+     \[Simonides\], when some young man asked him to write an encomium of him, for he would consider it a favor for him, he said, "O good man, I have two boxes. And into the one I put favors, and into the other, silver coin. Then whenever I open them wanting to make use of them, I find the one full of silver, and the other empty of any favors."
+
+514. Ὁ αὐτὸς ἐρωτηθεὶς πότερος κρείσσων, Ὅμηρος ἢ Ἡσίοδος, εἶπεν· „Ἡσίοδον μὲν αἱ Μοῦσαι, Ὅμηρον δὲ αἱ Χάριτες ἐτέκνωσαν.“
+
+     \[Simonides\], when he was asked who was greater, Homer or Hesiod, said, "The Muses bore Hesiod, the Graces, Homer."
+
 515. Stilpon
 516. \[Stilpon\]
-517. Sophocles
-518. \[Sophocles\]
+517. Σοφοκλῆς, ὁ τῶν τραγῳδιῶν ποιητής, ἀκούσας Εὐριπίδην ἐν Μακεδονίᾳ τεθνηκέναι εἶπεν· „ἀπώλετο ἡ τῶν ἐμῶν ποιημάτων ἀκόνη.“
+
+     Sophocles, the poet of tragedies, when he heard that Euripides had died in Macedonia, said, "The whetstone of my poems has died."
+
+518. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί αὐτὸς μὲν ποιεῖ τὰ ἤθη τῶν ἀνθρώπων χρηστά, Εὐριπίδης δὲ φαῦλα „ὅτι“ ἔφη „ἐγὼ μέν, οἵους ἔδει εἶναι, τοὺς ἀνθρώπους ποιῶ, ἐκεῖνος δέ, ὁποῖοί εἰσιν.“
+
+     When \[Sophocles\] was asked why he depicted the character of people as good and Euripides as bad, said, "Because I depict men that should exist, and that man depicts those that do.
+
 519. Stratonicus
 520. \[Stratonicus\]
 521. \[Stratonicus\]
