@@ -458,8 +458,12 @@
 
 350. Ὁ αὐτὸς λάχανα πλύνων [καὶ] τινὸς αὐτοῦ πυνθανομένου μή τινα δανειστὴν γινώσκει εἶπεν· „πῶς φῄς; ὅ τι τοιούτῳ βίῳ ἀρκοῦμαι“;
 
-     \[Theocritus\]
-351. \[Theocritus\]
+     When \[Theocritus\] was washing vegetables, when someone asked him if he knew a certain money-lender, he said, "What are you talking about? Because I am content with such a life?"
+
+351. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος διὰ τί ἡ Δημήτρα λαμπάδα κατέχει εἶπεν· „ὅτι πᾶσα τροφὴ πυρὶ κατεργάζεται“.
+
+     \[Theocritus\], when he was asked by someone why Demeter holds a torch, said, "Because all nourishment is achieved through fire."
+
 352. Theodorus
 353. Theodectes
 354. \[Theodectes\]
