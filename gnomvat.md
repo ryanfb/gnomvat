@@ -746,7 +746,10 @@
 
      Theano the Pythagorean said: "Concerning things it's good to speak about, it is shameful to be silent; and concerning things it's shameful to speak about, it is good to be silent."
 
-575. Spartan woman
+575. Λάκαινα γυνὴ σεμνυνομένου τοῦ υἱοῦ αὐτῆς ἐπὶ τῷ μόνον ἐκ τῆς παρατάξεως σεσῶσθαι ἔφη· „τί οὖν οὐκ αἰσχύνῃ μόνος ζῶν;“
+
+     A Spartan woman whose son was proud of being the lone survivor of a battle, said: "So why aren't you ashamed of being the only one alive?"
+
 576. Ὀλυμπιὰς Ἀλεξάνδρου μήτηρ ἐρωτηθεῖσα ὑπό τινος [ὅτι] „διὰ τί οὐ κοσμῇ;“ εἶπεν· „ὅτι ἀρκεῖ μοι ὁ Ἀλεξάνδρου κόσμος.“
 
      Olympias, mother of Alexander, having been asked by someone, “Why don’t you adorn yourself?”, said: “Because Alexander is sufficient adornment for me.”
