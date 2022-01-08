@@ -9,4 +9,4 @@ See also: [Vat.gr.743](https://digi.vatlib.it/mss/detail/Vat.gr.743)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-Unless otherwise noted, translations should be attributed to Ryan Baumann.
+Translations should be attributed to Ryan Baumann & Clinton Kinkade. If you need the translation attribution for a specific entry, check the Git revision history: <https://github.com/ryanfb/gnomvat/blame/main/gnomvat.md>
