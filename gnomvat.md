@@ -466,20 +466,63 @@
 335. \[Theophrastus\]
 336. \[Theophrastus\]
 337. Thearidas
-338. Theocritus
-339. \[Theocritus\]
-340. \[Theocritus\]
-341. \[Theocritus\]
-342. \[Theocritus\]
-343. \[Theocritus\]
-344. \[Theocritus\]
-345. \[Theocritus\]
-346. \[Theocritus\]
-347. \[Theocritus\]
-348. \[Theocritus\]
-349. \[Theocritus\]
-350. \[Theocritus\]
-351. \[Theocritus\]
+338. Θεόκριτος ὁ Χῖος ἀφυοῦς ποιητοῦ ἀκρόασιν ποιούμενος ἐρωτώμενος ὑπ’ αὐτοῦ ποῖά ἐστι τὰ καλῶς εἰρημένα <ἔφη>· „ἃ παρέλιπες“.
+
+     When Theocritus the Chian was listening to a dull poet and was asked by him what things had been said well, <he said>, "What you left out."
+
+339. Ὁ αὐτὸς παρὰ πότον τινῶν νεανίσκων ἐριζόντων πρὸς ἀλλήλους ποῖον ὕδωρ χρηστότατόν ἐστι τῶν κατὰ τὴν οἰκουμένην, καὶ τοῦ δείπνου μὴ παρατιθεμένου, ἀλλὰ τῶν μὲν φασκόντων τὸ ἐν Κορίνθῳ ἀπὸ τῆς Πειρήνης, τῶν δὲ τὸ ἐν Πιερίᾳ ἀπὸ τοῦ Ἑλικῶνος, τῶν δὲ τὸ ἐν Χαλκίδι ἀπὸ τῆς Ἀρεθούσης, εἶτα ἐρωτώντων αὐτὸν ποίῳ συγκατατίθεται εἶπεν· „ἐμοὶ δοκεῖ κατὰ τὸν παρόντα καιρὸν ἄριστον εἶναι ὕδωρ τὸ κατὰ χειρῶν“.
+
+     \[Theocritus\] was at a drinking party where certain young men were quarreling with each other over what was the most pleasant water of all those in the world (but dinner was not being served), with some of them saying it was the water in Corinth from Pirene, others saying the water in Pieria from Helicon, and others saying the water in Chalcis from Arethousa. Then, when they asked him which he agreed with, he said, "I think at the present moment that the best water is the one for washing hands."
+
+340. Ὁ αὐτὸς τῶν Χίων οὐκ ἐώντων αὐτὸν στῆσαι τὴν εἰκόνα αὐτοῦ πρὸς τῇ στοᾷ, ἀλλὰ φασκόντων τοὺς ὀλυμπιονίκας ἐκεῖ δεῖν ἵστασθαι, ἔφη· „ἐὰν Ὀλύμπιά τις ὑμῶν νικήσῃ, μετάθετέ μου τὴν εἰκόνα εἰς τὴν ταριχόπωλιν“.
+
+     When the Chians did not allow \[Theocritus\] to set up a statue of himself near the stoa, claiming that Olympic victors should stand there, he said, "If one of you wins at the Olympic games, transfer my statue to the salt-fish market."
+
+341. Ὁ αὐτὸς ἐν συμποσίῳ ἀσώτου τινὸς κληθείς, ὅστις τὸν ἴδιον ἀγρὸν πωλήσας καταβεβρώκει, προσενεγκαμένου ἔδεσμα ζέον καὶ φάσκοντος κατακεκαῦσθαι τὸν οὐρανὸν „ἀλλὰ μὴν εἴ γε“ ἔφη „τὴν μὲν γῆν καταβέβρωκας, τὸν δὲ οὐρανὸν κατακέκαυκας, λοιπὸν ἔτι σοι τὴν θάλασσαν ἐκπιεῖν“.
+
+     When \[Theocritus\] was invited to the symposium of a profligate man who, having sold his own land, had devoured it up, and when that man brought forward boiling food and claimed that he had burnt down the sky, he said, "Well then, if you have devoured up the land and burnt down the sky, the only remaining thing for you is the drink up the sea."
+
+342. Ὁ αὐτὸς Φιλοξένου πρὸς αὐτὸν μαχομένου καὶ συζητοῦντος ἔφη· „πότερον βούλει μοι διαλέγεσθαι ἢ διαδάκνεσθαι“;
+
+     \[Theocritus\], when Philoxenus was fighting and disputing with him, said, "Do you want to have a conversation with me, or a biting match?"
+
+343. Ὁ αὐτὸς βουλευομένων Ἀβδηριτῶν πῶς ἂν καταγωνίσαιντο τοὺς Θρᾷκας εἶπεν· „εἰ Χαρμίδην μὲν τὸν ἰατρὸν χειροτονήσετε στρατηγόν, τὸν δὲ νῦν στρατηγοῦντα κελεύσετε ἰατρεύειν· ὁ μὲν γὰρ πολυάνδριον τὴν πόλιν πεποίηκεν, ὁ δ’ οὐδένα τῶν πολεμίων ἀνῄρηκεν“.
+
+     \[Theocritus\], when the Abderites were deliberating how they would conquer the Thracians, said, "If you elect Charmides the doctor as general, you will command the one who is now serving as general to be a doctor. For one has made the city full of men, while the other has undertaken nothing of war.
+   
+344. Ὁ αὐτὸς ἐρωτηθεὶς ποῖα ἂν εἴη θηρία χαλεπώτερα εἶπεν· „ἐν μὲν τοῖς ὄρεσιν ἄρκοι καὶ λέοντες, ἐν δὲ ταῖς πόλεσι τελῶναι καὶ
+συκοφάνται“.
+
+     \[Theocritus\], when he was asked what beasts were harsher, said, "In the mountains, bears and lions. In the cities, tax collectors and swindlers."
+
+345. Ὁ αὐτὸς ἐλθὼν εἰς Καῦνον καὶ ἰδὼν πάντας τοὺς ἐν τῇ πόλει χλωροὺς εἶπεν· „οἵη περ φύλλων γενεή, τοίη δὲ καὶ ἀνδρῶν“.
+
+     \[Theocritus\], having come to Caunus and seen all the pallid people in the city, said, "As the generations of leaves, so those of men."
+
+346. Ὁ αὐτὸς ῥήτορος κακοῦ σεμνυνομένου ὅτι παρ’ οὐδενὸς οὐδὲν πώποτε εἴληφεν „οὐδεὶς γάρ σοι“ ἔφη „οὐδὲν ἂν δῴη, ἐπεὶ σύ γ’ ἂν ἡδέως ὀμφαλὸν ἰσχάδος λάβοις“.
+
+     \[Theocritus\], when a bad orator was boasting that he had never taken anything from anyone, said, "For no one would give you anything, since you would gladly take the stem of a dried fig."
+
+347. Ὁ αὐτὸς τὰ μὲν ἐπιτεύγματα τῶν ποιητῶν ὡς θεῶν ἐκδέχεσθαι δεῖν ἔφη, τὰ δὲ ἀποτεύγματα ὡς ἀνθρώπων συγγνώμης ἀξιοῦν.
+
+     \[Theocritus\] said that the successes of poets should be treated like those of gods, but that their failures should be thought worthy of forgiveness as of men.
+
+348. Ὁ αὐτὸς Ἀναξιμένους ποιούμενος ἀκρόασιν ἐπὶ πολὺ συνεγγίζοντος ἤδη τῇ τελευτῇ τοῦ βιβλίου μεγάλῃ [τῇ] φωνῇ ἔφη· „θαρσεῖτε ἄνδρες· γῆν ὁρῶ“.
+
+     When \[Theocritus\] was attending a lecture of Anaximenes and that man was drawing near to the end of his book, with a loud voice he said, "Take heart, men; I see land."
+
+349. Ὁ αὐτὸς θεασάμενος μαθηματικὸν προσκόψαντα εἶπε· „πῶς τὰ ἐν οὐρανῷ ὁρῶν τὰ ἐν τῇ γῇ οὐχ ὁρᾷς“.
+
+     \[Theocritus\], when he saw an astrologer stumbling, said, "How, when you see the things in the heaven, do you not see the things on earth"
+
+350. Ὁ αὐτὸς λάχανα πλύνων [καὶ] τινὸς αὐτοῦ πυνθανομένου μή τινα δανειστὴν γινώσκει εἶπεν· „πῶς φῄς; ὅ τι τοιούτῳ βίῳ ἀρκοῦμαι“;
+
+     When \[Theocritus\] was washing vegetables, when someone asked him if he knew a certain money-lender, he said, "What are you talking about? Because I am content with such a life?"
+
+351. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος διὰ τί ἡ Δημήτρα λαμπάδα κατέχει εἶπεν· „ὅτι πᾶσα τροφὴ πυρὶ κατεργάζεται“.
+
+     \[Theocritus\], when he was asked by someone why Demeter holds a torch, said, "Because all nourishment is achieved through fire."
+
 352. Theodorus
 353. Theodectes
 354. \[Theodectes\]
