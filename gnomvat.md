@@ -710,7 +710,10 @@
 
      An old Athenian woman was asked at a symposium if Dionysus was mortal, and having seen wine being stolen, said: "Yes he's mortal; for I saw him being carried out."
 
-566. Athenian woman
+566. \<Ἀ\>ττικὴ γραῦς ἰδοῦσα νεανίσκον οἶνον ἐκχέοντα εἶπε· „μειράκιον· τὸν Οἰνέα Πηλέα ἐποίησας.“
+
+     An old Athenian woman having seen a youth pouring wine, said: "Young man! You've made Peleus into Oeneus."
+
 567. Athenian woman
 568. Spartan woman
 569. Spartan woman
