@@ -1,6 +1,6 @@
 1. Ἀντισθένης τοὺς πόνους ἔφησεν ὁμοίους εἶναι κυσί· καὶ γὰρ ἐκεῖνοι τοὺς ἀσυνήθεις δάκνουσιν.
 
-   Antisthenes said that tasks are like dogs: they bite those unfamiliar with them.
+   Antisthenes said that tasks are like dogs: for they too bite those unfamiliar with them.
 
 2. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, εἰ γήμῃ, εἶπεν· „εἰ μὲν καλήν, κοινὴν ἕξεις· εἰ δὲ αἰσχρὰν, ποινήν“.
 
@@ -92,16 +92,37 @@
 
 24. Ὁ αὐτὸς παρὰ τῶν μαθητῶν λαμβάνειν ἔφασκε μισθόν, οὐχ ὅπως τὸν βίον ἐπανορθώσῃ, ἀλλ’ ὅπως ἐκεῖνοι μάθωσιν εἰς τὰ καλὰ δαπανᾶν.
 
-    \[Aristippus\] used to say that he took payment from his students not in order to straighten their way of life but so that they might learn to spend their money on fine things.
+    \[Aristippus\] said he took a fee from his students, not to correct their life, but so that they would learn that they can put their money towards fine things.
     
-25. \[Aristippus\]
-26. \[Aristippus\]
-27. \[Aristippus\]
-28. \[Aristippus\]
-29. \[Aristippus\]
-30. \[Aristippus\]
-31. \[Aristippus\]
-32. \[Aristippus\]
+25. \[Aristippus\] Ὁ αὐτὸς ἄσωτον γενόμενον τὸν υἱὸν ἐξέκλεισεν· τῆς δὲ γυναικὸς μεμφομένης, ὅτι αὐτὸν οὐ προσίεται καὶ λεγούσης παρ’ ἕκαστα, ὡς καὶ οὗτος ἐξ αὐτοῦ εἴη, ἀποπτύσας \[ὁ Ἀρίστιππος\] \<ἔφη·\> „καὶ γὰρ καὶ τοῦτο ἐξ ἐμοῦ ἐστιν, ἀλλ’ ἀποῤῥίπτω αὐτό, ὅτι με λυπεῖ“.
+26. Ὁ αὐτὸς ἐρωτώμενος, τί θαυμαστόν ἐστιν ἐν βίῳ \<εἶπεν\>· „ἄνθρωπος ἐπιεικὴς καὶ μέτριος, ὅτι ἐν πολλοῖς ὑπάρχων μοχθηροῖς οὐ διέστραπται“.
+
+    \[Aristippus\] being asked, what is amazing in life, said: “that humanity is fair and moderate, because by their many wretched leaders they are unable to be twisted.”
+    
+27. Ὁ αὐτὸς ἀνθρώπου αὐτὸν ἀδικήσαντος καὶ περιφεύγοντος καὶ ἀπαντᾶν διατρεπομένου συντυχὼν ἅπαξ εἶπεν· „οὐ σὲ χρὴ ἐμὲ φεύγειν, ἀλλ’ ἐμὲ σὲ ὄντα φαῦλον“. 
+
+    \[Aristippus\] having happened upon a man who was unjust and hiding and altogether in the wrong, once said: “You don’t need to hide from me, since both of us are bad.”
+    
+28. Ὁ αὐτὸς ὀνειδιζόμενος ὑπό τινος, ὅτι Κυρηναῖος ὑπάρχων ἐκ τῆς πατρίδος πεφυγάδευται, „καί“, εἶπε, „νεανίσκε, μεγάλα με ἡ πατρὶς ἠδίκησεν ἐκ τῆς Λιβύης με εἰς τὴν Ἑλλάδα ἐκβαλοῦσα“.
+
+    \[Aristippus\] was being being reproached by someone, that the Cyrenian leaders had banished him from their homeland, and said: “Yes, young man! My homeland did a great wrong in casting me out of Libya and into Greece.”
+    
+29. Ὁ αὐτὸς ἔφη δεῖν ἐθίζειν ἀπὸ ὀλίγων ζῆν, ἵνα μηδὲν αἰσχρὸν χρημάτων ἕνεκεν πράττωμεν.
+
+    \[Aristippus\] said that it was necessary to be used to living with little, so that we might not do anything shameful on account of money.
+
+30. Ὁ αὐτὸς Πλάτωνος εἰσελθόντος πρὸς αὐτὸν μαλακῶς ἔχοντα καὶ πυθομένου, πῶς διάγει, ἔφη τὸν μὲν σπουδαῖον καὶ πυρέττοντα καλῶς ἔχειν, τὸν δὲ φαῦλον καὶ μὴ πυρέττοντα κακῶς.
+
+    Once, Plato gently approached \[Aristippus\] having asked the question, “How are you?”, and he said: “Those healthy and feverish are well, but those bad and feverless are ill.”
+    
+31. Ὁ αὐτὸς ἐγκαλοῦντός τινος ἀνθρώπῳ τινί, ὅτι λαβὼν ἀργύριον οὐκ ἀπέδωκε, „σαυτῷ δέ“, φησίν, „οὐκ ἐγκαλεῖς, εἰ μὴ ὀρθῶς ἐδοκίμασας, ᾧ ἐδίδους;“
+
+    \[Aristippus\] on being accused by someone, that he took money and didn’t give it back, said: “Are you not accused by yourself, if you didn’t choose rightly, o giver?”
+
+32. Ὁ αὐτὸς καθόλου τὸ εὔχεσθαι τὰ ἀγαθὰ καὶ ἀπαιτεῖν τι παρὰ τοῦ θεοῦ ἔφη γελοῖον εἶναι· οὐ γὰρ τοὺς ἰατροὺς ὅταν ἄῤῥωστος αἰτῇ τι βρωτὸν ἢ ποτόν, τότε διδόναι, ἀλλ’ ὅταν αὐτοῖς δοκήσῃ συμφέρειν.
+
+    \[Aristippus\] said that to pray for something good and demand it from god is generally laughable; for doctors do not give the sick food or drink whenever they ask for it, but whenever they think it will help them.
+    
 33. \[Aristippus\]
 34. \[Aristippus\]
 35. \[Aristippus\]
@@ -141,7 +162,10 @@
 69. \[Agesilaus\]
 70. \[Agesilaus\]
 71. Antiphon
-72. Anacreon
+72. Ἀνακρέων λαβὼν τάλαντον χρυσίου παρὰ Πολυκράτους τοῦ τυράννου πάλιν ἀνταπέδωκεν εἰπών· „μισῶ δωρεάν, ἥτις ἀναγκάζει με ἀγρυπνεῖν.“
+
+    Anacreon, having received a gold talent from Polycrates the tyrant, gave it back to him saying: "I hate gifts, or at least those which require me to have sleepless nights."
+
 73. Alexander, king of Macedon
 74. \[Alexander\]
 75. \[Alexander\]
@@ -177,7 +201,11 @@
 105. \[Alexander\]
 106. Antagoras
 107. Antigonus
-108. Amasis, king of Egypt
+108. Ἄμασις, ὁ τῶν Αἰγυπτίων βασιλεύς, φίλῳ ἀποβαλόντι υἱὸν γράφων παραμυθητικῶς εἶπεν· „εἰ, ὅτε μηδέπω ἦν, οὐκ ἐλυποῦ, μηδὲ
+νῦν, ὅτε οὐκ ἔστι, λυπηθῇς“. 
+
+     Amasis, king of Egypt, in a letter of consolation to a friend who had lost his son, said: "If, when he did not yet exist, you did not grieve, neither now, when he is no longer, should you grieve."
+
 109. Antagoras
 110. \[Antagoras\]
 111. \[Antagoras\]
@@ -188,7 +216,10 @@
 116. \[Antagoras\]
 117. Anaxagoras
 118. Arimnestus
-119. Alcibiades
+119. Ἀλκιβιάδης, ὡς αὐτόν τις ἐλοιδόρει φαῦλος ὤν, εἶπεν· „οὐδ’ οἰμώζειν σοι λέγω ὡς οὐδὲ τούτου ἀξίῳ ὄντι.“
+
+     Alcibiades, when he was being rebuked by someone who was themselves worthless, said: "I won't tell you to wail, since you're not even worthy of that."
+
 120. Ariston
 121. \[Ariston\]
 122. \[Ariston\]
@@ -337,15 +368,43 @@
 265. Democritus
 266. \[Democritus\]
 267. \[Democritus\]
-268. Euripides
-269. \[Euripides\]
-270. \[Euripides\]
-271. \[Euripides\]
-272. \[Euripides\]
-273. \[Euripides\]
-274. \[Euripides\]
-275. \[Euripides\]
-276. \[Euripides\]
+268. Εὐριπίδης ὁ τῶν τραγῳδιῶν ποιητὴς εἶπεν ὅτι τοὺς ἀγαθοὺς ἄνδρας δεῖ ζῶντας μὲν τιμᾶσθαι, τελευτήσαντας δὲ ἐγκωμιάζεσθαι.
+     
+     Euripides, the poet of tragedies, said that good men must be honored while they are alive but praised when they are dead.
+
+269. Ὁ αὐτὸς ἀγωνιᾶν ἔφησεν εἰς τὰ θέατρα παραγινόμενος οὐχὶ εἰ νικηθήσεται, ἀλλ’ ἵνα μὴ δόξῃ παρὰ τὸ πρότερον ἑαυτοῦ χείρων
+εἰσεληλυθέναι.
+     
+     \[Euripides\] said that, when he went into the theater, he was distressed not over whether he would be defeated but rather in order that he might not seem to have entered worse than himself compared to earlier.
+ 
+270. Ὁ αὐτὸς ὀνειδιζόμενός ποτε ὅτι δίκην ἔχων ἐμισθώσατο ῥήτορα ἔφη· „καὶ γάρ, ὅταν δεῖπνον ἔχω, μάγειρον μισθοῦμαι“.
+
+     When \[Euripides\] was being rebuked because he hired an orator when he had a court case, he said, "Certainly, for whenever I have dinner, I hire a cook."
+
+271. Ὁ αὐτὸς ὀνειδιζόμενος ὑπό τινων ἐπὶ τῷ βαρβαρίζειν ἔφη· „ἐγὼ μὲν τῷ λόγῳ, ὑμεῖς δὲ τῷ τρόπῳ“.
+
+     When \[Euripides\] was being rebuked by certain people for speaking gibberish, he said, "I do so in my speech, but you do so in your way of life.
+
+272. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί \[αὐτὸς\] τούς τε πονηροὺς καὶ ἀγαθοὺς μισεῖ ἔφη· „τοὺς μὲν πονηροὺς διὰ τὴν μοχθηρίαν, τοὺς δὲ ἀγαθοὺς ὅτι τοὺς κακοὺς οὐ μισοῦσιν“.
+
+     When \[Euripides\] was asked why he hated both the wicked and the good, he said, "I hate the wicked for their depravity and the good because they do not hate the bad."
+
+273. Ὁ αὐτὸς ἔφη· „ὅστις φίλον λυπούμενον ἔφυγεν, οὐδὲ τοῦ χαίροντος ἀπολαύειν ἄξιος“.
+
+     \[Euripides\] said, "Whoever avoids a friend in pain does not deserve to enjoy them when they are well."
+
+274. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί σφόδρα ἀγανακτεῖ κακῶς ἀκούων ἔφη· „ὅτι οὐδὲ ἐπαινούμενος ἡσθήσομαι, εἰ μὴ κακῶς ἀκούων ἀχθεσθήσομαι“.
+
+     When \[Euripides\] was asked why he gets so annoyed at being criticized, he said, "Because I will not enjoy being praised unless I am pained at being criticized."
+
+275. Ὁ αὐτὸς, ἐπεὶ ὀψωνοῦντος αὐτοῦ ἐπελάβετό τις λέγων ὅτι Σοφοκλῆς τοῦτο διὰ δούλου ποιεῖ <ἔφη>· „τοιγαροῦν Σοφοκλῆς μὲν ἐσθίει ὄψον, ὁποῖον ἂν τῷ οἰκέτῃ ἀρέσῃ, ἐγὼ δέ, ὁποῖον ἂν ἐμοί“.
+
+     \[Euripides\], when someone rebuked him for cooking by saying that Sophocles had a slave do this, said, "In that case, Sophocles eats the food that his slave likes, but I eat what I like."
+
+276. Ὁ αὐτός ποτε φακῆν ἕψων καὶ μὴ ἔχων ξύλα ἀνελόμενος ξόανον Ἡρακλέους ἐγγὺς ἑστηκὸς ἐπέθηκε τῇ ἑστίᾳ εἰπών· „Ἡράκλεις, τρισκαιδέκατόν σοι τοῦτον ἆθλον Εὐριπίδης ἐπέθηκεν, \[ἐπὶ\] φακῆν ἑψῆσαι“
+
+     Once, when \[Euripides\] was boiling lentils and didn't have any wood, he took up a wooden statue of Heracles standing nearby and put it onto the hearth, saying, "Heracles, Euripides imposes a thirteenth labor upon you: boil the lentils."
+
 277. Eucleides
 278. \[Eucleides\]
 279. Epaminondas
@@ -487,7 +546,10 @@
 372. Cleisophos
 373. Conon
 374. Cotys
-375. Anacreon
+375. \<Ἀνα\>κρέων ὁ ποιητὴς πρός τινα τῶν φίλων ἀπωδύρετο ἐπὶ τῷ πένης εἶναι εἰπόντος δὲ ἐκείνου· „ποιητὴς ὢν ἐλπίδας ἀγαθὰς ἔχε περὶ σεαυτοῦ“ εἶπεν· „αἱ ἐλπίδες ἐγρηγορότων εἰσὶν ἐνύπνια“.
+
+     The poet Anacreon was lamenting to one of his friends about being poor, and they said: "A poet is the beautiful hopes you hold to yourself, the hopes of being awoken from dreams."
+
 376. Cyrus
 377. \[Cyrus\]
 378. \[Cyrus\]
@@ -566,7 +628,10 @@
 451. \[Periander\]
 452. Pericles
 453. \[Pericles\]
-454. The Persian poet
+454. Περσῖνος ὁ ποιητὴς ἐρωτηθεὶς τίς ἄριστός ἐστι ποιητὴς „παρ’ ἑαυτῷ μὲν ἕκαστος“, <εἶπε>, „παρὰ δὲ τοῖς ἄλλοις Ὅμηρος“.
+
+     The poet Persinus having been asked who the best poet is, said: "Everyone is the best poet according to themselves, but according to others the best poet is Homer."
+
 455. Pittacus
 456. \[Pittacus\]
 457. \[Pittacus\]
@@ -676,17 +741,62 @@
 561. Psittacus
 562. Orion
 563. Orion
-564. Athenian woman
-565. Athenian woman
-566. Athenian woman
-567. Athenian woman
-568. Laconian woman
-569. Laconian woman
-570. Laconian woman
-571. Syracusan woman
-572. Ἡ Κλεάρχου τοῦ Ῥαμφίου μήτηρ
-573. Xanthippe
-574. Theano
-575. Laconic woman
-576. Olympias
-577. Phryne
+564. Αποφθέγματα γυναικῶν, ἤτοι φρονήματα.
+
+     Apothegms and Thoughts of Women
+     
+     Ἀττικὴ γυνὴ ἰδοῦσα γράμμα ἐπὶ θυρῶν μέλλοντος γαμεῖν· „Ἡρακλῆς ἐνθάδε κατοικεῖ· μηδὲν εἰσίτω κακὸν“ εἶπεν· „νῦν οὖν ἡ γυνὴ οὐ μὴ εἰσελεύσεται.“
+     
+     An Athenian woman having seen a sign on the door of someone intending to get married reading "Heracles lives here; let there be no evil", said: "So now the wife will not enter!"
+
+565. \[Ἡ\] Ἀττικὴ γραῦς ἐρωτηθεῖσα ἐν συμποσίῳ εἰ θνητὸς ὁ Διόνυσος ἰδοῦσα κλεπτόμενον οἶνον εἶπεν· „ναὶ θνητός· εἶδον γὰρ αὐτὸν ἐκφερόμενον.“
+
+     An old Athenian woman was asked at a symposium if Dionysus was mortal, and having seen wine being stolen, said: "Yes he's mortal; for I saw him being carried out."
+
+566. \<Ἀ\>ττικὴ γραῦς ἰδοῦσα νεανίσκον οἶνον ἐκχέοντα εἶπε· „μειράκιον· τὸν Οἰνέα Πηλέα ἐποίησας.“
+
+     An old Athenian woman having seen a youth pouring wine, said: "Young man! You've made Peleus into Oeneus."
+
+567. Γραῦς Ἀττικὴ θεασαμένη Ὀλυμπιονίκην ἀθλητὴν πρόβατα βόσκοντα εἶπε· „ταχέως ἀπὸ Ὀλυμπίων ἐπὶ Νέμεα.“
+
+     An old Athenian woman having seen an Olympic champion tending to sheep, said: "He went from Olympic to Nemean quickly!"
+
+568. Γυνὴ Λάκαινα τοῦ υἱοῦ αὐτῆς ἐν παρατάξει χωλωθέντος καὶ δυσφοροῦντος ἐπὶ τούτῳ „τέκνον“, εἶπε, „μὴ λυποῦ· καθ’ ἕκαστον γὰρ βῆμα τῆς ἰδίας <ἀρετῆς ὑπομνησθήσῃ.“>
+
+     A Spartan woman whose son had become disabled in battle and was angry because of this, said: "Child, don't despair; for every step will remind you of your personal virtue."
+
+569. Γυνὴ Λάκαινα ἀκούσασα τὸν υἱὸν αὐτῆς ἐν παρατάξει τεθνηκέναι „τέκνον“, εἶπεν, „ὡς καλὰ τροφεῖα τῇ πατρίδι ἀπέδωκας!“
+
+     A Spartan woman having heard that her son had died in battle, said: "Child, what noble nursing-costs you've returned to your country!"
+
+570. Γυνὴ Λάκαινα αἰχμαλωτισθεῖσα ἐπιπράσκετο· καὶ ἐρωτωμένη τί δύναται ποιεῖν ἔφη· „ἐλευθέρα εἶναι.“
+
+     A Spartan woman was being sold into slavery; and being asked what she was able to do, said: "Be free."
+
+571. Γυνὴ Συρακοσία μεταπεμφθεῖσα ὑπὸ Διονυσίου τοῦ τυράννου \[καὶ\] φάσκοντος ἐρᾶν αὐτῆς καὶ χαριεῖσθαι ὃ ἂν ἐθέλῃ· „ἄφες τοίνυν με“ εἶπε „νομίσας τὰς γυναῖκας ὁμοίας εἶναι, ὅταν ὁ λύχνος ἀποσβεσθῇ.“
+
+     A Syracusan woman summoned by the tyrant Dionysius because he said he desired her and wanted to give her whatever she wanted, said: "Well leave me alone then, since you think all women are the same, whenever the lights are out."
+
+572. Ἡ Κλεάρχου τοῦ Ῥαμφίου μήτηρ ἐπειδὴ διεβλήθη ὁ υἱὸς αὐτῆς προδιδόναι τοῖς Πέρσαις τὴν Ἑλλάδα τοιαύτην ἐπιστολὴν ἔγραψεν· „ἁ μάτηρ Κλεάρχῳ τῷ υἱῷ· κακά τευ κακκέχυται φάμα· ἢ ταύταν ἀπόθευ ἢ μὴ ἔσο.“
+
+     The mother of Clearchus the Ramphian, when her son was being attacked for giving Greece over to the Persians, wrote him a letter like this: "From Mom to Clearchus my son: Your reputation is being dragged in disgrace; either put a stop to this or cease to exist."
+
+573. Ξανθίππη ἐρωτηθεῖσα τί μέγιστον ὑπῆρχεν τῷ Σωκράτει „τοῦτο“, ἔφη, „ὅτι καὶ ἐπὶ ἀγαθοῖς καὶ ἐπὶ φαύλοις ἡ αὐτὴ ὄψις ἦν αὐτῷ“·
+
+     Xanthippe having been asked what the best property of Socrates was, said: "This, that of the upper-class and lower-class he has the same view."
+
+574. Θεανὼ ἡ Πυθαγορικὴ ἔφη· „περὶ ὧν λέγειν καλόν, περὶ τούτων σιωπᾶν αἰσχρόν, καὶ περὶ ὧν λέγειν αἰσχρόν, περὶ τούτων σιωπᾶν καλόν.
+
+     Theano the Pythagorean said: "Concerning things it's good to speak about, it is shameful to be silent; and concerning things it's shameful to speak about, it is good to be silent."
+
+575. Λάκαινα γυνὴ σεμνυνομένου τοῦ υἱοῦ αὐτῆς ἐπὶ τῷ μόνον ἐκ τῆς παρατάξεως σεσῶσθαι ἔφη· „τί οὖν οὐκ αἰσχύνῃ μόνος ζῶν;“
+
+     A Spartan woman whose son was proud of being the lone survivor of a battle, said: "So why aren't you ashamed of being the only one alive?"
+
+576. Ὀλυμπιὰς Ἀλεξάνδρου μήτηρ ἐρωτηθεῖσα ὑπό τινος [ὅτι] „διὰ τί οὐ κοσμῇ;“ εἶπεν· „ὅτι ἀρκεῖ μοι ὁ Ἀλεξάνδρου κόσμος.“
+
+     Olympias, mother of Alexander, having been asked by someone, “Why don’t you adorn yourself?”, said: “Because Alexander is sufficient adornment for me.”
+
+577. Φρύνη ἑταίρα νεανίσκου τινὸς ἀγρὸν πεπρακότος καὶ δι’ ἀῤῥωστίαν χλωροῦ ὄντος ἔφη· „νεανίσκε· τί ὠχρὸς εἶ; μή τι γῆν ἐσθίεις;
+
+     The hetaira Phryne, to a certain young man who had sold some land and was yellow from illness, said: “Young man, why are you pale? Did you eat some of the dirt?”
