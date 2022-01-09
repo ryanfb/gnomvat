@@ -94,7 +94,10 @@
 
     \[Aristippus\] said he took a fee from his students, not to correct their life, but so that they would learn that they can put their money towards fine things.
     
-25. \[Aristippus\] Ὁ αὐτὸς ἄσωτον γενόμενον τὸν υἱὸν ἐξέκλεισεν· τῆς δὲ γυναικὸς μεμφομένης, ὅτι αὐτὸν οὐ προσίεται καὶ λεγούσης παρ’ ἕκαστα, ὡς καὶ οὗτος ἐξ αὐτοῦ εἴη, ἀποπτύσας \[ὁ Ἀρίστιππος\] \<ἔφη·\> „καὶ γὰρ καὶ τοῦτο ἐξ ἐμοῦ ἐστιν, ἀλλ’ ἀποῤῥίπτω αὐτό, ὅτι με λυπεῖ“.
+25. Ὁ αὐτὸς ἄσωτον γενόμενον τὸν υἱὸν ἐξέκλεισεν· τῆς δὲ γυναικὸς μεμφομένης, ὅτι αὐτὸν οὐ προσίεται καὶ λεγούσης παρ’ ἕκαστα, ὡς καὶ οὗτος ἐξ αὐτοῦ εἴη, ἀποπτύσας \[ὁ Ἀρίστιππος\] \<ἔφη·\> „καὶ γὰρ καὶ τοῦτο ἐξ ἐμοῦ ἐστιν, ἀλλ’ ἀποῤῥίπτω αὐτό, ὅτι με λυπεῖ“.
+
+    \[Aristippus\] shut out his son because he became profligate. But when his wife reproached him because he did not admit him and  said each time that this man also was from him, Aristippus, spitting, said, "No, for this also is from me, but I get rid of it because it pains me."
+
 26. Ὁ αὐτὸς ἐρωτώμενος, τί θαυμαστόν ἐστιν ἐν βίῳ \<εἶπεν\>· „ἄνθρωπος ἐπιεικὴς καὶ μέτριος, ὅτι ἐν πολλοῖς ὑπάρχων μοχθηροῖς οὐ διέστραπται“.
 
     \[Aristippus\] being asked, what is amazing in life, said: “that humanity is fair and moderate, because by their many wretched leaders they are unable to be twisted.”
@@ -678,24 +681,72 @@
 498. \[Socrates\]
 499. \[Socrates\]
 500. \[Socrates\]
-501. Solon
-502. \[Solon\]
-503. \[Solon\]
-504. \[Solon\]
-505. Solon
-506. \[Solon\]
-507. Solon
-508. Solon
-509. \[Solon\]
-510. Simonides
-511. \[Simonides\]
-512. \[Simonides\]
-513. \[Simonides\]
-514. \[Simonides\]
+501. Σόλων ὁ σοφὸς ἐρωτῶντος αὐτόν τινος πῶς ἂν μὴ γένοιτο ἀδίκημα εἶπεν· „εἰ ὁμοίως ἀγανακτοῖεν ἐπὶ τοῖς ἀδικήμασιν οἱ μὴ ἀδικούμενοι τοῖς ἀδικουμένοις.“
+
+     Solon the wise man, when someone asked him how wrongs could not happen, said, "If those who are not wronged would be equally vexed as those who are wronged at the wrongs done.
+
+502. Ὁ αὐτὸς ἐπιτιμωμένου τινὸς ὑπ’ αὐτοῦ ἐπὶ τῷ κυβεύειν καὶ λέγοντος περὶ μικροῦ παίζειν „ἀλλὰ τό γε ἔθος“ εἶπεν „οὐ μικρὸν [κακόν].“
+
+     When someone was rebuked by \[Solon\] for playing at dice and said that he played for a small amount, he said, "But your character, at any rate, is no small thing."
+
+503. Ὁ αὐτὸς ἔφη ἐκείνην ἄριστα διοικεῖσθαι τὴν πόλιν, ἐν ᾗ τοὺς ἀγαθοὺς συμβαίνει τιμᾶσθαι, κάκιστα δὲ οἰκεῖσθαι, ἐν ᾗ τοὺς κακούς.
+
+     \[Solon\] said that that city is managed best in which it happens that the good are honored, but that that one is managed worst in which the bad are.
+
+504. Ὁ αὐτὸς ἔγραψεν ἐντὸς πεντήκοντα ἐτῶν γυναῖκα εἰς τὸ δημόσιον μὴ προιέναι· ἐρωτώμενος δὲ „διὰ τί τοῦτο ἐποίησας;“ εἶπεν· „ἵνα μήτις πυνθάνηται, τίνος γυνή, ἀλλὰ τίνος μήτηρ.“
+
+     \[Solon\] wrote for a woman within 50 years not to go into a public building. But when asked, "Why did you do this?" he said, "So that no one would ask, "Whose wife is this?" but rather "Whose mother?"
+
+505. Σόλων ἔλεγε τοὺς παρὰ τοῖς τυράννοις δυναστεύοντας παραπλησίους εἶναι ταῖς ψήφοις ταῖς ἐπὶ τῶν λογισμῶν· καὶ γὰρ ἐκείνων ἑκάστην ποτὲ μὲν πλείω σημαίνειν, ποτὲ δὲ ἐλάττω· καὶ τούτων τοὺς τυράννους ποτὲ μὲν μέγαν ἕκαστον ἄγειν, ποτὲ δὲ ἄτιμον.
+
+     Solon said that those who hold power alongside tyrants are akin to the pebbles used for calculations. For each of them sometimes means more, and sometimes less. And the tyrants treats each of these men sometimes as great, and sometimes as dishonored.
+
+506. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί κατὰ πατροκτόνου νόμον οὐκ ἔθηκεν εἶπε· „διὰ τὸ ἀπελπίσαι.“
+
+     \[Solon\], when he was asked why he did not establish a law against father-killing, said, "Because I hoped it would not happen."
+
+507. Σόλων ἐρωτηθεὶς ὑπό τινος τί ἐστι νόμος εἶπε· „τῶν μὲν δειλῶν φόβος, τῶν δὲ τολμηρῶν κόλασις.“
+
+     Solon, having been asked by someone what the law is, said, "A fear, for the cowardly, and a punishment, for the daring."
+
+508. Σόλων ἐπερωτῶν Κροῖσον τί παρὰ τῆς βασιλείας ἔσχε τιμιώτατον, ἐκείνου δὲ εἰπόντος· „τὸ τοὺς ἐχθροὺς μετελθεῖν καὶ φίλους εὐεργετεῖν“ „πόσῳ μᾶλλον“ ἔφη „χαριέστερον <ἂν> ἐποίησας, εἰ καὶ τούτους εἰς φιλίαν μετετρόπωσας;“
+
+     When Solon asked Croesus what he considered the most valuable thing from his kingdom and that man said, "To attack my enemies and show kindness to my friends," he said, "How much more pleasant would you have considered it if you had turned these men also towards friendship?"
+
+509. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τίνα αἰτίαν οὐ τεκνοποιεῖ ἔφη· „διὰ φιλοτεκνίαν.“
+
+     \[Solon\], having been asked why he did not bear children, said, "Because of my love for children."
+
+510. Σιμωνίδης ἐρωτηθεὶς ὑπό τινος ποῖός ἐστιν ἀσφαλέστατος βίος ἔφη· „ὅταν τις οὕτως ζήσῃ, ὥστε μήτε ἐλεεῖσθαι μήτε βασκαίνεσθαι.“
+
+     When Simonides was asked by someone what the safest sort of life was, he said, "Whenever someone lives in such a way that they never feel pity nor envy."
+
+511. Ὁ αὐτὸς ἔφη τὰ πάθη τοῖς ἀνθρώποις μαθήματα εἶναι περὶ τὸν βίον· „πολλοὶ γὰρ οὐ δυνάμενοι τῷ λόγῳ προορᾶν τὸ μέλλον τῷ πάσχειν ᾔσθοντο τὰ πράγματα.“
+
+     \[Simonides\] said that the emotions are lessons for humans about life. "For many, although they are not able through reason to foretell the future, through suffering they understood their circumstances."
+ 
+512. Ὁ αὐτὸς ἐρωτηθεὶς εἰ πάντα γηράσκει ἔφη· „<πάντα> πλὴν κέρδους ἀπλήστου.“
+
+     \[Simonides\], having been asked if all things grow old, said, "<Everything> except the insatiable desire for profit."
+
+513. Ὁ αὐτὸς νεανίσκου τινὸς αὐτὸν παρακαλοῦντος γράψαι ἐγκώμιον αὐτοῦ, χάριν γὰρ αὐτῷ ἕξειν, „δύο μοι“, εἶπεν, „ὦ βέλτιστε, κιβώτια ὑπάρχει· καὶ εἰς μὲν τὸ ἓν τὰς χάριτας ἀποτίθεμαι, εἰς δὲ τὸ ἕτερον ἀργυρίδιον· ὅταν οὖν ἀνοίξω αὐτὰ βουλόμενος χρῆσθαι, τὸ μὲν τοῦ ἀργυρίου πλῆρες εὑρίσκω, τὸ δὲ τῶν χαρίτων κεκενωμένον.“
+
+     \[Simonides\], when some young man asked him to write an encomium of him, for he would consider it a favor for him, he said, "O good man, I have two boxes. And into the one I put favors, and into the other, silver coin. Then whenever I open them wanting to make use of them, I find the one full of silver, and the other empty of any favors."
+
+514. Ὁ αὐτὸς ἐρωτηθεὶς πότερος κρείσσων, Ὅμηρος ἢ Ἡσίοδος, εἶπεν· „Ἡσίοδον μὲν αἱ Μοῦσαι, Ὅμηρον δὲ αἱ Χάριτες ἐτέκνωσαν.“
+
+     \[Simonides\], when he was asked who was greater, Homer or Hesiod, said, "The Muses bore Hesiod, the Graces, Homer."
+
 515. Stilpon
 516. \[Stilpon\]
-517. Sophocles
-518. \[Sophocles\]
+517. Σοφοκλῆς, ὁ τῶν τραγῳδιῶν ποιητής, ἀκούσας Εὐριπίδην ἐν Μακεδονίᾳ τεθνηκέναι εἶπεν· „ἀπώλετο ἡ τῶν ἐμῶν ποιημάτων ἀκόνη.“
+
+     Sophocles, the poet of tragedies, when he heard that Euripides had died in Macedonia, said, "The whetstone of my poems has died."
+
+518. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί αὐτὸς μὲν ποιεῖ τὰ ἤθη τῶν ἀνθρώπων χρηστά, Εὐριπίδης δὲ φαῦλα „ὅτι“ ἔφη „ἐγὼ μέν, οἵους ἔδει εἶναι, τοὺς ἀνθρώπους ποιῶ, ἐκεῖνος δέ, ὁποῖοί εἰσιν.“
+
+     When \[Sophocles\] was asked why he depicted the character of people as good and Euripides as bad, said, "Because I depict men that should exist, and that man depicts those that do.
+
 519. Stratonicus
 520. \[Stratonicus\]
 521. \[Stratonicus\]
