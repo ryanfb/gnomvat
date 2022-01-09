@@ -573,7 +573,10 @@
 
      \[Leonidas\] had injured his leg leading battle; and those around him were saying: "Are you leaving the battle because of this?", he said: "We need not those who flee, but those who stand firm."
 
-390. \[Leonidas\]
+390. Ὁ αὐτὸς παρεκελεύετο τοῖς ὑπ’ αὐτῷ τασσομένοις ἀριστᾶν καθ’ ὥραν ὡς ἐν Ἅιδου δειπνήσουσιν.
+
+     \[Leonidas\] ordered those under his command to eat like this is the hour in which they will dine in Hades.
+
 391. \[Leonidas\]
 392. Laconian
 393. Laconian
