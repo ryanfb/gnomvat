@@ -512,7 +512,7 @@
 
 348. Ὁ αὐτὸς Ἀναξιμένους ποιούμενος ἀκρόασιν ἐπὶ πολὺ συνεγγίζοντος ἤδη τῇ τελευτῇ τοῦ βιβλίου μεγάλῃ [τῇ] φωνῇ ἔφη· „θαρσεῖτε ἄνδρες· γῆν ὁρῶ“.
 
-     When \[Theocritus\] was attending a lecture of Anaximenes and that man was drawing near to the end of his book, with a loud voice he said, "Take heart, men; I see land."
+     When \[Theocritus\] was attending a lecture of Anaximenes and that man was drawing near to the end of his book, with a loud voice he said, "Take heart, men; I see land!"
 
 349. Ὁ αὐτὸς θεασάμενος μαθηματικὸν προσκόψαντα εἶπε· „πῶς τὰ ἐν οὐρανῷ ὁρῶν τὰ ἐν τῇ γῇ οὐχ ὁρᾷς“.
 
