@@ -764,7 +764,7 @@
 515. 
       1. Στίλπων ὁ Μεγαρικὸς φιλόσοφος ἁλούσης αὐτοῦ τῆς πατρίδος ὑπὸ Δημητρίου τοῦ Πολιορκητοῦ καὶ διαρπαγείσης ἀναχθεὶς ἐπὶ τὸν βασιλέα καὶ ἐρωτώμενος εἴ τι δὴ αὐτὸς ἀπώλεσε „τῶν ἐμῶν μὲν οὐδὲν“ ἔφη· „τὸν γὰρ λόγον καὶ τὴν παιδείαν ἔχω, τὰ δὲ λοιπὰ διὰ τί μᾶλλον ἐμὰ ἢ οὐχὶ τῶν πολιορκούντων;“
       
-         Stilpo the Megarian philosopher was kicked out of his homeland by Demetrius the taker-of-cities, and having had his things seized and returned to the king was asked if he had lost anything, said: "Nothing of mine, for I still have speech and an education, and as for the rest why should they really belong to me instead of the taker-of-cities?"
+         Stilpo the Megarian philosopher was kicked out of his homeland by Demetrius the taker-of-cities, and having had his things seized and returned to the king and being asked if he had lost anything, said: "Nothing of mine, for I still have speech and an education, and as for the rest why should they really belong to me instead of the taker-of-cities?"
       
       2. \<Ὁ αὐτὸς ἐρωτηθεὶς τῆς πόλεως αὐτοῦ διαρπαζομένης ὑπὸ Δημητρίου· „μὴ καὶ τῶν σῶν, Στίλπων, τὶ ἀφαιρεῖται;“ εἶπεν „οὐδέν· οὐ γὰρ πώ ποτ’ ἐμὰς βοῦς ἤλασαν, οὐδὲ μὲν ἵππους·\> ἄλλως τε οὐδένα στρατιωτῶν ἀρετὴν ἐπ’ ὤμων εἶδον ἐκφέροντα.“
       
