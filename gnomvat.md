@@ -604,7 +604,7 @@
 412. \[Nicocles\]
 413. Ξενοφῶν ὁ φιλόσοφος ᾔτησέν τι παρά τινος τῶν πλουσίων· ὁ δὲ προσκαλεσάμενος πλησίον ὄντα χωλὸν δέδωκεν ἐκείνῳ· καὶ ὁ Ξενοφῶν ἔφη· „πάνυ καλῶς· χωλὸς μὲν γὰρ προσδοκᾷς γενέσθαι, φιλόσοφος δὲ οὐδέποτε“.
 
-     Xenophon the philosopher asked for something from a certain wealthy person. And he .......... And Xenophon said, "Very good. For you expect to become lame, but never a philosopher.
+     Xenophon the philosopher asked for something from a certain wealthy person, but he declined saying that he had just donated to a disabled man nearby; and Xenophon said: "Very good. For you expect to become disabled, but never a philosopher."
 
 414. Ὁ αὐτὸς τὴν πενίαν ἔλεγεν αὐτοδίδακτον φιλοσοφίαν εἶναι· „ἃ γὰρ ἐκείνη τοῖς λόγοις πείθει, αὕτη τοῖς ἔργοις ἀναγκάζει.“
 
