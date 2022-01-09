@@ -569,7 +569,10 @@
 
      The Spartan Leonidas was marching out to battle against the Persians with few soldiers; and when someone remarked that he certainly was marching out with few soldiers, said: "But with those who want to."
 
-389. \[Leonidas\]
+389. Ὁ αὐτὸς χωλὸν ἔχων τὸ σκέλος ἐπὶ παράταξιν προῆγεν· εἰπόντων δέ τινων ὅτι „τοιοῦτος ὢν πῶς ἐπὶ παράταξιν ἀπῄεις“; εἶπεν „οὐ γὰρ φευγόντων, ἀλλὰ ἑστώτων χρεία“.
+
+     \[Leonidas\] had injured his leg leading battle; and those around him were saying: "Are you leaving the battle because of this?", he said: "We need not those who flee, but those who stand firm."
+
 390. \[Leonidas\]
 391. \[Leonidas\]
 392. Laconian
