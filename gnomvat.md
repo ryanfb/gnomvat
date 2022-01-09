@@ -602,10 +602,22 @@
 410. \[Metrodorus\]
 411. Nicocles
 412. \[Nicocles\]
-413. Xenophon
-414. \[Xenophon\]
-415. \[Xenophon\]
-416. \[Xenophon\]
+413. Ξενοφῶν ὁ φιλόσοφος ᾔτησέν τι παρά τινος τῶν πλουσίων· ὁ δὲ προσκαλεσάμενος πλησίον ὄντα χωλὸν δέδωκεν ἐκείνῳ· καὶ ὁ Ξενοφῶν ἔφη· „πάνυ καλῶς· χωλὸς μὲν γὰρ προσδοκᾷς γενέσθαι, φιλόσοφος δὲ οὐδέποτε“.
+
+     Xenophon the philosopher asked for something from a certain wealthy person. And he .......... And Xenophon said, "Very good. For you expect to become lame, but never a philosopher.
+
+414. Ὁ αὐτὸς τὴν πενίαν ἔλεγεν αὐτοδίδακτον φιλοσοφίαν εἶναι· „ἃ γὰρ ἐκείνη τοῖς λόγοις πείθει, αὕτη τοῖς ἔργοις ἀναγκάζει.“
+
+     \[Xenophon\] used to say that poverty is a self-taught love of wisdom. "For what that one persuades with wordes, this one compels through deeds."
+
+415. Ὁ αὐτὸς ἀπαγγείλαντός τινος αὐτῷ ὅτι „ὁ υἱός σου ἐν τῷ πολέμῳ τέθνηκεν ἀνὴρ ἀγαθὸς γενόμενος“ εἶπεν· „ἐμὸς γὰρ ἦν.“
+
+     \[Xenophon\], when someone announced to him, "Your son has died in war as a good man," he said, "Yes, for he was mine."
+
+416. Ὁ αὐτὸς εἶπε κρεῖσσον εἶναι βασιλεῖ τὸ τῶν χαρίτων ἀπολιπεῖν πλῆθος ἢ τροπαίων.
+
+     \[Xenophon\] said that it is better for a king to leave behind a wealth of favors rather than of trophies.
+
 417. Xenocrates
 418. \[Xenocrates\]
 419. Xenocrates
