@@ -608,7 +608,7 @@
 
 414. Ὁ αὐτὸς τὴν πενίαν ἔλεγεν αὐτοδίδακτον φιλοσοφίαν εἶναι· „ἃ γὰρ ἐκείνη τοῖς λόγοις πείθει, αὕτη τοῖς ἔργοις ἀναγκάζει.“
 
-     \[Xenophon\] used to say that poverty is a self-taught love of wisdom. "For what that one persuades with wordes, this one compels through deeds."
+     \[Xenophon\] used to say that poverty is a self-taught love of wisdom. "For what that one persuades with words, this one compels through deeds."
 
 415. Ὁ αὐτὸς ἀπαγγείλαντός τινος αὐτῷ ὅτι „ὁ υἱός σου ἐν τῷ πολέμῳ τέθνηκεν ἀνὴρ ἀγαθὸς γενόμενος“ εἶπεν· „ἐμὸς γὰρ ἦν.“
 
