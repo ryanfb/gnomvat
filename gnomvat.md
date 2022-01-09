@@ -557,14 +557,38 @@
 377. \[Cyrus\]
 378. \[Cyrus\]
 379. \[Cyrus\]
-380. Cicero
-381. Crates
-382. \[Crates\]
-383. \[Crates\]
-384. \[Crates\]
-385. \[Crates\]
-386. \[Crates\]
-387. \[Crates\]
+380. Κικέρων εἶπε· „καλῶς ποιεῖν ἁπλῆ εὐεργεσία, λέγειν δὲ καὶ ποιεῖν διπλῆ“.
+
+     Cicero said, "To act well is a single good, but to speak and act well is a double one."
+
+381. Κράτης ὁ Κυνικὸς ἰδὼν μειράκιον καλλωπιζόμενον ὅμοιον αὐτὸ ἔφη εἶναι ὁδῷ λείᾳ καὶ πλατείᾳ, δι’ ἧς πολλοὶ εὐχερῶς ὁδεύουσιν.
+
+     Crates the Cynic, when he saw a young man primping himself, said that he was like a smooth and broad road, through which many people travel with ease.
+
+382. Ὁ αὐτὸς ἔφη κρεῖττον εἶναι τῷ ποδὶ ὀλισθῆσαι ἢ τῇ γλώττῃ.
+
+     \[Crates\] said that it is better to slip with one's foot than with one's tongue.
+
+383. Ὁ αὐτὸς τὸν ποιητικὸν λόγον μέγιστον εἶπεν εἶναι λῃστὴν ἑρμηνείᾳ τε περισσῇ καὶ ἐνθυμήμασι πολλοῖς κεκοσμημένον.
+
+     \[Crates\] said that the best kind of poetic speech is a plunderer, decorated with excessive interpretation and many arguments.
+
+384. Ὁ αὐτὸς Ζήνωνί ποτε τῷ Κιτιεῖ γνωρίμῳ ὄντι αὐτοῦ ἔδωκε χύτραν φέρειν φακῆς, καὶ τοῦ Ζήνωνος φιλοδοξότερον ἀποκρύπτοντος ἐν τῷ ὄχλῳ τὴν χύτραν πλήξας ὁ Κράτης τῇ βακτηρίᾳ κατέαξεν αὐτήν· φερομένης οὖν τῆς φακῆς κατὰ τῶν τοῦ Ζήνωνος σκελῶν κἀκείνου ἐρυθριῶντος ἐπὶ τούτῳ „θάῤῥει, ὦ φοινικίδιον“, ἔφη· „οὐδὲν γὰρ δεινόν ἐστιν, ἀλλὰ φακῆ“.
+
+     \[Crates\] once gave to Zeno of Citium, his acquaintance, a pot of lentils to carry, and when Zeno was hiding the pot among the crowd out of concern for his reputation, Crates struck the pot with his staff and broke it. So, with the lentils falling down the legs of Zeno, and with him blushing at it, he said, "Take heart, little-red-cloak, for it is nothing dreadful, but lentils."
+
+385. \<Ὁ\> αὐτὸς καλοῦντος αὐτὸν Ἀλεξάνδρου εἰς Μακεδονίαν καὶ ἐπαγγελλομένου τὰς Θήβας ἀναστήσειν \[τὴν πατρίδα τοῦ Κράτητος\] εἶπεν· „οὐ χρῄζω τοιαύτης πατρίδος, ἣν ἕτερος Ἀλέξανδρος καθαιρήσει.“ 
+
+     \[Crates\], when Alexander was calling him to Macedonia and announcing that he would cause Thebes to evacuate, he said, "I do not want such a fatherland which another Alexander will destroy."
+
+386. Ὁ αὐτὸς παρεκελεύετο τοῖς ἀνθρώποις ἢ νοῦν ἢ βρόχον.
+
+     \[Crates\] prescribed to people either the mind or the noose.
+
+387. Ὁ αὐτὸς τελευτῶν τριάκοντα τάλαντα Θηβαίοις κατέλιπεν ἐπιφθεγξάμενος ὅτι, ἐὰν μὲν γένηται αὐτοῦ ἄξιος ὁ υἱός, οὐκ ἀπορήσει χρημάτων, ἐὰν δὲ ἀνάξιος, οὐδὲ ταῦτα ἔχειν ἐπιτήδειος ἔσται.
+
+     When \[Crates\] was dying, he left behind 30 talents to the Thebans, saying that, if his son is worthy of him, he will not lack funds, but if he is unworthy, he will not be suited to have even this much.
+
 388. Λεωνίδης ὁ Λακεδαιμόνιος ὀλίγους ἔχων στρατιώτας εἰς τὴν πρὸς τοὺς Πέρσας μάχην ἐξεπορεύετο· εἰπόντος δέ τινος ὅτι μετ’ ὀλίγων παντελῶς ἐκπορεύεται εἶπεν· „ἀλλὰ μετὰ βουλομένων“.
 
      The Spartan Leonidas was marching out to battle against the Persians with few soldiers; and when someone remarked that he certainly was marching out with few soldiers, said: "But with those who want to."
