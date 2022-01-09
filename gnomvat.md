@@ -577,7 +577,10 @@
 
      \[Leonidas\] ordered those under his command to eat like this is the hour in which they will dine in Hades.
 
-391. \[Leonidas\]
+391. Ὁ αὐτὸς εἰπόντος τινὸς αὐτῷ ὅτι οἱ Πέρσαι πολλοῖς χρώμενοι βέλεσιν ἐπισκοτοῦσι τῷ ἡλίῳ ἔφη· „μαχούμεθα ἄρα ὑπὸ σκιάν“.
+
+\[Leonidas\] having been told by someone that the Persians were attacking with so many arrows that they darkened the sun, said: "So we will fight in the shade."
+
 392. Laconian
 393. Laconian
 394. Laconian
