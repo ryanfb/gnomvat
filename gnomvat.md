@@ -400,7 +400,7 @@
 
      When \[Euripides\] was asked why he gets so annoyed at being criticized, he said, "Because I will not enjoy being praised unless I am pained at being criticized."
 
-275. Ὁ αὐτὸς, ἐπεὶ ὀψωνοῦντος αὐτοῦ ἐπελάβετό τις λέγων ὅτι Σοφοκλῆς τοῦτο διὰ δούλου ποιεῖ <ἔφη>· „τοιγαροῦν Σοφοκλῆς μὲν ἐσθίει ὄψον, ὁποῖον ἂν τῷ οἰκέτῃ ἀρέσῃ, ἐγὼ δέ, ὁποῖον ἂν ἐμοί“.
+275. Ὁ αὐτὸς, ἐπεὶ ὀψωνοῦντος αὐτοῦ ἐπελάβετό τις λέγων ὅτι Σοφοκλῆς τοῦτο διὰ δούλου ποιεῖ \<ἔφη\>· „τοιγαροῦν Σοφοκλῆς μὲν ἐσθίει ὄψον, ὁποῖον ἂν τῷ οἰκέτῃ ἀρέσῃ, ἐγὼ δέ, ὁποῖον ἂν ἐμοί“.
 
      \[Euripides\], when someone rebuked him for cooking by saying that Sophocles had a slave do this, said, "In that case, Sophocles eats the food that his slave likes, but I eat what I like."
 
@@ -469,9 +469,9 @@
 335. \[Theophrastus\]
 336. \[Theophrastus\]
 337. Thearidas
-338. Θεόκριτος ὁ Χῖος ἀφυοῦς ποιητοῦ ἀκρόασιν ποιούμενος ἐρωτώμενος ὑπ’ αὐτοῦ ποῖά ἐστι τὰ καλῶς εἰρημένα <ἔφη>· „ἃ παρέλιπες“.
+338. Θεόκριτος ὁ Χῖος ἀφυοῦς ποιητοῦ ἀκρόασιν ποιούμενος ἐρωτώμενος ὑπ’ αὐτοῦ ποῖά ἐστι τὰ καλῶς εἰρημένα \<ἔφη\>· „ἃ παρέλιπες“.
 
-     When Theocritus the Chian was listening to a dull poet and was asked by him what things had been said well, <he said>, "What you left out."
+     When Theocritus the Chian was listening to a dull poet and was asked by him what things had been said well, \<he said\>, "What you left out."
 
 339. Ὁ αὐτὸς παρὰ πότον τινῶν νεανίσκων ἐριζόντων πρὸς ἀλλήλους ποῖον ὕδωρ χρηστότατόν ἐστι τῶν κατὰ τὴν οἰκουμένην, καὶ τοῦ δείπνου μὴ παρατιθεμένου, ἀλλὰ τῶν μὲν φασκόντων τὸ ἐν Κορίνθῳ ἀπὸ τῆς Πειρήνης, τῶν δὲ τὸ ἐν Πιερίᾳ ἀπὸ τοῦ Ἑλικῶνος, τῶν δὲ τὸ ἐν Χαλκίδι ἀπὸ τῆς Ἀρεθούσης, εἶτα ἐρωτώντων αὐτὸν ποίῳ συγκατατίθεται εἶπεν· „ἐμοὶ δοκεῖ κατὰ τὸν παρόντα καιρὸν ἄριστον εἶναι ὕδωρ τὸ κατὰ χειρῶν“.
 
@@ -631,7 +631,7 @@
 451. \[Periander\]
 452. Pericles
 453. \[Pericles\]
-454. Περσῖνος ὁ ποιητὴς ἐρωτηθεὶς τίς ἄριστός ἐστι ποιητὴς „παρ’ ἑαυτῷ μὲν ἕκαστος“, <εἶπε>, „παρὰ δὲ τοῖς ἄλλοις Ὅμηρος“.
+454. Περσῖνος ὁ ποιητὴς ἐρωτηθεὶς τίς ἄριστός ἐστι ποιητὴς „παρ’ ἑαυτῷ μὲν ἕκαστος“, \<εἶπε\>, „παρὰ δὲ τοῖς ἄλλοις Ὅμηρος“.
 
      The poet Persinus having been asked who the best poet is, said: "Everyone is the best poet according to themselves, but according to others the best poet is Homer."
 
@@ -709,7 +709,7 @@
 
      Solon, having been asked by someone what the law is, said, "A fear, for the cowardly, and a punishment, for the daring."
 
-508. Σόλων ἐπερωτῶν Κροῖσον τί παρὰ τῆς βασιλείας ἔσχε τιμιώτατον, ἐκείνου δὲ εἰπόντος· „τὸ τοὺς ἐχθροὺς μετελθεῖν καὶ φίλους εὐεργετεῖν“ „πόσῳ μᾶλλον“ ἔφη „χαριέστερον <ἂν> ἐποίησας, εἰ καὶ τούτους εἰς φιλίαν μετετρόπωσας;“
+508. Σόλων ἐπερωτῶν Κροῖσον τί παρὰ τῆς βασιλείας ἔσχε τιμιώτατον, ἐκείνου δὲ εἰπόντος· „τὸ τοὺς ἐχθροὺς μετελθεῖν καὶ φίλους εὐεργετεῖν“ „πόσῳ μᾶλλον“ ἔφη „χαριέστερον \<ἂν\> ἐποίησας, εἰ καὶ τούτους εἰς φιλίαν μετετρόπωσας;“
 
      When Solon asked Croesus what he considered the most valuable thing from his kingdom and that man said, "To attack my enemies and show kindness to my friends," he said, "How much more pleasant would you have considered it if you had turned these men also towards friendship?"
 
@@ -725,9 +725,9 @@
 
      \[Simonides\] said that the emotions are lessons for humans about life. "For many, although they are not able through reason to foretell the future, through suffering they understood their circumstances."
  
-512. Ὁ αὐτὸς ἐρωτηθεὶς εἰ πάντα γηράσκει ἔφη· „<πάντα> πλὴν κέρδους ἀπλήστου.“
+512. Ὁ αὐτὸς ἐρωτηθεὶς εἰ πάντα γηράσκει ἔφη· „\<πάντα\> πλὴν κέρδους ἀπλήστου.“
 
-     \[Simonides\], having been asked if all things grow old, said, "<Everything> except the insatiable desire for profit."
+     \[Simonides\], having been asked if all things grow old, said, "\<Everything\> except the insatiable desire for profit."
 
 513. Ὁ αὐτὸς νεανίσκου τινὸς αὐτὸν παρακαλοῦντος γράψαι ἐγκώμιον αὐτοῦ, χάριν γὰρ αὐτῷ ἕξειν, „δύο μοι“, εἶπεν, „ὦ βέλτιστε, κιβώτια ὑπάρχει· καὶ εἰς μὲν τὸ ἓν τὰς χάριτας ἀποτίθεμαι, εἰς δὲ τὸ ἕτερον ἀργυρίδιον· ὅταν οὖν ἀνοίξω αὐτὰ βουλόμενος χρῆσθαι, τὸ μὲν τοῦ ἀργυρίου πλῆρες εὑρίσκω, τὸ δὲ τῶν χαρίτων κεκενωμένον.“
 
@@ -812,7 +812,7 @@
 
      An old Athenian woman having seen an Olympic champion tending to sheep, said: "He went from Olympic to Nemean quickly!"
 
-568. Γυνὴ Λάκαινα τοῦ υἱοῦ αὐτῆς ἐν παρατάξει χωλωθέντος καὶ δυσφοροῦντος ἐπὶ τούτῳ „τέκνον“, εἶπε, „μὴ λυποῦ· καθ’ ἕκαστον γὰρ βῆμα τῆς ἰδίας <ἀρετῆς ὑπομνησθήσῃ.“>
+568. Γυνὴ Λάκαινα τοῦ υἱοῦ αὐτῆς ἐν παρατάξει χωλωθέντος καὶ δυσφοροῦντος ἐπὶ τούτῳ „τέκνον“, εἶπε, „μὴ λυποῦ· καθ’ ἕκαστον γὰρ βῆμα τῆς ἰδίας \<ἀρετῆς ὑπομνησθήσῃ.“\>
 
      A Spartan woman whose son had become disabled in battle and was angry because of this, said: "Child, don't despair; for every step will remind you of your personal virtue."
 
