@@ -565,7 +565,10 @@
 385. \[Crates\]
 386. \[Crates\]
 387. \[Crates\]
-388. Leonidas
+388. Λεωνίδης ὁ Λακεδαιμόνιος ὀλίγους ἔχων στρατιώτας εἰς τὴν πρὸς τοὺς Πέρσας μάχην ἐξεπορεύετο· εἰπόντος δέ τινος ὅτι μετ’ ὀλίγων παντελῶς ἐκπορεύεται εἶπεν· „ἀλλὰ μετὰ βουλομένων“.
+
+     The Spartan Leonidas was marching out to battle against the Persians with few soldiers; and when someone remarked that he certainly was marching out with few soldiers, said: "But with those who want to."
+
 389. \[Leonidas\]
 390. \[Leonidas\]
 391. \[Leonidas\]
