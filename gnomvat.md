@@ -693,7 +693,10 @@
 462. \[Pythagoras\]
 463. \[Pythagoras\]
 464. Pythagoras
-465. Pylades
+465. Πυλάδης ὁ Μεσσήνιος θεασάμενος κατάκριτον ἀναγινώσκοντα νόμους εἶπεν· „ὀψὲ τοὺς ἀναγινώσκεις“. 
+
+     Pylades of Messene, to someone amazed at being sentenced to death despite knowing the laws, said: "You certainly came to know them late."
+
 466. Πύῤῥος ὁ Ἠπειρώτης ἐρωτηθεὶς ὑπό τινος ποῖος αὐτοῦ τῶν υἱῶν διάδοχος τῆς βασιλείας ἔσται εἶπεν· „ὅστις ἂν ὀξυτέραν ἔχῃ τὴν μάχαιραν“.
 
      Pyrrhus of Epirus having been asked by someone which of his sons would be the successor to the throne, said: "Whichever one holds the sharpest blade."
