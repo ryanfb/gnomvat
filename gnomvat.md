@@ -698,7 +698,10 @@
 
      Pyrrhus of Epirus having been asked by someone which of his sons would be the successor to the throne, said: "Whichever one holds the sharpest blade."
 
-467. \[Pyrrhus\]
+467. Ὁ αὐτὸς ναυαγοῦ τινος αὐτῷ μακρῶς τὰ καθ’ ἑαυτὸν διηγουμένου εἶπεν· „δικαίως καὶ ὑπὸ τοῦ Ποσειδῶνος ἐξεβλήθης οὕτως μακρολογῶν“.
+
+     \[Pyrrhus\] hearing a long detailed account from someone who was shipwrecked alone, said: "You were justly cast away by Poseidon thus, on account of your droning on."
+
 468. Protagoras
 469. \[Protagoras\]
 470. Socrates
