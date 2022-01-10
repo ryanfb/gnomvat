@@ -694,7 +694,10 @@
 463. \[Pythagoras\]
 464. Pythagoras
 465. Pylades
-466. Pyrrhus
+466. Πύῤῥος ὁ Ἠπειρώτης ἐρωτηθεὶς ὑπό τινος ποῖος αὐτοῦ τῶν υἱῶν διάδοχος τῆς βασιλείας ἔσται εἶπεν· „ὅστις ἂν ὀξυτέραν ἔχῃ τὴν μάχαιραν“.
+
+     Pyrrhus of Epirus having been asked by someone which of his sons would be the successor to the throne, said: "Whichever one holds the sharpest blade."
+
 467. \[Pyrrhus\]
 468. Protagoras
 469. \[Protagoras\]
