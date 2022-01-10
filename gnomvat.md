@@ -614,7 +614,10 @@
 398. Laconian
 399. Lysippus
 400. \[Lysippus\]
-401. Lycurgus
+401. Λυκοῦργος ὁ νομοθέτης τὸ μὲν ἀξιόχρεων τῶν ἀνθρώπων ἔφη ἐν τῇ οὐσίᾳ κεῖσθαι, τὸ δὲ ἀξιόπιστον ἐν τοῖς τρόποις.
+
+     Lycurgus the lawgiver said that the noteworthiness of people is situated in their essense, but trustworthiness in their ways.
+
 402. Lamon
 403. Lycon
 404. Menander
