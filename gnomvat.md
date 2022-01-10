@@ -443,7 +443,10 @@
 306. \[Zaleucus\]
 307. Hegesias
 308. \[Hegesias\]
-309. Herodotus
+309. Ἡρόδοτος ὁ ἱστοριογράφος ἐρωτηθεὶς ὑπό τινος πῶς ἂν δύναιντο <οἱ> ἄνθρωποι εὐθυμεῖν εἶπεν· „ἐὰν μὴ πολλὰ πρήσσωσιν.“
+
+     Herodotus the historian, having been asked by someone how humanity might be happy, said: "If they'd stop doing so much."
+
 310. Heraclitus
 311. \[Heraclitus\]
 312. \[Heraclitus\]
