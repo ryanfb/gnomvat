@@ -190,7 +190,7 @@
 70. \[Agesilaus\]
 71. Ἀντιφῶν ἐρωτηθεὶς τί ἐστι μαντικὴ εἶπεν· „ἀνθρώπου φρονίμου εἰκασμός“.
 
-    Antiphon having been asked by someone what prophecy is, said: "The guess of mortal mind."
+    Antiphon having been asked by someone what prophecy is, said: "The guess of a mortal mind."
 
 72. Ἀνακρέων λαβὼν τάλαντον χρυσίου παρὰ Πολυκράτους τοῦ τυράννου πάλιν ἀνταπέδωκεν εἰπών· „μισῶ δωρεάν, ἥτις ἀναγκάζει με ἀγρυπνεῖν.“
 
