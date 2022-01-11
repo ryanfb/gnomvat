@@ -181,7 +181,10 @@
 64. Anaxarchos
 65. Arcesilaus
 66. \[Arcesilaus\]
-67. Alcidamas
+67. Ἀλκιδάμας ὁ ῥήτωρ Ὀδύσσειαν εἶπεν εἶναι κάτοπτρον τοῦ ἀνθρωπίνου βίου.
+
+    Alcidamas the rhetorician said that the Odyssey is a mirror of human life.
+
 68. Agesilaus
 69. \[Agesilaus\]
 70. \[Agesilaus\]
