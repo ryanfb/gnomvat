@@ -700,7 +700,10 @@
 
      Pythagoras the philosopher advised to be silent or to say that silence is better.
 
-460. \[Pythagoras\]
+460. Ὁ αὐτὸς ἔλεγε φεύγειν κακῶν φιλίαν καὶ ἀγαθῶν ἔχθραν.
+
+     \[Pythagoras\] said that to avoid bad things is goodwill and to avoid good things is hatred.
+
 461. \[Pythagoras\]
 462. \[Pythagoras\]
 463. \[Pythagoras\]
