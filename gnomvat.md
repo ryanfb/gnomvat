@@ -704,7 +704,10 @@
 
      \[Pythagoras\] said that to avoid bad things is goodwill and to avoid good things is hatred.
 
-461. \[Pythagoras\]
+461. Ὁ αὐτὸς παρῄνει βίον αἱρεῖσθαι τὸν ἄριστον λέγων ὅτι ἡδὺν αὐτὸν ἡ συνήθεια ποιήσει.
+
+     \[Pythagoras\] advised to sieze the best life saying that intimacy will make it sweet.
+
 462. \[Pythagoras\]
 463. \[Pythagoras\]
 464. Pythagoras
