@@ -704,7 +704,7 @@
 464. Pythagoras
 465. Πυλάδης ὁ Μεσσήνιος θεασάμενος κατάκριτον ἀναγινώσκοντα νόμους εἶπεν· „ὀψὲ τοὺς ἀναγινώσκεις“. 
 
-     Pylades of Messene, to someone amazed at being sentenced to death despite knowing the laws, said: "You certainly came to know them late."
+     Pylades of Messene, to someone amazed at being sentenced to death despite recognizing the laws, said: "You certainly recognized them late."
 
 466. Πύῤῥος ὁ Ἠπειρώτης ἐρωτηθεὶς ὑπό τινος ποῖος αὐτοῦ τῶν υἱῶν διάδοχος τῆς βασιλείας ἔσται εἶπεν· „ὅστις ἂν ὀξυτέραν ἔχῃ τὴν μάχαιραν“.
 
