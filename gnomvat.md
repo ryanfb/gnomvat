@@ -185,7 +185,10 @@
 68. Agesilaus
 69. \[Agesilaus\]
 70. \[Agesilaus\]
-71. Antiphon
+71. Ἀντιφῶν ἐρωτηθεὶς τί ἐστι μαντικὴ εἶπεν· „ἀνθρώπου φρονίμου εἰκασμός“.
+
+    Antiphon having been asked by someone what prophecy is, said: "The guess of mortal mind."
+
 72. Ἀνακρέων λαβὼν τάλαντον χρυσίου παρὰ Πολυκράτους τοῦ τυράννου πάλιν ἀνταπέδωκεν εἰπών· „μισῶ δωρεάν, ἥτις ἀναγκάζει με ἀγρυπνεῖν.“
 
     Anacreon, having received a gold talent from Polycrates the tyrant, gave it back to him saying: "I hate gifts, or at least those which require me to have sleepless nights."
