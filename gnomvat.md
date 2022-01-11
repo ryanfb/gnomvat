@@ -435,7 +435,10 @@
 
      Epicurus the philosopher said that opinion is a sacred disease.
 
-295. Zenon
+295. Ζήνων ὁ Στωϊκὸς φιλόσοφος λεγόντων τινῶν ὅτι παράδοξα λέγει ἔφη· „ἀλλ’ οὐ παράλογα“.
+
+     Zenon the Stoic philosopher, when some were saying that he was speaking contrary to expectation, said: "But not contrary to logic."
+
 296. Zenon
 297. Zenon
 298. \[Zenon\]
