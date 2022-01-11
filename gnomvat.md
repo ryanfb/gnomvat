@@ -716,8 +716,11 @@
 
      \[Pythagoras\] having been asked by someone how one might be rich, said: "If a poor man might be in the company of pleasures."
 
-464. Pythagoras
-465. Πυλάδης ὁ Μεσσήνιος θεασάμενος κατάκριτον ἀναγινώσκοντα νόμους εἶπεν· „ὀψὲ τοὺς ἀναγινώσκεις“. 
+464. Πυθαγόρας νεανίσκον ἰδὼν ἀθλητικὸν οἴνῳ καὶ κρεοφαγίᾳ καὶ ἀσκήσει σάρκα πολλὴν ὑποτρέφοντα εἶπεν· „ὦ δαιμόνιε, παῦσαι καθ’ ἑαυτοῦ ποιῶν τὸ δεσμωτήριον ἰσχυρόν!“
+
+     Pythagoras, having seen a young athlete who by wine and meat-eating and lifestyle had become very corpulent, said: "Sir, stop making your own strong prison!"
+
+465. Πυλάδης ὁ Μεσσήνιος θεασάμενος κατάκριτον ἀναγινώσκοντα νόμους εἶπεν· „ὀψὲ τοὺς ἀναγινώσκεις“.
 
      Pylades of Messene, to someone amazed at being sentenced to death despite recognizing the laws, said: "You certainly recognized them late."
 
