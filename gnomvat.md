@@ -417,7 +417,10 @@
 280. \[Epaminondas\]
 281. \[Epaminondas\]
 282. \[Epaminondas\]
-283. Empedocles
+283. Ἐμπεδοκλῆς ὁ φυσικὸς πρὸς τὸν λέγοντα ὅτι „οὐδένα σοφὸν εὑρεῖν δύναμαι“ „κατὰ λόγον“ εἶπε· „τὸν γὰρ ζητοῦντα τὸν σοφὸν αὐτὸν πρότερον εἶναι δεῖ“.
+
+     Someone saying to Empedocles the natural philosopher that "nobody is able to find a wise man", he said: "Logically, for the seeking of a wise man himself is necessary first."
+
 284. Eumonidas
 285. Ephialtes
 286. Euxitheus
