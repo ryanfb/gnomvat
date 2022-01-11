@@ -388,7 +388,10 @@
 
      \[Democritus\] seeing a jealous man who was distressed, said: "Either something really bad has happened to him or something really good to someone else."
 
-267. \[Democritus\]
+267. <Ὁ> αὐτὸς εἶπε· „μόνον οἶδα ὅτι οὐκ οἶδα“.
+
+     \[Democritus\] said: "The only thing I know is that I know nothing."
+
 268. Εὐριπίδης ὁ τῶν τραγῳδιῶν ποιητὴς εἶπεν ὅτι τοὺς ἀγαθοὺς ἄνδρας δεῖ ζῶντας μὲν τιμᾶσθαι, τελευτήσαντας δὲ ἐγκωμιάζεσθαι.
      
      Euripides, the poet of tragedies, said that good men must be honored while they are alive but praised when they are dead.
