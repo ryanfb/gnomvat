@@ -712,7 +712,10 @@
 
      \[Pythagoras\] said it's possible to control neither a horse separate from its bit nor a wealthy person separate from their thought. 
 
-463. \[Pythagoras\]
+463. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος πῶς ἄν τις εἴη πλούσιος ἔφη· „εἰ τῶν ἡδονῶν εἴη πένης“.
+
+     \[Pythagoras\] having been asked by someone how one might be rich, said: "If a poor man might be in the company of pleasures."
+
 464. Pythagoras
 465. Πυλάδης ὁ Μεσσήνιος θεασάμενος κατάκριτον ἀναγινώσκοντα νόμους εἶπεν· „ὀψὲ τοὺς ἀναγινώσκεις“. 
 
