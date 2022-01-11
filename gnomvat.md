@@ -380,7 +380,10 @@
 
      Diocles the physician having been told by someone that they had bought a medical book so they no longer needed to receive education, said: "Books are reminders for the educated, but for the uneducated they are gravemarkers."
 
-265. Democritus
+265. Δημόκριτος τὴν φιλαργυρίαν ἔλεγε μητρόπολιν πάσης κακίας.
+
+     Democritus said that the love of money is the source of all evils.
+
 266. \[Democritus\]
 267. \[Democritus\]
 268. Εὐριπίδης ὁ τῶν τραγῳδιῶν ποιητὴς εἶπεν ὅτι τοὺς ἀγαθοὺς ἄνδρας δεῖ ζῶντας μὲν τιμᾶσθαι, τελευτήσαντας δὲ ἐγκωμιάζεσθαι.
