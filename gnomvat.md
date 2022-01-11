@@ -696,7 +696,10 @@
 456. \[Pittacus\]
 457. \[Pittacus\]
 458. \[Pittacus\]
-459. Pythagoras
+459. Πυθαγόρας ὁ φιλόσοφος παρῄνει σιγᾶν ἢ κρείττονα σιγῆς λέγειν.
+
+     Pythagoras the philosopher advised to be silent or to say that silence is better.
+
 460. \[Pythagoras\]
 461. \[Pythagoras\]
 462. \[Pythagoras\]
