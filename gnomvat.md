@@ -369,7 +369,10 @@
 260. \[Demetrius\]
 261. Dionysius
 262. \[Dionysius\]
-263. Demochares
+263. Δημοχάρης ὁ ῥήτωρ τελευτήσαντος τοῦ Δημοσθένους εἶπεν ἐν τῇ ἐκκλησίᾳ· „ἄνδρες πολῖται, ἡ φωνὴ τῆς πατρίδος ἡμῶν τέθνηκεν.“
+
+     Demochares the rhetorician, when Demosthenes had finished, said in the assembly: "Citizens, this speech has killed our country."
+
 264. Διοκλῆς ὁ ἰατρὸς λέγοντος αὐτῷ τινος βιβλίον ἠγορακέναι ἰατρικὸν καὶ μὴ προσδεῖσθαι διδασκαλίας εἶπε· „τὰ βιβλία τῶν μὲν μεμαθηκότων ὑπομνήματά ἐστι, τῶν δὲ ἀμαθῶν μνήματα“.
 
      Diocles the physician having been told by someone that they had bought a medical book so they no longer needed to receive education, said: "Books are reminders for the educated, but for the uneducated they are gravemarkers."
