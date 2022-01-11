@@ -134,7 +134,10 @@
 
     \[Aristippus\] said: "Just as our bodies are grown by nourishment, but strengthened by exercise, thus also the soul is grown by thinking, but becomes better by patience."
 
-35. \[Aristippus\]
+35. Ὁ αὐτὸς ἐρωτηθεὶς ὑπὸ Διονυσίου τοῦ τυράννου, πότε παύσεται αἰτῶν αὐτόν, „ὅτε“, ἔφη, „καὶ σὺ διδούς· τοῦτο δὲ ἔσται, ὅταν μὴ εὐαρεστήσωμεν ἀλλήλοις“.
+
+    \[Aristippus\] having been asked by the tyrant Dionysius, when he would stop begging, said: "Whenever you're also giving; but you'll be able to do this, when we're not pleasing to others."
+
 36. \[Aristippus\]
 37. \[Aristippus\]
 38. \[Aristippus\]
