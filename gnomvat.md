@@ -100,7 +100,7 @@
 
 26. Ὁ αὐτὸς ἐρωτώμενος, τί θαυμαστόν ἐστιν ἐν βίῳ \<εἶπεν\>· „ἄνθρωπος ἐπιεικὴς καὶ μέτριος, ὅτι ἐν πολλοῖς ὑπάρχων μοχθηροῖς οὐ διέστραπται“.
 
-    \[Aristippus\] being asked, what is amazing in life, said: “that humanity is fair and moderate, because by their many wretched leaders they are unable to be twisted.”
+    \[Aristippus\] being asked, what is amazing in life, said: “a person who is fair and moderate, since being among many wretched leaders they were unable to be twisted.”
     
 27. Ὁ αὐτὸς ἀνθρώπου αὐτὸν ἀδικήσαντος καὶ περιφεύγοντος καὶ ἀπαντᾶν διατρεπομένου συντυχὼν ἅπαξ εἶπεν· „οὐ σὲ χρὴ ἐμὲ φεύγειν, ἀλλ’ ἐμὲ σὲ ὄντα φαῦλον“. 
 
