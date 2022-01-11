@@ -439,7 +439,10 @@
 
      Zenon the Stoic philosopher, when some were saying that he was speaking contrary to expectation, said: "But not contrary to logic."
 
-296. Zenon
+296. Ζήνων ἐρωτηθεὶς τί ἐστι φίλος ἔφη· „ἄλλος οἷος ἐγώ“.
+
+     Zenon having been asked by someone "what is a friend", said: "Another like myself."
+
 297. Zenon
 298. \[Zenon\]
 299. \[Zenon\]
