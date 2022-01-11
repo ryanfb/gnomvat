@@ -854,7 +854,10 @@
 531. \[Stratonicus\]
 532. \[Stratonicus\]
 533. Sosigenes
-534. Scythian
+534. Σκύθης ἀνὴρ γυμνὸς ὑπαντήσας τινὶ ψύχους ὄντος ἰσχυροῦ ἐρωτηθεὶς εἰ ῥιγοῖ ἔφη· „οὔ“. τοῦ δὲ θαυμάσαντος ἀντηρώτησεν ὁ Σκύθης εἰ ἐκεῖνος τὸ μέτωπον ῥιγοῖ· ἀρνησαμένου δὲ αὐτοῦ εἶπεν· „ἐγὼ τοίνυν ὅλος εἰμὶ μέτωπον.“
+
+     Scythes having encountered a naked man when it was bitterly cold asked if he might shiver, he said: "No." So being amazed Scythes asked him in return if his forehead might shiver; but he  answered no and said: "Thus I am all forehead."
+
 535. Timon
 536. \[Timon\]
 537. Timotheus
