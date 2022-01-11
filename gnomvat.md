@@ -384,7 +384,10 @@
 
      Democritus said that the love of money is the source of all evils.
 
-266. \[Democritus\]
+266. Ὁ αὐτὸς ἰδὼν φθονερὸν λυπούμενον ἔφη· „ἢ τούτῳ μέγα κακὸν συμβέβηκεν ἢ ἄλλῳ μέγα ἀγαθόν.“
+
+     \[Democritus\] seeing a jealous man who was distressed, said: "Either something really bad has happened to him or something really good to someone else."
+
 267. \[Democritus\]
 268. Εὐριπίδης ὁ τῶν τραγῳδιῶν ποιητὴς εἶπεν ὅτι τοὺς ἀγαθοὺς ἄνδρας δεῖ ζῶντας μὲν τιμᾶσθαι, τελευτήσαντας δὲ ἐγκωμιάζεσθαι.
      
