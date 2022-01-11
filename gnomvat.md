@@ -437,26 +437,26 @@
 
 295. Ζήνων ὁ Στωϊκὸς φιλόσοφος λεγόντων τινῶν ὅτι παράδοξα λέγει ἔφη· „ἀλλ’ οὐ παράλογα“.
 
-     Zenon the Stoic philosopher, when some were saying that he was speaking contrary to expectation, said: "But not contrary to logic."
+     Zeno the Stoic philosopher, when some were saying that he was speaking contrary to expectation, said: "But not contrary to logic."
 
 296. Ζήνων ἐρωτηθεὶς τί ἐστι φίλος ἔφη· „ἄλλος οἷος ἐγώ“.
 
-     Zenon having been asked by someone "what is a friend", said: "Another like myself."
+     Zeno having been asked by someone "what is a friend", said: "Another like myself."
 
 297. Ζήνων ἔφη τὴν μὲν ὅρασιν ἀπὸ τοῦ ἀέρος λαμβάνειν τὸ φῶς, τὴν δὲ ψυχὴν ἀπὸ τῶν μαθημάτων. 
 
-     Zenon said that sight takes light from the air, but the soul from learning.
+     Zeno said that sight takes light from the air, but the soul from learning.
 
 298. Ὁ αὐτὸς περιπεσὼν ναυαγίῳ καὶ τὰ ὄντα ἀπολέσας οὐδὲν ἀγεννὲς ἐφθέγξατο, ἀλλ’ „εὖγε“, εἶπεν, „ὦ Τύχη, ὅτι συνέστειλας ἡμᾶς εἰς τὸ τριβώνιον τοῦτο“.
 
-     \[Zenon\] having been shipwrecked and his things destroyed uttered no curses, but said: "Well done, Tyche, that you wrapped us up in this little philosopher's-cloak."
+     \[Zeno\] having been shipwrecked and his things destroyed uttered no curses, but said: "Well done, Tyche, that you wrapped us up in this little philosopher's-cloak."
 
-299. \[Zenon\]
-300. \[Zenon\]
-301. \[Zenon\]
-302. \[Zenon\]
-303. \[Zenon\]
-304. \[Zenon\]
+299. \[Zeno\]
+300. \[Zeno\]
+301. \[Zeno\]
+302. \[Zeno\]
+303. \[Zeno\]
+304. \[Zeno\]
 305. Zaleucus
 306. \[Zaleucus\]
 307. Hegesias
