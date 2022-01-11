@@ -126,7 +126,10 @@
 
     \[Aristippus\] said that to pray for something good and demand it from god is generally laughable; for doctors do not give the sick food or drink whenever they ask for it, but whenever they think it will help them.
     
-33. \[Aristippus\]
+33. Ὁ αὐτὸς ὁρκίζοντός τινος παῖδα χρηστὸν γενέσθαι καὶ δίκαιον εἰς αὐτὸν εἶπεν· „ὅρκωσον αὐτὸν καὶ γραμματικὸν καὶ μουσικὸν γενέσθαι καὶ ὅρα, εἰ ἔσται μηδὲν μαθὼν τῶν τοιούτων“.
+
+    \[Aristippus\], when an enslaved person was swearing to become good and just, said: "Swear to become a grammarian and musician and see, if you ever learn these things."
+
 34. \[Aristippus\]
 35. \[Aristippus\]
 36. \[Aristippus\]
