@@ -443,7 +443,10 @@
 
      Zenon having been asked by someone "what is a friend", said: "Another like myself."
 
-297. Zenon
+297. Ζήνων ἔφη τὴν μὲν ὅρασιν ἀπὸ τοῦ ἀέρος λαμβάνειν τὸ φῶς, τὴν δὲ ψυχὴν ἀπὸ τῶν μαθημάτων. 
+
+     Zenon said that sight takes light from the air, but the soul from learning.
+
 298. \[Zenon\]
 299. \[Zenon\]
 300. \[Zenon\]
