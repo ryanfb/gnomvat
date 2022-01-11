@@ -706,9 +706,12 @@
 
 461. Ὁ αὐτὸς παρῄνει βίον αἱρεῖσθαι τὸν ἄριστον λέγων ὅτι ἡδὺν αὐτὸν ἡ συνήθεια ποιήσει.
 
-     \[Pythagoras\] advised to sieze the best life saying that intimacy will make it sweet.
+     \[Pythagoras\] advised to seize the best life saying that intimacy will make it sweet.
 
-462. \[Pythagoras\]
+462. Ὁ αὐτὸς ἔφη μήθ’ ἵππον χωρὶς χαλινοῦ μήτε πλοῦτον δίχα φρονήσεως δύνασθαι κρατεῖσθαι.
+
+     \[Pythagoras\] said it's possible to control neither a horse separate from its bit nor a wealthy person separate from their thought. 
+
 463. \[Pythagoras\]
 464. Pythagoras
 465. Πυλάδης ὁ Μεσσήνιος θεασάμενος κατάκριτον ἀναγινώσκοντα νόμους εἶπεν· „ὀψὲ τοὺς ἀναγινώσκεις“. 
