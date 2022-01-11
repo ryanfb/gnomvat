@@ -431,7 +431,10 @@
 291. Eratosthenes
 292. Eucrates
 293. Eumenes
-294. Epicurus
+294. Ἐπίκουρος ὁ φιλόσοφος τὴν οἴησιν ἱερὰν νόσον \[εἶναι\] ἔλεγεν.
+
+     Epicurus the philosopher said that opinion is a sacred disease.
+
 295. Zenon
 296. Zenon
 297. Zenon
