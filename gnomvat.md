@@ -370,7 +370,10 @@
 261. Dionysius
 262. \[Dionysius\]
 263. Demochares
-264. Diocles
+264. Διοκλῆς ὁ ἰατρὸς λέγοντος αὐτῷ τινος βιβλίον ἠγορακέναι ἰατρικὸν καὶ μὴ προσδεῖσθαι διδασκαλίας εἶπε· „τὰ βιβλία τῶν μὲν μεμαθηκότων ὑπομνήματά ἐστι, τῶν δὲ ἀμαθῶν μνήματα“.
+
+     Diocles the physician having been told by someone that they had bought a medical book so they no longer needed to receive education, said: "Books are reminders for the educated, but for the uneducated they are gravemarkers."
+
 265. Democritus
 266. \[Democritus\]
 267. \[Democritus\]
