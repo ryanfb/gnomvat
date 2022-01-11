@@ -138,7 +138,10 @@
 
     \[Aristippus\] having been asked by the tyrant Dionysius, when he would stop begging, said: "Whenever you're also giving; but you'll be able to do this, when we're not pleasing to others."
 
-36. \[Aristippus\]
+36. Ὁ αὐτὸς ἐρωτηθείς, τί αὐτῷ περιγέγονεν ἐκ φιλοσοφίας, ἔφη· „τὸ ἀδεῶς τοῖς ἐντυγχάνουσιν ὁμιλεῖν“.
+
+    \[Aristippus\] having been asked, what advantage he'd gained from philosophy, said: "Effortlessly keeping company with anyone I meet."
+
 37. \[Aristippus\]
 38. \[Aristippus\]
 39. \[Aristippus\]
