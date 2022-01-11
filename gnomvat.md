@@ -142,7 +142,10 @@
 
     \[Aristippus\] having been asked, what advantage he'd gained from philosophy, said: "Effortlessly keeping company with anyone I meet."
 
-37. \[Aristippus\]
+37. Ὁ αὐτὸς εἰπόντος τινὸς αὐτῷ, διὰ τί τοῖς μοχθηροῖς πλησιάζει, εἶπεν· „ὅτι καὶ ἰατροὶ τοῖς νοσοῦσιν.“
+
+    \[Aristippus\], when someone asked why he associated with bad people, said: "Since doctors also associate with sick people."
+
 38. \[Aristippus\]
 39. \[Aristippus\]
 40. \[Aristippus\]
