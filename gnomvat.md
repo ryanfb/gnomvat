@@ -130,7 +130,10 @@
 
     \[Aristippus\], when an enslaved person was swearing to become good and just, said: "Swear to become a grammarian and musician and see, if you ever learn these things."
 
-34. \[Aristippus\]
+34. Ὁ αὐτὸς εἶπεν· „ὥσπερ τὰ σώματα ἡμῶν τρεφόμενα μὲν αὔξεται, γυμναζόμενα δὲ στερεοῦται, οὕτω καὶ ἡ ψυχὴ μελετῶσα μὲν αὔξεται, καρτεροῦσα δὲ βελτίων γίνεται“.
+
+    \[Aristippus\] said: "Just as our bodies are grown by nourishment, but strengthened by exercise, thus also the soul is grown by thinking, but becomes better by patience."
+
 35. \[Aristippus\]
 36. \[Aristippus\]
 37. \[Aristippus\]
