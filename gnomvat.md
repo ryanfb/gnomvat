@@ -447,7 +447,10 @@
 
      Zenon said that sight takes light from the air, but the soul from learning.
 
-298. \[Zenon\]
+298. Ὁ αὐτὸς περιπεσὼν ναυαγίῳ καὶ τὰ ὄντα ἀπολέσας οὐδὲν ἀγεννὲς ἐφθέγξατο, ἀλλ’ „εὖγε“, εἶπεν, „ὦ Τύχη, ὅτι συνέστειλας ἡμᾶς εἰς τὸ τριβώνιον τοῦτο“.
+
+     \[Zenon\] having been shipwrecked and his things destroyed uttered no curses, but said: "Well done, Tyche, that you wrapped us up in this little philosopher's-cloak."
+
 299. \[Zenon\]
 300. \[Zenon\]
 301. \[Zenon\]
