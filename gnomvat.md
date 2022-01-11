@@ -154,7 +154,10 @@
 55. \[Aristotle\]
 56. \[Aristotle\]
 57. \[Aristotle\]
-58. \[Aristotle\]
+58. ῾Ο αὐτὸς ἐρωτηθείς, τί δυσκολώτατόν ἐστιν ἐν βίῳ, εἶπε· „τὸ σιωπᾶν”.
+
+    \[Aristotle\] having been asked, what is most difficult in life, said: "Keeping silent."
+
 59. \[Aristotle\]
 60. Archidamos
 61. Anaximenes
