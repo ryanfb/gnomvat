@@ -146,7 +146,10 @@
 
     \[Aristippus\], when someone asked why he associated with bad people, said: "Since doctors also associate with sick people."
 
-38. \[Aristippus\]
+38. Ὁ αὐτὸς θεασάμενός τινα ὀργιζόμενον καὶ διὰ τῶν λόγων σφοδρῶς χαλεπαίνοντα ὑποτυχὼν ἔφη· „μὴ τοὺς λόγους δι’ ὀργῆς ἄγωμεν, ἀλλὰ τὴν ὀργὴν διὰ τῶν λόγων καταλύωμεν“.
+
+    \[Aristippus\], seeing someone angry and furious on account of an argument, interrupting him said: "Let us not conduct argument through anger, but instead dissolve anger through argument."
+
 39. \[Aristippus\]
 40. \[Aristippus\]
 41. \[Aristippus\]
