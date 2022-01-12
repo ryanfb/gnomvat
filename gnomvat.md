@@ -190,7 +190,7 @@
 70. \[Agesilaus\]
 71. Ἀντιφῶν ἐρωτηθεὶς τί ἐστι μαντικὴ εἶπεν· „ἀνθρώπου φρονίμου εἰκασμός“.
 
-    Antiphon having been asked by someone what prophecy is, said: "The guess of a mortal mind."
+    Antiphon having been asked by someone what prophecy is, said: "The guess of a human mind."
 
 72. Ἀνακρέων λαβὼν τάλαντον χρυσίου παρὰ Πολυκράτους τοῦ τυράννου πάλιν ἀνταπέδωκεν εἰπών· „μισῶ δωρεάν, ἥτις ἀναγκάζει με ἀγρυπνεῖν.“
 
@@ -245,7 +245,11 @@
 115. \[Antagoras\]
 116. \[Antagoras\]
 117. Anaxagoras
-118. Arimnestus
+118. Ἀρίμνηστος, ὁ Πυθαγόρου υἱός, ἐρωτηθεὶς τί μέγιστον ἀν-
+θρώπῳ ἀγαθὸν ἔφη· „τὸ καλῶς ἀποθανεῖν.“ 
+
+Arimnestus
+
 119. Ἀλκιβιάδης, ὡς αὐτόν τις ἐλοιδόρει φαῦλος ὤν, εἶπεν· „οὐδ’ οἰμώζειν σοι λέγω ὡς οὐδὲ τούτου ἀξίῳ ὄντι.“
 
      Alcibiades, when he was being rebuked by someone who was themselves worthless, said: "I won't tell you to wail, since you're not even worthy of that."
