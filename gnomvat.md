@@ -791,7 +791,7 @@ Arimnestus
 
 464. Πυθαγόρας νεανίσκον ἰδὼν ἀθλητικὸν οἴνῳ καὶ κρεοφαγίᾳ καὶ ἀσκήσει σάρκα πολλὴν ὑποτρέφοντα εἶπεν· „ὦ δαιμόνιε, παῦσαι καθ’ ἑαυτοῦ ποιῶν τὸ δεσμωτήριον ἰσχυρόν!“
 
-     Pythagoras, having seen a young athlete who by wine and meat-eating and lifestyle had become very corpulent, said: "Sir, stop making your own strong prison!"
+     Pythagoras, having seen a young athlete who by wine and meat-eating and lifestyle was nourishing their huge body, said: "Sir, stop making your own strong prison!"
 
 465. Πυλάδης ὁ Μεσσήνιος θεασάμενος κατάκριτον ἀναγινώσκοντα νόμους εἶπεν· „ὀψὲ τοὺς ἀναγινώσκεις“.
 
