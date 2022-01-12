@@ -277,7 +277,10 @@
 126. \[Aesop\]
 127. \[Aesop\]
 128. \[Aesop\]
-129. Apelles
+129. Ἀπελλῆς ὁ ζωγράφος ἐρωτηθεὶς διὰ τί τὴν Τύχην καθημένην ἔγραψεν εἶπεν· „ὅτι οὐχ ἕστηκεν.“
+
+     Apelles the painter having been asked why he'd painted Tyche sitting, said: "Since she never stood still."
+
 130. Anacharsis
 131. \[Anacharsis\]
 132. \[Anacharsis\]
