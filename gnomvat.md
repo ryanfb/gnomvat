@@ -259,7 +259,7 @@
 117. Anaxagoras
 118. Ἀρίμνηστος, ὁ Πυθαγόρου υἱός, ἐρωτηθεὶς τί μέγιστον ἀνθρώπῳ ἀγαθὸν ἔφη· „τὸ καλῶς ἀποθανεῖν.“ 
 
-     Arimnestus
+     Arimnestus, the son of Pythagoras, having been asked what the greatest good for a mortal is, said: "To die well."
 
 119. Ἀλκιβιάδης, ὡς αὐτόν τις ἐλοιδόρει φαῦλος ὤν, εἶπεν· „οὐδ’ οἰμώζειν σοι λέγω ὡς οὐδὲ τούτου ἀξίῳ ὄντι.“
 
