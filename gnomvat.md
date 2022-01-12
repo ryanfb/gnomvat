@@ -256,7 +256,10 @@
 114. \[Antagoras\]
 115. \[Antagoras\]
 116. \[Antagoras\]
-117. Anaxagoras
+117. Ἀναξαγόρας ἀπαγγείλαντός τινος, ὅτι τεθνήκασιν αὐτοῦ οἱ παῖδες, ἔφη θνητοὺς γεννῆσαι.
+
+     Anaxagoras on receiving the message, that his children had died, said that he had fathered mortals.
+
 118. Ἀρίμνηστος, ὁ Πυθαγόρου υἱός, ἐρωτηθεὶς τί μέγιστον ἀνθρώπῳ ἀγαθὸν ἔφη· „τὸ καλῶς ἀποθανεῖν.“ 
 
      Arimnestus, the son of Pythagoras, having been asked what the greatest good for a mortal is, said: "To die well."
