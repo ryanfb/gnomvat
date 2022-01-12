@@ -241,7 +241,10 @@
 103. \[Alexander\]
 104. \[Alexander\]
 105. \[Alexander\]
-106. Antagoras
+106. Ἀνταγόρας ὁ ποιητὴς ἀκρόασιν παρέχων ἐν Θήβαις καὶ μηδεμιᾶς τυγχάνων τιμῆς εἶπεν· „ὦ ἄνδρες Θηβαῖοι· ἥμαρτεν Ὀδυσσεὺς ἐμφράξας τῶν ἑταίρων τὰς ἀκοάς, ὅτε τὰς Σειρῆνας παρέπλει· ἔδει γὰρ αὐτὸν ὑμᾶς ναύτας μισθώσασθαι.“
+
+     Antagoras the poet giving a recitation in Thebes and flopping with the audience, said: "Theban citizens! Odysseus erred in plugging his companions' ears, when they were sailing by the Sirens: he should've just hired you as sailors instead."
+
 107. Antigonus
 108. Ἄμασις, ὁ τῶν Αἰγυπτίων βασιλεύς, φίλῳ ἀποβαλόντι υἱὸν γράφων παραμυθητικῶς εἶπεν· „εἰ, ὅτε μηδέπω ἦν, οὐκ ἐλυποῦ, μηδὲ
 νῦν, ὅτε οὐκ ἔστι, λυπηθῇς“. 
