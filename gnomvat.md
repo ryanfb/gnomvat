@@ -168,7 +168,10 @@
 
     Aristides the Just when he was being reproached on account of his poverty, said: "But my poverty suggests nothing bad, while your wealth suggests much."
 
-48. \[Aristedes\]
+48. Ὁ αὐτὸς ἀκούσας, ὅτι τὰς εἰκόνας αὐτοῦ κατέβαλον οἱ Ἀθηναῖοι, „ἀλλ’ οὐ τὴν ἀρετήν,“ ἔφη, „δι’ ἣν ἐκείνας ἀνέστησαν“.
+
+    \[Aristides\], hearing that the Athenians had destroyed the statues of him, said: "But not the virtue they erected them on account of."
+
 49. Aristotle
 50. \[Aristotle\]
 51. \[Aristotle\]
