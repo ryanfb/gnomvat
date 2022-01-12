@@ -164,7 +164,10 @@
 
     Alexis, the comic poet, when someone saw him as an old man walking slowly and asked: "What are you doing?", said: "By slowness, dying."
 
-47. Aristedes
+47. Ἀριστείδης ὁ δίκαιος ὀνειδιζόμενός ποτε ἐπὶ πενίᾳ εἶπεν· „ἀλλ’ ἐμοὶ μὲν ἡ πενία οὐδὲν συνιστορεῖ κακόν, σοὶ δὲ ὁ πλοῦτος πολλά“.
+
+    Aristides the Just when he was being reproached on account of his poverty, said: "But my poverty suggests nothing bad, while your wealth suggests much."
+
 48. \[Aristedes\]
 49. Aristotle
 50. \[Aristotle\]
