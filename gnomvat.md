@@ -783,7 +783,7 @@ Arimnestus
 
 462. Ὁ αὐτὸς ἔφη μήθ’ ἵππον χωρὶς χαλινοῦ μήτε πλοῦτον δίχα φρονήσεως δύνασθαι κρατεῖσθαι.
 
-     \[Pythagoras\] said it's possible to control neither a horse separate from its bit nor a wealthy person separate from their thought. 
+     \[Pythagoras\] said it's possible to control neither a horse separate from its bit nor wealth separate from prudence. 
 
 463. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος πῶς ἄν τις εἴη πλούσιος ἔφη· „εἰ τῶν ἡδονῶν εἴη πένης“.
 
