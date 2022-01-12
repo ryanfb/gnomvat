@@ -136,7 +136,7 @@
 
 35. Ὁ αὐτὸς ἐρωτηθεὶς ὑπὸ Διονυσίου τοῦ τυράννου, πότε παύσεται αἰτῶν αὐτόν, „ὅτε“, ἔφη, „καὶ σὺ διδούς· τοῦτο δὲ ἔσται, ὅταν μὴ εὐαρεστήσωμεν ἀλλήλοις“.
 
-    \[Aristippus\] having been asked by the tyrant Dionysius, when he would stop begging, said: "Whenever you're also giving; but you'll be able to do this, when we're not pleasing to others."
+    \[Aristippus\] having been asked by the tyrant Dionysius, when he would stop begging, said: "Whenever you also stop giving; but you'll be able to do this, when we're not pleasing to one another."
 
 36. Ὁ αὐτὸς ἐρωτηθείς, τί αὐτῷ περιγέγονεν ἐκ φιλοσοφίας, ἔφη· „τὸ ἀδεῶς τοῖς ἐντυγχάνουσιν ὁμιλεῖν“.
 
