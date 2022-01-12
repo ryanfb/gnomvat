@@ -166,7 +166,7 @@
 
 47. Ἀριστείδης ὁ δίκαιος ὀνειδιζόμενός ποτε ἐπὶ πενίᾳ εἶπεν· „ἀλλ’ ἐμοὶ μὲν ἡ πενία οὐδὲν συνιστορεῖ κακόν, σοὶ δὲ ὁ πλοῦτος πολλά“.
 
-    Aristides the Just when he was being reproached on account of his poverty, said: "But my poverty suggests nothing bad, while your wealth suggests much."
+    Aristides the Just being reproached when he was in poverty, said: "But my poverty suggests nothing bad, while your wealth suggests much."
 
 48. Ὁ αὐτὸς ἀκούσας, ὅτι τὰς εἰκόνας αὐτοῦ κατέβαλον οἱ Ἀθηναῖοι, „ἀλλ’ οὐ τὴν ἀρετήν,“ ἔφη, „δι’ ἣν ἐκείνας ἀνέστησαν“.
 
