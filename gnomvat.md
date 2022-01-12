@@ -155,7 +155,10 @@
 41. \[Aristippus\]
 42. \[Aristippus\]
 43. \[Aristippus\]
-44. \[Aristippus\]
+44. Ὁ αὐτὸς ἔφησεν· „καὶ εἰ μηδὲν ἄλλο, ἐκ φιλοσοφίας τοῦτό μοι περιγέγονε· τὸ τοῖς προσπίπτουσι κατὰ λόγον ὑπαντᾶν.“
+
+    \[Aristippus\] said: "If nothing else, I've gained this from philosophy: to meet the things that befall me rationally."
+
 45. \[Aristippus\]
 46. Ἄλεξις, ὁ τῶν κωμῳδιῶν ποιητής, ἐπειδή τις αὐτὸν ὄντα πρεσβύτην ἑώρα μόλις πορευόμενον καὶ ἠρώτα· „τί ποιεῖς“; „κατὰ σχολὴν“, φησίν, „ἀποθνήσκω“.
 
