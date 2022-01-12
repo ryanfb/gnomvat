@@ -116,7 +116,7 @@
 
 30. Ὁ αὐτὸς Πλάτωνος εἰσελθόντος πρὸς αὐτὸν μαλακῶς ἔχοντα καὶ πυθομένου, πῶς διάγει, ἔφη τὸν μὲν σπουδαῖον καὶ πυρέττοντα καλῶς ἔχειν, τὸν δὲ φαῦλον καὶ μὴ πυρέττοντα κακῶς.
 
-    Once, Plato approached \[Aristippus\] when he had a fever and asked, “How are you?”, and he said: “Those healthy and feverish are well, but those bad and feverless are ill.”
+    Once, Plato approached \[Aristippus\] when he had a fever and asked, “How are you?”, and he said: “Those who are good and feverish are well, but those who are bad and feverless are ill.”
     
 31. Ὁ αὐτὸς ἐγκαλοῦντός τινος ἀνθρώπῳ τινί, ὅτι λαβὼν ἀργύριον οὐκ ἀπέδωκε, „σαυτῷ δέ“, φησίν, „οὐκ ἐγκαλεῖς, εἰ μὴ ὀρθῶς ἐδοκίμασας, ᾧ ἐδίδους;“
 
