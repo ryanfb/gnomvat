@@ -156,7 +156,7 @@
 45. \[Aristippus\]
 46. Ἄλεξις, ὁ τῶν κωμῳδιῶν ποιητής, ἐπειδή τις αὐτὸν ὄντα πρεσβύτην ἑώρα μόλις πορευόμενον καὶ ἠρώτα· „τί ποιεῖς“; „κατὰ σχολὴν“, φησίν, „ἀποθνήσκω“.
 
-    Alexis, the comic poet, when he saw some old man walking slowly who asked: "What are you doing?", said: "By your slowness, dying."
+    Alexis, the comic poet, when someone saw him as an old man walking slowly and asked: "What are you doing?", said: "By slowness, dying."
 
 47. Aristedes
 48. \[Aristedes\]
