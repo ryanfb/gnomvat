@@ -104,7 +104,7 @@
     
 27. Ὁ αὐτὸς ἀνθρώπου αὐτὸν ἀδικήσαντος καὶ περιφεύγοντος καὶ ἀπαντᾶν διατρεπομένου συντυχὼν ἅπαξ εἶπεν· „οὐ σὲ χρὴ ἐμὲ φεύγειν, ἀλλ’ ἐμὲ σὲ ὄντα φαῦλον“. 
 
-    \[Aristippus\] having happened upon a man who was unjust and hiding and altogether in the wrong, once said: “You don’t need to hide from me, since both of us are bad.”
+    \[Aristippus\] having happened upon a man who was unjust and hiding from him and altogether in the wrong, once said: “You don’t need to hide from me, but me from your being so low.”
     
 28. Ὁ αὐτὸς ὀνειδιζόμενος ὑπό τινος, ὅτι Κυρηναῖος ὑπάρχων ἐκ τῆς πατρίδος πεφυγάδευται, „καί“, εἶπε, „νεανίσκε, μεγάλα με ἡ πατρὶς ἠδίκησεν ἐκ τῆς Λιβύης με εἰς τὴν Ἑλλάδα ἐκβαλοῦσα“.
 
