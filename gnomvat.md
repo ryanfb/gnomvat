@@ -787,7 +787,7 @@ Arimnestus
 
 463. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος πῶς ἄν τις εἴη πλούσιος ἔφη· „εἰ τῶν ἡδονῶν εἴη πένης“.
 
-     \[Pythagoras\] having been asked by someone how one might be rich, said: "If a poor man might be in the company of pleasures."
+     \[Pythagoras\] having been asked by someone how one might be rich, said: "If one might be poor of pleasures."
 
 464. Πυθαγόρας νεανίσκον ἰδὼν ἀθλητικὸν οἴνῳ καὶ κρεοφαγίᾳ καὶ ἀσκήσει σάρκα πολλὴν ὑποτρέφοντα εἶπεν· „ὦ δαιμόνιε, παῦσαι καθ’ ἑαυτοῦ ποιῶν τὸ δεσμωτήριον ἰσχυρόν!“
 
