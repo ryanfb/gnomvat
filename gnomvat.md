@@ -245,7 +245,10 @@
 
      Antagoras the poet giving a recitation in Thebes and flopping with the audience, said: "Theban citizens! Odysseus erred in plugging his companions' ears, when they were sailing by the Sirens: he should've just hired you as sailors instead."
 
-107. Antigonus
+107. Ἀντίγονος ὁ βασιλεὺς ᾔτει τὸ θεῖον εὐχόμενος φυλάττειν αὐτὸν ἀπὸ τῶν δοκούντων εἶναι φίλων· πυθομένου δέ τινος διὰ ποίαν αἰτίαν τοιαύτην εὐχὴν ποιεῖται, „ὅτι“, ἔφη, „τοὺς ἐχθροὺς ἐγὼ φυλάξομαι.“
+
+     Antigonus the king was praying to the god to ask them to protect him from those seeming to be friends; when someone asked him why he needed to make this sort of request, he said: "Because I can protect myself against enemies."
+
 108. Ἄμασις, ὁ τῶν Αἰγυπτίων βασιλεύς, φίλῳ ἀποβαλόντι υἱὸν γράφων παραμυθητικῶς εἶπεν· „εἰ, ὅτε μηδέπω ἦν, οὐκ ἐλυποῦ, μηδὲ
 νῦν, ὅτε οὐκ ἔστι, λυπηθῇς“. 
 
