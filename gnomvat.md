@@ -771,7 +771,7 @@ Arimnestus
 458. \[Pittacus\]
 459. Πυθαγόρας ὁ φιλόσοφος παρῄνει σιγᾶν ἢ κρείττονα σιγῆς λέγειν.
 
-     Pythagoras the philosopher advised to be silent or to say that silence is better.
+     Pythagoras the philosopher advised to be silent or to speak better than silence.
 
 460. Ὁ αὐτὸς ἔλεγε φεύγειν κακῶν φιλίαν καὶ ἀγαθῶν ἔχθραν.
 
