@@ -779,7 +779,7 @@ Arimnestus
 
 461. Ὁ αὐτὸς παρῄνει βίον αἱρεῖσθαι τὸν ἄριστον λέγων ὅτι ἡδὺν αὐτὸν ἡ συνήθεια ποιήσει.
 
-     \[Pythagoras\] advised to seize the best life saying that intimacy will make it sweet.
+     \[Pythagoras\] advised to seize the virtuous life saying that intimacy will make it sweet.
 
 462. Ὁ αὐτὸς ἔφη μήθ’ ἵππον χωρὶς χαλινοῦ μήτε πλοῦτον δίχα φρονήσεως δύνασθαι κρατεῖσθαι.
 
