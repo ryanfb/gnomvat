@@ -88,7 +88,7 @@
 
 23. Ἀρίστιππος, ὁ Κυρηναῖος φιλόσοφος, πλέων εἰς Ἀθήνας ἐναυάγησεν καὶ ὑποληφθεὶς ὑπ’ Ἀθηναίων ὡς ἠρωτήθη, τί μέλλει εἰς Κυρήνην ἐπανελθὼν λέγειν πρὸς τοὺς οἰκείους, ἔφη· „τοιαῦτα ἐφόδια κτᾶσθαι, ἃ καὶ ναυαγοῦσι συννήχεται“.
 
-    Aristippus the Cyrenian philosopher was shipwrecked sailing into Athens, and having been taken in by the Athenians and asked why he intended to return to Cyrene to speak to his affairs back home, said: “to procure the sorts of travel provisions, which also float together with the shipwreck.”
+    Aristippus the Cyrenian philosopher was shipwrecked sailing into Athens, and having been taken in by the Athenians and asked what he intended after returning to Cyrene to say to his friends back home, said: “to procure the sorts of travel provisions, which will float together with the shipwreck.”
 
 24. Ὁ αὐτὸς παρὰ τῶν μαθητῶν λαμβάνειν ἔφασκε μισθόν, οὐχ ὅπως τὸν βίον ἐπανορθώσῃ, ἀλλ’ ὅπως ἐκεῖνοι μάθωσιν εἰς τὰ καλὰ δαπανᾶν.
 
