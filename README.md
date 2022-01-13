@@ -1,4 +1,7 @@
 # Gnom. Vat.
+
+![Translation progress badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fryanfb%2Fgnomvat%2Fmain%2Fprogress.json)
+
 [English translations from the Gnomologium Vaticanum](https://ryanfb.github.io/gnomvat/gnomvat).
 
 The Greek text used is: L. Sternbach, *Gnomologium Vaticanum e codice Vaticano Graeco 743. Texte und Kommentare* 2. Berlin: De Gruyter, 1887 (repr. 1963).
