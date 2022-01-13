@@ -1,3 +1,5 @@
+![Translation progress badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fryanfb%2Fgnomvat%2Fmain%2Fprogress.json)
+
 1. Ἀντισθένης τοὺς πόνους ἔφησεν ὁμοίους εἶναι κυσί· καὶ γὰρ ἐκεῖνοι τοὺς ἀσυνήθεις δάκνουσιν.
 
    Antisthenes said that tasks are like dogs: for they too bite those unfamiliar with them.
