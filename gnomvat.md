@@ -487,7 +487,10 @@
 
      Someone saying to Empedocles the natural philosopher that "nobody is able to find a wise man", he said: "Logically, for the seeking of a wise man himself is necessary first."
 
-284. Eumonidas
+284. Εὐμονίδας ὁ Θηβαῖος στρεβλοὺς ἔχων τοὺς πόδας [καὶ] ἀπολέσας τὰ ὑποδήματα ηὔξατο τῷ κλέψαντι ἁρμόσαι.
+
+     Eumonidas the Theban having twisted feet and having lost his sandals said he hoped they fit whoever took them.
+
 285. Ephialtes
 286. Euxitheus
 287. Erasistratus
