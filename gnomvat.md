@@ -491,7 +491,10 @@
 
      Eumonidas the Theban having twisted feet and having lost his sandals said he hoped they fit whoever took them.
 
-285. Ephialtes
+285. Ἐφιάλτης ὁ τῶν Ἀθηναίων δημαγωγὸς χειροτονηθεὶς προστάτης ὑπὸ τοῦ δήμου παρῃτήσατο τὴν φιλίαν τῶν ἑταίρων φάμενος μὴ δύνασθαι τὸ κοινὸν συμφέρον διαφυλάσσειν καὶ φιλίας δίκαια συντηρεῖν.
+
+     Ephialtes the Athenian demagogue having been elected leader by the people cut himself off from his friends saying that it was impossible to simultaneously maintain the common interest and preserve decent friendships.
+
 286. Euxitheus
 287. Erasistratus
 288. \[Erasistratus\]
