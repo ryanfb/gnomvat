@@ -717,7 +717,7 @@
 400. \[Lysippus\]
 401. Λυκοῦργος ὁ νομοθέτης τὸ μὲν ἀξιόχρεων τῶν ἀνθρώπων ἔφη ἐν τῇ οὐσίᾳ κεῖσθαι, τὸ δὲ ἀξιόπιστον ἐν τοῖς τρόποις.
 
-     Lycurgus the lawgiver said that the noteworthiness of people is situated in their essense, but trustworthiness in their ways.
+     Lycurgus the lawgiver said that the noteworthiness of people is situated in their essence, but trustworthiness in their ways.
 
 402. Lamon
 403. Lycon
