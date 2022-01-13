@@ -751,7 +751,10 @@
 
      Oenopides seeing a young man buying many books said: "Don't put them away in a chest, but in your heart."
 
-421. Ποιμὴν
+421. \[Ποιμὴν ἀρνίον ἀπολέσας ηὔχετο τῷ Διΐ· „ἐὰν τὸν κλέπτην εὕρω, θύσω σοι κριόν“· καὶ εἰσελθὼν ἐν σπηλαίῳ εὗρε λέοντα τοῦ ἀρνοῦ καταδεδραγμένον· καὶ στὰς εἶπε· „πρώην μὲν κριόν σοι ὑπεσχόμην, ἐὰν τὸν κλέπτην εὕροιμι· νῦν δέ, ἐὰν τὰς χεῖρας τοῦ κλέπτου ἐκφύγω, ἀντὶ κριοῦ ταῦρόν σοι προσενέγκω.“\]
+
+     A shepherd having lost a lamb prayed to Zeus: "If I find the thief, I'll sacrifice a ram to you." And going into a cave he found a lion had captured the lamb; and said: "Earlier I offered you a ram, if I might find the thief; but now, if by your hand I might flee the thief, I'll sacrifice a bull instead of a ram."
+
 422. Ταώς
 423. Plato
 424. Plato
