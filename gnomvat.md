@@ -495,7 +495,10 @@
 
      Ephialtes the Athenian demagogue having been elected leader by the people cut himself off from his friends saying that it was impossible to simultaneously maintain the common interest and preserve decent friendships.
 
-286. Euxitheus
+286. Εὐξίθεος ὁ Ἀθηναῖος τοὺς χρηστοὺς μὲν ἐν τοῖς λόγοις, ἀχρήστους δὲ τῷ βίῳ ὁμοίους ἔφησεν εἶναι τοῖς ἀγαθοῖς ἐνυπνίοις.
+
+     Euxitheus the Athenian said that those who are effective in speech but ineffective in life are like good dreams.
+
 287. Erasistratus
 288. \[Erasistratus\]
 289. \[Erasistratus\]
