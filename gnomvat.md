@@ -747,7 +747,10 @@
 417. Xenocrates
 418. \[Xenocrates\]
 419. Xenocrates
-420. Oenopides
+420. Οἰνοπίδης ὁρῶν μειράκιον πολλὰ βιβλία κτώμενον ἔφη· „μὴ τῇ κιβωτῷ, ἀλλὰ τῷ στήθει.“
+
+     Oenopides seeing a young boy buying many books said: "Don't put them away in a chest, but in your heart."
+
 421. Ποιμὴν
 422. Ταώς
 423. Plato
