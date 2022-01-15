@@ -152,7 +152,10 @@
 
     \[Aristippus\], seeing someone angry and furious on account of an argument, interrupting him said: "Let us not conduct argument through anger, but instead dissolve anger through argument."
 
-39. \[Aristippus\]
+39. Ὁ αὐτὸς οὐκ ὀλίγα χρήματα παρὰ Διονυσίου \[καὶ\] μετὰ τὸν ἀπόπλουν λαβὼν καὶ δι’ αὐτὰ ἐπιβουλεύεσθαι μέλλων ὑπὸ τῶν ναυτῶν, μεταβὰς ἐκ τοῦ μέσου τῆς νηὸς παρ’ ἕνα τοῖχον ἐκέλευσε ἐκκενωθῆναι τὰ ἀγγεῖα ἐπὶ τῶν σανίδων ὡς ἀριθμεῖν τὸ ἀργύριον ἐσπουδακώς, περινεύσας δὲ ἐξέβαλεν αὐτὸ εἰς τὸν βυθόν· τῶν δὲ ναυτῶν ἐπὶ τούτῳ δυσφορησάντων εἶπε· "λυσιτελεῖ δι’ ἐμὲ τὸ ἀργύριον ἀπολέσθαι ἢ ἐμὲ δι’ αὐτό."
+
+    \[Aristippus\] had taken a lot of money from Dionysius when sailing back and because of this the sailors were plotting against him, so he moved from the middle of the boat to one side and ordered them to empty the money out onto the benches as though they could immediately count the money, but instead he turned around and threw it into the deep; and with the sailors being furious at this, he said: "Better to lose the money because of me than to lose me because of the money."
+
 40. \[Aristippus\]
 41. \[Aristippus\]
 42. \[Aristippus\]
