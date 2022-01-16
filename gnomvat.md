@@ -160,26 +160,7 @@
 
     When Plato rebuked \[Aristippus\] for trying to buy a fancy fish for 12 drachmae he asked, if \[Plato\] would buy the same fish for a drachma; and when he agreed, \[Aristippus\] said it wouldn't be too great a cost for him, "Since what is one drachma for Plato, is twelve for Aristippus."
 
-41. Ὁ αὐτὸς παρὰ Διονυσίῳ ποτὲ τῷ τυράννῳ γυναικείων ἐσθήτων περιφερομένων ἐν τῷ συμποσίῳ τοῖς βουλομένοις ἐνδύσασθαι καὶ συμπαῖξαι ἡνδήποτε παιδιὰν καὶ τοῦ Πλάτωνος παραιτησαμένου διὰ τοιούτου στίχου·
-
-    > οὐκ ἂν δυναίμην θῆλυν ἐνδῦναι στολὴν 
-    
-    \[ὁ Ἀρίστιππος\] εἶπεν· δός· 
-    
-    > καὶ γὰρ ἐν βακχεύμασιν
-    
-    > οὖσ’ ἥ γε σώφρων οὐ διαφθαρήσεται.
-
-    When \[Aristippus\] was at Dionysius the tyrant's, women's clothes were being passed around in the symposium for those wishing to put them on and play together in some kind of game, and Plato declined with this line of verse:
-
-    > It's not possible for me to put on a woman's garment
-    
-    \[Aristippus\] said: Yield,
-    
-    > For even in Bacchic rituals,
-    
-    > a woman who is truly self-controlled will not be seduced.
-
+41. \[Aristippus\]
 42. Ὁ αὐτὸς μεταπεμπομένου πολλάκις αὐτὸν τοῦ πατρός, ὡς οὐχ ὑπήκουσεν γράψαντος, ὅτι πωλήσει αὐτὸν κατὰ τοὺς πατρίους νόμους, ἀντέγραψεν ὀλίγον ἔτι περιμεῖναι χρόνον· καὶ <γὰρ> πλείονος ἄξιον γενόμενον πλείονος πωλήσειν. 
 
     \[Aristippus\] was being sent for by his father repeatedly, but since he did not obey, his father wrote that he would sell him into slavery in accordance with the parental laws; so Aristippus wrote back to wait a little while longer: for becoming more worthy he would be able to be sold for more.
@@ -255,10 +236,7 @@
 60. Archidamos
 61. Anaximenes
 62. Aeschines
-63. Ὁ αὐτὸς λέγων ποτὲ δίκην καὶ ἀποκοιμηθέντων τῶν δικαστῶν, „προσέχετε“, εἶπεν, „ἄνδρες δικασταί· οὕτως ὑμῖν γένοιτο ἰδεῖν ἐνύπνιον περὶ τῆς δίκης ἧς λέγω.“
-
-    When \[Aeschines\] was speaking at a trial and the jurors had fallen asleep, he said: "Pay attention, jurors! Thus it might be possible for you to see in your dreams about the trial I'm discussing."
-
+63. \[Aeschines\]
 64. Anaxarchos
 65. Arcesilaus
 66. \[Arcesilaus\]
@@ -277,39 +255,138 @@
 
     Anacreon, having received a gold talent from Polycrates the tyrant, gave it back to him saying: "I hate gifts, or at least those which require me to have sleepless nights."
 
-73. Alexander, king of Macedon
-74. \[Alexander\]
-75. \[Alexander\]
-76. \[Alexander\]
-77. \[Alexander\]
-78. \[Alexander\]
-79. \[Alexander\]
-80. \[Alexander\]
-81. \[Alexander\]
-82. \[Alexander\]
-83. \[Alexander\]
-84. \[Alexander\]
-85. \[Alexander\]
-86. \[Alexander\]
-87. \[Alexander\]
-88. \[Alexander\]
-89. \[Alexander\]
-90. \[Alexander\]
-91. \[Alexander\]
-92. \[Alexander\]
-93. \[Alexander\]
-94. \[Alexander\]
-95. \[Alexander\]
-96. \[Alexander\]
-97. \[Alexander\]
-98. \[Alexander\]
-99. \[Alexander\]
-100. \[Alexander\]
-101. \[Alexander\]
-102. \[Alexander\]
-103. \[Alexander\]
-104. \[Alexander\]
-105. \[Alexander\]
+73. Ἀλέξανδρος, ὁ τῶν Μακεδόνων βασιλεύς, <πρός τινα> διαβάλλοντα αὐτῷ Ἀντίπατρον εἶπεν· <παῦσαι ἄνθρωπε· πολλὰ γάρ μοι ἀντὶ πατρὸς Ἀντίπατρος ἐγένετο.> 
+
+    Alexander, king of the Macedonians, said \<to someone\> slandering Antipater to him, \<"Stop, sir. For Antipater was like a father to me in many ways."\>
+
+74. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τίνι τρόπῳ τὰς τηλικαύτας πράξεις ἐν ὀλίγῳ χρόνῳ κατειργάσατο εἶπεν· „μηδὲν ἀναβαλλόμενος“.
+
+    \[Alexander\], being asked by someone how he accomplished such great deeds in a little time, said, "By not delaying."
+
+75. Ὁ αὐτὸς πικρότερόν τι αὐτῷ ἐπιτασσούσης Ὀλυμπίαδος τῆς μητρὸς εἶπεν· „βαρύ γε ἐνοίκιον τῆς δεκαμήνου ἀπαιτεῖς“.
+
+    \[Alexander\], when his mother Olympia was giving him orders rather harshly, said, "You demand a heavy rent for a 10-month period."
+
+76. <Ὁ> αὐτὸς ἀξιούμενος ὑπὸ τῶν φίλων τεκνοποιῆσαι εἶπε· „μὴ ἀγωνιᾶτε· καταλείπω γὰρ τέκνα τὰς ἐκ τῶν ἀγώνων πράξεις.“
+
+    \[Alexander\], being expected by his friends to bear children, said, "Do not be anxious. For I leave behind the accomplishments from my struggles as children."
+
+77. Ὁ αὐτὸς παρακαλούμενος ὑπὸ τῶν φίλων νυκτὸς ἐπιθέσθαι τοῖς πολεμίοις εἶπεν· „οὐ βασιλικὸν τὸ κλέψαι τὴν νίκην.“
+
+    \[Alexander\], being summoned by his friends to attack the enemy at night, said, "It is not kingly to hide one's victory."
+
+78. Ὁ αὐτὸς ἐλθὼν εἰς Ἴλιον καὶ θεασάμενος τὸν Ἀχιλλέως τάφον στὰς εἶπεν· „ὦ Ἀχιλλεῦ· ὡς \[οὐ\] μέγας ὢν μεγάλου κήρυκος ἔτυχες Ὁμήρου!“ παρόντος δὲ Ἀναξιμένους καὶ εἰπόντος· „καὶ ἡμεῖς σέ, ὦ βασιλεῦ, ἔνδοξον ποιήσομεν“, „ἀλλὰ νὴ τοὺς θεοὺς“, ἔφη, „παρ’ Ὁμήρῳ ἐβουλόμην ἂν εἶναι Θερσίτης ἢ παρὰ σοὶ Ἀχιλλεύς.“
+
+    \[Alexander\], having come to Ilium and seen the tomb of Achilles, stopped and said, "O Achilles! How you, being great, luckily met a great herald in Homer!" And when Anaximenes was nearby and said, "We also, o king, will make you famous," he said, "But by the gods, I would wish to be Thersites with Homer, or Achilles with you."
+
+79. Ὁ αὐτὸς εἶπεν ἄριστον εἶναι πρὸς κοίτην στρῶμα τὸν πόνον.
+
+    \[Alexander\] said that toil is the best mattress for sleeping.
+ 
+80. Ὁ αὐτὸς Ἀντιπάτρου αὐτῷ πολλάκις κατὰ τῆς μητρὸς Ὀλυμπιάδος γράφοντος ἔφη· „ἀγνοεῖ Ἀντίπατρος, ὅτι μητρὸς ἓν δάκρυον πολλῶν διαβολῶν ἐπιστολὰς δύναται ἀπαλεῖψαι.“
+
+    \[Alexander\], when Antipater was frequently writing to him against his mother Olympias, said, "Antipater does not know that one tear from my mother can cleanse his letters of many attacks."
+
+81. Ὁ αὐτὸς σφαιρίσας μετά τινος νεανίσκου ἐδωρήσατο αὐτῷ τάλαντον· τῶν δὲ φίλων λεγόντων ὅτι „πλέον τοῦ δέοντος ἔδωκας“, „οὐ τοῦτό με δεῖ σκοπεῖν“, ἔφη, „πόσον ἐκεῖνος ἄξιος ἦν λαβεῖν, ἀλλὰ πόσον ἐμὲ παρασχεῖν.“
+
+    \[Alexander\], playing ball with some young man, gifted him a talent. But when his friends said, "You gave more than was necessary." he said, "I should not consider how much that man deserved to take but rather how much I deserved to offer."
+
+82. Ὁ αὐτὸς ἐρωτηθεὶς ποῖος βασιλεὺς δοκεῖ ἄριστος εἶναι ἔφη· „ὁ τοὺς φίλους δωρεαῖς συνέχων, τοὺς δὲ ἐχθροὺς διὰ τῶν εὐεργεσιῶν φιλοποιούμενος.“
+
+    \[Alexander\], being asked what sort of king seemed best, said, "The one who heaps his friends up with gifts and who makes friends out of his enemies through his good deeds."
+
+83. Ὁ αὐτὸς ἰδὼν ὁμώνυμον δειλῶς μαχόμενον εἶπεν· „ἔα νεανίσκε, ἢ τὸ ὄνομα ἄλλαξον ἢ τοὺς τρόπους.“
+
+    \[Alexander\], seeing someone with the same name fighting in a cowardly way, said, "Let it be, young man, either change your name or your habits."
+
+84. Ὁ αὐτὸς ἐπεί τις τῶν βαρβάρων ὀχυρὸν τόπον ἔχων ἑαυτὸν παραδέδωκε, καὶ τὸν τόπον καὶ τὰ ἴδια ἀπεκατέστησεν αὐτῷ καὶ πολλῆς ἄλλης χώρας ἔπαρχον ἀποίησεν· ἐρωτηθεὶς δὲ ὑπὸ τῶν φίλων διὰ τί οὕτως ἐχρήσατο αὐτῷ ἔφη· „ὅτι ἀνδρὶ ἀγαθῷ μᾶλλον ἑαυτὸν ἐπίστευσεν ἢ τόποις ὀχυροῖς.“ 
+
+    \[Alexander\], when one of the foreigners with a secure location handed himself over, set aside both the location and his property to him and let him go as the governor of another land. And when he was asked by some of his friends why he treated him thus, he said, "Because he entrusted himself more to a good man than to secure locations."
+
+85. Ὁ αὐτὸς εἰπόντος Ἀναξιμένους· „ἐὰν πᾶσι πολλὰ διδῷς, οὐ δυνήσῃ τοῦτο ποιεῖν διὰ παντός“, ἔφη· „οὐδέ γε, ἐὰν παύσωμαι, μόνος πάντ’ ἔχειν δυνήσομαι πολὺν χρόνον.“
+
+    \[Alexander\], when Anaximenes was saying, "If you give many things to everyone, you won't be able to do this forever," said, "Nor will I, at any rate, if I stop, be able to have everything for much time."
+
+86. Ὁ αὐτὸς μέλλων εἰς τὴν Ἀσίαν διαβαίνειν πυνθανομένου Φωκίωνος αὐτοῦ, ποίοις χρήμασι πεπιστευκὼς ἐπὶ μέγαν καὶ πλούσιον βασιλέα Δαρεῖον μέλλει στρατεύειν, δείξας τοὺς φίλους εἶπεν· „τούτοις.“
+
+    When \[Alexander\] was intending to cross over into Asia and Phocion asked him what resources he trusted that he intended to wage war against the great and wealthy king Darius, showing him his friends he said, "These ones."
+
+87. Ὁ αὐτὸς ἐρωτηθεὶς τίνα μᾶλλον ἀγαπᾷ, Φίλιππον ἢ Ἀριστοτέλην, εἶπεν· „ὁμοίως ἀμφοτέρους· ὁ μὲν γάρ μοι τὸ ζῆν ἐχαρίσατο, ὁ δὲ τὸ καλῶς ζῆν ἐπαίδευσεν.“
+
+    \[Alexander\], being asked whom he loved more, Philip or Aristotle, said, "Both equally. For the one delighted me with life, and the other taught me to live well."
+
+88. Ὁ αὐτὸς Ἰολάου οἰνοχοοῦντος αὐτῷ \[καὶ\] φιάλην χρυσῆν ἀπολέσαντος καὶ δυσφοροῦντος εἶπεν· „ὅπου ἂν ᾖ, ἡμετέρα ἐστίν.“
+
+    \[Alexander\], when Iolaus lost a golden bowl while he was his wine-pourer and took it badly, said, "Wherever it is, it is ours."
+
+89. Ὁ αὐτὸς ὡς ἐν παρατάξει τινὶ Πισίδας ζωγρήσαντος τρισχιλίους ἠξίουν οἱ Μακεδόνες ἀποκτεῖναι πάντας διὰ τὸ πολλὰ κακὰ πεπονθέναι ὑπ’ αὐτῶν πολλάκις, „οὐ ποιήσω τοῦτο“, ἔφη· „οὐ γὰρ βούλομαι δήμιος ἀντὶ βασιλέως κεκλῆσθαι“.
+
+    \[Alexander\], when, after capturing alive 3000 Pisidians in a battle, the Macedonians resolved to kill them all, since they had suffered so many evils from them frequently, said, "I will not do this, for I do not wish to be called executioner instead of king."
+
+90. Ὁ αὐτὸς παρακαλούμενος ὑπὸ τῶν φίλων συνάγειν χρήματα εἶπεν· „οὐδὲν ὤνησεν οὐδὲ Κροῖσον.“
+
+    \[Alexander\], being summoned by his friends to sum up his wealth, said, "In no way did that benefit Croesus at all."
+
+91. Ὁ αὐτὸς θεασάμενος Διογένην τὸν κυνικὸν φιλόσοφον καὶ θαυμάσας εἶπέ τινι τῶν γνωρίμων· „ὡς ἡδέως ἂν ἐγενόμην Διογένης, εἰ μὴ ἐγεγόνειν Ἀλέξανδρος!“
+
+    \[Alexander\], seeing Diogenes the Cynic philosopher and marveling, said to one of his acquaintains, "How pleasantly would I have been born Diogenes had I not been born Alexander!"
+
+92. Ὁ αὐτὸς παραινοῦντος αὐτῷ Φιλίππου τοῦ πατρὸς Ὀλύμπια ἀγωνίσασθαι εἶπε· „τὸ μὲν νικᾶν τὸν ἀγῶνα τοῦτον οὐ βασιλικόν, τὸ δὲ ἡττᾶσθαι αἰσχρόν.“
+
+    \[Alexander\], when Philip was father was advising him to compete in the Olympic games, said, "To win at this contest is not kingly, and to be defeated is shameful."
+
+93. Ὁ αὐτὸς λοιδορούμενος ὑπὸ κακοῦ τραγῳδοῦ „νεανίσκε“, εἶπεν, „οὐδὲν θαυμαστὸν ποιεῖς· σὺ γὰρ καὶ τὸν Αἴαντα καὶ τὸν Ἀχιλλέα λοιδορεῖς.“
+
+    \[Alexander\], being mocked by a wicked actor of tragedy, said, "Young man, you are doing nothing marvelous. For you also mock both Ajax and Achilles."
+
+94. Ὁ αὐτὸς παραινούντων αὐτῷ τῶν φίλων στρατεύειν ἐπὶ τὰς Ἀμαζόνας εἶπε· „τὸ μὲν νικῆσαι γυναῖκας οὐκ ἔνδοξον τὸ δὲ νικηθῆναι ὑπ’ αὐτῶν ἄδοξον.“
+
+    \[Alexander\], when his friends were advising him to make war against the Amazons, said, "To conquer women is not noteworthy, and to be defeated by them is disreputable."
+
+95. Ὁ αὐτὸς ἰδών τινα ἐν γήρᾳ βάπτοντα τὰς τρίχας εἶπεν· „μὴ τὰς τρίχας βάπτε, ἀλλὰ τὰ γόνατα.“
+
+    \[Alexander\], seeing someone in old age dipping their hair in water, said, "Don't dip your hair but your knees."
+ 
+96. Ἀλέξανδρος ὁ βασιλεὺς πληρώσας ποτὲ ὀστέων πίνακα ἔπεμψεν Διογένει τῷ Κυνικῷ· ὁ δὲ λαβὼν εἶπε· „κυνικὸν μὲν τὸ βρῶμα, οὐ βασιλικὸν δὲ τὸ δῶρον.“
+
+    Alexander the king, having once filled up a trencher with bones, sent it to Diogenes the Cynic. And he, taking it, said, "The food is for the dogs, but the gift is not kingly."
+
+97. Ὁ αὐτὸς ἰδὼν Διογένην κοιμώμενον ἐν πίθῳ εἶπε· „πίθε μεστὲ φρενῶν“, ὁ δὲ φιλόσοφος ἀποστὰς εἶπεν· „ὦ βασιλεῦ μέγιστε, θέλω τύχης σταλαγμὸν ἢ φρενῶν πίθον, ἧς μὴ παρούσης δυστυχοῦσιν αἱ φρένες.“
+
+    \[Alexander\], seeing Diogenes lying in a jug, said, "Jug full of wits," and the philosopher, withdrawing from him, said, "O greatest king, I wish for a drop of fortune rather than a jug of wits, since with the fortune being gone, my wits fare ill."
+
+98. Τῷ αὐτῷ ἐξιόντι ἐπὶ πόλεμον Ἀριστοτέλης ἔφη· „περίμεινον τὸ τέλειον τῆς ἡλικίας καὶ τότε πολέμει.“ ὁ δὲ ἔφη· „φοβοῦμαι, μὴ περιμένων τὸ τέλειον τῆς ἡλικίας τὴν τῆς νεότητος τόλμαν ἀπολέσω·“
+
+    When \[Alexander\] was going off to war, Aristotle said, "Wait for the end of the prime of life and then wage war." But he said, "I am afraid that if I wait for the end of the prime of life I will lose the daring of youth."
+
+99. Ὁ αὐτὸς ἰδὼν Δαρεῖον πεσόντα καὶ τὸ σῶμα γυμνωθέντα ἄρας τὴν ἑαυτοῦ χλαμύδα ἐπέθηκεν αὐτῷ εἰπών· „ἄνδρες φίλοι, οὐ τὸν νεκρὸν καλύπτω, ἀλλὰ τὴν τύχην περιστέλλω.“
+
+    \[Alexander\], seeing Darius fallen and lifting his naked body, placed his own mantle upon him, saying, "Dear men, I do not cover up a corpse, but rather I wrap up his fate."
+
+100. Ὁ αὐτὸς εἰς Ἰλλυρίους παραγενόμενος ἐν τῷ τοῦ Διὸς ἱερῷ κατιδὼν \<γυναῖκα\> κάλλει διαφέρουσαν \<ἐκπλαγεὶς\> αὐτῆς τὴν εὐμορφίαν πολὺν χρόνον ἐθεᾶτο· τοῦ δὲ Ἡφαιστίωνος εἰπόντος, \<ὅτι\> εἰκότως \<ἂν\> παραλάβοι τὴν προῃρημένην ἔφη· „καὶ πῶς οὐ δεινόν, εἰ ἄλλων ἀκρασίας κολάζειν βουλόμενοι δουλεύοντες ἀκρασίαις ὑπὸ τῶν ἐκτὸς ἀνθρώπων φωραθῶμεν;“
+
+     \[Alexander\], having come to the Illyrians and seeing in the temple of Zeus \<a woman\> outstanding in beauty, \<amazed\> at her beauty he watched her for a long time. And when Hephaistion said \<that\> he could reasonably take the preferred woman as his own, he said, "And how is this not dreadful, if, when we want to chastise other men's lack of control, we are detected by foreign men being slaves to our own lack of control?"
+
+101. Ὁ αὐτὸς „ἐν τίνι μάλιστα ἀπολέλαυκας τῆς δυναστείας;“ ἐρωτηθεὶς ἔφη· „ἐν τῷ μηδενὸς εἰς εὐεργεσίαν ἡττᾶσθαι.“
+
+     \[Alexander\], being asked, "In what way do you most enjoy your dominion?" said, "In being conquered by no one in doing good deeds."
+
+102. Ὁ αὐτὸς παράγγελμα ἔλαβεν ὅτι „ἐὰν δύνῃ ὁδεῦσαι, μὴ πλεύσῃς· καθ’ ἑκάστην ἡμέραν διατίθου· γυναικὶ ἀπόῤῥητα μὴ θαῤῥήσῃς· καὶ ἐὰν ὀργισθῇς κατά τινος, μὴ ποιήσῃς εἰς αὐτὸν <ἐξέλευσιν>, πρὶν <ἂν> ἀπαγγείλῃς <τὰ κδ στοιχεῖα τοῦ ἀλφαβήτου>“.
+
+     \[Alexander\] took an instruction that said, "If you can travel by land, do not sail. Settle yourself every day. Do not trust a woman with secret things. And if you become angry at someone, do not make a \<decision\> against him before you relate \<the 24 letters of the alphabet\>.
+
+103. Ὁ αὐτὸς πρεσβευτὴν μέλλων πέμπειν εἰς Πέρσας ἔφη εὐλαβεῖσθαι, μὴ ἀλογηθῇ· τοῦ δὲ εἰπόντος· „καλὸν ἔχοιμι ὑπεραποθνήσκειν σοῦ, βασιλεῦ“ εἶπε· „κἀμοὶ τὸ φείδεσθαι τῶν τοιούτων φίλων.“
+
+     \[Alexander\], being about to send an ambassador to the Persians, told him to take care not to be heedless. And when he said, "I would consider it a good thing to die on your behalf, king." he said, "And I would consider it good to spare such friends."
+
+104. Ὁ αὐτὸς αἰτήσαντος αὐτὸν Διογένους δραχμὴν ἔφη· „οὐ βασιλικὸν τὸ δῶρον·“ τοῦ δὲ εἰπόντος· „καὶ δὸς τάλαντον“ εἶπεν· „ἀλλ’ οὐ κυνικὸν τὸ αἴτημα.“
+
+     \[Alexander\], when Diogenes asked him for a drachma, said, "The gift is not kingly." But when he said, "Then give a talent," he said, "But the request is not Cynic."
+
+105. Ὁ αὐτὸς συμβουλευόντων αὐτῷ πολλῶν καταδουλώσασθαι τὴν Ἑλλάδα „βούλομαι“, ἔφη, „ἐπὶ πολὺν χρόνον χρηστὸς κληθῆναι ἢ δεσπότης ἐπ’ ὀλίγον“.
+
+     \[Alexander\], when many people were counseling him to enslave Greece, said, "I wish to be called good for a long time rather than a master for a short time."
+
 106. Ἀνταγόρας ὁ ποιητὴς ἀκρόασιν παρέχων ἐν Θήβαις καὶ μηδεμιᾶς τυγχάνων τιμῆς εἶπεν· „ὦ ἄνδρες Θηβαῖοι· ἥμαρτεν Ὀδυσσεὺς ἐμφράξας τῶν ἑταίρων τὰς ἀκοάς, ὅτε τὰς Σειρῆνας παρέπλει· ἔδει γὰρ αὐτὸν ὑμᾶς ναύτας μισθώσασθαι.“
 
      Antagoras the poet giving a recitation in Thebes and flopping with the audience, said: "Theban citizens! Odysseus erred in plugging his companions' ears, when they were sailing by the Sirens: he should've just hired you as sailors instead."
