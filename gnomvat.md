@@ -158,7 +158,7 @@
 
 40. Ὁ αὐτὸς ἐπιλαμβανομένου αὐτοῦ ποτε Πλάτωνος [ἐπὶ] τῶν δώδεκα δραχμῶν πολυτελῆ ἰχθὺν πρίασθαι ἠρώτησεν, εἰ αὐτὸς ἂν δραχμῆς τὸν αὐτὸν ἰχθὺν ὠνήσατο· τοῦ δὲ συνθεμένου ἔφη μηδὲ αὑτῷ πολλοῦ καθεστηκέναι· „ὃ γάρ ἐστι Πλάτωνι ἡ μία δραχμή, τοῦτο Ἀριστίππῳ αἱ δώδεκα.“ 
 
-    When Plato grabbed \[Aristippus\] for trying to buy a fancy fish for 12 drachmae he asked, if \[Plato\] would buy the same fish for a drachma; and when he agreed, \[Aristippus\] said it wouldn't be too great a cost for him, "Since what is one drachma for Plato, is twelve for Aristippus."
+    When Plato rebuked \[Aristippus\] for trying to buy a fancy fish for 12 drachmae he asked, if \[Plato\] would buy the same fish for a drachma; and when he agreed, \[Aristippus\] said it wouldn't be too great a cost for him, "Since what is one drachma for Plato, is twelve for Aristippus."
 
 41. \[Aristippus\]
 42. \[Aristippus\]
@@ -167,7 +167,10 @@
 
     \[Aristippus\] said: "If nothing else, I've gained this from philosophy: to meet the things that befall me rationally."
 
-45. \[Aristippus\]
+45. Ὁ αὐτὸς ἐπιλαβομένων αὐτοῦ τῶν πολιτῶν, ὅτι μειρακίοις μᾶλλον συνδιατρίβει διαλεγόμενος αὐτοῖς περὶ φρονήσεως, ἔφη· „καὶ γὰρ ὑμᾶς, ὦ πολῖται, ὁρῶ οὐ τοὺς γέροντας τῶν ἵππων δαμάζοντας, ἀλλὰ τοὺς πώλους.“
+
+    \[Aristippus\] having been rebuked by the populace, that he spent more time talking with youths about wisdom than with them, said: "Because, citizens, I don't see you taming the old horses, but the young ones."
+
 46. Ἄλεξις, ὁ τῶν κωμῳδιῶν ποιητής, ἐπειδή τις αὐτὸν ὄντα πρεσβύτην ἑώρα μόλις πορευόμενον καὶ ἠρώτα· „τί ποιεῖς“; „κατὰ σχολὴν“, φησίν, „ἀποθνήσκω“.
 
     Alexis, the comic poet, when someone saw him as an old man walking slowly and asked: "What are you doing?", said: "By slowness, dying."
