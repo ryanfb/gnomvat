@@ -255,7 +255,10 @@
 60. Archidamos
 61. Anaximenes
 62. Aeschines
-63. \[Aeschines\]
+63. Ὁ αὐτὸς λέγων ποτὲ δίκην καὶ ἀποκοιμηθέντων τῶν δικαστῶν, „προσέχετε“, εἶπεν, „ἄνδρες δικασταί· οὕτως ὑμῖν γένοιτο ἰδεῖν ἐνύπνιον περὶ τῆς δίκης ἧς λέγω.“
+
+    When \[Aeschines\] was speaking at a trial and the jurors had fallen asleep, he said: "Pay attention, jurors! Thus it might be possible for you to see in your dreams about the trial I'm discussing."
+
 64. Anaxarchos
 65. Arcesilaus
 66. \[Arcesilaus\]
