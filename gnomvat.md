@@ -167,7 +167,7 @@
 
 43. Ὁ αὐτὸς μέλλων ἐντυγχάνειν Φαρναβάζῳ, τῷ βασιλέως σατράπῃ, [καὶ] λέγοντός τινος αὐτῷ· „θάρσει, ὦ Ἀρίστιππε“, ἔφη· „εἴ τι ἕτερον ἔχεις, λέγε· ἐγὼ δὲ, ἐξ οὗ Σωκράτει ὡμίλησα, οὐδενὸς ἀνδρὸς ὁμιλίαν ηὐλαβήθην“.
 
-    \[Aristippus\] was about to meet Pharnabazus, the king's satrap, and someone said to him: "Cheer up, Aristippus!", so he said: "If you have something else to say, say it; for my part, since I've conversed with Socrates, I haven't been wary of conversing with any other man."
+    \[Aristippus\] was about to meet Pharnabazus, the king's satrap, and someone said to him: "Cheer up, Aristippus!", so he said: "If you have something else to say, say it; for my part, ever since I conversed with Socrates, I haven't been wary of conversing with any other man."
 
 44. Ὁ αὐτὸς ἔφησεν· „καὶ εἰ μηδὲν ἄλλο, ἐκ φιλοσοφίας τοῦτό μοι περιγέγονε· τὸ τοῖς προσπίπτουσι κατὰ λόγον ὑπαντᾶν.“
 
