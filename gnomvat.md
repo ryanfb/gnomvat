@@ -186,20 +186,50 @@
 
     \[Aristides\], hearing that the Athenians had destroyed the statues of him, said: "But not the virtue they erected them on account of."
 
-49. Aristotle
-50. \[Aristotle\]
-51. \[Aristotle\]
-52. \[Aristotle\]
-53. \[Aristotle\]
-54. \[Aristotle\]
-55. \[Aristotle\]
-56. \[Aristotle\]
-57. \[Aristotle\]
+49. Ἀριστοτέλης ὁ φιλόσοφος ἰδὼν νέον σπουδάζοντα περὶ τὰς θέας, „ὅρα“, εἶπεν, „ὦ νεανίσκε, μὴ σπουδάζων περὶ τὸ θεᾶσθαι ἑτέρους αὐτὸς μηδὲν ἄξιον σχῇς θέας“.
+
+    Aristotle the philosopher, seeing a young man anxious about getting a view, said, "Watch, o young man, lest, while being anxious about viewing others, you yourself have nothing worthy of a view."
+ 
+50. Ὁ αὐτὸς ἔφη τὴν παιδείαν εὐτυχοῦσι μὲν εἶναι κόσμον, ἀτυχοῦσι δὲ καταφύγιον.
+
+    \[Aristotle\] said that education is an ornament for those faring well, and a refuge for those faring ill.
+
+51. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, διὰ τί οἱ Βυζάντιοι λάλοι εἰσίν, εἶπεν· „ὅτι ἐπὶ τοῦ στόματος οἰκοῦσιν“.
+
+    When \[Aristotle\] was asked by someone why the Byzantines are talkative, he said, "Because they live at the mouth."
+
+52. Ὁ αὐτὸς Θεοφράστου ποτὲ καὶ Καλλισθένους μελετώντων παρ’ αὐτῷ καὶ τοῦ μὲν εὐροοῦντος ἐν τῷ λέγειν, τοῦ δὲ βραδύτερον γυμναζομένου ᾧ μὲν ἔφησε δεῖν χαλινὸν περιτεθῆναι, ᾧ δὲ προσαχθῆναι μύωπα.
+
+    \[Aristotle\], once when Theophrastus and Callisthenes were studying at his side and the former was flowing well in speaking and the latter was practicing more slowly, said that the bridle must be placed upon the one, and the gadfly must be applied to the other.
+
+53. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, τί ἄνθρωπος ἶσον ἔχει θεῷ, εἶπε· „τὸ εὐεργετεῖν“.
+
+    \[Aristotle\], having been asked by someone how a man is equal to a god, said, "In doing good deeds."
+
+54. Ὁ αὐτὸς θεασάμενός τινα ταῖς τοῦ πατρὸς ἀπειλαῖς ἀχθόμενον εἶπε· „μὴ εἰς τοὺς λόγους αὐτοῦ ἀπόβλεπε, μειράκιον, ἀλλ’ εἰς τὰ σπλάγχνα“.
+
+    \[Aristotle\], seeing someone grieved at the threats of his father, said, "Do not pay heed to his words, young man, but to his heart."
+
+55. Ὁ αὐτὸς ἔφη τοὺς ἀπαιδεύτους ἐν τοῖς ζῶσι νεκροὺς περιπατεῖν.
+
+    \[Aristotle\] said that the uneducated walk about as corpses among the living.
+
+56. Ὁ αὐτὸς συνηδομένου τινὸς αὐτῷ, ὅτι Ἀλέξανδρον μαθητὴν ἔχει, „ἐκείνῳ“, ἔφη, „συνήδου, ὅτι Ἀριστοτέλην ὑφηγητὴν ἔχει.“
+
+    \[Aristotle\], when someone was rejoicing with him, because he had Alexander as a student, said, "Rejoice with that man, because he has Aristotle as a teacher.
+
+57. Ὁ αὐτὸς ἔφη· μεγάλους χρὴ λαμβάνειν μισθοὺς παρὰ μὲν τῶν εὐφυῶν, ὅτι πολλὰ ὠφελοῦνται, παρὰ δὲ τῶν ἀφυῶν, ὅτι πολλὰ πράγματα μανθάνοντες παρέχουσι τοῖς διδάσκουσιν
+
+    \[Aristotle\] said, "It is necessary to take large payments from the competent because they are helped much and from the incompetent because, in their learning, they provide many troubles to their teachers."  
+
 58. ῾Ο αὐτὸς ἐρωτηθείς, τί δυσκολώτατόν ἐστιν ἐν βίῳ, εἶπε· „τὸ σιωπᾶν”.
 
     \[Aristotle\] having been asked, what is most difficult in life, said: "Keeping silent."
 
-59. \[Aristotle\]
+59. Ὁ αὐτὸς ἔφη τὰς μὲν ῥίζας τῆς παιδείας εἶναι πικράς, τοὺς δὲ καρποὺς γλυκεῖς.
+
+    \[Aristotle\] said that the roots of education are bitter but that the fruits are sweet.
+
 60. Archidamos
 61. Anaximenes
 62. Aeschines
