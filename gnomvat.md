@@ -160,7 +160,26 @@
 
     When Plato rebuked \[Aristippus\] for trying to buy a fancy fish for 12 drachmae he asked, if \[Plato\] would buy the same fish for a drachma; and when he agreed, \[Aristippus\] said it wouldn't be too great a cost for him, "Since what is one drachma for Plato, is twelve for Aristippus."
 
-41. \[Aristippus\]
+41. Ὁ αὐτὸς παρὰ Διονυσίῳ ποτὲ τῷ τυράννῳ γυναικείων ἐσθήτων περιφερομένων ἐν τῷ συμποσίῳ τοῖς βουλομένοις ἐνδύσασθαι καὶ συμπαῖξαι ἡνδήποτε παιδιὰν καὶ τοῦ Πλάτωνος παραιτησαμένου διὰ τοιούτου στίχου·
+
+    > οὐκ ἂν δυναίμην θῆλυν ἐνδῦναι στολὴν 
+    
+    \[ὁ Ἀρίστιππος\] εἶπεν· δός· 
+
+    > καὶ γὰρ ἐν βακχεύμασιν
+    
+    > οὖσ’ ἥ γε σώφρων οὐ διαφθαρήσεται.
+    
+    When \[Aristippus\] was at Dionysius the tyrant's, women's clothes were being passed around in the symposium for those wishing to put them on and play together in some kind of game, and Plato declined with this line of verse:
+
+    > It's not possible for me to put on a woman's garment
+    
+    \[Aristippus\] said: Yield,
+
+    > For even in Bacchic rituals,
+    
+    > a woman who is truly self-controlled will not be seduced.
+
 42. Ὁ αὐτὸς μεταπεμπομένου πολλάκις αὐτὸν τοῦ πατρός, ὡς οὐχ ὑπήκουσεν γράψαντος, ὅτι πωλήσει αὐτὸν κατὰ τοὺς πατρίους νόμους, ἀντέγραψεν ὀλίγον ἔτι περιμεῖναι χρόνον· καὶ <γὰρ> πλείονος ἄξιον γενόμενον πλείονος πωλήσειν. 
 
     \[Aristippus\] was being sent for by his father repeatedly, but since he did not obey, his father wrote that he would sell him into slavery in accordance with the parental laws; so Aristippus wrote back to wait a little while longer: for becoming more worthy he would be able to be sold for more.
