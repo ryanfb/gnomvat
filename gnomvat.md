@@ -161,7 +161,10 @@
     When Plato rebuked \[Aristippus\] for trying to buy a fancy fish for 12 drachmae he asked, if \[Plato\] would buy the same fish for a drachma; and when he agreed, \[Aristippus\] said it wouldn't be too great a cost for him, "Since what is one drachma for Plato, is twelve for Aristippus."
 
 41. \[Aristippus\]
-42. \[Aristippus\]
+42. Ὁ αὐτὸς μεταπεμπομένου πολλάκις αὐτὸν τοῦ πατρός, ὡς οὐχ ὑπήκουσεν γράψαντος, ὅτι πωλήσει αὐτὸν κατὰ τοὺς πατρίους νόμους, ἀντέγραψεν ὀλίγον ἔτι περιμεῖναι χρόνον· καὶ <γὰρ> πλείονος ἄξιον γενόμενον πλείονος πωλήσειν. 
+
+    \[Aristippus\] was being sent for by his father repeatedly, but since he did not obey, his father wrote that he would sell him into slavery in accordance with the parental laws; so Aristippus wrote back to wait a little while longer: for becoming more worthy he would be able to be sold for more.
+
 43. Ὁ αὐτὸς μέλλων ἐντυγχάνειν Φαρναβάζῳ, τῷ βασιλέως σατράπῃ, [καὶ] λέγοντός τινος αὐτῷ· „θάρσει, ὦ Ἀρίστιππε“, ἔφη· „εἴ τι ἕτερον ἔχεις, λέγε· ἐγὼ δὲ, ἐξ οὗ Σωκράτει ὡμίλησα, οὐδενὸς ἀνδρὸς ὁμιλίαν ηὐλαβήθην“.
 
     \[Aristippus\] was about to meet Pharnabazus, the king's satrap, and someone said to him: "Cheer up, Aristippus!", so he said: "If you have something else to say, say it; for my part, since I've conversed with Socrates, I haven't been wary of conversing with any other man."
