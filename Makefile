@@ -1,2 +1,2 @@
-progress.json: gnomvat.md
+progress.json: gnomvat.md update-progress.sh
 	./update-progress.sh
