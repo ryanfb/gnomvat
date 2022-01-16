@@ -156,7 +156,10 @@
 
     \[Aristippus\] had taken a lot of money from Dionysius when sailing back and because of this the sailors were plotting against him, so he moved from the middle of the boat to one side and ordered them to empty the money out onto the benches as though they could immediately count the money, but instead he turned around and threw it into the deep; and with the sailors being furious at this, he said: "Better to lose the money because of me than to lose me because of the money."
 
-40. \[Aristippus\]
+40. Ὁ αὐτὸς ἐπιλαμβανομένου αὐτοῦ ποτε Πλάτωνος [ἐπὶ] τῶν δώδεκα δραχμῶν πολυτελῆ ἰχθὺν πρίασθαι ἠρώτησεν, εἰ αὐτὸς ἂν δραχμῆς τὸν αὐτὸν ἰχθὺν ὠνήσατο· τοῦ δὲ συνθεμένου ἔφη μηδὲ αὑτῷ πολλοῦ καθεστηκέναι· „ὃ γάρ ἐστι Πλάτωνι ἡ μία δραχμή, τοῦτο Ἀριστίππῳ αἱ δώδεκα.“ 
+
+    When Plato grabbed \[Aristippus\] for trying to buy a fancy fish for 12 drachmae he asked, if \[Plato\] would buy the same fish for a drachma; and when he agreed, \[Aristippus\] said it wouldn't be too great a cost for him, "Since what is one drachma for Plato, is twelve for Aristippus."
+
 41. \[Aristippus\]
 42. \[Aristippus\]
 43. \[Aristippus\]
