@@ -709,7 +709,10 @@
 
      \[Zeno\] having been asked by Ariston, what he should do to become wise, said: "following those better than you, inquiring with those equal to you, leading those inferior to you."
 
-302. \[Zeno\]
+302. Ὁ αὐτὸς ἔφη τὴν παιδείαν πρὸς εὐδαιμονίαν αὐτάρκη.
+
+     \[Zeno\] said that education suffices for happiness.
+
 303. \[Zeno\]
 304. \[Zeno\]
 305. Zaleucus
