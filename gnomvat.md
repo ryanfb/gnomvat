@@ -725,7 +725,10 @@
      \[Zeno\] having been asked how a youth might err least, said: "If he keeps his eyes both on those he greatly respects and those he disdains."
 
 305. Zaleucus
-306. \[Zaleucus\]
+306. Οἴησίς ἐστιν ἐγκοπὴ προκοπῆς.
+
+     \[Zaleucus said that?\] an opinion is an obstacle to progress.
+
 307. Hegesias
 308. \[Hegesias\]
 309. Ἡρόδοτος ὁ ἱστοριογράφος ἐρωτηθεὶς ὑπό τινος πῶς ἂν δύναιντο <οἱ> ἄνθρωποι εὐθυμεῖν εἶπεν· „ἐὰν μὴ πολλὰ πρήσσωσιν.“
