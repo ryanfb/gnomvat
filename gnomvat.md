@@ -795,7 +795,10 @@
 
      \[Zeno\] having been asked how a youth might err least, said: "If he keeps his eyes both on those he greatly respects and those he disdains."
 
-305. Zaleucus
+305. Ζάλευκος ὁ τῶν Λοκρῶν νομοθέτης ἐρωτηθεὶς \[ὑπό τινος\] πῶς \<ἂν\> ἀναμάρτητος γένοιτό τις εἶπεν· „εἴ \[τις\] ἐχθροὺς ἔχοι πολλούς· φοβούμενος γὰρ αὐτῶν τὰς παραστάσεις καὶ τὸν ἔλεγχον σπανίως ἂν πειρῷτο τὸ καλῶς ἔχον ὑπερβαίνειν“.
+
+     Zaleucus the lawgiver of the Locrians having been asked \[by someone\] how one might become blameless, said: "If \[one\] might have many enemies; for fearing their rebukes and reproaches they'll seldom try to transgress good sense."
+
 306. Οἴησίς ἐστιν ἐγκοπὴ προκοπῆς.
 
      \[Zaleucus said that?\] an opinion is an obstacle to progress.
