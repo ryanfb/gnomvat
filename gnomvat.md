@@ -701,7 +701,10 @@
 
      \[Zeno\] said that those who care for their body, but are equally careless for their soul, are like those who are looking for clean clothes, but are unwashed and filthy.
 
-300. \[Zeno\]
+300. Ὁ αὐτὸς ἰδὼν ἀκόλουθόν τινος τῶν γνωρίμων μεμαστιγωμένον „ὁρῶ σου“ ἔφη „τοῦ θυμοῦ τὰ ἴχνη“.
+
+     \[Zeno\] seeing that someone enslaved by one of his pupils had been whipped, said: "I see the footprints of your anger."
+
 301. \[Zeno\]
 302. \[Zeno\]
 303. \[Zeno\]
