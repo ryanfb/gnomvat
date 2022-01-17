@@ -252,7 +252,10 @@
 
     \[Aristotle\] said that the roots of education are bitter but that the fruits are sweet.
 
-60. Archidamos
+60. Ἀρχίδαμος, ὁ τῶν Λακεδαιμονίων βασιλεύς, θεασάμενος τὸν ἴδιον παῖδα προπετῶς μαχόμενον τοῖς Ἀθηναίοις εἶπεν· „ἢ τῇ δυνάμει πρόσθες ἢ τοῦ θράσους ἄφελε“.
+
+    Archidamos, the king of the Lacedaimonians, seeing his own son fighting the Athenians rashly, said, "Either add to your strength or subtract from your boldness."
+
 61. Ἀναξιμένης ἐπὶ ξένης τελευτῶν ἠρωτᾶτο ὑπὸ τῶν φίλων, εἰ βούλοιτο εἰς πατρίδα ἀνακομισθεὶς κηδευθῆναι· ὁ δὲ εἶπεν· „οὐ γὰρ ἐκ παντὸς κλίματος ὁδὸς ἀνέῳγεν εἰς Ἅιδην“;
 
     When Anaximenes was dying in a foreign land he was asked by his friends, if he wished to be returned to his homeland for burial; but he said: "Does the road out of every place not open onto Hades?"
