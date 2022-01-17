@@ -705,7 +705,10 @@
 
      \[Zeno\] seeing that someone enslaved by one of his pupils had been whipped, said: "I see the footprints of your anger."
 
-301. \[Zeno\]
+301. Ὁ αὐτὸς Ἀρίστωνος αὐτὸν ἐρομένου τί ποιῶν ἐγένετο σοφὸς εἶπε· „τοῖς μὲν κρείττοσιν ὑποτασσόμενος, τοῖς δὲ πᾶσιν ἴσοις συζητῶν, τοῖς \<δ’\> ἥττοσιν εἰσηγούμενος“.
+
+     \[Zeno\] having been asked by Ariston, what he should do to become wise, said: "following those better than you, inquiring with those equal to you, leading those inferior to you."
+
 302. \[Zeno\]
 303. \[Zeno\]
 304. \[Zeno\]
