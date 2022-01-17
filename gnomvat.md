@@ -713,7 +713,10 @@
 
      \[Zeno\] said that education suffices for happiness.
 
-303. \[Zeno\]
+303. Ὁ αὐτὸς θεωρήσας ἐπὶ τῆς πλατείας ὑπὸ κοράκων διασπώμενόν τινα εἶπεν· „οὗτος ὑπὸ τῆς φύσεως ἔσχεν τοὺς κηδεύοντας“.
+
+     \[Zeno\] having seen someone being torn apart by crows in the street, said: "Thus he had nature's undertakers."
+
 304. \[Zeno\]
 305. Zaleucus
 306. \[Zaleucus\]
