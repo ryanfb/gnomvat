@@ -284,9 +284,18 @@
 
     Alcidamas the rhetorician said that the Odyssey is a mirror of human life.
 
-68. Agesilaus
-69. \[Agesilaus\]
-70. \[Agesilaus\]
+68. Ἀγησίλαος ὁ Λακεδαιμόνιος ἐρωτηθεὶς ὑπό τινος, τί ἄν τις ποιῶν γένοιτο πλούσιος, ἔφη· „ἐὰν τὰς ἐπιθυμίας παραιτήσηται“.
+
+    Agesilaus the Lacedaimonian, having been asked by someone by what methods someone could become rich, he said, "If he refuses his emotions."
+
+69. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, διὰ τί ἀτείχιστός ἐστιν ἡ Σπάρτη, „μὴ ψεύδου“, ἔφη, „τετείχισται γάρ, οὐ λίθοις, ἀλλὰ ταῖς τῶν <ἐνοικούντων ἀρεταῖς>“.
+
+    \[Agesilaus\], having been asked by someone why Sparta is unwalled, said, "Do not lie, for it is walled, not with stones, but with the excellence of its inhabitants."
+
+70. Ὁ αὐτὸς ἐρωτηθείς, τίνα δεῖ τὸν στρατηγὸν ἔχειν εἶπεν· „πρὸς μὲν τοὺς ἐναντίους τόλμαν, πρὸς δὲ τοὺς ὑποτεταγμένους εὔνοιαν, πρὸς δὲ τοὺς καιροὺς λογισμόν.“
+
+    \[Agesilaus\], having been asked what a general should possess, said, "Daring against his opponents, good-will towards those placed under him, and a plan for the right moment."
+
 71. Ἀντιφῶν ἐρωτηθεὶς τί ἐστι μαντικὴ εἶπεν· „ἀνθρώπου φρονίμου εἰκασμός“.
 
     Antiphon having been asked by someone what prophecy is, said: "The guess of a human mind."
