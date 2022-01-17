@@ -444,19 +444,33 @@
 
      Antigonus the king was praying to the god to ask them to protect him from those seeming to be friends; when someone asked him why he needed to make this sort of request, he said: "Because I can protect myself against enemies."
 
-108. Ἄμασις, ὁ τῶν Αἰγυπτίων βασιλεύς, φίλῳ ἀποβαλόντι υἱὸν γράφων παραμυθητικῶς εἶπεν· „εἰ, ὅτε μηδέπω ἦν, οὐκ ἐλυποῦ, μηδὲ
-νῦν, ὅτε οὐκ ἔστι, λυπηθῇς“. 
+108. Ἄμασις, ὁ τῶν Αἰγυπτίων βασιλεύς, φίλῳ ἀποβαλόντι υἱὸν γράφων παραμυθητικῶς εἶπεν· „εἰ, ὅτε μηδέπω ἦν, οὐκ ἐλυποῦ, μηδὲ νῦν, ὅτε οὐκ ἔστι, λυπηθῇς“.
 
      Amasis, king of Egypt, in a letter of consolation to a friend who had lost his son, said: "If, when he did not yet exist, you did not grieve, neither now, when he is no longer, should you grieve."
 
-109. Antagoras
-110. \[Antagoras\]
-111. \[Antagoras\]
-112. \[Antagoras\]
-113. \[Antagoras\]
-114. \[Antagoras\]
-115. \[Antagoras\]
-116. \[Antagoras\]
+109. Ἀνταγόρας ὁ Ῥόδιος ἐποποιὸς ἐν Θήβαις ἀναγινώσκων τὸ τῆς Θηβαΐδος σύγγραμμα, ὡς οὐδεὶς ἐπεσημαίνετο, εἱλήσας τὸ βιβλίον εἶπεν· „δικαίως καλεῖσθε Βοιωτοί· βοῶν γὰρ ὦτα ἔχετε.“
+
+     Antagoras the epic poet of Rhodes, reading his work the Thebaid in Thebes, when no one applauded, rolling up the scroll, said, "Justly are you called Boiotians. For you have the ears of bovines."
+
+110. Ὁ αὐτὸς εἰς τὸ Τριχώνιον τῆς Αἰτωλίας ἐπιὼν, ἐπεὶ ἀναγινώσκοντος αὐτοῦ οὐδεὶς ἐπεσήμαινε, „δεόντως“, εἶπεν, „ἄνδρες, καὶ σφόδρα οἰκείως ὑμῖν ἐπίκειται τὸ τῆς πόλεως ὄνομα· παρὰ τρίχα \<γὰρ\> ὄνοι γεγόνατε.“
+
+     \[Antagoras\], journeying into Trichonion of Aitolia, when no one applauded while he was reading, said, "Fittingly, men, and very reasonably is the name of this city applied to you. For you are within a hair of becoming asses."
+
+111. Ὁ αὐτὸς ἔφη· „αἱρετώτερόν ἐστιν ἐν ἐρημίᾳ λέγειν ἢ \<ἐν\> ἀκροαταῖς μὴ ἐπισημαινομένοις· ἐκεῖ μὲν γὰρ ἠχὼ τὴν ἀντιφώνησιν ἐρανίζει· ἐν δὲ τούτοις καὶ τὴν ὑπὸ τῆς φύσεως δεδομένην φωνὴν ἀπόλλυσθαι συμβαίνει.“
+
+     \[Antagoras\] said, "It is preferable to read in a desert than \<among\> listeners when they do not applaud.  For, there, the echo collects the answer. But among these men, it happens that even the voice given by nature is lost."
+
+112. Ὁ αὐτὸς καταδικάζειν τινὸς θανατικὴν ψῆφον μέλλων ἐδάκρυσεν· εἰπόντος δέ τινος· „τί παθὼν αὑτὸς καταδικάζεις καὶ κλαίεις“; εἶπεν· „ὅτι ἀναγκαῖόν ἐστι τῇ μὲν φύσει τὸ συμπαθὲς ἀποδοῦναι, τῷ δὲ νόμῳ τὴν ψῆφον.“
+
+     \[Antagoras\], being about to charge someone with a vote of death, began to weep. And when someone said, "What have you suffered that you yourself give the charge and weep?" he said, "Because it is necessary to give sympathy because of nature, but to give the vote because of the law."
+
+113. Ὁ αὐτὸς αἰσχρὸς ὢν τὴν ὄψιν γενομένων αὐτῷ παιδίων ὁμοίων εἶπεν· „ἔχω γυναῖκα λίαν σώφρονα.“
+
+     \[Antagoras\], being ugly, when children were born to him who looked like him, said, "I have a wife who is very chaste."
+
+114. Anaxagoras
+115. \[Anaxagoras\]
+116. \[Anaxagoras\]
 117. Ἀναξαγόρας ἀπαγγείλαντός τινος, ὅτι τεθνήκασιν αὐτοῦ οἱ παῖδες, ἔφη θνητοὺς γεννῆσαι.
 
      Anaxagoras on receiving the message, that his children had died, said that he had fathered mortals.
