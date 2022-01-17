@@ -508,11 +508,26 @@
 
      \[Ariston\] prescribed accepting the labors of the healthy, so that we would not wait for those of the sick.
 
-124. Aesop
-125. \[Aesop\]
-126. \[Aesop\]
-127. \[Aesop\]
-128. \[Aesop\]
+124. Αἴσωπος ὁ λογοποιὸς ἀγόμενος ὑπὸ τοῦ δεσπότου εἰς μυλῶνα ἠρώτα· „τί με ἄγεις;“ ὁ δὲ εἶπεν· „ἵνα χρήσιμος γένῃ“· „τί οὖν“, φησίν, „οὐχὶ καὶ τοὺς υἱούς σου ὧδε ἄγεις;“
+
+     Aesop the writer of fables, being led by his master to the mill-house, asked, "Why are you leading me?" And he said, "So that you may become useful." He says, "So why do you not also lead your sons this way?"
+
+125. Ὁ αὐτὸς ἐρωτώμενος ὑπό τινος διὰ τί τὰ αὐτομάτως ἐκ γῆς φυόμενα ταχεῖαν τὴν αὔξησιν ἔχει, τὰ δὲ σπειρόμενα καὶ φυτευόμενα βραδέως αὔξεται εἶπεν· „ὅτι <ἡ γῆ> τῶν μὲν μήτηρ ἐστί, τῶν δὲ μητρυιά.“
+
+     \[Aesop\], being asked by someone why the things that sprout of their own accord from the earth have a quick growth, but the things that are sown and planted grow slowly, said, "Because \<the earth\> is the mother of some things and the step-mother of others."
+
+126. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί τῶν ζῴων ἐστὶ σοφώτατον εἶπεν· „τῶν μὲν χρησίμων μέλισσα, τῶν δὲ ἀχρήστων ἀράχνης.“
+
+     \[Aesop\], having been asked by someone what animal is the wisest, said, "Of the useful ones, the bee, and of the useless ones, the spider."
+
+127. Ὁ αὐτὸς ἐρωτηθεὶς πότε τοῖς ἀνθρώποις ἔσται κακῶς εἶπεν· „ὅταν πάντες πάντα ποιῶσιν“.
+
+     \[Aesop\], having been asked when it will be bad for mortals, said, "When everyone does everything."
+
+128. Ὁ αὐτὸς ἐρωτώμενος ὑπό τινος πῶς ἂν μεγίστη ταραχὴ γένοιτο ἐν ἀνθρώποις ἔφη· „εἰ οἱ τετελευτηκότες ἀναστάντες ἀπαιτοῖεν τὰ ἴδια.“
+
+     \[Aesop\], being asked by someone how a great disturbance could happen among mortals, said, "If the dead, rising up, should ask for their belongings."
+
 129. Ἀπελλῆς ὁ ζωγράφος ἐρωτηθεὶς διὰ τί τὴν Τύχην καθημένην ἔγραψεν εἶπεν· „ὅτι οὐχ ἕστηκεν.“
 
      Apelles the painter having been asked why he'd painted Tyche sitting, said: "Since she never stood still."
