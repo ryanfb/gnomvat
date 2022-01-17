@@ -253,7 +253,10 @@
     \[Aristotle\] said that the roots of education are bitter but that the fruits are sweet.
 
 60. Archidamos
-61. Anaximenes
+61. Ἀναξιμένης ἐπὶ ξένης τελευτῶν ἠρωτᾶτο ὑπὸ τῶν φίλων, εἰ βούλοιτο εἰς πατρίδα ἀνακομισθεὶς κηδευθῆναι· ὁ δὲ εἶπεν· „οὐ γὰρ ἐκ παντὸς κλίματος ὁδὸς ἀνέῳγεν εἰς Ἅιδην“;
+
+    When Anaximenes was dying in a foreign land he was asked by his friends, if he wished to be returned to his homeland for burial; but he said: "Does the road out of every place not open onto Hades?"
+
 62. Aeschines
 63. Ὁ αὐτὸς λέγων ποτὲ δίκην καὶ ἀποκοιμηθέντων τῶν δικαστῶν, „προσέχετε“, εἶπεν, „ἄνδρες δικασταί· οὕτως ὑμῖν γένοιτο ἰδεῖν ἐνύπνιον περὶ τῆς δίκης ἧς λέγω.“
 
