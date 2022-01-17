@@ -268,9 +268,18 @@
 
     When \[Aeschines\] was speaking at a trial and the jurors had fallen asleep, he said: "Pay attention, jurors! Thus it might be possible for you to see in your dreams about the trial I'm discussing."
 
-64. Anaxarchos
-65. Arcesilaus
-66. \[Arcesilaus\]
+64. Ἀνάξαρχος, ὁ φυσικὸς φιλόσοφος, Ἀλεξάνδρου τοῦ βασιλέως εἰπόντος αὐτῷ· „κρεμῶ σε“, „ἄλλοις“, ἔφη, „ἀπείλει· ἐμοὶ δὲ οὐδὲν διαφέρει ὑπὲρ γῆς ἢ κατὰ γῆς σήπεσθαι.“  
+
+    Anaxarchos, the natural philosopher, when Alexander the king said to him, "I will hang you," said, "Threaten others. But it makes no difference to me to rot over or under the earth."
+
+65. Ἀρκεσίλαος ὁ φιλόσοφος ἐπιπλήσσοντός τινος αὐτῷ, ὅτι οὐ δεῖ τὸν φιλόσοφον ἐρωμένην ἔχειν, μᾶλλον μὲν οὖν ἔφη δεῖν ἔχειν καὶ μὴ ἔχεσθαι ὑπ’ αὐτῆς.
+
+    Arcesilaus the philosopher, when someone was rebuking him that a philosopher should not have a beloved, said that, rather, he should have her, and he should not be had by her.
+
+66. Ὁ αὐτὸς ἔφη τοὺς συκοφάντας πολιτικοὺς λύκους εἶναι.
+
+    \[Arcesilaus\] said that sycophants are political wolves.
+
 67. Ἀλκιδάμας ὁ ῥήτωρ Ὀδύσσειαν εἶπεν εἶναι κάτοπτρον τοῦ ἀνθρωπίνου βίου.
 
     Alcidamas the rhetorician said that the Odyssey is a mirror of human life.
