@@ -720,7 +720,10 @@
 
      \[Zeno\] having seen someone being torn apart by crows in the street, said: "Thus he had nature's undertakers."
 
-304. \[Zeno\]
+304. Ὁ αὐτὸς ἐρωτηθεὶς πῶς ἂν ἐλάχιστα ἁμαρτάνοι ὁ νέος εἶπεν· „εἰ πρὸ ὀφθαλμῶν ἔχοι οὓς μάλιστα τιμᾷ καὶ αἰσχύνεται“.
+
+     \[Zeno\] having been asked how a youth might err least, said: "If he keeps his eyes both on those he greatly respects and those he disdains."
+
 305. Zaleucus
 306. \[Zaleucus\]
 307. Hegesias
