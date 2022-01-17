@@ -260,7 +260,10 @@
 
     When Anaximenes was dying in a foreign land he was asked by his friends, if he wished to be returned to his homeland for burial; but he said: "Does the road out of every place not open onto Hades?"
 
-62. Aeschines
+62. Αἰσχίνης ὁ ῥήτωρ ἐκπεσὼν τῆς πατρίδος παραγενόμενος εἰς Ῥόδον ἐσοφίστευεν· ἐλθόντος οὖν ποτε τοῦ Δημοσθένους εἰς Ῥόδον καὶ ἀσπασαμένου αὐτὸν καὶ δραχμαῖς χιλίαις τιμήσαντος, δεξάμενος τὰ χρήματα ἐδάκρυσε· τοῦ δὲ παρακαλοῦντος αὐτὸν θαῤῥεῖν, ἴσως καὶ κάθοδον αὐτῷ διὰ τῇς σπουδῆς πέμπειν· „οὐ μέλλω“, ἔφη, „δακρύειν τοιαύτης πατρίδος ἐστερημένος, ἐν ᾗ καὶ οἱ ἐχθρεύοντές εἰσι τοιοῦτοι, ὥστε καὶ βοηθεῖν βούλεσθαι“;
+
+    Aeschines the orator, having been banished from his fatherland, went to Rhodes and was giving lectures. Then, when Demosthenes once came to Rhodes and embraced him and honored him with 1000 drachmas, accepting the money he began to weep. But when this man was encouraging him to be brave, and perhaps to take part in a return from exile for him due to his eagerness, he said, "I do not hesitate to weep when I am deprived of such a fatherland, in which even my enemies are such that they wish to help."
+
 63. Ὁ αὐτὸς λέγων ποτὲ δίκην καὶ ἀποκοιμηθέντων τῶν δικαστῶν, „προσέχετε“, εἶπεν, „ἄνδρες δικασταί· οὕτως ὑμῖν γένοιτο ἰδεῖν ἐνύπνιον περὶ τῆς δίκης ἧς λέγω.“
 
     When \[Aeschines\] was speaking at a trial and the jurors had fallen asleep, he said: "Pay attention, jurors! Thus it might be possible for you to see in your dreams about the trial I'm discussing."
