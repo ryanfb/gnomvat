@@ -492,10 +492,22 @@
 
      Alcibiades, when he was being rebuked by someone who was themselves worthless, said: "I won't tell you to wail, since you're not even worthy of that."
 
-120. Ariston
-121. \[Ariston\]
-122. \[Ariston\]
-123. \[Ariston\]
+120. Ἀρίστων ὁ φιλόσοφος τοὺς πλουσίους καὶ φειδωλοὺς ὁμοίους ἔφησεν εἶναι τοῖς ἡμιόνοις, οἵτινες χρυσὸν καὶ ἄργυρον φέροντες χόρτον ἐσθίουσιν.
+
+     Ariston the philosopher said that the wealthy and the stingy are like mules, who, while carrying gold and silver, eat hay.
+
+121. Ὁ αὐτὸς πολυκέφαλον θηρίον εἶπεν πάντα δῆμον.
+
+     \[Ariston\] said that every assembly is a many-headed beast.
+
+122. Ὁ αὐτὸς τοὺς τὰ γραπτὰ λέγοντας ὁμοίους ἔφησεν εἶναι τοῖς λεοντοχάσμασι \[τοῖς ἐπὶ τῶν κεράμων\]· ἐκεῖνα μὲν γάρ, ἕως \[μὲν\] ἂν βρέχῃ, ῥεῖ· \[ὅταν δὲ παύσηται, κέχηνεν· οὗτοί τε, ἕως ἂν ἔχωσι γραπτὰ λέγειν, εὐρόως φέρονται· ὅταν δὲ ἐπιλείπῃ, χάσκουσιν.\]
+
+     \[Ariston\] said that people reading written documents are like lion's head spouts \[on tiled roofs\]. For those flow as long as it is wet. \[But whenever it stops, they gape. And these men, as long as they have written things to read, are carried along fluently. But whenever it runs out, they gape.\]
+
+123. Ὁ αὐτὸς παρεκελεύετο τοὺς τῶν ὑγιαινόντων πόνους ἀναδέχεσθαι, ἵνα μὴ τοὺς τῶν νοσούντων ὑπομένωμεν.
+
+     \[Ariston\] prescribed accepting the labors of the healthy, so that we would not wait for those of the sick.
+
 124. Aesop
 125. \[Aesop\]
 126. \[Aesop\]
