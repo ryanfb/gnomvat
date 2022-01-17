@@ -260,21 +260,42 @@
 
     When Anaximenes was dying in a foreign land he was asked by his friends, if he wished to be returned to his homeland for burial; but he said: "Does the road out of every place not open onto Hades?"
 
-62. Aeschines
+62. Αἰσχίνης ὁ ῥήτωρ ἐκπεσὼν τῆς πατρίδος παραγενόμενος εἰς Ῥόδον ἐσοφίστευεν· ἐλθόντος οὖν ποτε τοῦ Δημοσθένους εἰς Ῥόδον καὶ ἀσπασαμένου αὐτὸν καὶ δραχμαῖς χιλίαις τιμήσαντος, δεξάμενος τὰ χρήματα ἐδάκρυσε· τοῦ δὲ παρακαλοῦντος αὐτὸν θαῤῥεῖν, ἴσως καὶ κάθοδον αὐτῷ διὰ τῇς σπουδῆς πέμπειν· „οὐ μέλλω“, ἔφη, „δακρύειν τοιαύτης πατρίδος ἐστερημένος, ἐν ᾗ καὶ οἱ ἐχθρεύοντές εἰσι τοιοῦτοι, ὥστε καὶ βοηθεῖν βούλεσθαι“;
+
+    Aeschines the orator, having been banished from his fatherland, went to Rhodes and was giving lectures. Then, when Demosthenes once came to Rhodes and embraced him and honored him with 1000 drachmas, accepting the money he began to weep. But when this man was encouraging him to be brave, and perhaps to take part in a return from exile for him due to his eagerness, he said, "I do not hesitate to weep when I am deprived of such a fatherland, in which even my enemies are such that they wish to help."
+
 63. Ὁ αὐτὸς λέγων ποτὲ δίκην καὶ ἀποκοιμηθέντων τῶν δικαστῶν, „προσέχετε“, εἶπεν, „ἄνδρες δικασταί· οὕτως ὑμῖν γένοιτο ἰδεῖν ἐνύπνιον περὶ τῆς δίκης ἧς λέγω.“
 
     When \[Aeschines\] was speaking at a trial and the jurors had fallen asleep, he said: "Pay attention, jurors! Thus it might be possible for you to see in your dreams about the trial I'm discussing."
 
-64. Anaxarchos
-65. Arcesilaus
-66. \[Arcesilaus\]
+64. Ἀνάξαρχος, ὁ φυσικὸς φιλόσοφος, Ἀλεξάνδρου τοῦ βασιλέως εἰπόντος αὐτῷ· „κρεμῶ σε“, „ἄλλοις“, ἔφη, „ἀπείλει· ἐμοὶ δὲ οὐδὲν διαφέρει ὑπὲρ γῆς ἢ κατὰ γῆς σήπεσθαι.“  
+
+    Anaxarchos, the natural philosopher, when Alexander the king said to him, "I will hang you," said, "Threaten others. But it makes no difference to me to rot over or under the earth."
+
+65. Ἀρκεσίλαος ὁ φιλόσοφος ἐπιπλήσσοντός τινος αὐτῷ, ὅτι οὐ δεῖ τὸν φιλόσοφον ἐρωμένην ἔχειν, μᾶλλον μὲν οὖν ἔφη δεῖν ἔχειν καὶ μὴ ἔχεσθαι ὑπ’ αὐτῆς.
+
+    Arcesilaus the philosopher, when someone was rebuking him that a philosopher should not have a beloved, said that, rather, he should have her, and he should not be had by her.
+
+66. Ὁ αὐτὸς ἔφη τοὺς συκοφάντας πολιτικοὺς λύκους εἶναι.
+
+    \[Arcesilaus\] said that sycophants are political wolves.
+
 67. Ἀλκιδάμας ὁ ῥήτωρ Ὀδύσσειαν εἶπεν εἶναι κάτοπτρον τοῦ ἀνθρωπίνου βίου.
 
     Alcidamas the rhetorician said that the Odyssey is a mirror of human life.
 
-68. Agesilaus
-69. \[Agesilaus\]
-70. \[Agesilaus\]
+68. Ἀγησίλαος ὁ Λακεδαιμόνιος ἐρωτηθεὶς ὑπό τινος, τί ἄν τις ποιῶν γένοιτο πλούσιος, ἔφη· „ἐὰν τὰς ἐπιθυμίας παραιτήσηται“.
+
+    Agesilaus the Lacedaimonian, having been asked by someone by what methods someone could become rich, he said, "If he refuses his emotions."
+
+69. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, διὰ τί ἀτείχιστός ἐστιν ἡ Σπάρτη, „μὴ ψεύδου“, ἔφη, „τετείχισται γάρ, οὐ λίθοις, ἀλλὰ ταῖς τῶν <ἐνοικούντων ἀρεταῖς>“.
+
+    \[Agesilaus\], having been asked by someone why Sparta is unwalled, said, "Do not lie, for it is walled, not with stones, but with the excellence of its inhabitants."
+
+70. Ὁ αὐτὸς ἐρωτηθείς, τίνα δεῖ τὸν στρατηγὸν ἔχειν εἶπεν· „πρὸς μὲν τοὺς ἐναντίους τόλμαν, πρὸς δὲ τοὺς ὑποτεταγμένους εὔνοιαν, πρὸς δὲ τοὺς καιροὺς λογισμόν.“
+
+    \[Agesilaus\], having been asked what a general should possess, said, "Daring against his opponents, good-will towards those placed under him, and a plan for the right moment."
+
 71. Ἀντιφῶν ἐρωτηθεὶς τί ἐστι μαντικὴ εἶπεν· „ἀνθρώπου φρονίμου εἰκασμός“.
 
     Antiphon having been asked by someone what prophecy is, said: "The guess of a human mind."
@@ -423,19 +444,42 @@
 
      Antigonus the king was praying to the god to ask them to protect him from those seeming to be friends; when someone asked him why he needed to make this sort of request, he said: "Because I can protect myself against enemies."
 
-108. Ἄμασις, ὁ τῶν Αἰγυπτίων βασιλεύς, φίλῳ ἀποβαλόντι υἱὸν γράφων παραμυθητικῶς εἶπεν· „εἰ, ὅτε μηδέπω ἦν, οὐκ ἐλυποῦ, μηδὲ
-νῦν, ὅτε οὐκ ἔστι, λυπηθῇς“. 
+108. Ἄμασις, ὁ τῶν Αἰγυπτίων βασιλεύς, φίλῳ ἀποβαλόντι υἱὸν γράφων παραμυθητικῶς εἶπεν· „εἰ, ὅτε μηδέπω ἦν, οὐκ ἐλυποῦ, μηδὲ νῦν, ὅτε οὐκ ἔστι, λυπηθῇς“.
 
      Amasis, king of Egypt, in a letter of consolation to a friend who had lost his son, said: "If, when he did not yet exist, you did not grieve, neither now, when he is no longer, should you grieve."
 
-109. Antagoras
-110. \[Antagoras\]
-111. \[Antagoras\]
-112. \[Antagoras\]
-113. \[Antagoras\]
-114. \[Antagoras\]
-115. \[Antagoras\]
-116. \[Antagoras\]
+109. Ἀνταγόρας ὁ Ῥόδιος ἐποποιὸς ἐν Θήβαις ἀναγινώσκων τὸ τῆς Θηβαΐδος σύγγραμμα, ὡς οὐδεὶς ἐπεσημαίνετο, εἱλήσας τὸ βιβλίον εἶπεν· „δικαίως καλεῖσθε Βοιωτοί· βοῶν γὰρ ὦτα ἔχετε.“
+
+     Antagoras the epic poet of Rhodes, reading his work the Thebaid in Thebes, when no one applauded, rolling up the scroll, said, "Justly are you called Boiotians. For you have the ears of bovines."
+
+110. Ὁ αὐτὸς εἰς τὸ Τριχώνιον τῆς Αἰτωλίας ἐπιὼν, ἐπεὶ ἀναγινώσκοντος αὐτοῦ οὐδεὶς ἐπεσήμαινε, „δεόντως“, εἶπεν, „ἄνδρες, καὶ σφόδρα οἰκείως ὑμῖν ἐπίκειται τὸ τῆς πόλεως ὄνομα· παρὰ τρίχα \<γὰρ\> ὄνοι γεγόνατε.“
+
+     \[Antagoras\], journeying into Trichonion of Aitolia, when no one applauded while he was reading, said, "Fittingly, men, and very reasonably is the name of this city applied to you. For you are within a hair of becoming asses."
+
+111. Ὁ αὐτὸς ἔφη· „αἱρετώτερόν ἐστιν ἐν ἐρημίᾳ λέγειν ἢ \<ἐν\> ἀκροαταῖς μὴ ἐπισημαινομένοις· ἐκεῖ μὲν γὰρ ἠχὼ τὴν ἀντιφώνησιν ἐρανίζει· ἐν δὲ τούτοις καὶ τὴν ὑπὸ τῆς φύσεως δεδομένην φωνὴν ἀπόλλυσθαι συμβαίνει.“
+
+     \[Antagoras\] said, "It is preferable to read in a desert than \<among\> listeners when they do not applaud.  For, there, the echo collects the answer. But among these men, it happens that even the voice given by nature is lost."
+
+112. Ὁ αὐτὸς καταδικάζειν τινὸς θανατικὴν ψῆφον μέλλων ἐδάκρυσεν· εἰπόντος δέ τινος· „τί παθὼν αὑτὸς καταδικάζεις καὶ κλαίεις“; εἶπεν· „ὅτι ἀναγκαῖόν ἐστι τῇ μὲν φύσει τὸ συμπαθὲς ἀποδοῦναι, τῷ δὲ νόμῳ τὴν ψῆφον.“
+
+     \[Antagoras\], being about to charge someone with a vote of death, began to weep. And when someone said, "What have you suffered that you yourself give the charge and weep?" he said, "Because it is necessary to give sympathy because of nature, but to give the vote because of the law."
+
+113. Ὁ αὐτὸς αἰσχρὸς ὢν τὴν ὄψιν γενομένων αὐτῷ παιδίων ὁμοίων εἶπεν· „ἔχω γυναῖκα λίαν σώφρονα.“
+
+     \[Antagoras\], being ugly, when children were born to him who looked like him, said, "I have a wife who is very chaste."
+
+114. Ἀναξαγόρας ἐρωτηθεὶς εἰς τί γεγένηται ἔφη· „εἰς τὸ τὰ τῆς φύσεως ἔργα θεωρῆσαι“· πρὸς δὲ τὸν εἰπόντα· „ἐστερήθης Ἀθηναίων“ „οὐ μὲν οὖν“, ἔφη, „ἀλλ’ ἐκεῖνοι ἐμοῦ.“
+
+     Anaxagoras, having been asked for what reason he had been born, said, "To examine the works of nature." And to someone saying, "You were deprived of the Athenians." he said, "No, but rather they were deprived of me."
+
+115. Ὁ αὐτὸς πρὸς τὸν δυσφοροῦντα, ὅτι ἐπὶ ξένης ἐτελεύτα, „πανταχόθεν“, ἔφη, „ὁμοία ἐστὶν ἡ εἰς Ἅιδου κάθοδος.“
+
+     \[Anaxagoras\] said to someone bearing it ill that he was dying in a foreign land, "Everywhere the road to Hades is the same."
+
+116. Ὁ αὐτὸς εἰπόντος τινὸς ὅτι „κατεψηφίσαντό σου Ἀθηναῖοι θάνατον“ ἔφη· „πάλαι καὶ ἐκείνων καὶ ἐμοῦ ἡ φύσις τοῦτον κατεψηφίσατο“.
+
+     \[Anaxagoras\], when someone said, "The Athenians condemned you to death" said, "A long time ago nature condemned both those men and me to this."
+
 117. Ἀναξαγόρας ἀπαγγείλαντός τινος, ὅτι τεθνήκασιν αὐτοῦ οἱ παῖδες, ἔφη θνητοὺς γεννῆσαι.
 
      Anaxagoras on receiving the message, that his children had died, said that he had fathered mortals.
@@ -448,15 +492,42 @@
 
      Alcibiades, when he was being rebuked by someone who was themselves worthless, said: "I won't tell you to wail, since you're not even worthy of that."
 
-120. Ariston
-121. \[Ariston\]
-122. \[Ariston\]
-123. \[Ariston\]
-124. Aesop
-125. \[Aesop\]
-126. \[Aesop\]
-127. \[Aesop\]
-128. \[Aesop\]
+120. Ἀρίστων ὁ φιλόσοφος τοὺς πλουσίους καὶ φειδωλοὺς ὁμοίους ἔφησεν εἶναι τοῖς ἡμιόνοις, οἵτινες χρυσὸν καὶ ἄργυρον φέροντες χόρτον ἐσθίουσιν.
+
+     Ariston the philosopher said that the wealthy and the stingy are like mules, who, while carrying gold and silver, eat hay.
+
+121. Ὁ αὐτὸς πολυκέφαλον θηρίον εἶπεν πάντα δῆμον.
+
+     \[Ariston\] said that every assembly is a many-headed beast.
+
+122. Ὁ αὐτὸς τοὺς τὰ γραπτὰ λέγοντας ὁμοίους ἔφησεν εἶναι τοῖς λεοντοχάσμασι \[τοῖς ἐπὶ τῶν κεράμων\]· ἐκεῖνα μὲν γάρ, ἕως \[μὲν\] ἂν βρέχῃ, ῥεῖ· \[ὅταν δὲ παύσηται, κέχηνεν· οὗτοί τε, ἕως ἂν ἔχωσι γραπτὰ λέγειν, εὐρόως φέρονται· ὅταν δὲ ἐπιλείπῃ, χάσκουσιν.\]
+
+     \[Ariston\] said that people reading written documents are like lion's head spouts \[on tiled roofs\]. For those flow as long as it is wet. \[But whenever it stops, they gape. And these men, as long as they have written things to read, are carried along fluently. But whenever it runs out, they gape.\]
+
+123. Ὁ αὐτὸς παρεκελεύετο τοὺς τῶν ὑγιαινόντων πόνους ἀναδέχεσθαι, ἵνα μὴ τοὺς τῶν νοσούντων ὑπομένωμεν.
+
+     \[Ariston\] prescribed accepting the labors of the healthy, so that we would not wait for those of the sick.
+
+124. Αἴσωπος ὁ λογοποιὸς ἀγόμενος ὑπὸ τοῦ δεσπότου εἰς μυλῶνα ἠρώτα· „τί με ἄγεις;“ ὁ δὲ εἶπεν· „ἵνα χρήσιμος γένῃ“· „τί οὖν“, φησίν, „οὐχὶ καὶ τοὺς υἱούς σου ὧδε ἄγεις;“
+
+     Aesop the writer of fables, being led by his master to the mill-house, asked, "Why are you leading me?" And he said, "So that you may become useful." He says, "So why do you not also lead your sons this way?"
+
+125. Ὁ αὐτὸς ἐρωτώμενος ὑπό τινος διὰ τί τὰ αὐτομάτως ἐκ γῆς φυόμενα ταχεῖαν τὴν αὔξησιν ἔχει, τὰ δὲ σπειρόμενα καὶ φυτευόμενα βραδέως αὔξεται εἶπεν· „ὅτι <ἡ γῆ> τῶν μὲν μήτηρ ἐστί, τῶν δὲ μητρυιά.“
+
+     \[Aesop\], being asked by someone why the things that sprout of their own accord from the earth have a quick growth, but the things that are sown and planted grow slowly, said, "Because \<the earth\> is the mother of some things and the step-mother of others."
+
+126. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί τῶν ζῴων ἐστὶ σοφώτατον εἶπεν· „τῶν μὲν χρησίμων μέλισσα, τῶν δὲ ἀχρήστων ἀράχνης.“
+
+     \[Aesop\], having been asked by someone what animal is the wisest, said, "Of the useful ones, the bee, and of the useless ones, the spider."
+
+127. Ὁ αὐτὸς ἐρωτηθεὶς πότε τοῖς ἀνθρώποις ἔσται κακῶς εἶπεν· „ὅταν πάντες πάντα ποιῶσιν“.
+
+     \[Aesop\], having been asked when it will be bad for mortals, said, "When everyone does everything."
+
+128. Ὁ αὐτὸς ἐρωτώμενος ὑπό τινος πῶς ἂν μεγίστη ταραχὴ γένοιτο ἐν ἀνθρώποις ἔφη· „εἰ οἱ τετελευτηκότες ἀναστάντες ἀπαιτοῖεν τὰ ἴδια.“
+
+     \[Aesop\], being asked by someone how a great disturbance could happen among mortals, said, "If the dead, rising up, should ask for their belongings."
+
 129. Ἀπελλῆς ὁ ζωγράφος ἐρωτηθεὶς διὰ τί τὴν Τύχην καθημένην ἔγραψεν εἶπεν· „ὅτι οὐχ ἕστηκεν.“
 
      Apelles the painter having been asked why he'd painted Tyche sitting, said: "Since she never stood still."
