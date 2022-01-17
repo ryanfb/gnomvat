@@ -468,9 +468,18 @@
 
      \[Antagoras\], being ugly, when children were born to him who looked like him, said, "I have a wife who is very chaste."
 
-114. Anaxagoras
-115. \[Anaxagoras\]
-116. \[Anaxagoras\]
+114. Ἀναξαγόρας ἐρωτηθεὶς εἰς τί γεγένηται ἔφη· „εἰς τὸ τὰ τῆς φύσεως ἔργα θεωρῆσαι“· πρὸς δὲ τὸν εἰπόντα· „ἐστερήθης Ἀθηναίων“ „οὐ μὲν οὖν“, ἔφη, „ἀλλ’ ἐκεῖνοι ἐμοῦ.“
+
+     Anaxagoras, having been asked for what reason he had been born, said, "To examine the works of nature." And to someone saying, "You were deprived of the Athenians." he said, "No, but rather they were deprived of me."
+
+115. Ὁ αὐτὸς πρὸς τὸν δυσφοροῦντα, ὅτι ἐπὶ ξένης ἐτελεύτα, „πανταχόθεν“, ἔφη, „ὁμοία ἐστὶν ἡ εἰς Ἅιδου κάθοδος.“
+
+     \[Anaxagoras\] said to someone bearing it ill that he was dying in a foreign land, "Everywhere the road to Hades is the same."
+
+116. Ὁ αὐτὸς εἰπόντος τινὸς ὅτι „κατεψηφίσαντό σου Ἀθηναῖοι θάνατον“ ἔφη· „πάλαι καὶ ἐκείνων καὶ ἐμοῦ ἡ φύσις τοῦτον κατεψηφίσατο“.
+
+     \[Anaxagoras\], when someone said, "The Athenians condemned you to death" said, "A long time ago nature condemned both those men and me to this."
+
 117. Ἀναξαγόρας ἀπαγγείλαντός τινος, ὅτι τεθνήκασιν αὐτοῦ οἱ παῖδες, ἔφη θνητοὺς γεννῆσαι.
 
      Anaxagoras on receiving the message, that his children had died, said that he had fathered mortals.
