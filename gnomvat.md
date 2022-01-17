@@ -697,7 +697,10 @@
 
      \[Zeno\] having been shipwrecked and his things destroyed uttered no curses, but said: "Well done, Tyche, that you wrapped us up in this little philosopher's-cloak."
 
-299. \[Zeno\]
+299. Ὁ αὐτὸς τοὺς [μὲν] τοῦ σώματος ἐπιμελουμένους, τῆς δὲ ψυχῆς ἀμελοῦντας ὁμοίους ἔφη εἶναι τοῖς ζητοῦσι μὲν ἐσθῆτα καθαρὰν φορεῖ, ῥυπῶσι δὲ καὶ αὐχμῶσιν.
+
+     \[Zeno\] said that those who care for their body, but are equally careless for their soul, are like those who are looking for clean clothes, but are unwashed and filthy.
+
 300. \[Zeno\]
 301. \[Zeno\]
 302. \[Zeno\]
