@@ -532,7 +532,10 @@
 
      Apelles the painter having been asked why he'd painted Tyche sitting, said: "Since she never stood still."
 
-130. Anacharsis
+130. Ἀνάχαρσις ἐρωτηθεὶς πότεροι πλείους εἰσίν, οἱ ζῶντες ἢ οἱ νεκροί, ἔφη· „τοὺς οὖν πλέοντας ποῦ τίθης;“
+
+     Anacharsis having been asked which were more plentiful, the living or the dead, said: "So where are you putting those in the sea?"
+
 131. \[Anacharsis\]
 132. \[Anacharsis\]
 133. \[Anacharsis\]
