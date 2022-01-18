@@ -544,7 +544,10 @@
 
      \[Anacharsis\] said it was better to have one friend of great worth than to have many of no worth.
 
-133. \[Anacharsis\]
+133. Ὁ αὐτὸς ὑπὸ μειρακίου παρὰ πότον ὑβρισθεὶς ἔφη· „μειράκιον· ἐὰν νέος ὢν τὸν οἶνον μὴ φέρῃς, γέρων γενόμενος τὸ ὕδωρ οἴσεις.“
+
+     \[Anacharsis\] having been insulted by a drunken youth said: "Whippersnapper! If you can't hold your wine when you're young, when you're old you'll carry water."
+
 134. \[Anacharsis\]
 135. \[Anacharsis\]
 136. \[Anacharsis\]
