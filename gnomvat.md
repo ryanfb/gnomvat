@@ -536,7 +536,10 @@
 
      Anacharsis having been asked which were more plentiful, the living or the dead, said: "So where are you putting those in the sea?"
 
-131. \[Anacharsis\]
+131. Ὁ αὐτὸς ἐρωτηθεὶς τί ἐστιν ἐν ἀνθρώποις ἀγαθόν τε καὶ φαῦλον ἔφη· „γλῶσσα“.
+
+     \[Anacharsis\] having been asked what is both good and bad in humanity, said: "Speech."
+
 132. \[Anacharsis\]
 133. \[Anacharsis\]
 134. \[Anacharsis\]
