@@ -180,7 +180,7 @@
     
     > a woman who is truly self-controlled will not be seduced.
 
-42. Ὁ αὐτὸς μεταπεμπομένου πολλάκις αὐτὸν τοῦ πατρός, ὡς οὐχ ὑπήκουσεν γράψαντος, ὅτι πωλήσει αὐτὸν κατὰ τοὺς πατρίους νόμους, ἀντέγραψεν ὀλίγον ἔτι περιμεῖναι χρόνον· καὶ <γὰρ> πλείονος ἄξιον γενόμενον πλείονος πωλήσειν. 
+42. Ὁ αὐτὸς μεταπεμπομένου πολλάκις αὐτὸν τοῦ πατρός, ὡς οὐχ ὑπήκουσεν γράψαντος, ὅτι πωλήσει αὐτὸν κατὰ τοὺς πατρίους νόμους, ἀντέγραψεν ὀλίγον ἔτι περιμεῖναι χρόνον· καὶ \<γὰρ\> πλείονος ἄξιον γενόμενον πλείονος πωλήσειν. 
 
     \[Aristippus\] was being sent for by his father repeatedly, but since he did not obey, his father wrote that he would sell him into slavery in accordance with the parental laws; so Aristippus wrote back to wait a little while longer: for becoming more worthy he would be able to be sold for more.
 
@@ -288,7 +288,7 @@
 
     Agesilaus the Lacedaimonian, having been asked by someone by what methods someone could become rich, he said, "If he refuses his emotions."
 
-69. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, διὰ τί ἀτείχιστός ἐστιν ἡ Σπάρτη, „μὴ ψεύδου“, ἔφη, „τετείχισται γάρ, οὐ λίθοις, ἀλλὰ ταῖς τῶν <ἐνοικούντων ἀρεταῖς>“.
+69. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, διὰ τί ἀτείχιστός ἐστιν ἡ Σπάρτη, „μὴ ψεύδου“, ἔφη, „τετείχισται γάρ, οὐ λίθοις, ἀλλὰ ταῖς τῶν \<ἐνοικούντων ἀρεταῖς\>“.
 
     \[Agesilaus\], having been asked by someone why Sparta is unwalled, said, "Do not lie, for it is walled, not with stones, but with the excellence of its inhabitants."
 
@@ -304,7 +304,7 @@
 
     Anacreon, having received a gold talent from Polycrates the tyrant, gave it back to him saying: "I hate gifts, or at least those which require me to have sleepless nights."
 
-73. Ἀλέξανδρος, ὁ τῶν Μακεδόνων βασιλεύς, <πρός τινα> διαβάλλοντα αὐτῷ Ἀντίπατρον εἶπεν· <παῦσαι ἄνθρωπε· πολλὰ γάρ μοι ἀντὶ πατρὸς Ἀντίπατρος ἐγένετο.> 
+73. Ἀλέξανδρος, ὁ τῶν Μακεδόνων βασιλεύς, \<πρός τινα\> διαβάλλοντα αὐτῷ Ἀντίπατρον εἶπεν· \<παῦσαι ἄνθρωπε· πολλὰ γάρ μοι ἀντὶ πατρὸς Ἀντίπατρος ἐγένετο.\> 
 
     Alexander, king of the Macedonians, said \<to someone\> slandering Antipater to him, \<"Stop, sir. For Antipater was like a father to me in many ways."\>
 
@@ -316,7 +316,7 @@
 
     \[Alexander\], when his mother Olympia was giving him orders rather harshly, said, "You demand a heavy rent for a 10-month period."
 
-76. <Ὁ> αὐτὸς ἀξιούμενος ὑπὸ τῶν φίλων τεκνοποιῆσαι εἶπε· „μὴ ἀγωνιᾶτε· καταλείπω γὰρ τέκνα τὰς ἐκ τῶν ἀγώνων πράξεις.“
+76. \<Ὁ\> αὐτὸς ἀξιούμενος ὑπὸ τῶν φίλων τεκνοποιῆσαι εἶπε· „μὴ ἀγωνιᾶτε· καταλείπω γὰρ τέκνα τὰς ἐκ τῶν ἀγώνων πράξεις.“
 
     \[Alexander\], being expected by his friends to bear children, said, "Do not be anxious. For I leave behind the accomplishments from my struggles as children."
 
@@ -420,7 +420,7 @@
 
      \[Alexander\], being asked, "In what way do you most enjoy your dominion?" said, "In being conquered by no one in doing good deeds."
 
-102. Ὁ αὐτὸς παράγγελμα ἔλαβεν ὅτι „ἐὰν δύνῃ ὁδεῦσαι, μὴ πλεύσῃς· καθ’ ἑκάστην ἡμέραν διατίθου· γυναικὶ ἀπόῤῥητα μὴ θαῤῥήσῃς· καὶ ἐὰν ὀργισθῇς κατά τινος, μὴ ποιήσῃς εἰς αὐτὸν <ἐξέλευσιν>, πρὶν <ἂν> ἀπαγγείλῃς <τὰ κδ στοιχεῖα τοῦ ἀλφαβήτου>“.
+102. Ὁ αὐτὸς παράγγελμα ἔλαβεν ὅτι „ἐὰν δύνῃ ὁδεῦσαι, μὴ πλεύσῃς· καθ’ ἑκάστην ἡμέραν διατίθου· γυναικὶ ἀπόῤῥητα μὴ θαῤῥήσῃς· καὶ ἐὰν ὀργισθῇς κατά τινος, μὴ ποιήσῃς εἰς αὐτὸν \<ἐξέλευσιν\>, πρὶν \<ἂν\> ἀπαγγείλῃς \<τὰ κδ στοιχεῖα τοῦ ἀλφαβήτου\>“.
 
      \[Alexander\] took an instruction that said, "If you can travel by land, do not sail. Settle yourself every day. Do not trust a woman with secret things. And if you become angry at someone, do not make a \<decision\> against him before you relate \<the 24 letters of the alphabet\>.
 
@@ -512,7 +512,7 @@
 
      Aesop the writer of fables, being led by his master to the mill-house, asked, "Why are you leading me?" And he said, "So that you may become useful." He says, "So why do you not also lead your sons this way?"
 
-125. Ὁ αὐτὸς ἐρωτώμενος ὑπό τινος διὰ τί τὰ αὐτομάτως ἐκ γῆς φυόμενα ταχεῖαν τὴν αὔξησιν ἔχει, τὰ δὲ σπειρόμενα καὶ φυτευόμενα βραδέως αὔξεται εἶπεν· „ὅτι <ἡ γῆ> τῶν μὲν μήτηρ ἐστί, τῶν δὲ μητρυιά.“
+125. Ὁ αὐτὸς ἐρωτώμενος ὑπό τινος διὰ τί τὰ αὐτομάτως ἐκ γῆς φυόμενα ταχεῖαν τὴν αὔξησιν ἔχει, τὰ δὲ σπειρόμενα καὶ φυτευόμενα βραδέως αὔξεται εἶπεν· „ὅτι \<ἡ γῆ\> τῶν μὲν μήτηρ ἐστί, τῶν δὲ μητρυιά.“
 
      \[Aesop\], being asked by someone why the things that sprout of their own accord from the earth have a quick growth, but the things that are sown and planted grow slowly, said, "Because \<the earth\> is the mother of some things and the step-mother of others."
 
@@ -805,7 +805,7 @@
 
 307. Hegesias
 308. \[Hegesias\]
-309. Ἡρόδοτος ὁ ἱστοριογράφος ἐρωτηθεὶς ὑπό τινος πῶς ἂν δύναιντο <οἱ> ἄνθρωποι εὐθυμεῖν εἶπεν· „ἐὰν μὴ πολλὰ πρήσσωσιν.“
+309. Ἡρόδοτος ὁ ἱστοριογράφος ἐρωτηθεὶς ὑπό τινος πῶς ἂν δύναιντο \<οἱ\> ἄνθρωποι εὐθυμεῖν εἶπεν· „ἐὰν μὴ πολλὰ πρήσσωσιν.“
 
      Herodotus the historian, having been asked by someone how people might be happy, said: "If they'd not do so much."
 
