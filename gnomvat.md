@@ -551,16 +551,46 @@
 134. \[Anacharsis\]
 135. \[Anacharsis\]
 136. \[Anacharsis\]
-137. Aristotle
-138. \[Aristotle\]
-139. \[Aristotle\]
-140. \[Aristotle\]
-141. \[Aristotle\]
-142. \[Aristotle\]
-143. \[Aristotle\]
-144. \[Aristotle\]
-145. \[Aristotle\]
-146. \[Aristotle\]
+137. Ἀριστοτέλης ἐρωτηθεὶς τί ἐστι φίλος ἔφη· „μία ψυχὴ ἐν δυσὶ σώμασιν οἰκοῦσα.“
+
+     Aristotle, having been asked what a "friend" is, said, "One soul dwelling in two bodies."
+
+138. Ὁ αὐτὸς ἐρωτηθεὶς τί τάχιστα γηράσκει εἶπε· „χάρις“.
+
+     \[Aristotle\], having been asked what grows old fastest, said, "A favor."
+
+139. Ὁ αὐτὸς ἐπεκούρησέ ποτέ τινι αἰτήσαντι αὐτόν, καί τις πρὸς αὐτὸν εἶπεν, ὡς πονηρὸς εἴη ὁ ἄνθρωπος, „ἀλλ’ οὐ τῷ ἀνθρώπῳ ἔδωκα“, φησίν, „ἀλλὰ τῷ ἀνθρωπίνῳ“.
+
+     \[Aristotle\] once helped someone who asked him for it, and someone said to him that the man was dishonorable. He said, "But I did not give it to a human, but to his humanity.
+
+140. Ὁ αὐτὸς θεασάμενος νεανίσκον κατωφρυωμένον, μηδὲν δὲ ἐπιστάμενον, „νεανίσκε“, ἔφη, „οἷος μὲν δοκεῖς σεαυτῷ εἶναι, ἐγὼ γενοίμην· οἷος δὲ τῇ ἀληθείᾳ ὑπάρχεις, τοιοῦτοί μου οἱ ἐχθροὶ γένοιντο.“
+
+     \[Aristotle\], seeing a young man being arrogant but knowing nothing, said, "Young man, I wish I were the sort of man you think yourself to be. But what sort of person you are in truth, may my enemies be such people."
+
+141. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί τοῖς καλοῖς ἥδιστα διαλέγεται ἔφη· „τυφλοῦ τὸ ἐρώτημα“.
+
+     \[Aristotle\], having been asked why he gladly discusses what is good, said, "A blind person's question."
+
+142. Ὁ αὐτὸς τὰς εὐειδεῖς ἑταιρίδας ἔλεγε θανάσιμον μελίκρατον εἶναι.
+
+     \[Aristotle\] called pretty female companions a fatal cocktail.
+
+143. Ὁ αὐτὸς ἔφησεν ὅμοιον εἶναι τὸν τῶν ἀνθρώπων βίον σικύῳ· ἑκατέρωθεν γὰρ αὐτοῦ τὰ ἄκρα πικρὰ τυγχάνουσιν.
+
+     \[Aristotle\] said that the life of mortals is like a cucumber. For at either end of it, the tips are found to be bitter.
+
+144. Ἀριστοτέλης θεασάμενος μειράκιον ὡραϊζόμενον „οὐκ αἰσχύνῃ“, ἔφη, „ὅτι τῆς φύσεως ἄνδρα σε ποιησάσης ἑαυτὸν τεθήλυκας“;
+
+     \[Aristotle\], seeing a young man adorning himself, said, "Are you not ashamed that, when nature made you a man, you have feminized yourself?"
+
+145. Ὁ αὐτὸς ἐρωτηθεὶς τί ἰσχυρότερόν ἐστιν ἀνδριάντος εἶπεν· „ἄνθρωπος ἀναίσθητος“.
+
+     \[Aristotle\], having been asked what is harder than a statue, said "An unfeeling man."
+
+146. Ἀριστοτέλης εἶπε τοὺς ἀπαιδεύτους μόνῃ τῇ μορφῇ τῶν θηρίων διαφέρειν.
+
+     \[Aristotle\] said that the uneducated differ from beasts in shape alone.
+
 147. Bias
 148. \[Bias\]
 149. \[Bias\]
