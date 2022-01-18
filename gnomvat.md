@@ -591,25 +591,52 @@
 
      \[Aristotle\] said that the uneducated differ from beasts in shape alone.
 
-147. Bias
-148. \[Bias\]
-149. \[Bias\]
-150. \[Bias\]
-151. \[Bias\]
-152. \[Bias\]
-153. \[Bias\]
-154. \[Bias\]
-155. \[Bias\]
-156. \[Bias\]
-157. Bion
+147. Βίας ὁ σοφὸς ἐρωτηθεὶς ὑπό τινος τί ἂν εἴη \[πρᾶγμα\] ἄφοβον εἶπεν· „\<ὀρθὴ\> συνείδησις“.
+
+     Bias the sage, having been asked by someone what is without fear, said, "A proper conscience."
+
+148. Ὁ αὐτὸς συμπλέων ποτὲ πονηροῖς καὶ διὰ τὸ χειμάζεσθαι τοὺς θεοὺς ἐπικαλουμένων αὐτῶν „μηδαμῶς“, εἶπεν, „ὦ ἄνδρες, ἀλλὰ πειραθῶμεν αὐτοὺς λαθεῖν, μὴ αἴσθωνται ὑμᾶς ἐνθάδε πλέοντας“.
+
+     \[Bias\], sailing at one time with wicked men, when they were calling upon the gods due to it storming, said, "Don't do that, o men, but let us try to escape their notice, lest they perceive you all sailing here."
+
+149. Ὁ αὐτὸς ἐρωτηθεὶς ὑπὸ ἀνθρώπου ἀσεβοῦς τί ἐστιν εὐσέβεια „σίγα“, ἔφη· τοῦ δὲ τὴν αἰτίαν τῆς σιγῆς πυθομένου „σιώπα“, ἔφη, „ὅτι περὶ τῶν οὐδέν σοι προσηκόντων πυνθάνῃ“.
+
+     \[Bias\], having been asked by an impious person what piety is, said "Be silent." And when he asked the reason for the silence, he said, "Be silent because you inquire about things that do not concern you at all."
+
+150. Ὁ αὐτὸς χαλεπώτερον εἶπεν εἶναι φίλους διαφερομένους διαιτῆσαι ἤπερ ἐχθρούς· τῶν μὲν γὰρ φίλων τὸν ἡττώμενον ἐχθρὸν γίνεσθαι, τῶν δὲ ἐχθρῶν τὸν νικήσαντα φίλον.
+
+     \[Bias\] said that it is more difficult to aritrate quarreling friends than enemies. For the losing friend becomes an enemy, but the victorious enemy becomes a friend.
+
+151. Ὁ αὐτὸς εἰπόντος αὐτῷ τινος· „καὶ λαλεῖς σὺ ἀπὸ τοιούτων γονέων γεγονώς“; „ἀπ’ ἐμοῦ με“, εἶπεν, „ἀρίθμει“.
+
+     \[Bias\], when someone said to him, "You do indeed babble, having been born from such parents," said, "Reckon me from myself."
+
+152. Ὁ αὐτὸς ἀηδοῦς τινος ἐν συμποσίῳ διαφερομένου πρὸς αὐτὸν καὶ λέγοντος· „ἀναστῶ σοι“ εἶπεν· „ἀπέλθω σοί“.
+
+     \[Bias\], when some unpleasant man was quarreling with him in the symposium and saying, "I shall stand up and fight you," said, "I shall go away from you."
+
+153. Βίας ἔλεγεν ἀτυχῆ εἶναι τὸν εὐτυχίαν μὴ φέροντα καὶ νόσον ψυχῆς τὸ τῶν ἀδυνάτων ἐρᾶν.
+
+     \[Bias\] said that the person not enduring good fortune is unfortunate and that to desire impossible things is a sickness of the mind.
+
+154. Βίας ἐρωτηθεὶς τί δυσχερὲς „τὴν ἐπὶ τὸ χεῖρον“, ἔφη, „μεταβολὴν εὐγενῶς ὑπενεγκεῖν“.
+
+     \[Bias\], having been asked what is difficult, said, "To bear nobly a change for the worse."
+
+155. Βίας ἐρωτηθεὶς τί γλυκὺ ἀνθρώποις „ἐλπὶς“ ἔφη.
+
+     \[Bias\], having been asked what is sweet for mortals, said, "Hope."
+
+156. Bion
+157. \[Bion\]
 158. \[Bion\]
 159. \[Bion\]
 160. \[Bion\]
 161. \[Bion\]
 162. \[Bion\]
 163. \[Bion\]
-164. Glycol
-165. \[Glycol\]
+164. Glycon
+165. \[Glycon\]
 166. Gorgias
 167. \[Gorgias\]
 168. Diogenes
