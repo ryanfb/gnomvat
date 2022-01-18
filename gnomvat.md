@@ -540,7 +540,10 @@
 
      \[Anacharsis\] having been asked what is both good and bad in humanity, said: "Speech."
 
-132. \[Anacharsis\]
+132. Ὁ αὐτὸς κρεῖττον ἔφη εἶναι ἕνα φίλον ἔχειν πολλοῦ ἄξιον ἢ πολλοὺς μηδενὸς ἀξίους.
+
+     \[Anacharsis\] said it was better to have one friend of great worth than to have many of no worth.
+
 133. \[Anacharsis\]
 134. \[Anacharsis\]
 135. \[Anacharsis\]
