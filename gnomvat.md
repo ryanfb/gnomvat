@@ -659,8 +659,14 @@
 
      \[Bion\] said that old age is the remnant of life.
 
-164. Glycon
-165. \[Glycon\]
+164. Γλύκων ὁ φιλόσοφος τὴν παιδείαν ἔλεγεν ἱερὸν ἄσυλον εἶναι.
+
+     Glycon the philosopher said that education is an inviolate temple.
+
+165. Ὁ αὐτὸς ἐρωτηθεὶς τί λυπεῖ τοὺς ἀγαθοὺς εἶπε· „πονηρὸς εὐτυχῶν“.
+
+     \[Glycon\], having been asked what pains good men, said, "A wicked man faring well."
+
 166. Gorgias
 167. \[Gorgias\]
 168. Diogenes
