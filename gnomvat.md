@@ -667,8 +667,14 @@
 
      \[Glycon\], having been asked what pains good men, said, "A wicked man faring well."
 
-166. Gorgias
-167. \[Gorgias\]
+166. Γοργίας ὁ ῥήτωρ ἔλεγε τοὺς φιλοσοφίας μὲν ἀμελοῦντας, περὶ δὲ τὰ ἐγκύκλια μαθήματα γινομένους ὁμοίους εἶναι τοῖς μνηστῆρσιν, οἳ Πηνελόπην θέλοντες ταῖς θεραπαίναις αὐτῆς ἐμίγνυντο.
+
+     Gorgias the orator said that those who are negligent in philosophy but are involved in more general studies are like the suitors who, wishing for Penelope, slept with her attendants.
+
+167. Γοργίας τοὺς ῥήτορας ἔφη ὁμοίους εἷναι τοῖς βατράχοις· τοὺς μὲν γὰρ ἐν ὕδατι κελαδεῖν, τοὺς δὲ πρὸς κλεψύδραν.
+
+     \[Gorgias\] said that orators are like frogs. The ones croak in the water, the others according to the water-clock.
+
 168. Diogenes
 169. \[Diogenes\]
 170. \[Diogenes\]
