@@ -552,7 +552,10 @@
 
      \[Anacharsis\] said not to control things by words, but to control words by things; for the things are not put together by the words, but the words to fit the things.
 
-135. \[Anacharsis\]
+135. Ὁ αὐτὸς ἔλεγεν· „ὅταν ἐπαινῶσί με πολλοί, τότε νομίζω μηδενὸς ἄξιος εἶναι· ὅταν δὲ ὀλίγοι, σπουδαῖος ἄνθρωπος.“
+
+    \[Anacharsis\] said: "Whenever many are praising me, I consider myself nobody worthy; but whenever few are, an important person."
+
 136. \[Anacharsis\]
 137. Ἀριστοτέλης ἐρωτηθεὶς τί ἐστι φίλος ἔφη· „μία ψυχὴ ἐν δυσὶ σώμασιν οἰκοῦσα.“
 
