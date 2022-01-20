@@ -556,7 +556,10 @@
 
     \[Anacharsis\] said: "Whenever many are praising me, I consider myself nobody worthy; but whenever few are, an important person."
 
-136. \[Anacharsis\]
+136. Ὁ αὐτὸς ἐπῄνει τὸν γλώσσης καὶ κοιλίας καὶ αἰδοίων κρατοῦντα καὶ μάλιστα γλώσσης· ὅπερ δὴ καὶ ἐν τῷ ὑπνοῦν ἐδείκνυεν· ἑστιαθεὶς γάρ ποτε παρὰ Σόλωνι καὶ καθεύδων ὤφθη τὴν δεξιὰν χεῖρα ἔχων ἐπὶ τοῦ στόματος, τὴν δὲ ἀριστερὰν ἐπὶ τῶν ὑπὸ γαστέρα, ταύτῃ δηλῶν, ὡς πολλῷ μεῖζόν ἐστι γλώσσης κρατεῖν ἢ τῶν ὑπὸ γαστέρα.
+
+     \[Anacharsis\] used to praise those who had control of their tongue and belly and privates, and most of all the tongue; indeed he even proved this in his sleep; for he came to stay with Solon and he was seen sleeping holding his right hand over his mouth, and his left over his genitals, showing by this, how much more important it is to control the tongue than the genitals.
+
 137. Ἀριστοτέλης ἐρωτηθεὶς τί ἐστι φίλος ἔφη· „μία ψυχὴ ἐν δυσὶ σώμασιν οἰκοῦσα.“
 
      Aristotle, having been asked what a "friend" is, said, "One soul dwelling in two bodies."
