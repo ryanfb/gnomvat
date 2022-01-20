@@ -627,14 +627,38 @@
 
      \[Bias\], having been asked what is sweet for mortals, said, "Hope."
 
-156. Bion
-157. \[Bion\]
-158. \[Bion\]
-159. \[Bion\]
-160. \[Bion\]
-161. \[Bion\]
-162. \[Bion\]
-163. \[Bion\]
+156. Βίων ἐρωτηθείς· „πότε χρὴ ἀριστᾶν;“ ἔφη· „τοὺς μὲν πλουσίους, ὅταν θέλωσι, τοὺς δὲ πένητας, ὅταν ἔχωσιν“.
+
+     Bion, having been asked, "When should one dine?" said, "The wealthy, whenever they wish, and the poor, whenever they can."
+
+157. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος διὰ τί αὐτὸν οὐκ ὠφελεῖ τὰ ὑπ’ αὐτοῦ λεγόμενα „οὐδὲ γὰρ αἱ πυξίδες“, εἶπεν, „αἱ τὰ χρηστότατα φάρμακα ἔχουσαι, ἀφ’ ἑαυτῶν ὠφελοῦνται.“
+
+     \[Bion\], having been asked why the things said by him do not benefit him, said, "For the boxes that contain the most useful medicines draw no benefit from themselves."
+
+158. Ὁ αὐτὸς ἰδών τινα φθονερὸν σφόδρα συγκεχυμένον „ἀδύνατον“, εἶπεν, „εἰ μὴ τούτῳ μέγα κακὸν γέγονεν ἢ ἄλλῳ \<μέγα\> ἀγαθόν“.
+
+     \[Bion\], seeing an envious man very disturbed, said, "Impossible, unless a great evil has happened to him, or a \<great\> good to someone else.
+
+159. Ὁ αὐτὸς ζητήσεως γενομένης παρὰ πάντων ἰδὼν νεανίσκον σιγῶντα εἶπεν· „εἰ μὲν πεπαιδευμένος σιωπᾷς, ἀπαίδευτος εἶ· εἰ δὲ ἀπαίδευτος ὤν, πεπαίδευσαι“.
+
+     \[Bion\], when a discussion was happening for everyone, seeing a young man being silent, said, "If you are silent after being educated, you are uneducated. But if you do it when uneducated, then you have been educated."
+
+160. Βίων ἔλεγε δύο διδασκαλίας θανάτου εἶναι, τόν τε πρὸ τοῦ γενέσθαι χρόνον καὶ τὸν ὕπνον.
+
+     Bion said that there are two rehearsals for death: the time before being born and sleep.
+
+161. Βίων ὁ Περιπατητικὸς „τὰ χρήματα“, ἔφη, „τοῖς πλουσίοις ἡ τύχη οὐ δεδώρηκεν, ἀλλὰ δεδάνεικεν“.
+
+     Bion the Peripatetic said, "Fate has not gifted the wealthy with money, but rather it has lent it."
+
+162. Ὁ αὐτὸς τὴν μὲν φρόνησιν ἔφη παντοπώλιον εἶναι τῶν ἀγαθῶν, τὴν δὲ σωφροσύνην στρατουργίαν.
+
+     \[Bion\] said that judgment is a market of good things, but that moderation is levying an army.
+
+163. Ὁ αὐτὸς ἔφη τὸ γῆρας λείψανον εἶναι τοῦ βίου.
+
+     \[Bion\] said that old age is the remnant of life.
+
 164. Glycon
 165. \[Glycon\]
 166. Gorgias
