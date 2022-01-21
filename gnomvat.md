@@ -892,7 +892,10 @@
 
      \[Epaminondas\] seeing a big and beautiful army, which didn't have a general, said: "Does such a big beast have no head?"
 
-282. \[Epaminondas\]
+282. Ὁ αὐτὸς ταχθεὶς ὑπὸ τῶν \<πολιτῶν ἐπὶ τῶν\> ὀχετῶν „οὐκ ἐμὲ“ φησὶν „ἄδοξον ποιήσετε, ἀλλὰ τὸν τόπον ἔνδοξον δι’ ἐμέ“.
+
+     \[Epaminondas\] having been appointed to canal duty \<by the polis\>, said: "You will not make me disreputable, but instead because of me this place will become reputable."
+
 283. Ἐμπεδοκλῆς ὁ φυσικὸς πρὸς τὸν λέγοντα ὅτι „οὐδένα σοφὸν εὑρεῖν δύναμαι“ „κατὰ λόγον“ εἶπε· „τὸν γὰρ ζητοῦντα τὸν σοφὸν αὐτὸν πρότερον εἶναι δεῖ“.
 
      Someone saying to Empedocles the natural philosopher that "nobody is able to find a wise man", he said: "Logically, for the seeking of a wise man himself is necessary first."
