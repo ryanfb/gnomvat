@@ -912,7 +912,10 @@
 
      Euxitheus the Athenian said that those who are effective in speech but ineffective in life are like good dreams.
 
-287. Erasistratus
+287. Ἐρασίστρατος ὁ ἰατρὸς καταλαβών τινα πυρέττοντα καὶ ἐσθίοντα ἅμα ἠρώτησε τί τοῦτο ποιεῖ· ὁ δὲ „πρὸς ἡδονὴν“ ἔφη „ἀπόλλυμαι“.
+
+     Erasistratus the physician asked someone seized by fever and constantly eating why he was doing this; and he said: "I'm destroying myself for hedonism."
+
 288. \[Erasistratus\]
 289. \[Erasistratus\]
 290. \[Erasistratus\]
