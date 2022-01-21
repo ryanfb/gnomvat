@@ -777,7 +777,10 @@
 258. \[Demetrius\]
 259. \[Demetrius\]
 260. \[Demetrius\]
-261. Dionysius
+261. Διονύσιος ὁ Σικελίας τύραννος ἐκπεσὼν τῆς ἀρχῆς καὶ ἐρωτώμενος ὑπό τινος· „τί ὠφέλησαι ὑπὸ Πλάτωνος;“ εἶπε· „πάλαι μὲν τὸ μετρίως ἄρχειν, νῦν δὲ τὸ μετρίως ζῆν“.
+
+     Dionysius the tyrant of Sicily having been driven out of power and asked by someone, "What benefit did you gain from Plato?" said: "Earlier how to rule moderately, but now how to live moderately."
+
 262. \[Dionysius\]
 263. Δημοχάρης ὁ ῥήτωρ τελευτήσαντος τοῦ Δημοσθένους εἶπεν ἐν τῇ ἐκκλησίᾳ· „ἄνδρες πολῖται, ἡ φωνὴ τῆς πατρίδος ἡμῶν τέθνηκεν.“
 
