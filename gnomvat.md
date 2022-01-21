@@ -924,7 +924,10 @@
 
      \[Erasistratus\] said that medicine is the sister of philosophy; for one heals illnesses of the soul, but the other of the body.
 
-290. \[Erasistratus\]
+290. Ὁ αὐτὸς τελευτῶν „οἴμοι“, εἶπεν, „ὅτι παρακύπτων εἰς τὴν τέχνην ἀποθνήσκω“.
+
+     \[Erasistratus\] while dying said: "Woe is me, that I will die stooping for a glimpse into the medical arts."
+
 291. Ἐρατοσθένης ὁ Κυρηναῖος τῆς ἡλικίας ἔφη τὸ μὲν ἀκμάζον ἔαρ εἶναι, θέρος δὲ καὶ μετόπωρον τὸ μετὰ τὴν ἀκμήν, χειμῶνα δὲ τὸ γῆρας.
 
      Eratosthenes the Cyrenian said that flourishing in the prime of youth is spring, after the prime is summer and fall, and old age is winter.
