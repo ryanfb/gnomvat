@@ -874,7 +874,7 @@
 
 277. Εὐκλείδης ὁ φιλόσοφος ἐρωτώμενος ὑπό τινος ὁποῖοί τινές εἰσιν οἱ θεοὶ καὶ τίσι χαίρουσι „τὰ μὲν ἄλλα οὐκ οἶδα“ εἶπε· „τοὺς μέντοι φιλοπράγμονας ὅτι μισοῦσιν, ἀσφαλῶς οἶδα“.
 
-     Euclid the philosopher having been asked by someone what sort of people the gods are like and what they enjoy, said: "I don't know about all that, but surely they hate busybodies, I'm certain."
+     Euclid the philosopher having been asked by someone what sort of people the gods are like and what they enjoy, said: "I don't know about all that, but surely they hate busybodies, I'm certain of that."
 
 278. \[Euclid\]
 279. Epaminondas
