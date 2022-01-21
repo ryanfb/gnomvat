@@ -876,7 +876,10 @@
 
      Euclid the philosopher having been asked by someone what sort of people the gods are like and what they enjoy, said: "I don't know about all that, but surely they hate busybodies, I'm certain of that."
 
-278. \[Euclid\]
+278. Ὁ αὐτὸς τοῦ ἀδελφοῦ εἰπόντος κατ’ ὀργὴν οὐ πρότερον ἀποθανεῖσθαι, εἰ μὴ ἀμυνεῖται αὐτόν, „ἀλλ’ ἐγὼ“ ἔφη „οὐ πρότερον ἀποθανοῦμαι, εἰ μή σε φιλαίτατον ποιήσομαι“.
+
+     \[Euclid's\] brother angrily said that he would not die, unless he got vengeance upon him first, \[and Euclid\] said: "But I won't die, unless I make you my best friend first."
+
 279. Epaminondas
 280. \[Epaminondas\]
 281. \[Epaminondas\]
