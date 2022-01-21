@@ -880,7 +880,10 @@
 
      \[Euclid's\] brother angrily said that he would not die, unless he got vengeance upon him first, \[and Euclid\] said: "But I won't die, unless I make you my best friend first."
 
-279. Epaminondas
+279. Ἐπαμινώνδας ὁ Θηβαίων στρατηγὸς διαλεγομένου τινὸς αὐτῷ παρὰ τῶν πολεμίων περὶ προδοσίας εὐτελὲς ἄριστον ἀριστῶντι βλέψας εἰς τὸν ἄνθρωπον καὶ δείξας τὴν τράπεζαν εἶπε· „τοιαῦτα ἄριστα προδότας οὐ τρέφει“.
+
+     Epaminondas the Theban general was talking with someone about betrayals of enemies while he was eating a cheap meal, so he looked at the man and pointed at the table and said: "This sort of meal doesn't nurture traitors."
+
 280. \[Epaminondas\]
 281. \[Epaminondas\]
 282. \[Epaminondas\]
