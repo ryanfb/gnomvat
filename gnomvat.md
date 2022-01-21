@@ -494,7 +494,7 @@
 
 120. Ἀρίστων ὁ φιλόσοφος τοὺς πλουσίους καὶ φειδωλοὺς ὁμοίους ἔφησεν εἶναι τοῖς ἡμιόνοις, οἵτινες χρυσὸν καὶ ἄργυρον φέροντες χόρτον ἐσθίουσιν.
 
-     Ariston the philosopher said that the wealthy and the stingy are like mules, who, while carrying gold and silver, eat hay.
+     Ariston the philosopher said that the wealthy and stingy are like mules, who, while carrying gold and silver, eat hay.
 
 121. Ὁ αὐτὸς πολυκέφαλον θηρίον εἶπεν πάντα δῆμον.
 
