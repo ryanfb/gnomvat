@@ -554,7 +554,7 @@
 
 135. Ὁ αὐτὸς ἔλεγεν· „ὅταν ἐπαινῶσί με πολλοί, τότε νομίζω μηδενὸς ἄξιος εἶναι· ὅταν δὲ ὀλίγοι, σπουδαῖος ἄνθρωπος.“
 
-    \[Anacharsis\] said: "Whenever many are praising me, I consider myself nobody worthy; but whenever few are, an important person."
+     \[Anacharsis\] said: "Whenever many are praising me, I consider myself nobody worthy; but whenever few are, an important person."
 
 136. Ὁ αὐτὸς ἐπῄνει τὸν γλώσσης καὶ κοιλίας καὶ αἰδοίων κρατοῦντα καὶ μάλιστα γλώσσης· ὅπερ δὴ καὶ ἐν τῷ ὑπνοῦν ἐδείκνυεν· ἑστιαθεὶς γάρ ποτε παρὰ Σόλωνι καὶ καθεύδων ὤφθη τὴν δεξιὰν χεῖρα ἔχων ἐπὶ τοῦ στόματος, τὴν δὲ ἀριστερὰν ἐπὶ τῶν ὑπὸ γαστέρα, ταύτῃ δηλῶν, ὡς πολλῷ μεῖζόν ἐστι γλώσσης κρατεῖν ἢ τῶν ὑπὸ γαστέρα.
 
