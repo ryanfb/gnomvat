@@ -781,7 +781,10 @@
 
      Dionysius the tyrant of Sicily having been driven out of power and asked by someone, "What benefit did you gain from Plato?" said: "Earlier how to rule moderately, but now how to live moderately."
 
-262. \[Dionysius\]
+262. Ὁ αὐτὸς νεωτέρου τινὸς ἐπὶ τῇ τοῦ σώματος ὥρᾳ σεμνυνομένου ἀνοήτων ἔφη τοιαύτην ὑπεροχὴν θαυμάζειν, ἥτις ὑπὸ τριχὸς καταλύεται.
+
+     \[Dionysius\], to some young man who was worshipping his own body, said he was amazed at this foolish excess, which would be ruined by a single hair.
+
 263. Δημοχάρης ὁ ῥήτωρ τελευτήσαντος τοῦ Δημοσθένους εἶπεν ἐν τῇ ἐκκλησίᾳ· „ἄνδρες πολῖται, ἡ φωνὴ τῆς πατρίδος ἡμῶν τέθνηκεν.“
 
      Demochares the rhetorician, when Demosthenes had finished, said in the assembly: "Citizens, this speech has killed our country."
