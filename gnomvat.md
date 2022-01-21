@@ -904,7 +904,10 @@
 288. \[Erasistratus\]
 289. \[Erasistratus\]
 290. \[Erasistratus\]
-291. Eratosthenes
+291. Ἐρατοσθένης ὁ Κυρηναῖος τῆς ἡλικίας ἔφη τὸ μὲν ἀκμάζον ἔαρ εἶναι, θέρος δὲ καὶ μετόπωρον τὸ μετὰ τὴν ἀκμήν, χειμῶνα δὲ τὸ γῆρας.
+
+     Eratosthenes the Cyrenian said that flourishing in the prime of youth is spring, after the prime is summer and fall, and old age is winter.
+
 292. Eucrates
 293. Eumenes
 294. Ἐπίκουρος ὁ φιλόσοφος τὴν οἴησιν ἱερὰν νόσον \[εἶναι\] ἔλεγεν.
