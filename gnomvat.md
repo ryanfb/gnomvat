@@ -984,7 +984,7 @@
 
 306. Οἴησίς ἐστιν ἐγκοπὴ προκοπῆς.
 
-     \[Zaleucus said that?\] an opinion is an obstacle to progress.
+     \[Heraclitus said that\] an opinion is an obstacle to progress.
 
 307. Hegesias
 308. \[Hegesias\]
