@@ -548,7 +548,7 @@
 
      \[Anacharsis\] having been insulted by a drunken youth said: "Whippersnapper! If you can't hold your wine when you're young, when you're old you'll carry water."
 
-134.  Ὁ αὐτὸς ἔφασκε μὴ ἐκ τῶν λόγων τὰ πράγματα, ἀλλ’ ἐκ τῶν πραγμάτων τοὺς λόγους κρατεῖν· οὐ γὰρ ἕνεκεν τῶν λόγων τὰ πράγματα συντελεῖσθαι, ἀλλ’ ἐκ τῶν πραγμάτων τοὺς λόγους.
+134. Ὁ αὐτὸς ἔφασκε μὴ ἐκ τῶν λόγων τὰ πράγματα, ἀλλ’ ἐκ τῶν πραγμάτων τοὺς λόγους κρατεῖν· οὐ γὰρ ἕνεκεν τῶν λόγων τὰ πράγματα συντελεῖσθαι, ἀλλ’ ἐκ τῶν πραγμάτων τοὺς λόγους.
 
      \[Anacharsis\] said not to control things by words, but to control words by things; for the things are not put together by the words, but the words to fit the things.
 
