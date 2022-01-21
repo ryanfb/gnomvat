@@ -916,7 +916,10 @@
 
      Erasistratus the physician asked someone seized by fever and constantly eating why he was doing this; and he said: "I'm destroying myself for hedonism."
 
-288. \[Erasistratus\]
+288. Ὁ αὐτὸς οὐκ ἐκ τῶν καταποθέντων, ἀλλ’ ἐκ τῶν ἀναδοθέντων τὴν ἰσχὺν ἔφη τοῖς ἀνθρώποις περιγίνεσθαι.
+
+     \[Erasistratus\] said that people gain superior strength not from swallowing, but from digesting.
+
 289. \[Erasistratus\]
 290. \[Erasistratus\]
 291. Ἐρατοσθένης ὁ Κυρηναῖος τῆς ἡλικίας ἔφη τὸ μὲν ἀκμάζον ἔαρ εἶναι, θέρος δὲ καὶ μετόπωρον τὸ μετὰ τὴν ἀκμήν, χειμῶνα δὲ τὸ γῆρας.
