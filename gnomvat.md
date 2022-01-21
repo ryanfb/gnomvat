@@ -884,7 +884,10 @@
 
      Epaminondas the Theban general was talking with someone about betrayals of enemies while he was eating a cheap meal, so he looked at the man and pointed at the table and said: "This sort of meal doesn't nurture traitors."
 
-280. \[Epaminondas\]
+280. Ὁ αὐτὸς τὸν κατὰ τὸν πόλεμον θάνατον εἶπεν ἱερόθυτον εἶναι.
+
+     \[Epaminondas\] said that a death in battle is a holy sacrifice.
+
 281. \[Epaminondas\]
 282. \[Epaminondas\]
 283. Ἐμπεδοκλῆς ὁ φυσικὸς πρὸς τὸν λέγοντα ὅτι „οὐδένα σοφὸν εὑρεῖν δύναμαι“ „κατὰ λόγον“ εἶπε· „τὸν γὰρ ζητοῦντα τὸν σοφὸν αὐτὸν πρότερον εἶναι δεῖ“.
