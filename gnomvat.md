@@ -872,8 +872,11 @@
 
      Once, when \[Euripides\] was boiling lentils and didn't have any wood, he took up a wooden statue of Heracles standing nearby and put it onto the hearth, saying, "Heracles, Euripides imposes a thirteenth labor upon you: boil the lentils."
 
-277. Eucleides
-278. \[Eucleides\]
+277. Εὐκλείδης ὁ φιλόσοφος ἐρωτώμενος ὑπό τινος ὁποῖοί τινές εἰσιν οἱ θεοὶ καὶ τίσι χαίρουσι „τὰ μὲν ἄλλα οὐκ οἶδα“ εἶπε· „τοὺς μέντοι φιλοπράγμονας ὅτι μισοῦσιν, ἀσφαλῶς οἶδα“.
+
+     Euclid the philosopher having been asked by someone what sort of people the gods are like and what they enjoy, said: "I don't know about all that, but surely they hate busybodies, I'm certain."
+
+278. \[Euclid\]
 279. Epaminondas
 280. \[Epaminondas\]
 281. \[Epaminondas\]
