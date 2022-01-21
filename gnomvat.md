@@ -724,10 +724,22 @@
 
      \[Diogenes\], observing a young man boasting at the extravagance of his cloak, said, "Won't you stop, young man, boasting at the excellence of the sheep?"
 
-178. \[Diogenes\]
-179. \[Diogenes\]
-180. \[Diogenes\]
-181. \[Diogenes\]
+178. Ὁ αὐτὸς θεασάμενος ἑταιρίδος υἱὸν λίθους εἰς ὄχλον βάλλοντα „οὐκ εὐλαβῇ“, ἔφη, „σύ, μή σου τὸν πατέρα πλήξῃς“;
+
+     \[Diogenes\], seeing the son of a female companion throwing stones at a crowd, said, "Won't you be careful lest you hit your father?"
+
+179. Ὁ αὐτὸς προσελθόντος αὐτῷ τινος καὶ λέγοντος ὅτι „ὁ δεῖνά σε κακῶς λέγει“ εἶπε· „μὴ θαύμαζε· καλῶς \<γὰρ\> λέγειν οὐκ ἔμαθεν.“
+
+     \[Diogenes\], when someone approached him and said, "A certain so and so spoke badly of you," said, "Do not be amazed. For he did not know how to speak well."
+
+180. <Ὁ> αὐτὸς ἐρωτηθεὶς τίς ἐν ἀνθρώποις πλούσιος εἶπεν· „ὁ αὐτάρκης“.
+
+     \[Diogenes\], having been asked who among men is rich, said, "The self-sufficient man."
+
+181. Διογένης ἔφασκεν ἡδονὴν ἀληθινὴν εἶναι τὸ τὴν ψυχὴν ἐν ἡσυχίᾳ καὶ ἱλαρότητι ἔχειν, ἄνευ δὲ τούτου οὐδὲ τὰ Μίδου οὐδὲ τὰ Κροίσου χρήματα ὠφέλιμα εἶναι· ἐὰν δέ τις ἢ ὑπὲρ μεγάλου ἢ ὑπὲρ μικροῦ λυπῆται, οὐκ εὐδαίμων, ἀλλὰ κακοδαίμων ἐστίν.
+
+     \[Diogenes\] used to say that true pleasure is having a mind in peace and cheer, and that, without this, neither the wealthy of Midas nor of Croesus is beneficial. But rather, if someone is pained on account of something great or small, he is not happy but miserable.
+
 182. \[Diogenes\]
 183. \[Diogenes\]
 184. \[Diogenes\]
