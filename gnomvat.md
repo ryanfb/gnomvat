@@ -920,7 +920,10 @@
 
      \[Erasistratus\] said that people gain superior strength not from swallowing, but from digesting.
 
-289. \[Erasistratus\]
+289. Ὁ αὐτὸς τὴν ἰατρικὴν τῆς φιλοσοφίας ἔφησεν ἀδελφὴν εἶναι· τὴν μὲν γὰρ τὰ ψυχικά, τὴν δὲ τὰ σωματικὰ θεραπεύειν ἀῤῥωστήματα.
+
+     \[Erasistratus\] said that medicine is the sister of philosophy; for one heals illnesses of the soul, but the other of the body.
+
 290. \[Erasistratus\]
 291. Ἐρατοσθένης ὁ Κυρηναῖος τῆς ἡλικίας ἔφη τὸ μὲν ἀκμάζον ἔαρ εἶναι, θέρος δὲ καὶ μετόπωρον τὸ μετὰ τὴν ἀκμήν, χειμῶνα δὲ τὸ γῆρας.
 
