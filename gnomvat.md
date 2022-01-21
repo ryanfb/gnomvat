@@ -888,7 +888,10 @@
 
      \[Epaminondas\] said that a death in battle is a holy sacrifice.
 
-281. \[Epaminondas\]
+281. Ὁ αὐτὸς ἰδὼν στρατόπεδον μέγα καὶ καλόν, στρατηγὸν οὐκ ἔχον, „ἡλίκον“ εἶπε „θηρίον κεφαλὴν οὐκ ἔχει“;
+
+     \[Epaminondas\] seeing a big and beautiful army, which didn't have a general, said: "Does such a big beast have no head?"
+
 282. \[Epaminondas\]
 283. Ἐμπεδοκλῆς ὁ φυσικὸς πρὸς τὸν λέγοντα ὅτι „οὐδένα σοφὸν εὑρεῖν δύναμαι“ „κατὰ λόγον“ εἶπε· „τὸν γὰρ ζητοῦντα τὸν σοφὸν αὐτὸν πρότερον εἶναι δεῖ“.
 
