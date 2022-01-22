@@ -1067,12 +1067,30 @@
 
      Herodotus the historian, having been asked by someone how people might be happy, said: "If they'd not do so much."
 
-310. Heraclitus
-311. \[Heraclitus\]
-312. \[Heraclitus\]
-313. \[Heraclitus\]
-314. \[Heraclitus\]
-315. \[Heraclitus\]
+310. Ἡράκλειτος ὁ φυσικὸς ἔφησε σοφώτατος γεγονέναι πάντων νέος ὤν, ὅτι ᾔδει ἑαυτὸν μηδὲν εἰδότα.
+
+     Heraclitus the natural philosopher said that he was the wisest of all when he was young, because he knew that he know nothing.
+
+311. Ὁ αὐτὸς ἔφη· „κακοὶ μάρτυρες ὦτα καὶ ὀφθαλμοὶ ἀφρόνων ἀνθρώπων“.
+
+     \[Heraclitus\] said, "Bad witnesses are the ears and eyes of senseless people."
+
+312. Ὁ αὐτὸς ἔφη· „τιμαὶ θεοὺς καὶ ἀνθρώπους καταδουλοῦνται“.
+
+     \[Heraclitus\] said, "Honors enslave gods and men."
+
+313. \<Ὁ\> αὐτὸς εἶπεν· „ἄνθρωποι κακοὶ ἀληθινῶν ἀντίδικοι“.
+
+     \[Heraclitus\] said, "Bad men are the opponents of genuine ones."
+
+314. Ἡράκλειτος τὴν παιδείαν ἕτερον ἥλιον εἶναι τοῖς πεπαιδευμένοις ἔλεγεν.
+
+     Heraclitus used to say that education is another son for those who have been educated.
+
+315. Ὁ αὐτὸς συντομωτάτην ὁδὸν ἔλεγεν εἰς εὐδοξίαν τὸ γενέσθαι ἀγαθόν.
+
+     \[Heraclitus\] used to say that the briefest road to glory is to be born noble.
+
 316. Thales
 317. \[Thales\]
 318. \[Thales\]
