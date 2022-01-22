@@ -732,7 +732,7 @@
 
      \[Diogenes\], when someone approached him and said, "A certain so and so spoke badly of you," said, "Do not be amazed. For he did not know how to speak well."
 
-180. <Ὁ> αὐτὸς ἐρωτηθεὶς τίς ἐν ἀνθρώποις πλούσιος εἶπεν· „ὁ αὐτάρκης“.
+180. \<Ὁ\> αὐτὸς ἐρωτηθεὶς τίς ἐν ἀνθρώποις πλούσιος εἶπεν· „ὁ αὐτάρκης“.
 
      \[Diogenes\], having been asked who among men is rich, said, "The self-sufficient man."
 
