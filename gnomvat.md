@@ -1091,10 +1091,22 @@
 
      \[Heraclitus\] used to say that the briefest road to glory is to be born noble.
 
-316. Thales
-317. \[Thales\]
-318. \[Thales\]
-319. \[Thales\]
+316. Θαλῆς ὁ σοφὸς ἐρωτηθεὶς εἰ λανθάνει τις ποιῶν τι τὸν θεὸν εἶπεν· „οὐδὲ διανοούμενος“.
+
+     Thales the sage, having been asked if anyone does anything with the gods unaware, said, "They do not even plan it."
+
+317. Ὁ αὐτὸς ἐρωτῶντος αὐτόν τινος εἰ ὀμόσῃ, ὅτι οὐκ ἐμοίχευσεν, ἐκέλευσε μὴ ὀμόσαι φήσας τὸν ὅρκον μεῖζον αὐτὸν βλάψειν ἢ τὸ ἔργον.
+
+     \[Thales\], when someone asked him if he would swear that he did not commit adultery, commanded him not to swear, saying that the oath would harm him more than the deed.
+
+318. Ὁ αὐτὸς παρακελευομένης αὐτῷ τῆς μητρὸς γῆμαι οὔπω ἔφησεν ὥραν εἶναι, ὕστερον δὲ ἀναγκαζόμενος παρεληλυθέναι ἔφη τὴν ὥραν.
+
+     \[Thales\], when his mother was commanding him to marry, said that it was not yet time, but later, being compelled to do so, he said the time had passed.
+
+319. Ὁ αὐτὸς ἀποσκοπῶν ποτε νύκτωρ εἰς τὰ μετέωρα καὶ διὰ τοῦτο κατενεχθεὶς εἴς τι φρέαρ, πρὸς τὴν ἐκείνου φωνὴν τὸ προσεδρεῦον αὐτῷ θεραπαινίδιον ἐλθὸν καὶ διὰ κλιμακίου μόλις ἀνελκύσαν τὸν δεσπότην εἶπεν· „ὦ Θαλῆς, τὰ ἐν οὐρανῷ σκοπῶν τὰ ἐπὶ γῆς οὐχ ἑώρακας“.
+
+     \[Thales\], once looking steadily at night at things in the heavens and, for this reason, having fallen into some well, the attendant woman who served him, coming to the sound of his voice and dragging her master up with difficulty with a ladder, said to him, "O Thales, watching the things in the sky you have not seen the ones on the ground."
+
 320. \[Thales\]
 321. \[Thales\]
 322. Theophrastus
