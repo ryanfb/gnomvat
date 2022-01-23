@@ -1107,7 +1107,32 @@
 
      \[Thales\], once looking steadily at night at things in the heavens and, for this reason, having fallen into some well, the attendant woman who served him, coming to the sound of his voice and dragging her master up with difficulty with a ladder, said to him, "O Thales, watching the things in the sky you have not seen the ones on the ground."
 
-320. \[Thales\]
+320. Θαλῆς ἐρωτηθεὶς
+
+      1. τί πρεσβύτατον τῶν ὄντων εἶπε· „θεός· ἀγέννητος γάρ“·
+      
+         Thales was asked
+      
+      2. κάλλιστον· „κόσμος· ποίημα <γὰρ> τοῦ θεοῦ“·
+      
+         Thales was asked
+      
+      3. μέγιστον· „[ὁ] τόπος· ἅπαντα γὰρ χωρεῖ“·
+      
+         Thales was asked
+      
+      4. ταχύτατον· „[ὁ] νοῦς· διὰ παντὸς γὰρ τρέχει“·
+      
+         Thales was asked
+      
+      5. ἰσχυρότατον· „ἀνάγκη· κρατεῖ γὰρ ἁπάντων“·
+      
+         Thales was asked
+      
+      6. σοφώτατον· „χρόνος· ἀνευρίσκει γὰρ πάντα“.
+      
+         Thales was asked
+      
 321. \[Thales\]
 322. Theophrastus
 323. \[Theophrastus\]
