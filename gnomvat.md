@@ -824,36 +824,126 @@
 
      \[Diogenes\], when one of his friends was advising him, since he was now in old age, to slacken now at any rate due to his time of life, said that it was the same thing, as if he was encouraging him while competing in a race and drawing close to the prize to slacken his speed, when he should be advising the opposite, to incite him.
 
-203. Demosthenes
-204. \[Demosthenes\]
-205. \[Demosthenes\]
-206. \[Demosthenes\]
-207. \[Demosthenes\]
-208. \[Demosthenes\]
-209. \[Demosthenes\]
-210. \[Demosthenes\]
-211. \[Demosthenes\]
-212. \[Demosthenes\]
-213. \[Demosthenes\]
-214. \[Demosthenes\]
-215. \[Demosthenes\]
-216. \[Demosthenes\]
-217. \[Demosthenes\]
-218. \[Demosthenes\]
-219. \[Demosthenes\]
-220. \[Demosthenes\]
-221. \[Demosthenes\]
-222. \[Demosthenes\]
-223. \[Demosthenes\]
-224. \[Demosthenes\]
-225. \[Demosthenes\]
-226. \[Demosthenes\]
-227. \[Demosthenes\]
-228. \[Demosthenes\]
-229. \[Demosthenes\]
-230. \[Demosthenes\]
-231. \[Demosthenes\]
-232. \[Demosthenes\]
+203. Δημοσθένη ὁ ῥήτωρ τὸν οἶνον παρῃτεῖτο οὐ ψυχῆς ὄντα πόμα, ἀλλὰ σώματος, ἵνα τε ξυνιέναι ὀξύτερος ᾖ καὶ ἀμείνων μνημονεύς.
+
+     Demosthenes the orator refused wine, being a drink not for the mind but for the body, in order that he may be keener at understanding and a better recollector. 
+
+204. Ὁ αὐτὸς σκωπτόμενος ὑπό τινος ὅτι διὰ σμικρολογίας τοῦτο ποιεῖ εἶπεν· „ἀλλ’ ἐγὼ πλεῖον ἔλαιον δαπανῶ νυκτὸς οὗ πίνεις οἴνου.“
+
+     \[Demosthenes\], being made fun of by someone that he does this out of stinginess, said, "But I buy more olive oil in a night than you drink wine."
+
+205. Ὁ αὐτὸς ἐρωτηθεὶς τί ἐστι συκοφάντης εἶπεν· „καθημερινὸς λωποδύτης“.
+
+     \[Demosthenes\], having been asked what a sycophant is, said, "An everyday thief."
+
+206. Ὁ αὐτὸς ἔφη τὸν κόλακα τοῦτο διαφέρειν τοῦ κόρακος, ᾗ ὁ μὲν ζῶντας, ὁ δὲ νεκροὺς ἐσθίει.
+
+     \[Demosthenes\] said that a flatterer differs from a raven in this, because one feeds on the living, and the other the dead.
+
+207. Ὁ αὐτὸς μειρακίου παρὰ πότον πολλὰ ληροῦντος καὶ μὴ βουλομένου σιωπῆσαι „μειράκιον“ εἶπε· „πῶς, παρ’ ᾧ ἔμαθες λαλεῖν, παρὰ τούτῳ σιωπᾶν οὐκ ἔμαθες“;
+
+     \[Demosthenes\], when a young man was acting very foolish in his drink and did not wish to be silent, said, "Young man, How did you not know how to be silent from the man from whom you learned to act foolishly."
+
+208. Ὁ αὐτὸς σκυτοτόμου τινὸς ἐν ἐκκλησίᾳ ταράττοντος „εὕρηκα ἄλλον“ εἶπεν „Ὑποδημάδην“.
+
+     \[Demosthenes\], when some leatherworker was causing a ruckus in the assembly, said, "I have found another Hypodemades."
+
+209. Ὁ αὐτὸς εἶπεν· „ὥς περ δεῖ τοὺς πλέοντας πνεῦμα δεξιὸν ἐπιτηρεῖν, οὕτω καὶ τοὺς πολιτευομένους καιρόν, ἵν’ ἔλθωσιν, ὅπου βούλονται“.
+
+     \[Demosthenes\] said, "As it is very necessary for those sailing to watch out for the right wind, so also should those in politics look for the right moment, in order that they may come when they wish."
+
+210. Ὁ αὐτὸς ὀνειδίζοντος αὐτόν τινος καὶ λέγοντος· „μεθύων παραλαλεῖς“ εἶπεν· „σὺ δὲ οἴει με νήφοντα παραλαλεῖν“. 
+
+     \[Demosthenes\], when someone was reproaching him and saying, "You are babbling while drunk," said, "But you think that I babble while sober."
+
+211. Ὁ αὐτὸς ἔφησε τοὺς νόμους δημοκρατίας νεῦρα.
+
+     \[Demosthenes\] said that the laws are the sinews of a democracy.
+
+212. <Ὁ> αὐτὸς ἐρωτηθεὶς ὑπό τινος τί μάλιστα \<παρ’\> ἀνθρώποις γηράσκει εἶπε· „χάρις“.
+
+     \[Demosthenes\], having been asked by someone what most grows old \<among\> men, said, "A favor."
+ 
+213. Ὁ αὐτὸς ἐπὶ ἐκφοράν ποτε παραγενόμενος φιλαργύρου „οὗτος“ ἔφη „ζήσας ἀβίωτον βίον ἑτέροις ἀπολέλοιπεν βίον“.
+
+     \[Demosthenes\], once being present at the funeral of an avaricious man, said, "This man, after living a lifeless life, has left behind a life for others."
+
+214. Ὁ αὐτὸς νεωτέρου τινὸς εὐειδοῦς μὲν τὴν ὄψιν, ἀσελγοῦς δὲ τὸν τρόπον, λοιδορουμένου αὐτῷ καὶ λέγοντος ὡς, εἰ ἐπίσης αὐτῷ ἐμισεῖτο ὑπὸ τῶν πολιτῶν, ἀπήγξατο ἂν ἔφη· „ἐγὼ μὲν οὖν ἀπηγξάμην ἄν, \<εἰ\> ἐπίσης σοι ὑπὸ τῶν πολιτῶν ἐφιλούμην“.
+
+     \[Demosthenes\], when some young man, beautiful in appearance but wanton in his way of life, was reproaching him and saying that, if he was hated by the citizens as much as he was, he would have been strangled, said, "So would I have been strangled, \<if\> I were loved as much as you are by the citizens."
+ 
+215. Ὁ αὐτὸς ἑξηκονταετοῦς τινος εἰπόντος μηδεπώποτε οὕτως ἀσθενῆσαι ἔφη· „οὐδεπώποτε γὰρ ἑξηκονταετὴς ἐγένου“.
+
+     \[Demosthenes\], when a 60 year old man said that he had never been so weak, said, "For you were never 60 years old."
+
+216. Ὁ αὐτὸς τὸν πλούσιον καὶ ἀπαίδευτον ἔφη Τύχης ἔμετον εἶναι.
+
+     \[Demosthenes\] said that the wealthy and uneducated vomit out Fortune.
+
+217. Ὁ αὐτὸς ἐπαινοῦντός τινος Κλέανδρον καὶ λέγοντος ὅτι ἐστὶν ἀγαθὸς ῥήτωρ, ὑποκρίσει δὲ λείπεται, εἶπεν· „ὅμοιός ἐστι ταὐτὸ ποιεῖν τούτῳ, εἴ τις ἐπαινοίη φρέαρ, λέγει δὲ ὅτι πότιμον ὕδωρ οὐκ ἔχει“.
+
+     \[Demosthenes\], when someone was praising Cleandrus and saying that he is a good orator, but is lacking in delivery, said, "That is like doing the same thing as this, if someone should praise a well but says that it does not have drinkable water."
+
+218. Ὁ αὐτὸς ἐρωτηθεὶς ποῖον τῶν λόγων ἠγωνίσατο μᾶλλον εἶπεν· „ὃν μετ’ εὐνοίας ἠκροάσαντο \<μᾶλλον\> Ἀθηναῖοι“.
+
+     \[Demosthenes\], having been asked what sort of speeches he contended with better, said, "The kind which the Athenians \<more\> listened to with good will."
+
+219. Ὁ αὐτὸς ἐρωτηθεὶς ποῖον μέγιστον ὅπλον εἶπε· „λόγος“.
+
+     \[Demosthenes\] having been asked what weapon is best, said, "Speech."
+
+220. Ὁ αὐτὸς μειρακίου τινὸς αὐτὸν προκαλουμένου εἰς μελέτην „μειράκιον“ ἔφη· „σοὶ μὲν τοῦτο εὐκτόν ἐστιν, ἐμοὶ δὲ οἰμωκτόν“.
+
+     \[Demosthenes\], when some young man was inviting him to a declamation, said, "Young man, it is hoped for you to do this, but for me it is pitiable."
+
+221. Ὁ αὐτὸς ἐρωτηθεὶς τί δυσκολώτατον ἐν βίῳ εἶπε· „τὸ πᾶσιν ἀρέσαι“.
+
+     \[Demosthenes\], having been asked what is most troublesome in life, said, "Pleasing everyone."
+
+222. Ὁ αὐτὸς ἀκούσας ὅτι ὑπὸ Φιλίππου λοιδορεῖται εἶπεν· „ἀπόντα με καὶ τυπτέτω“.
+
+     \[Demosthenes\], having heard that he was being reviled by Philip, said, "Let him even strike me in my absence."
+
+223. Ὁ αὐτὸς εὐχερῶς αὐτῷ ἀργύριον χρήσαντός τινος εἶθ’ ὁρῶν πολλοῖς αὐτὸν τὸ αὐτὸ ποιοῦντα εἶπεν· „οὐκέτι σοι ἔχω χάριν· νόσῳ γάρ, οὐ κρίσει τοῦτο ποιεῖς“.
+
+     \[Demosthenes\], when someone was lending him money readily, then seeing him doing the same thing for many people, said, "I no longer am grateful to you. For you are doing this out of a sickness, not out of judgment."
+
+224. Ὁ αὐτὸς ἰδὼν παρὰ ποταμὸν μειράκιον εὐειδὲς κεκοσμημένον προπεπτωκὸς νύξας αὐτὸ καὶ ἐγείρας εἶπεν· „οὐ φοβῇ, μή τίς τοι εὕδοντι μετισχίῳ ἐν δόρυ πήξῃ;“
+
+     \[Demosthenes\], seeing a beautiful, decorated young man prostrate beside a river, prodding and stirring him, said, "Are you not afraid that someone will fix his spear into your haunches while sleeping?"
+
+225. Ὁ αὐτὸς ὡς οἱ γνώριμοι ἔλεγον· „οὐκ ἀκούουσίν σου Ἀθηναῖοι“ εἶπεν· „ἀλλ’ αὐτίκα ἀκούσονται καὶ σιωπᾶν βουλόμενον οὐκ ἐάσουσιν“.
+
+     \[Demosthenes\], when the distinguished people used to say, "The Athenians are not listening to you," said, "But presently they will listen and will not let me be silent, although wishing it."
+
+226. Ὁ αὐτὸς ἰδὼν κακὸν παλαιστὴν ἰατρεύοντα „νῦν“ εἶπεν „εὕρηκας μέθοδον, δι’ ἧς πολλοὺς καταβαλεῖς“.
+
+     \[Demosthenes\], seeing a bad wrestler being a doctor, said, "Now you have found a way to throw down many people."
+
+227. Ὁ αὐτὸς θορυβούντων ποτὲ τῶν δικαστῶν ἤρετο αὐτούς· „ποταπὴ αὕτη ἡ κρίσις ἐστίν, ἐν ᾗ σιωπᾷ μὲν ὁ κρινόμενος, λέγουσι δὲ οἱ δικάζοντες“;
+
+     \[Demosthenes\], when the jury was once making an uproar, asked them, "What sort of trial is this, in which the one being judged is quiet but those judging it are speaking?"
+
+228. Ὁ αὐτὸς δημηγορήσας ποτὲ παρ’ Ἀθηναίοις λαμπρῶς ἔπειτα καθίσας καὶ ἰδὼν ἐξανιστάμενον Δημάδην εἶπεν· „ἀνίσταται ἡ τῶν ἡμετέρων λόγων σφῦρα“.
+
+     \[Demosthenes\], once orating brilliantly among the Athenians, then having sat down and seen Demades standing up, said, "The mallet of our speeches is standing."
+
+229. Ὁ αὐτὸς ἔφη πόλεως εἶναι ψυχὴν τοὺς νόμους· „ὥσπερ δὲ σῷμα στερηθὲν ψυχῆς πίπτει, οὕτω καὶ πόλις μὴ ὄντων νόμων καταλύεται“
+
+     \[Demosthenes\] said that the laws are the soul of a city. "And just as a body deprived of the soul falls, so also is a city dissolved when there are not laws."
+
+230. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τίς ῥήτορα \<αὐτὸν\> ἐποίησεν εἶπεν· „τὸ Ἀθηναίων βῆμα“.
+
+     \[Demosthenes\], having been asked by someone who made \<him\> an orator, said, "The platform of the Athenians."
+
+231. Ὁ αὐτὸς προτρεπόμενός ποτε Ἀθηναίους κἀκείνων ὁρμησάντων βαλεῖν αὐτὸν λίθοις „βάλλετε“ ἔφη· „ὦ Ἀθηναῖοι· κρεῖττον γάρ ἐστι παρ’ ὑμῶν ἀπολέσθαι ἢ μεθ’ ὑμῶν“.
+
+     \[Demosthenes\], urging on the Athenians once, when even those were rushing to strike him with stones, said, "Strike, o Athenians, for it is better to be killed by you than with you."
+
+232. Ὁ αὐτὸς θεασάμενός τινα πλείονα τῆς οὐσίας ποιούμενον φροντίδα ὑπὲρ τοὺς υἱοὺς ἔφη· „σύ μοι δοκεῖς, ὦ οὗτος, μὴ τὴν οὐσίαν ἐθέλειν τοῖς υἱοῖς καταλιπεῖν, ἀλλὰ τὰ τέκνα τῇ οὐσίᾳ“.
+
+     \[Demosthenes\], seeing someone giving more heed to his estate \<than\> for his sons, said "You here seem to me to wish not to leave behind an estate to your sons but sons to your estate."
+
 233. Demades
 234. \[Demades\]
 235. \[Demades\]
