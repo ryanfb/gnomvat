@@ -1137,35 +1137,35 @@
 
       1. τί δύσκολον ἔφη· „τὸ ἑαυτὸν γνῶναι“·
       
-         \[Thales\] having been asked
+         \[Thales\] having been asked what is difficult, said: "Knowing thyself."
       
       2. τί εὔκολον· „τὸ ἄλλῳ ὑποθέσθαι“·
       
-         \[Thales\] having been asked
+         \[Thales\] having been asked what is easy, \[said\]: "Advising others."
       
       3. τί δὲ ἥδιστον· „τὸ ἐπιτυγχάνειν“·
       
-         \[Thales\] having been asked
+         \[Thales\] having been asked what is sweetest, \[said\]: "Happening upon something."
       
       4. τί δὲ θεῖον· „τὸ μήτε ἀρχὴν μήτε τελευτὴν ἔχον“·
       
-         \[Thales\] having been asked
+         \[Thales\] having been asked what is godly, \[said\]: "That which has neither beginning nor end."
       
       5. τί δὲ δύσκολον εἴη τεθεαμένος, „γέροντα \[ἔφη\] τύραννον“·
       
-         \[Thales\] having been asked
+         \[Thales\] having been asked what is difficult to see, \[said\]: "An old tyrant."
       
       6. πῶς ἄν τις ἀτυχίαν ἄριστα φέροι· „εἰ τοὺς ἐχθροὺς χείρονα πράττοντας βλέποι“·
       
-         \[Thales\] having been asked
+         \[Thales\] having been asked how someone might bear misfortune best, \[said\]: "If they might see their enemies doing worse."
       
       7. πῶς ἂν ἄριστα καὶ δικαιότατα βιώσαιμεν, „ἐὰν ἃ τοῖς ἄλλοις \[ἔφη\] ἐπιτιμῶμεν αὐτοὶ μὴ δρῶμεν“·
       
-         \[Thales\] having been asked
+         \[Thales\] having been asked how we might live best and most rightly, \[said\]: "If we might not do that which we criticize others for."
       
       8. τίς εὐδαίμων· „ὁ τὸ μὲν σῶμα ὑγιής, τὴν δὲ ψυχὴν εὔπορος, τὴν δὲ φύσιν εὐπαίδευτος“.
       
-         \[Thales\] having been asked
+         \[Thales\] having been asked who is fortunate, \[said\]: "One with a healthy body, a ready soul, and a well-educated nature."
       
 
 322. Theophrastus
