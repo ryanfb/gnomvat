@@ -1111,27 +1111,27 @@
 
       1. τί πρεσβύτατον τῶν ὄντων εἶπε· „θεός· ἀγέννητος γάρ“·
       
-         Thales having been asked
+         Thales having been asked what was the oldest being, said: "God; for they were un-born."
       
       2. κάλλιστον· „κόσμος· ποίημα <γὰρ> τοῦ θεοῦ“·
       
-         Thales having been asked
+         Thales having been asked what was most beautiful, said: "Cosmos; for it is god's poem."
       
       3. μέγιστον· „\[ὁ\] τόπος· ἅπαντα γὰρ χωρεῖ“·
       
-         Thales having been asked
+         Thales having been asked what was greatest, said: "Space; for it makes room for everything."
       
       4. ταχύτατον· „\[ὁ\] νοῦς· διὰ παντὸς γὰρ τρέχει“·
       
-         Thales having been asked
+         Thales having been asked what was fastest, said: "The mind; for it rushes through everything."
       
       5. ἰσχυρότατον· „ἀνάγκη· κρατεῖ γὰρ ἁπάντων“·
       
-         Thales having been asked
+         Thales having been asked what was strongest, said: "Force; for it rules everything."
       
       6. σοφώτατον· „χρόνος· ἀνευρίσκει γὰρ πάντα“.
       
-         Thales having been asked
+         Thales having been asked what was wisest, said: "Time; for it discovers everything."
       
 321. Ὁ αὐτὸς ἐρωτηθεὶς
 
