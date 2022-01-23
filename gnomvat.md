@@ -1111,27 +1111,27 @@
 
       1. τί πρεσβύτατον τῶν ὄντων εἶπε· „θεός· ἀγέννητος γάρ“·
       
-         Thales was asked
+         Thales having been asked
       
       2. κάλλιστον· „κόσμος· ποίημα <γὰρ> τοῦ θεοῦ“·
       
-         Thales was asked
+         Thales having been asked
       
       3. μέγιστον· „[ὁ] τόπος· ἅπαντα γὰρ χωρεῖ“·
       
-         Thales was asked
+         Thales having been asked
       
       4. ταχύτατον· „[ὁ] νοῦς· διὰ παντὸς γὰρ τρέχει“·
       
-         Thales was asked
+         Thales having been asked
       
       5. ἰσχυρότατον· „ἀνάγκη· κρατεῖ γὰρ ἁπάντων“·
       
-         Thales was asked
+         Thales having been asked
       
       6. σοφώτατον· „χρόνος· ἀνευρίσκει γὰρ πάντα“.
       
-         Thales was asked
+         Thales having been asked
       
 321. \[Thales\]
 322. Theophrastus
