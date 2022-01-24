@@ -1504,7 +1504,10 @@
 
      Pericles having been counseled by his wife to save himself, said: "Tell this to others; but tell a leader and ruler to save the people."
 
-453. \[Pericles\]
+453. Ὁ αὐτὸς τὸν ἀνθρώπινον βίον ὅμοιον ἔφησεν εἶναι θαλάσσῃ· „καὶ γὰρ ἐκείνη νηνεμίας μὲν οὔσης εὐδινοτάτη ἐστίν· ὅταν δὲ οἱ ἄνεμοι πνέωσι, ταράττεται· οὕτως καὶ τῶν ἀνθρώπων ὁ βίος εὐσταθοῦς μὲν τῆς τύχης οὔσης ἱλαρός ἐστιν, ἀντιπνευσάσης δὲ χειμάζεται“.
+
+     \[Pericles\] said that a human life is like the sea; "For whenever the wind is calm it's calmest; but when the winds blow, it's troubled; thus also a mortal life calm in fortune is cheerful, but when the winds blow against it it's thrown around by the storm."
+
 454. Περσῖνος ὁ ποιητὴς ἐρωτηθεὶς τίς ἄριστός ἐστι ποιητὴς „παρ’ ἑαυτῷ μὲν ἕκαστος“, \<εἶπε\>, „παρὰ δὲ τοῖς ἄλλοις Ὅμηρος“.
 
      The poet Persinus having been asked who the best poet is, \<said\>: "Everyone is the best poet according to themselves, but according to others the best poet is Homer."
