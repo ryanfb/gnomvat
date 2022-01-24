@@ -1537,7 +1537,10 @@
 
      \[Pyrrhus\] hearing a long detailed account from someone who was shipwrecked alone, said: "You were justly cast away by Poseidon thus, on account of your droning on."
 
-468. Protagoras
+468. Πρωταγόρας ἐποποιοῦ τινος αὐτὸν βλασφημοῦντος ἐπὶ τῷ μὴ ἀποδέχεσθαι τὰ ποιήματα αὐτοῦ „ὦ τάν“, ἔφη· „κρεῖττόν μοι ἐστι κακῶς ἀκούειν ὑπό σου ἢ τῶν σῶν ποιημάτων ἀκούειν“.
+
+     Protagoras having been disparaged by an epic poet for not approving of his poems, said: "Buddy, it's better for me to hear you speak badly of me than for me to hear your poems."
+
 469. \[Protagoras\]
 470. Socrates
 471. Socrates
