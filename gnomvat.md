@@ -1450,7 +1450,10 @@
 
      \[Xenophon\] said that it is better for a king to leave behind a wealth of favors rather than of trophies.
 
-417. Xenocrates
+417. Ξενοκράτης ὁ φιλόσοφος ἐρωτηθεὶς τί αὐτῷ περιγέγονεν ἐκ φιλοσοφίας ἔφη· „τὸ τὰ ὑπὸ τῶν νόμων προστεταγμένα ἑκουσίως ποιεῖν.“
+
+     Xenocrates the philosopher having been asked what he got out of philophy, said: "To willingly do what is commanded by the laws."
+
 418. \[Xenocrates\]
 419. Xenocrates
 420. Οἰνοπίδης ὁρῶν μειράκιον πολλὰ βιβλία κτώμενον ἔφη· „μὴ τῇ κιβωτῷ, ἀλλὰ τῷ στήθει.“
