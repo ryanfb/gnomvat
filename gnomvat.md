@@ -1454,7 +1454,10 @@
 
      Xenocrates the philosopher having been asked what he got out of philophy, said: "To willingly do what is commanded by the laws."
 
-418. \[Xenocrates\]
+418. Ὁ αὐτὸς τραχυνθέντος ποτὲ Διονυσίου τοῦ τυράννου ἐν συμποσίῳ πρὸς Πλάτωνα καὶ εἰπόντος αὐτῷ· „ἀφελῶ σου τὸν τράχηλον“ προβαλὼν τὸν ἴδιον „οὐ πρῶτον“ εἶπεν „ἐκεῖνον ἀφελεῖς ἢ τοῦτον.“
+
+     When Dionysius the tyrant became angry with Plato at a symposium and said to him: "I'll rip your throat out!", \[Xenocrates\] exposed his own and said: "You'll rip this one before that one."
+
 419. Xenocrates
 420. Οἰνοπίδης ὁρῶν μειράκιον πολλὰ βιβλία κτώμενον ἔφη· „μὴ τῇ κιβωτῷ, ἀλλὰ τῷ στήθει.“
 
