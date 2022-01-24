@@ -1520,7 +1520,10 @@
 
      \[Pittacus\] asked Bias: "What is difficult in life?" and he said: "Knowing thyself"; so he asked again: "But what's easy?" and Bias answered back: "Blaming others."
 
-457. \[Pittacus\]
+457. Ὁ αὐτὸς ὑβρισθεὶς ὑπό τινος καὶ ἔχων ἐξουσίαν αὐτὸν κολάσαι ἀφῆκεν εἰπών· „συγγνώμη τιμωρίας ἀμείνων· τὸ μὲν γὰρ ἡμέρου φύσεώς ἐστι, τὸ δὲ θηριώδους“.
+
+     \[Pittacus\] was insulted by someone and though he had the authority to punish him he let it pass saying: "Mercy is better than revenge; for the former belongs to a cultivated form, but the latter to the uncultivated."
+
 458. \[Pittacus\]
 459. Πυθαγόρας ὁ φιλόσοφος παρῄνει σιγᾶν ἢ κρείττονα σιγῆς λέγειν.
 
