@@ -1432,7 +1432,10 @@
 408. Metrodorus
 409. \[Metrodorus\]
 410. \[Metrodorus\]
-411. Nicocles
+411. Νικοκλῆς κακοῦ τινος ἰατροῦ λέγοντος ὅτι μεγάλην ἔχει δύναμιν ἔφη· „πῶς γὰρ οὐ μέλλεις λέγειν, ὃς τοσούτους ἀνῃρηκὼς ἀνεύθυνος γέγονας;“
+
+     Nicocles, when a bad doctor was saying that they had a lot of power, said: "Surely you mean to say, that having buried so many you've become innocent?"
+
 412. \[Nicocles\]
 413. Ξενοφῶν ὁ φιλόσοφος ᾔτησέν τι παρά τινος τῶν πλουσίων· ὁ δὲ προσκαλεσάμενος πλησίον ὄντα χωλὸν δέδωκεν ἐκείνῳ· καὶ ὁ Ξενοφῶν ἔφη· „πάνυ καλῶς· χωλὸς μὲν γὰρ προσδοκᾷς γενέσθαι, φιλόσοφος δὲ οὐδέποτε“.
 
