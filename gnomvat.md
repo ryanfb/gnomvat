@@ -1436,7 +1436,10 @@
 
      Nicocles, when a bad doctor was saying that they had a lot of power, said: "Surely you mean to say, that having buried so many you've become innocent?"
 
-412. \[Nicocles\]
+412. Ὁ αὐτὸς τοὺς ἰατροὺς εὐτυχεῖς ἔλεγεν, ὅτι τὰς μὲν ἐπιτυχίας αὐτῶν ὁ ἥλιος ὁρᾷ, τὰς δὲ ἀποτυχίας ἡ γῆ καλύπτει.
+
+     \[Nicocles\] said that doctors have good fortune, since the sun looks upon their fortunate efforts, but the dirt conceals their unfortunate ones.
+
 413. Ξενοφῶν ὁ φιλόσοφος ᾔτησέν τι παρά τινος τῶν πλουσίων· ὁ δὲ προσκαλεσάμενος πλησίον ὄντα χωλὸν δέδωκεν ἐκείνῳ· καὶ ὁ Ξενοφῶν ἔφη· „πάνυ καλῶς· χωλὸς μὲν γὰρ προσδοκᾷς γενέσθαι, φιλόσοφος δὲ οὐδέποτε“.
 
      Xenophon the philosopher asked for something from a certain wealthy person, but he declined saying that he had just donated to a disabled man nearby; and Xenophon said: "Very good. For you expect to become disabled, but never a philosopher."
