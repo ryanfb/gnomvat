@@ -1461,7 +1461,10 @@
 
      \[A shepherd having lost a lamb prayed to Zeus: "If I find the thief, I'll sacrifice a ram to you." And going into a cave he found a lion had captured the lamb; and said: "Earlier I offered you a ram, if I might find the thief; but now, if by your hand I might flee the thief, I'll sacrifice a bull instead of a ram."\]
 
-422. Ταώς
+422. \[Ταὼς εἰς δεῖπνον παρασκευάζεσθαι μέλλων ἁπλώσας τὰς πτέρυγας εἶπεν· „εἰ μὲν πολλὰ κρέα ὁρᾷς με ἔχοντα, \[καὶ\] θῦσον· εἰ δὲ τῇ τῶν πτερῶν ποικιλίᾳ κεκόσμημαι, φεῖσαι σαρκὸς ὀλίγης κεκοσμημένης.“\]
+
+     \[A peacock intending to be prepared as dinner, unfolding its wings said: "If you see all the meat I'm providing, kill me; but if you see how I've adorned my wings with colors, spare what little flesh I've adorned."\]
+
 423. Plato
 424. Plato
 425. Plato
