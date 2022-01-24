@@ -1512,7 +1512,10 @@
 
      The poet Persinus having been asked who the best poet is, \<said\>: "Everyone is the best poet according to themselves, but according to others the best poet is Homer."
 
-455. Pittacus
+455. Πιττακὸς ὁ σοφὸς συνετῶν μὲν ἀνδρῶν εἶπεν εἶναι πρὸ τοῦ τὰ κακὰ γενέσθαι προνοεῖν, ἵνα μὴ γένηται, ἀνδρείων δὲ γενόμενα καταπαύειν.
+
+     Pittacus the wise said that the task of intelligent men is to plan ahead for whatever evil might occur, so that it might not occur, and that the task of brave men is to end it if it does.
+
 456. \[Pittacus\]
 457. \[Pittacus\]
 458. \[Pittacus\]
