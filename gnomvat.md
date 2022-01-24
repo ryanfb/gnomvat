@@ -1458,7 +1458,10 @@
 
      When Dionysius the tyrant became angry with Plato at a symposium and said to him: "I'll rip your throat out!", \[Xenocrates\] exposed his own and said: "You'll rip this one before that one."
 
-419. Xenocrates
+419. Ξενοκράτει χρημάτων κομισθέντων ἀπὸ Ἀλεξάνδρου ἑστιάσας τοὺς κομίσαντας κατὰ τὸν αὑτοῦ τρόπον „ἀπαγγείλατε“ ἔφη „Ἀλεξάνδρῳ ὅτι, ἕως ἂν οὕτως ζῶ, οὐ δέομαι τῶν πεντήκοντα ταλάντων.“ \[τοσαῦτα γὰρ ἦν τὰ πεμφθέντα.\]
+
+     Xenocrates having been brought treasures from Alexander and having received the messengers according to his own style, said: "Go back and tell Alexander that, as long as I'm living like this, I have no need for fifty talents." \[.For this was the amount sent.\]
+
 420. Οἰνοπίδης ὁρῶν μειράκιον πολλὰ βιβλία κτώμενον ἔφη· „μὴ τῇ κιβωτῷ, ἀλλὰ τῷ στήθει.“
 
      Oenopides seeing a young man buying many books said: "Don't put them away in a chest, but in your heart."
