@@ -1541,7 +1541,10 @@
 
      Protagoras having been disparaged by an epic poet for not approving of his poems, said: "Buddy, it's better for me to hear you speak badly of me than for me to hear your poems."
 
-469. \[Protagoras\]
+469. Ὁ αὐτὸς ἔφη· „πολυμαθίη κάρτα μὲν ὠφελέει, κάρτα δὲ βλάπτει“.
+
+     \[Protagoras\] said: "Polymathy greatly helps, but greatly hurts."
+
 470. Socrates
 471. Socrates
 472. Socrates
