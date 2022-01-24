@@ -1516,7 +1516,10 @@
 
      Pittacus the wise said that the task of intelligent men is to plan ahead for whatever evil might occur, so that it might not occur, and that the task of brave men is to end it if it does.
 
-456. \[Pittacus\]
+456. Ὁ αὐτὸς Βίαντα ἠρώτησε· „τί δυσχερέστερον ἐν τῷ βίῳ“; τοῦ δὲ εἰπόντος· „τὸ ἑαυτὸν γνῶναι“ πάλιν ἤρετο· „τί δὲ ῥᾴδιον“; καὶ πάλιν Βίας φησί· „τὸ ἕτερον ψέξαι“.
+
+     \[Pittacus\] asked Bias: "What is difficult in life?" and he said: "Knowing thyself"; so he asked again: "But what's easy?" and Bias answered back: "Blaming others."
+
 457. \[Pittacus\]
 458. \[Pittacus\]
 459. Πυθαγόρας ὁ φιλόσοφος παρῄνει σιγᾶν ἢ κρείττονα σιγῆς λέγειν.
