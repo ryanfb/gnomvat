@@ -1524,7 +1524,10 @@
 
      \[Pittacus\] was insulted by someone and though he had the authority to punish him he let it pass, saying: "Mercy is better than revenge; for the former belongs to a cultivated form, but the latter to the uncultivated."
 
-458. \[Pittacus\]
+458. Ὁ αὐτὸς παρακαλούμενος υἱῷ καὶ πατρὶ δικάσαι εἶπε πρὸς τὸν υἱόν· „εἰ μὲν δικαιότερα μέλλεις λέγειν τοῦ πατρός, διὰ τοῦτο ἄξιος εἶ κατακεκρίσθαι· εἰ δὲ ἀδικώτερα, καὶ οὕτως ἄξιος εἶ κατακεκρίσθαι“.
+
+     \[Pittacus\], summoned to adjudicate a case between son and father, said to the son: "If you intend to speak more justly than your father, you would be rightly condemned for this; if more unjustly, then you would also thus be rightly condemned."
+
 459. Πυθαγόρας ὁ φιλόσοφος παρῄνει σιγᾶν ἢ κρείττονα σιγῆς λέγειν.
 
      Pythagoras the philosopher advised to be silent or to speak better than silence.
