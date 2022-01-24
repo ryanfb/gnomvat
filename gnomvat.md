@@ -1500,7 +1500,10 @@
 
      \[Periander\] said that it was necessary for those intending to safely become tyrants to guard themselves with the goodwill of their followers, rather than their weapons.
 
-452. Pericles
+452. Περικλῆς ὑπὸ τῆς γυναικὸς παρακαλούμενος σώζειν ἑαυτὸν „ἄλλοις“ ἔφη „τοῦτο παραίνει· ἄρχοντι δὲ καὶ στρατηγῷ σώζειν τοὺς πολίτας“.
+
+     Pericles having been counseled by his wife to save himself, said: "Tell this to others; but tell a leader and ruler to save the people."
+
 453. \[Pericles\]
 454. Περσῖνος ὁ ποιητὴς ἐρωτηθεὶς τίς ἄριστός ἐστι ποιητὴς „παρ’ ἑαυτῷ μὲν ἕκαστος“, \<εἶπε\>, „παρὰ δὲ τοῖς ἄλλοις Ὅμηρος“.
 
