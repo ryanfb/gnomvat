@@ -1489,8 +1489,14 @@
 447. \[Plato\]
 448. \[Plato\]
 449. \[Plato\]
-450. Periander
-451. \[Periander\]
+450. Περίανδρος ὁ σοφὸς ἐρωτηθεὶς τί ἂν εἴη ἐλευθερία εἶπεν· „ἀγαθὴ συνείδησις“.
+
+     Periander the wise having been asked by someone what freedom is, said: "A good conscience."
+
+451. Ὁ αὐτὸς ἔλεγε δεῖν τοὺς μέλλοντας ἀσφαλῶς τυραννήσειν ταῖς εὐνοίαις δορυφορεῖσθαι τῶν ἀρχομένων, καὶ μὴ τοῖς ὅπλοις.
+
+     \[Periander\] said that it was necessary for those intending to safely become tyrants to guard themselves with the goodwill of their followers, rather than their weapons.
+
 452. Pericles
 453. \[Pericles\]
 454. Περσῖνος ὁ ποιητὴς ἐρωτηθεὶς τίς ἄριστός ἐστι ποιητὴς „παρ’ ἑαυτῷ μὲν ἕκαστος“, \<εἶπε\>, „παρὰ δὲ τοῖς ἄλλοις Ὅμηρος“.
