@@ -1512,7 +1512,10 @@
 
      \[Plato\] having been asked how he'd been helped by philosophy, said: "To see myself set firm in calm seas while others are being tossed by a storm."
 
-431. Plato
+431. Πλάτωνί τινος λέγοντος ὅτι „τινὲς λοιδοροῦσί σε“ ἔφη· „ἀλλ’ ἐγὼ οὕτως διάξω, ὥστε ἀπιστεῖσθαι αὐτούς.“
+
+     Plato to someone saying that "people are rebuking you", said: "But I will continue on thus, so as to make them incredulous."
+
 432. Plato
 433. Plato
 434. Plato
