@@ -1484,7 +1484,10 @@
 
      Plato said that virtue is without master.
 
-424. Plato
+424. Πλάτων πλείονα ἔφη ὑπὸ τῶν ἐχθρῶν ὠφελεῖσθαι \[μᾶλλον\] ἢ ὑπὸ τῶν φίλων· τοὺς μὲν γὰρ ἐχθροὺς ἁμαρτάνοντι ὀνειδίζοντας δηλοῦν, τοὺς δὲ φίλους πρὸ\<ς χάριν λέγοντας\> εἰς προτροπὴν τῶν κακῶν ἄγειν καὶ πρὸς τὸ ἐξαμαρτάνειν ἕτοιμον ποιεῖν. 
+
+     Plato often said that he was enriched \[more\] by his enemies than by his friends; for it is clear when one is in the wrong from the insults of enemies, but friends by \<speaking favorably of us\> lead us into inviting evils and readily doing wrong.
+
 425. Πλάτων συνεβούλευεν τοῖς παισὶν αἰδῶ \[δεῖν\] καταλιπεῖν ἢ χρυσόν.
 
      Plato advised \[that it was necessary\] to leave honor to one's children rather than gold.
