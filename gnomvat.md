@@ -1489,7 +1489,10 @@
 
      Plato advised \[that it was necessary\] to leave honor to one's children rather than gold.
 
-426. Plato
+426. Πλάτων ἔφη· „οὐ καλὸν πεπαιδευμένον ἐν ἀπαιδεύτοις διαλέγεσθαι, ὥσπερ οὐδὲ νήφοντα ἐν μεθύουσιν.“
+
+     Plato said: "It's not good for the educated to speak with the uneducated, just as the sober not with the drunk."
+
 427. Plato
 428. Plato
 429. \[Plato\]
