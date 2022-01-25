@@ -1528,7 +1528,10 @@
 
      Plato said that the rich and greedy are like those with a fluid edema: "For just as they're thirsty despite having been filled up with fluid, the others are with money."
 
-435. Plato
+435. Πλάτων διψήσας πολλάκις ἐκ τοῦ φρέατος ἀνιμᾶτο τὸ ὕδωρ καὶ ἐξέχεεν εἰς γῆν κολάζων τὴν ἐπιθυμίαν.
+
+     When Plato was thirsty he would repeatedly draw water out of the well and pour it out on the ground to punish the desire.
+
 436. 
 
       1. Πλάτων ὀργιζόμενος τῷ οἰκέτῃ καὶ μέλλων αὐτὸν μαστιγοῦν ἐπιστάντος Ξενοκράτους ἔφη· „λαβὼν τοῦτον μαστίγωσον· ἐγὼ γὰρ ὀργίζομαι“.
