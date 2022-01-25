@@ -1485,7 +1485,10 @@
      Plato said that virtue is without master.
 
 424. Plato
-425. Plato
+425. Πλάτων συνεβούλευεν τοῖς παισὶν αἰδῶ \[δεῖν\] καταλιπεῖν ἢ χρυσόν.
+
+     Plato advised \[that it was necessary\] to leave honor to one's children rather than gold.
+
 426. Plato
 427. Plato
 428. Plato
