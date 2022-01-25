@@ -1516,7 +1516,10 @@
 
      Plato to someone saying that "people are rebuking you", said: "But I will continue on thus, so as to make them incredulous."
 
-432. Plato
+432. Πλάτων ἐρωτηθεὶς πῶς τις τὸν ἐχθρὸν λυπήσει ἔφη· „ἑαυτὸν παρασκευάζων ἄριστα πράττειν“.
+
+     Plato having been asked how someone could annoy an enemy, said: "By preparing oneself to accomplish the noblest things."
+
 433. Plato
 434. Plato
 435. Plato
