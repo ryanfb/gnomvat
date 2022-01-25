@@ -1500,7 +1500,10 @@
 
      Plato having been asked by someone what is law, said: "The soul of the polis \[or an immortal and common dogma\]."
 
-428. Plato
+428. Πλάτων ἐρωτηθεὶς „διὰ τί γέρων ὢν φιλάργυρος εἶ“; ἔφη· „κρεῖττόν ἐστι μεταλλάξαντα τοῖς ἐχθροῖς καταλιπεῖν ἢ ζῶντα τῶν φίλων δεηθῆναι“. \[κατέγνω γὰρ τῆς τῶν πολλῶν φιλίας \<τὸ ἀβέβαιον\>\].
+
+     Plato having been asked "Why are you still being greedy even when you're old?" said: "It's better to bequeath one's fortune to enemies after death than to beg from friends while living." \[For he condemned the \<unreliable\> friendships of many.\]
+
 429. \[Plato\]
 430. \[Plato\]
 431. Plato
