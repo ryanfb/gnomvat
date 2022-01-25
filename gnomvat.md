@@ -1480,7 +1480,10 @@
 
      \[A peacock intending to be prepared as dinner, unfolding its wings said: "If you see all the meat I'm providing, kill me; but if you see how I've adorned my wings with colors, spare what little flesh I've adorned."\]
 
-423. Plato
+423. Πλάτων ἔφη τὴν ἀρετὴν ἀδέσποτον εἶναι.
+
+     Plato said that virtue is without master.
+
 424. Plato
 425. Plato
 426. Plato
