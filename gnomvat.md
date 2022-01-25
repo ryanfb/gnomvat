@@ -1520,7 +1520,10 @@
 
      Plato having been asked how someone could annoy an enemy, said: "By preparing oneself to accomplish the noblest things."
 
-433. Plato
+433. Πλάτων παρεκελεύετο τοῖς νέοις τρία ταῦτα ἔχειν· ἐπὶ μὲν τῆς γνώμης σωφροσύνην, ἐπὶ δὲ τῆς γλώττης σιγήν, ἐπὶ δὲ τοῦ προσώπου αἰδῶ.
+
+     Plato advised youths to have these three things: moderation of thought, silence of tongue, and decency of appearance.
+
 434. Plato
 435. Plato
 436. 
