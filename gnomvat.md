@@ -1542,7 +1542,10 @@
 
          And they say that \[Plato\] also threatened an enslaved servant by brandishing his cane at them and standing there for a long time holding it as if to strike them like this, and when someone asked him why, he said: to correct the advance of his own temper.
 
-437. Plato
+437. Πλάτων θεασάμενος Ἀντισθένην ἔν τινι διατριβῇ μακρολογοῦντα σιγᾶν ἐκέλευεν· τοῦ δὲ τὴν αἰτίαν ἐπιζητοῦντος ἔφη· „λόγου μέτρον ἄριστόν ἐστιν οὐχ ὁ λέγων, ἀλλ’ ὁ ἀκούων“.
+
+     Plato seeing Antisthenes in some long diatribe ordered him to be silent; and when he asked why he said: "The proper limit of a speech is not the speaker's, but the listener's."
+
 438. Plato
 439. \[Plato\]
 440. Plato
