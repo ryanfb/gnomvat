@@ -1493,7 +1493,10 @@
 
      Plato said: "It's not good for the educated to speak with the uneducated, just as the sober not with the drunk."
 
-427. Plato
+427. Πλάτων πυθομένου τινὸς τί ἐστι νόμος εἶπε· „ψυχὴ πόλεως \[ἢ δόγμα ἀθάνατον καὶ κοινόν\].“
+
+     Plato having been asked by someone what is law, said: "The soul of the polis \[or an immortal and common dogma\]."
+
 428. Plato
 429. \[Plato\]
 430. \[Plato\]
