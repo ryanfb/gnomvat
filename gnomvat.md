@@ -1524,7 +1524,10 @@
 
      Plato advised youths to have these three things: moderation of thought, silence of tongue, and decency of appearance.
 
-434. Plato
+434. Πλάτων τοὺς πλουσίους καὶ ἀπλήστους ὑδρωπιῶσιν ἐοικέναι ἔλεγεν· „οἱ μὲν γὰρ πεπλησμένοι ὑδάτων διψῶσιν, οἱ δὲ χρημάτων.“
+
+     Plato said that the rich and greedy are like those with a fluid edema: "For just as they're thirsty despite having been filled up with fluid, the others are with money."
+
 435. Plato
 436. 
 
