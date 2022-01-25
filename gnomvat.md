@@ -1504,7 +1504,10 @@
 
      Plato having been asked "Why are you still being greedy even when you're old?" said: "It's better to bequeath one's fortune to enemies after death than to beg from friends while living." \[For he condemned the \<unreliable\> friendships of many.\]
 
-429. \[Plato\]
+429. Ὁ αὐτὸς ἰδών τινα πατρὸς καταφρονοῦντα „οὐ παύσῃ“ ἔφη „τούτου καταφρονῶν, δι’ ὃν σὺ μέγα φρονεῖς;“
+
+     \[Plato\] seeing someone who disdained his father, said: "Will you not stop your disdaining, the one on whose account you can be so presumptuous?"
+
 430. \[Plato\]
 431. Plato
 432. Plato
