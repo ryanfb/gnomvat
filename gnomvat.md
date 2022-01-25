@@ -944,21 +944,66 @@
 
      \[Demosthenes\], seeing someone giving more heed to his estate \<than\> for his sons, said "You here seem to me to wish not to leave behind an estate to your sons but sons to your estate."
 
-233. Demades
-234. \[Demades\]
-235. \[Demades\]
-236. \[Demades\]
-237. \[Demades\]
-238. \[Demades\]
-239. \[Demades\]
-240. \[Demades\]
-241. \[Demades\]
-242. \[Demades\]
-243. \[Demades\]
-244. \[Demades\]
-245. \[Demades\]
-246. \[Demades\]
-247. \[Demades\]
+233. Δημάδης ὁ ῥήτωρ μετακαλούντων αὐτόν τινων ἀπὸ τοῦ πολιτεύεσθαι καὶ κελευόντων γεωργεῖν εἶπεν· „αἱρετώτερόν μοί ἐστι στιγμὴν τοῦ βήματος γεωργεῖν ἢ ὅλην τὴν Ἀττικήν“.
+
+     Demades the orator, when certain people were calling him away from engaging in politics and commanding him to farm, said, "It is preferable to me to farm the small plot of the speaking platform rather than the whole of Attica."
+
+234. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος βουλομένου τὴν θυγατέρα αὐτοῦ γῆμαι εἰ καλή ἐστιν „ὡς μὲν ἐρωμένη“ εἶπεν „αἰσχρά, ὡς δὲ γυνὴ καλή“. 
+
+     \[Demades\], having been asked by someone who wished to marry his daughter whether she is good, said, "As a beloved, she is bad, but as a wife, she is good."
+
+235. Ὁ αὐτὸς ψήφισμα γράψας παράνομον καὶ εὐθυνόμενος ὑπὸ Λυκούργου ἐρωτήσαντος αὐτὸν ἐκείνου εἰ, ὅτε ἔγραφεν τὸ ψήφισμα, οὐκ ἐνέβλεπεν εἰς τοὺς νόμους, „οὐκ ἐνέβλεπον“ ἔφησεν· „ἐπεσκότει γὰρ αὐτοὺς τὰ Μακεδόνων ὅπλα.“
+
+     \[Demades\], having written an unlawful decree and being censured by Lycurgus, when that man asked him if, when he was writing the decree, he considered the laws, he said, "I did not consider them, for the arms of the Macedonians cast a shadow over them."
+
+236. Ὁ αὐτὸς οὐ θελόντων Ἀθηναίων τιμᾶν Ἀλέξανδρον ὡς θεὸν „δέδια“, φησίν, „\<ὦ\> ἄνδρες, ὑπὲρ ὑμῶν, μὴ τοῦ οὐρανοῦ φθονοῦντες Ἀλεξάνδρῳ τὴν γῆν ἀφαιρεθῆτε ὑπ’ αὐτοῦ“.
+
+     \[Demades\], when the Atheniands did not wish to honor Alexander as a god, said, "I fear for you, men, lest, begrudging Alexander the heavens, you are removed from the earth by him."
+
+237. Ὁ αὐτὸς ἐπεὶ ἐλοιδορεῖτο ὑπό τινος νεανίσκου τὰ αἴσχιστα „νεανίσκε“ ἔφη· „ἡ γλῶττά σου οὐκ ἐν τῷ στόματι κάθηται, ἀλλ’ ἐπὶ οἰκήματος.“
+
+     \[Demades\], when he was being mocked by some young man very shamefully, said, "Young man, your tongue does not rest in your mouth, but at the brothel."
+
+238. Ὁ αὐτὸς Δημοσθένην ὅμοιον ἔφη εἶναι ταῖς χελιδόσι· „καὶ γὰρ ἐκεῖναι οὔτε καθεύδειν ἐῶσιν οὐδ’ ἐγείρειν δύνανται·“ \[καὶ Δημοσθένης οὔτε ἡσυχίαν ἄγειν ἐᾷ οὔτε ἄξιον τῆς πόλεως οὐδὲν ἐπιβάλλεται\].
+
+     \[Demades\] said that Demosthenes was like swallows: "For those too are neither accustomed to sleep nor can they wake up." \[And Demosthenes neither is accustomed to keep the peace nor does he fall upon anything worthy of the city.\]
+
+239. \<Ὁ\> αὐτὸς θορυβούμενος ὑπὸ τοῦ δήμου „ὦ δῆμε“ φησί· „μᾶλλον δὲ δήμιε“.
+
+     \[Demades\], being harangued by the people, said, "O men, rather hangmen."
+
+240. Ὁ αὐτὸς εἶπε τὴν ἐπιτίμησιν τοῖς ἀνθρώποις ἔμψυχον μάστιγα.
+
+     \[Demades\] said that criticism was a living scourge for people.
+
+241. Ὁ αὐτὸς λέγων ποτὲ κρίσιν ἐν πανδοκείῳ ὑβρισμένος μάρτυρας προεφέρετο τοὺς πανδοκέας, τῶν δὲ κρινόντων οὐκ ἀξιοπίστους εἶναι φασκόντων „τοιοῦτος γὰρ“ φησὶ „καὶ ὁ τόπος ἦν, ἐν ᾧ ἡ ὕβρις ἐπετελέσθη· εἰ δὲ ἐν τῷ δουρείῳ ἵππῳ ὕβρισε, τοὺς ἀριστεῖς ὑμῖν ἂν παρειχόμην μάρτυρας Μενέλαον καὶ Διομήδην καὶ Ὀδυσσέα“.
+
+     \[Demades\], speaking a case once in an inn for someone assaulted, he summoned the innkeepers as witneses, but when the judges said they were not trustworthy, he said, "For the place in which the assalt happened was such as this. But if he had commited assault in the wooden horse, I would be offering to you as witnesses the chiefs Menelaus and Diomedes and Odysseus."
+
+242. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί εἴη πεποιηκὼς τὰ ἐκ Μακεδονίας χρήματα ἀναβαλόμενος καὶ ἐπιδείξας τήν τε κοιλίαν καὶ τὰ αἰδοῖα ἔφη· „τὶ ἂν τούτοις \<ἱκανὸν γένοιτο\>;“
+
+     \[Demades\], having been asked by someone what he had done with the money from Macedonia, throwing up his cloak and revealing both his belly and genitals, said, "What would \<be sufficient\> for these?"
+
+243. Ὁ αὐτὸς δυσημερῶν ἐπί τινος δημηγορίας „οἶδα“, φησίν, „ὅτι οὐδένα ὑμεῖς ἐσιτίσατε, ὃν οὐκ ἀπεκόψατε“.
+
+     \[Demades\], having an unlucky day at a public speech, said, "I know that you all raised no one whom you did not cut down."
+
+244. Ὁ αὐτὸς ὀνειδιζόμενος καθ’ ὅτι ἕνα μόνον υἱὸν ἔθρεψεν εἶπεν· „ἕνα κρεῖττόν ἐστι τριηράρχην ἢ δέκα κωπηλάτας καταλιπεῖν.“
+
+     \[Demades\], being reproached because he only raised one son, said, "It is better to leave behind one trierarch rather than ten rowers."
+
+245. Ὁ αὐτὸς ἔφη· „ὥσπερ τὸ τῆς Ἑλένης κάλλος ἐπ’ ἀπωλείᾳ τῶν ἡρώων ἐγένετο, οὕτω καὶ Δημοσθένους ἐν τῷ λέγειν δύναμις ἐπ’ ἀπωλείᾳ τῆς Ἑλλάδος ηὐξήθη“.
+
+     \[Demades\] said, "Just as the beauty of Helen resulted in the destruction of heroes, thus also Demosthenes' strength in speaking grew into the destruction of Greece.
+
+246. Ὁ αὐτὸς ἔφη, ὥσπερ ἀγωνιστοῦ γίνεσθαι δυσημερίαν, οὕτω καὶ ἀκροατοῦ.
+
+     \[Demades\] said that, just as a bad day happens for the debater, so too does it for the listener.
+
+247. Ὁ αὐτὸς ἐν ἐκκλησίᾳ θροούμενος εἶπεν· „οὐκ ἐμὲ ἐκωλύσατε λέγειν, ἀλλ’ ἑαυτοὺς ἀκούειν“.
+
+     \[Demades\], being shouted at in the assembly, said, "You did not prevent me from speaking but yourselves from hearing."
+
 248. Democrates
 249. \[Democrates\]
 250. \[Democrates\]
