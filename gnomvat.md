@@ -1515,11 +1515,11 @@
 
       1. Πλάτων ὀργιζόμενος τῷ οἰκέτῃ καὶ μέλλων αὐτὸν μαστιγοῦν ἐπιστάντος Ξενοκράτους ἔφη· „λαβὼν τοῦτον μαστίγωσον· ἐγὼ γὰρ ὀργίζομαι“.
 
-         Plato
+         Plato was angered by an enslaved house-servant and intending to thrash him with a whip but said to Xenocrates: "Take this and whip him; for I'm too angry."
 
       2. Φασὶ δὲ αὐτὸν καὶ ἐπανατεινόμενον τὴν βακτηρίαν τῷ παιδὶ ἑστάναι χρόνον πολὺν μετέωρον ταύτην ἔχοντα καὶ τὴν αἰτίαν ἐρωτώμενον φῆσαι κολάζειν τὸν ἑαυτοῦ προορμήσαντα θυμόν. 
 
-         \[Plato\]
+         And they say that \[Plato\] also threatened an enslaved servant by brandishing his cane at them and standing there for a long time holding it as if to strike them like this, and when someone asked him why, he said: to correct the advance of his own temper.
 
 437. Plato
 438. Plato
