@@ -1546,7 +1546,10 @@
 
      Plato seeing Antisthenes in some long diatribe ordered him to be silent; and when he asked why he said: "The proper limit of a speech is not the speaker's, but the listener's."
 
-438. Plato
+438. Πλάτων εἶπεν· „ὦ παῖ, μία ἐστὶν ἀρχὴ τοῦ καλῶς βουλεύεσθαι· τὸ γνῶναι περὶ ὅτου ὁ λόγος· εἰ δὲ μή, τοῦ παντὸς ἁμαρτάνειν ἀνάγκη“.
+
+     Plato said: "O child, there's only one beginning of a good deliberation: knowing that which you're talking about, because if not, you'll be completely wrong out of necessity."
+
 439. \[Plato\]
 440. Plato
 441. \[Plato\]
