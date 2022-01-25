@@ -1508,7 +1508,10 @@
 
      \[Plato\] seeing someone who disdained his father, said: "Will you not stop your disdaining, the one on whose account you can be so presumptuous?"
 
-430. \[Plato\]
+430. Ὁ αὐτὸς ἐρωτηθεὶς τί ὠφέληται ἐκ φιλοσοφίας ἔφη· τὸ αὐτὸς ἐν εὐδίᾳ ἑστὼς βλέπειν ἄλλους χειμαζομένους.
+
+     \[Plato\] having been asked how he'd been helped by philosophy, said: "To see myself set firm in calm seas while others are being tossed by a storm."
+
 431. Plato
 432. Plato
 433. Plato
