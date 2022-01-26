@@ -1624,7 +1624,10 @@
 
      \[Plato\] said that sleep is a short death, but death is a long sleep.
 
-447. \[Plato\]
+447. Ὁ αὐτὸς φαῦλα μέν τινος πράττοντος, δίκας δὲ ὑπὲρ ἑτέρων λέγοντος εἶπεν· „οὗτος τὸν νοῦν ἐπὶ γλώττης φορεῖ.“
+
+     \[Plato\], when someone was behaving disreputably but speaking about the manners of others, said: "Thus he carries his mind on his tongue."
+
 448. \[Plato\]
 449. \[Plato\]
 450. Περίανδρος ὁ σοφὸς ἐρωτηθεὶς τί ἂν εἴη ἐλευθερία εἶπεν· „ἀγαθὴ συνείδησις“.
