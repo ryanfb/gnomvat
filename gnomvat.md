@@ -1600,7 +1600,10 @@
      \[Plato\] said that someone being educated needs these three things: inclination, practice, time.
 
 440. Plato
-441. \[Plato\]
+441. Ὁ αὐτὸς λοιδορούμενος ὑπό τινος „λέγε“ ἔφη „κακῶς, ἐπεὶ καλῶς οὐκ ἔμαθες.“
+
+     \[Plato\] being insulted by someone, said "Speak ill, since you don't know how to speak well."
+
 442. \[Plato\]
 443. \[Plato\]
 444. \[Plato\]
