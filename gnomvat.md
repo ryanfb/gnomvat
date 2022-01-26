@@ -1604,7 +1604,10 @@
 
      \[Plato\] being insulted by someone, said "Speak ill, since you don't know how to speak well."
 
-442. \[Plato\]
+442. Ὁ αὐτὸς ἐρωτηθεὶς τίς αὐτῷ δοκεῖ Διογένης ὑπάρχειν ἔφη· „Σωκράτης μαινόμενος“.
+
+     \[Plato\] having been asked what kind of person he thought Diogenes was, said: "A maddened Socrates."
+
 443. \[Plato\]
 444. \[Plato\]
 445. \[Plato\]
