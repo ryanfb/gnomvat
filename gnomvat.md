@@ -1662,7 +1662,7 @@
 
 456. Ὁ αὐτὸς Βίαντα ἠρώτησε· „τί δυσχερέστερον ἐν τῷ βίῳ“; τοῦ δὲ εἰπόντος· „τὸ ἑαυτὸν γνῶναι“ πάλιν ἤρετο· „τί δὲ ῥᾴδιον“; καὶ πάλιν Βίας φησί· „τὸ ἕτερον ψέξαι“.
 
-     \[Pittacus\] asked Bias: "What is difficult in life?" and he said: "Knowing thyself"; so he asked again: "But what's easy?" and Bias answered back: "Blaming others."
+     \[Pittacus\] asked Bias: "What is difficult in life?" and he said: "Knowing thyself"; so he asked again: "But what's easy?" and Bias answered back: "Blaming someone else."
 
 457. Ὁ αὐτὸς ὑβρισθεὶς ὑπό τινος καὶ ἔχων ἐξουσίαν αὐτὸν κολάσαι ἀφῆκεν εἰπών· „συγγνώμη τιμωρίας ἀμείνων· τὸ μὲν γὰρ ἡμέρου φύσεώς ἐστι, τὸ δὲ θηριώδους“.
 
