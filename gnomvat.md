@@ -1632,7 +1632,10 @@
 
      \[Plato\] said that honorable men shouldn't desire a long life, but a bright one.
 
-449. \[Plato\]
+449. Ὁ αὐτὸς πρός τινα τῶν μαθητῶν αὐτοῦ ἔφη· „ἐὰν καιρὸν ζητῇς πρὸς φιλοσοφίαν, καιρὸν οὐχ ἕξεις“.
+
+     \[Plato\] said to one of his students: "If you're looking for the right time for philosophy, you'll never find the right time."
+
 450. Περίανδρος ὁ σοφὸς ἐρωτηθεὶς τί ἂν εἴη ἐλευθερία εἶπεν· „ἀγαθὴ συνείδησις“.
 
      Periander the wise having been asked by someone what freedom is, said: "A good conscience."
