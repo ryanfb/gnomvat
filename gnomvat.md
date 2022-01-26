@@ -4,7 +4,7 @@
 
    Antisthenes said that tasks are like dogs: for they too bite those unfamiliar with them.
 
-2. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, εἰ γήμῃ, εἶπεν· „εἰ μὲν καλήν, κοινὴν ἕξεις· εἰ δὲ αἰσχρὰν, ποινήν“.
+2. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, εἰ γήμῃ, εἶπεν· „εἰ μὲν καλήν, κοινὴν ἕξεις· εἰ δὲ αἰσχράν, ποινήν“.
 
    Someone asked \[Antisthenes\] if they should marry, he said, “if they’re good, you’ll hold a common wealth, if they’re shameful, you’ll hold a heavy load.”
 
@@ -12,7 +12,7 @@
 
    \[Antisthenes\] said that the uneducated are awoken from dreams.
 
-4. Ὁ αὐτὸς πρότερον ῥητορικὴν ἐδίδασκεν· ἔπειτα Σωκράτους εἰπόντος μετεβάλετο· ἐντυχὼν δὲ τοῖς ἑταίροις, „πρότερον“, ἔφη, „ἦτε  μου μαθηταί· νῦν δ’ ἂν νοῦν ἔχητε, ἔσεσθε συμμαθηταί“.
+4. Ὁ αὐτὸς πρότερον ῥητορικὴν ἐδίδασκεν· ἔπειτα Σωκράτους εἰπόντος μετεβάλετο· ἐντυχὼν δὲ τοῖς ἑταίροις, „πρότερον“, ἔφη, „ἦτέ μου μαθηταί· νῦν δ’ ἂν νοῦν ἔχητε, ἔσεσθε συμμαθηταί“.
 
    \[Antisthenes\] first taught rhetoric; when Socrates spoke he converted. Happening upon his friends afterwards, he said: “Earlier, you were my students. But now, if you have half a brain, you will become my fellow-students.”
 
@@ -32,7 +32,7 @@
 
    \[Antisthenes\] was asked by someone, how the government of a city should be approached, he said: “not too close, so that you won’t get burned, but not too far either, so that you won’t freeze.”
    
-9. Ὁ αὐτὸς ἐπαινούμενος ὑπὸ μοχθηρῶν, „ἀγωνιῶ“, ἔφη, „μή τι κακὸν εἴργασται μοι, ὅτι τοιούτοις ἀρέσκω“.
+9. Ὁ αὐτὸς ἐπαινούμενος ὑπὸ μοχθηρῶν, „ἀγωνιῶ“, ἔφη, „μή τι κακὸν εἴργασταί μοι, ὅτι τοιούτοις ἀρέσκω“.
 
    When \[Antisthenes\] was being praised by idiots, he said: “I’m agonizing that I might’ve done something wrong, if I’m pleasing to these sorts.”
 
@@ -88,7 +88,7 @@
 
     \[Anacharsis\] being reproached by someone, on account of being Scythian, said: “The rose too is grown in thorns, but in pleasure and beauty distinguishes itself.”
 
-23. Ἀρίστιππος, ὁ Κυρηναῖος φιλόσοφος, πλέων εἰς Ἀθήνας ἐναυάγησεν καὶ ὑποληφθεὶς ὑπ’ Ἀθηναίων ὡς ἠρωτήθη, τί μέλλει εἰς Κυρήνην ἐπανελθὼν λέγειν πρὸς τοὺς οἰκείους, ἔφη· „τοιαῦτα ἐφόδια κτᾶσθαι, ἃ καὶ ναυαγοῦσι συννήχεται“.
+23. Ἀρίστιππος, ὁ Κυρηναῖος φιλόσοφος, πλέων εἰς Ἀθήνας ἐναυάγησεν καὶ ὑποληφθεὶς ὑπ’ Ἀθηναίων ὡς ἠρωτήθη, τί μέλλει εἰς Κυρήνην ἐπανελθὼν λέγειν πρὸς τοὺς οἰκείους, ἔφη· „τοιαῦτα ἐφόδια κτᾶσθαι, ἃ καὶ ναυαγοῦσι συν\<εκ\>νήχεται“.
 
     Aristippus the Cyrenian philosopher was shipwrecked sailing into Athens, and having been taken in by the Athenians and asked what he intended after returning to Cyrene to say to his friends back home, said: “to procure the sorts of travel provisions, which will float together with the shipwreck.”
 
@@ -196,7 +196,7 @@
 
     \[Aristippus\] having been rebuked by the populace, that he spent more time talking with youths about wisdom than with them, said: "Because, citizens, I don't see you taming the old horses, but the young ones."
 
-46. Ἄλεξις, ὁ τῶν κωμῳδιῶν ποιητής, ἐπειδή τις αὐτὸν ὄντα πρεσβύτην ἑώρα μόλις πορευόμενον καὶ ἠρώτα· „τί ποιεῖς“; „κατὰ σχολὴν“, φησίν, „ἀποθνήσκω“.
+46. Ἄλεξις, ὁ τῶν κωμῳδιῶν ποιητής, ἐπειδή τις αὐτὸν ὄντα πρεσβύτην ἑώρα μόλις πορευόμενον καὶ ἠρώτα· „τί ποιεῖς“; „κατὰ σχολήν“, φησίν, „ἀποθνήσκω“.
 
     Alexis, the comic poet, when someone saw him as an old man walking slowly and asked: "What are you doing?", said: "By slowness, dying."
 
@@ -348,7 +348,7 @@
 
     \[Alexander\], seeing someone with the same name fighting in a cowardly way, said, "Let it be, young man, either change your name or your habits."
 
-84. Ὁ αὐτὸς ἐπεί τις τῶν βαρβάρων ὀχυρὸν τόπον ἔχων ἑαυτὸν παραδέδωκε, καὶ τὸν τόπον καὶ τὰ ἴδια ἀπεκατέστησεν αὐτῷ καὶ πολλῆς ἄλλης χώρας ἔπαρχον ἀποίησεν· ἐρωτηθεὶς δὲ ὑπὸ τῶν φίλων διὰ τί οὕτως ἐχρήσατο αὐτῷ ἔφη· „ὅτι ἀνδρὶ ἀγαθῷ μᾶλλον ἑαυτὸν ἐπίστευσεν ἢ τόποις ὀχυροῖς.“ 
+84. Ὁ αὐτὸς ἐπεί τις τῶν βαρβάρων ὀχυρὸν τόπον ἔχων ἑαυτὸν παραδέδωκε, καὶ τὸν τόπον καὶ τὰ ἴδια ἀπεκατέστησεν αὐτῷ καὶ πολλῆς ἄλλης χώρας ἔπαρχον ἐποίησεν· ἐρωτηθεὶς δὲ ὑπὸ τῶν φίλων διὰ τί οὕτως ἐχρήσατο αὐτῷ ἔφη· „ὅτι ἀνδρὶ ἀγαθῷ μᾶλλον ἑαυτὸν ἐπίστευσεν ἢ τόποις ὀχυροῖς.“ 
 
     \[Alexander\], when one of the foreigners with a secure location handed himself over, set aside both the location and his property to him and let him go as the governor of another land. And when he was asked by some of his friends why he treated him thus, he said, "Because he entrusted himself more to a good man than to secure locations."
 
@@ -388,7 +388,7 @@
 
     \[Alexander\], being mocked by a wicked actor of tragedy, said, "Young man, you are doing nothing marvelous. For you also mock both Ajax and Achilles."
 
-94. Ὁ αὐτὸς παραινούντων αὐτῷ τῶν φίλων στρατεύειν ἐπὶ τὰς Ἀμαζόνας εἶπε· „τὸ μὲν νικῆσαι γυναῖκας οὐκ ἔνδοξον τὸ δὲ νικηθῆναι ὑπ’ αὐτῶν ἄδοξον.“
+94. Ὁ αὐτὸς παραινούντων αὐτῷ τῶν φίλων στρατεύειν ἐπὶ τὰς Ἀμαζόνας εἶπε· „τὸ μὲν νικῆσαι γυναῖκας οὐκ ἔνδοξον, τὸ δὲ νικηθῆναι ὑπ’ αὐτῶν ἄδοξον.“
 
     \[Alexander\], when his friends were advising him to make war against the Amazons, said, "To conquer women is not noteworthy, and to be defeated by them is disreputable."
 
@@ -400,7 +400,7 @@
 
     Alexander the king, having once filled up a trencher with bones, sent it to Diogenes the Cynic. And he, taking it, said, "The food is for the dogs, but the gift is not kingly."
 
-97. Ὁ αὐτὸς ἰδὼν Διογένην κοιμώμενον ἐν πίθῳ εἶπε· „πίθε μεστὲ φρενῶν“, ὁ δὲ φιλόσοφος ἀποστὰς εἶπεν· „ὦ βασιλεῦ μέγιστε, θέλω τύχης σταλαγμὸν ἢ φρενῶν πίθον, ἧς μὴ παρούσης δυστυχοῦσιν αἱ φρένες.“
+97. Ὁ αὐτὸς ἰδὼν Διογένην κοιμώμενον ἐν πίθῳ εἶπε· „πίθῳ μεστὲ φρενῶν“, ὁ δὲ φιλόσοφος ἀποστὰς εἶπεν· „ὦ βασιλεῦ μέγιστε, θέλω τύχης σταλαγμὸν ἢ φρενῶν πίθον, ἧς μὴ παρούσης δυστυχοῦσιν αἱ φρένες.“
 
     \[Alexander\], seeing Diogenes lying in a jug, said, "Jug full of wits," and the philosopher, withdrawing from him, said, "O greatest king, I wish for a drop of fortune rather than a jug of wits, since with the fortune being gone, my wits fare ill."
 
@@ -452,7 +452,7 @@
 
      Antagoras the epic poet of Rhodes, reading his work the Thebaid in Thebes, when no one applauded, rolling up the scroll, said, "Justly are you called Boiotians. For you have the ears of bovines."
 
-110. Ὁ αὐτὸς εἰς τὸ Τριχώνιον τῆς Αἰτωλίας ἐπιὼν, ἐπεὶ ἀναγινώσκοντος αὐτοῦ οὐδεὶς ἐπεσήμαινε, „δεόντως“, εἶπεν, „ἄνδρες, καὶ σφόδρα οἰκείως ὑμῖν ἐπίκειται τὸ τῆς πόλεως ὄνομα· παρὰ τρίχα \<γὰρ\> ὄνοι γεγόνατε.“
+110. Ὁ αὐτὸς εἰς τὸ Τριχώνιον τῆς Αἰτωλίας ἐπιών, ἐπεὶ ἀναγινώσκοντος αὐτοῦ οὐδεὶς ἐπεσήμαινε, „δεόντως“, εἶπεν, „ἄνδρες, καὶ σφόδρα οἰκείως ὑμῖν ἐπίκειται τὸ τῆς πόλεως ὄνομα· παρὰ τρίχα \<γὰρ\> ὄνοι γεγόνατε.“
 
      \[Antagoras\], journeying into Trichonion of Aitolia, when no one applauded while he was reading, said, "Fittingly, men, and very reasonably is the name of this city applied to you. For you are within a hair of becoming asses."
 
@@ -516,7 +516,7 @@
 
      \[Aesop\], being asked by someone why the things that sprout of their own accord from the earth have a quick growth, but the things that are sown and planted grow slowly, said, "Because \<the earth\> is the mother of some things and the step-mother of others."
 
-126. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί τῶν ζῴων ἐστὶ σοφώτατον εἶπεν· „τῶν μὲν χρησίμων μέλισσα, τῶν δὲ ἀχρήστων ἀράχνης.“
+126. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί τῶν ζῴων ἐστὶ σοφώτατον εἶπεν· „τῶν μὲν χρησίμων μέλισσα, τῶν δὲ ἀχρήστων ἀράχνη.“
 
      \[Aesop\], having been asked by someone what animal is the wisest, said, "Of the useful ones, the bee, and of the useless ones, the spider."
 
@@ -640,7 +640,7 @@
 
      Bion, having been asked, "When should one dine?" said, "The wealthy, whenever they wish, and the poor, whenever they can."
 
-157. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος διὰ τί αὐτὸν οὐκ ὠφελεῖ τὰ ὑπ’ αὐτοῦ λεγόμενα „οὐδὲ γὰρ αἱ πυξίδες“, εἶπεν, „αἱ τὰ χρηστότατα φάρμακα ἔχουσαι, ἀφ’ ἑαυτῶν ὠφελοῦνται.“
+157. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος διὰ τί αὐτὸν οὐκ ὠφελεῖ τὰ ὑπ’ αὐτοῦ λεγόμενα „οὐδὲ γὰρ αἱ πυξίδες“, εἶπεν, „αἱ τὰ χρηστότατα φάρμακα ἔχουσαι ἀφ’ ἑαυτῶν ὠφελοῦνται.“
 
      \[Bion\], having been asked why the things said by him do not benefit him, said, "For the boxes that contain the most useful medicines draw no benefit from themselves."
 
@@ -692,7 +692,7 @@
 
      \[Diogenes\], seeing a young profligate man having spent his inheritance, eating olives and bread and drinking water, said, "If you dined thus deliberately, you would not now be dining so on compulsion."
 
-170. Ὁ αὐτὸς θεασάμενος μάχαιραν ἐῤῥιμμένην ἔφη· „τίς σὲ ἀπώλεσεν ἢ τίνα σύ“.
+170. Ὁ αὐτὸς θεασάμενος μάχαιραν ἐῤῥιμμένην ἔφη· „τίς σὲ ἀπώλεσεν ἢ τίνα σύ;“
 
      \[Diogenes\], seeing a cast down sword, said, "Who lost you, or whom did you destroy?"
 
@@ -720,7 +720,7 @@
 
      \[Diogenes\], seeing a beautiful young man and that he was beloved for this reason, said "O young man, work the lovers of your body up to transfer towards your soul.
 
-177. Ὁ αὐτὸς κατανοήσας μειράκιον ἐπὶ τῇ πολυτελείᾳ τῆς χλαμύδος σεμνυνόμενον „οὐ παύσῃ“, ἔφη, „μειράκιον ἐπὶ προβάτου σεμνυνόμενον ἀρετῇ;“
+177. Ὁ αὐτὸς κατανοήσας μειράκιον ἐπὶ τῇ πολυτελείᾳ τῆς χλαμύδος σεμνυνόμενον „οὐ παύσῃ“, ἔφη, „μειράκιον, ἐπὶ προβάτου σεμνυνόμενον ἀρετῇ;“
 
      \[Diogenes\], observing a young man boasting at the extravagance of his cloak, said, "Won't you stop, young man, boasting at the excellence of the sheep?"
 
@@ -824,7 +824,7 @@
 
      \[Diogenes\], when one of his friends was advising him, since he was now in old age, to slacken now at any rate due to his time of life, said that it was the same thing, as if he was encouraging him while competing in a race and drawing close to the prize to slacken his speed, when he should be advising the opposite, to incite him.
 
-203. Δημοσθένη ὁ ῥήτωρ τὸν οἶνον παρῃτεῖτο οὐ ψυχῆς ὄντα πόμα, ἀλλὰ σώματος, ἵνα τε ξυνιέναι ὀξύτερος ᾖ καὶ ἀμείνων μνημονεύς.
+203. Δημοσθένης ὁ ῥήτωρ τὸν οἶνον παρῃτεῖτο οὐ ψυχῆς ὄντα πόμα, ἀλλὰ σώματος, ἵνα τε ξυνιέναι ὀξύτερος ᾖ καὶ ἀμείνων μνημονεύς.
 
      Demosthenes the orator refused wine, being a drink not for the mind but for the body, in order that he may be keener at understanding and a better recollector. 
 
@@ -848,7 +848,7 @@
 
      \[Demosthenes\], when some leatherworker was causing a ruckus in the assembly, said, "I have found another Hypodemades."
 
-209. Ὁ αὐτὸς εἶπεν· „ὥς περ δεῖ τοὺς πλέοντας πνεῦμα δεξιὸν ἐπιτηρεῖν, οὕτω καὶ τοὺς πολιτευομένους καιρόν, ἵν’ ἔλθωσιν, ὅπου βούλονται“.
+209. Ὁ αὐτὸς εἶπεν· „ὥσπερ δεῖ τοὺς πλέοντας πνεῦμα δεξιὸν ἐπιτηρεῖν, οὕτω καὶ τοὺς πολιτευομένους καιρόν, ἵν’ ἔλθωσιν, ὅπου βούλονται“.
 
      \[Demosthenes\] said, "As it is very necessary for those sailing to watch out for the right wind, so also should those in politics look for the right moment, in order that they may come when they wish."
 
@@ -980,7 +980,7 @@
 
      \[Demades\], speaking a case once in an inn for someone assaulted, he summoned the innkeepers as witneses, but when the judges said they were not trustworthy, he said, "For the place in which the assalt happened was such as this. But if he had commited assault in the wooden horse, I would be offering to you as witnesses the chiefs Menelaus and Diomedes and Odysseus."
 
-242. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί εἴη πεποιηκὼς τὰ ἐκ Μακεδονίας χρήματα ἀναβαλόμενος καὶ ἐπιδείξας τήν τε κοιλίαν καὶ τὰ αἰδοῖα ἔφη· „τὶ ἂν τούτοις \<ἱκανὸν γένοιτο\>;“
+242. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί εἴη πεποιηκὼς τὰ ἐκ Μακεδονίας χρήματα ἀναβαλόμενος καὶ ἐπιδείξας τήν τε κοιλίαν καὶ τὰ αἰδοῖα ἔφη· „τί ἂν τούτοις \<ἱκανὸν γένοιτο\>;“
 
      \[Demades\], having been asked by someone what he had done with the money from Macedonia, throwing up his cloak and revealing both his belly and genitals, said, "What would \<be sufficient\> for these?"
 
@@ -1098,9 +1098,9 @@
 
      \[Epaminondas\] said that a death in battle is a holy sacrifice.
 
-281. Ὁ αὐτὸς ἰδὼν στρατόπεδον μέγα καὶ καλόν, στρατηγὸν οὐκ ἔχον, „ἡλίκον“ εἶπε „θηρίον κεφαλὴν οὐκ ἔχει“;
+281. Ὁ αὐτὸς ἰδὼν στρατόπεδον μέγα καὶ καλόν, στρατηγὸν οὐκ ἔχον, „ἡλίκον“ εἶπε „θηρίον κεφαλὴν οὐκ ἔχει“.
 
-     \[Epaminondas\] seeing a big and beautiful army, which didn't have a general, said: "Does such a big beast have no head?"
+     \[Epaminondas\] seeing a big and beautiful army, which didn't have a general, said: "How big a beast to have no head!"
 
 282. Ὁ αὐτὸς ταχθεὶς ὑπὸ τῶν \<πολιτῶν ἐπὶ τῶν\> ὀχετῶν „οὐκ ἐμὲ“ φησὶν „ἄδοξον ποιήσετε, ἀλλὰ τὸν τόπον ἔνδοξον δι’ ἐμέ“.
 
@@ -1196,7 +1196,7 @@
 
      \[Heraclitus said that\] an opinion is an obstacle to progress.
 
-307. Hegesias
+307. Hegesias. BL: 2-3 \<ἐμ-\>αυτὸν
 308. \[Hegesias\]
 309. Ἡρόδοτος ὁ ἱστοριογράφος ἐρωτηθεὶς ὑπό τινος πῶς ἂν δύναιντο \<οἱ\> ἄνθρωποι εὐθυμεῖν εἶπεν· „ἐὰν μὴ πολλὰ πρήσσωσιν.“
 
@@ -1307,7 +1307,7 @@
 323. \[Theophrastus\]
 324. \[Theophrastus\]
 325. \[Theophrastus\]
-326. \[Theophrastus\]
+326. \[Theophrastus\]. BL: 8 φίλους δεῖν
 327. \[Theophrastus\]
 328. \[Theophrastus\]
 329. \[Theophrastus\]
@@ -1376,12 +1376,12 @@
 
      \[Theocritus\], when he was asked by someone why Demeter holds a torch, said, "Because all nourishment is achieved through fire."
 
-352. Theodorus
+352. Theodorus. BL: 4 ἐπαγγελλόμενος;“ 
 353. Theodectes
 354. \[Theodectes\]
 355. Isocrates
 356. \[Isocrates\]
-357. \[Isocrates\]
+357. \[Isocrates\]. BL: 1 ἔργου
 358. \[Isocrates\]
 359. \[Isocrates\]
 360. \[Isocrates\]
@@ -1651,7 +1651,7 @@
 
      Pericles having been counseled by his wife to save himself, said: "Tell this to others; but tell a leader and ruler to save the people."
 
-453. Ὁ αὐτὸς τὸν ἀνθρώπινον βίον ὅμοιον ἔφησεν εἶναι θαλάσσῃ· „καὶ γὰρ ἐκείνη νηνεμίας μὲν οὔσης εὐδινοτάτη ἐστίν· ὅταν δὲ οἱ ἄνεμοι πνέωσι, ταράττεται· οὕτως καὶ τῶν ἀνθρώπων ὁ βίος εὐσταθοῦς μὲν τῆς τύχης οὔσης ἱλαρός ἐστιν, ἀντιπνευσάσης δὲ χειμάζεται“.
+453. Ὁ αὐτὸς τὸν ἀνθρώπινον βίον ὅμοιον ἔφησεν εἶναι θαλάσσῃ· „καὶ γὰρ ἐκείνη νηνεμίας μὲν οὔσης εὐδιεινοτάτη ἐστίν· ὅταν δὲ οἱ ἄνεμοι πνέωσι, ταράττεται· οὕτως καὶ τῶν ἀνθρώπων ὁ βίος εὐσταθοῦς μὲν τῆς τύχης οὔσης ἱλαρός ἐστιν, ἀντιπνευσάσης δὲ χειμάζεται“.
 
      \[Pericles\] said that a human life is like the sea; "For whenever the wind is calm it's calmest; but when the winds blow, it's troubled; thus also a mortal life calm in fortune is cheerful, but when the winds blow against it it's thrown around by the storm."
 
@@ -1711,7 +1711,7 @@
 
      \[Pyrrhus\] hearing a long detailed account from someone who was shipwrecked alone, said: "You were justly cast away by Poseidon thus, on account of your droning on."
 
-468. Πρωταγόρας ἐποποιοῦ τινος αὐτὸν βλασφημοῦντος ἐπὶ τῷ μὴ ἀποδέχεσθαι τὰ ποιήματα αὐτοῦ „ὦ τάν“, ἔφη· „κρεῖττόν μοι ἐστι κακῶς ἀκούειν ὑπό σου ἢ τῶν σῶν ποιημάτων ἀκούειν“.
+468. Πρωταγόρας ἐποποιοῦ τινος αὐτὸν βλασφημοῦντος ἐπὶ τῷ μὴ ἀποδέχεσθαι τὰ ποιήματα αὐτοῦ „ὦ τάν“, ἔφη· „κρεῖττόν μοί ἐστι κακῶς ἀκούειν ὑπό σου ἢ τῶν σῶν ποιημάτων ἀκούειν“.
 
      Protagoras having been disparaged by an epic poet for not approving of his poems, said: "Buddy, it's better for me to hear you speak badly of me than for me to hear your poems."
 
@@ -1719,7 +1719,7 @@
 
      \[Protagoras\] said: "Polymathy greatly helps, but greatly hurts."
 
-470. Socrates
+470. Socrates. BL: 2 καὶ
 471. Socrates
 472. Socrates
 473. Socrates
@@ -1851,8 +1851,8 @@
 540. \[Philippus\]
 541. \[Philippus\]
 542. \[Philippus\]
-543. \[Philippus\]
-544. \[Philippus\]
+543. \[Philippus\]. BL: 2 Εὐρυδίκης
+544. \[Philippus\]. BL: 1 \[τῶν\]
 545. \[Philippus\]
 546. Philippus
 547. Philoxenus

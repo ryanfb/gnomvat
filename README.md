@@ -4,7 +4,7 @@
 
 [English translations from the Gnomologium Vaticanum](https://ryanfb.github.io/gnomvat/gnomvat).
 
-The Greek text used is: L. Sternbach, *Gnomologium Vaticanum e codice Vaticano Graeco 743. Texte und Kommentare* 2. Berlin: De Gruyter, 1887 (repr. 1963).
+The Greek text used is: L. Sternbach, *Gnomologium Vaticanum e codice Vaticano Graeco 743. Texte und Kommentare* 2. Berlin: De Gruyter, 1887 (repr. 1963). Berichtigungsliste readings have been incorporated into the text.
 
 See also: [Vat.gr.743](https://digi.vatlib.it/mss/detail/Vat.gr.743)
 
