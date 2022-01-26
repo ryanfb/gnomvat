@@ -1612,7 +1612,10 @@
 
      \[Plato\] having been asked how cities could best be managed, said: "If philosophers rule or the rulers philosophize."
 
-444. \[Plato\]
+444. Ὁ αὐτὸς ἔφη τοῦ φυσικοῦ ἀνδρὸς τὸ σῶμα μόνον εἶναι, τὴν δὲ ψυχὴν πετάσθαι. 
+
+     \[Plato\] said that the body is only the form of a man, but the soul flies everywhere.
+
 445. \[Plato\]
 446. \[Plato\]
 447. \[Plato\]
