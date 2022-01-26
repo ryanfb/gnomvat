@@ -1595,7 +1595,10 @@
 
      Plato said: "O child, there's only one beginning of a good deliberation: knowing that which you're talking about, because if not, you'll be completely wrong out of necessity."
 
-439. \[Plato\]
+439. Ὁ αὐτὸς ἔλεγεν ὅτι ὁ παιδευόμενος τριῶν τούτων χρῄζει· φύσεως, μελέτης, χρόνου. 
+
+     \[Plato\] said that someone being educated needs these three things: inclination, practice, time.
+
 440. Plato
 441. \[Plato\]
 442. \[Plato\]
