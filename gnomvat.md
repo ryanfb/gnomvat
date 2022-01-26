@@ -1628,7 +1628,10 @@
 
      \[Plato\], when someone was behaving disreputably but speaking about the manners of others, said: "Thus he carries his mind on his tongue."
 
-448. \[Plato\]
+448. Ὁ αὐτὸς εἶπε τοὺς ἀγαθοὺς ἄνδρας βίου μὴ μακροῦ, ἀλλὰ λαμπροῦ προσδεῖσθαι.
+
+     \[Plato\] said that honorable men shouldn't desire a long life, but a bright one.
+
 449. \[Plato\]
 450. Περίανδρος ὁ σοφὸς ἐρωτηθεὶς τί ἂν εἴη ἐλευθερία εἶπεν· „ἀγαθὴ συνείδησις“.
 
