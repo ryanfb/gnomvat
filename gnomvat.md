@@ -1599,7 +1599,10 @@
 
      \[Plato\] said that someone being educated needs these three things: inclination, practice, time.
 
-440. Plato
+440. Διονυσίου ποτὲ ἐξώτατον τὸν Πλάτωνα κατακλίναντος διὰ τὴν πρὸς Δίωνα φιλίαν καὶ ἐπισκώψαντος· „ὁρᾷς, ὦ Πλάτων, ὅτι δύναμαι ἀτιμοῦν“ ἔφη· „ἀλλ’ οὐχ ὁ τόπος τὸν ἄνδρα, ἀλλ’ ὁ ἀνὴρ τὸν τόπον ἔντιμον ποιεῖ“. Πάλιν δὲ τοῦ Διονυσίου πρὸς αὐτὸν εἰπόντος, ὅτε ἀπῄει γεγονὼς ἐν προσκρούσματι· „ἦ που, Πλάτων, ἀπελθὼν Ἀθήναζε πολλὰ καθ’ ἡμῶν ἐρεῖς;“ „μὴ γένοιτο“ ἔφη „τοσαύτη λόγων ἀπορία, ὥστε περὶ σοῦ λόγον ἐν Ἀκαδημίᾳ ποιεῖσθαι“.
+
+     When Dionysius had Plato seated at dinner according to his friendship with Dion and ribbed him: "See, o Plato, that it's possible for me to dishonor you", he answered: "But the place does not make the man honorable, but the man the place." And another time when Dionysius was speaking to him, when he left having become a cause of offence: "Doubtless, Plato, having returned to Athens you'll frequently speak against us?" He said: "Let it not be, that we're so short of words, that we have to talk about you in the Academy."
+
 441. Ὁ αὐτὸς λοιδορούμενος ὑπό τινος „λέγε“ ἔφη „κακῶς, ἐπεὶ καλῶς οὐκ ἔμαθες.“
 
      \[Plato\] being insulted by someone, said "Speak ill, since you don't know how to speak well."
