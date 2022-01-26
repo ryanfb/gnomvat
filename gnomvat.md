@@ -1616,7 +1616,10 @@
 
      \[Plato\] said that the body is only the form of a man, but the soul flies everywhere.
 
-445. \[Plato\]
+445. Ὁ αὐτὸς Διογένους αὐτὸν καλοῦντος ἐν ἀγορᾷ φαγεῖν εἶπεν· „ὡς χαρίεν ἂν ἦν σου τὸ ἄπλαστον, εἰ μὴ ἦν πλαστόν!“
+
+     When Diogenes called \[Plato\] over to eat with him in the agora, he said: "How charming your sincerity, if only it weren't insincere!"
+
 446. \[Plato\]
 447. \[Plato\]
 448. \[Plato\]
