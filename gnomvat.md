@@ -1620,7 +1620,10 @@
 
      When Diogenes called \[Plato\] over to eat with him in the agora, he said: "How charming your sincerity, if only it weren't insincere!"
 
-446. \[Plato\]
+446. Ὁ αὐτὸς ἔφησε τὸν μὲν ὕπνον ὀλιγοχρόνιον θάνατον, τὸν δὲ θάνατον πολυχρόνιον ὕπνον.
+
+     \[Plato\] said that sleep is a short death, but death is a long sleep.
+
 447. \[Plato\]
 448. \[Plato\]
 449. \[Plato\]
