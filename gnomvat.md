@@ -1608,7 +1608,10 @@
 
      \[Plato\] having been asked what kind of person he thought Diogenes was, said: "A maddened Socrates."
 
-443. \[Plato\]
+443. Ὁ αὐτὸς ἐρωτηθεὶς πῶς ἂν ἄριστα αἱ πόλεις οἰκοῖντο ἔφη· „εἰ φιλόσοφοι βασιλεύοιεν ἢ οἱ βασιλεῖς φιλοσοφοῖεν.“
+
+     \[Plato\] having been asked how cities could best be managed, said: "If philosophers rule or the rulers philosophize."
+
 444. \[Plato\]
 445. \[Plato\]
 446. \[Plato\]
