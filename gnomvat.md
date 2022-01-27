@@ -1739,7 +1739,10 @@
 
      Socrates having been told by someone "I love you", said: "Someone else is responsible, not me."
 
-475. Socrates
+475. Σωκράτης ἐρωτηθεὶς εἰ κατασχεῖν δύναταί τις λόγον ἀπόῤῥητον ἔφη· „ὅστις διάπυρον ἄνθρακα τῇ γλώττῃ κατασχεῖν δυνήσεται.“
+
+     Socrates having been asked if it was possible for someone to keep a secret, said: "Whoever can keep a red-hot coal on their tongue."
+
 476. Socrates
 477. Socrates
 478. Socrates
