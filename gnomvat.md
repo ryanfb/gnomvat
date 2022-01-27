@@ -1731,7 +1731,10 @@
 
      Socrates said that the only ideal ruler is one who is able to rule their own emotions.
 
-473. Socrates
+473. Σωκράτης ἐπὶ πενίᾳ τινὰ λυπούμενον ἰδών, ἐντυχὼν ὅτε τοὺς πλουσίους οἱ τριάκοντα τύραννοι ἀνῄρουν, „μή τίς ἐστιν“ εἶπε „μεταμέλεια πενομένῳ;“
+
+     Socrates having seen someone bemoaning their poverty, and later happening upon them when the Thirty Tyrants were executing the rich, said: "Is this not the one who regrets being poor?"
+
 474. Socrates
 475. Socrates
 476. Socrates
