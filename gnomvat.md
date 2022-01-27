@@ -1743,7 +1743,10 @@
 
      Socrates having been asked if it was possible for someone to keep a secret, said: "Whoever can keep a red-hot coal on their tongue."
 
-476. Socrates
+476. Σωκράτης ἐρωτηθεὶς „τίς σοι πλουσιώτερος εἶναι δοκεῖ;“ εἶπεν· „ὁ ἐλαχίστοις ἀρκούμενος· αὐτάρκεια γάρ ἐστι φύσεως πλοῦτος.“
+
+     Socrates having been asked "Who do you think the wealthiest person is?", said: "The one who suffices with the least: for self-sufficiency is the form of wealth."
+
 477. Socrates
 478. Socrates
 479. Socrates
