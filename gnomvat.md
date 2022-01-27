@@ -1727,7 +1727,10 @@
 
      Socrates having been asked what possession was most useful, said: "A steady friendship."
 
-472. Socrates
+472. Σωκράτης ἔλεγεν ἐκεῖνον μόνον βασιλέα εἶναι τὸν δυνάμενον ἄρχειν τῶν οἰκείων παθῶν.
+
+     Socrates said that the only ideal ruler is one who is able to rule their own emotions.
+
 473. Socrates
 474. Socrates
 475. Socrates
