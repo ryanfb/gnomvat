@@ -1719,7 +1719,10 @@
 
      \[Protagoras\] said: "Polymathy greatly helps, but greatly hurts."
 
-470. Socrates. BL: 2 καὶ
+470. Σωκράτης ὁ φιλόσοφος ἐρωτηθεὶς τί ἥδιστον ἐν τῷ βίῳ εἶπε· „παιδεία καὶ ἀρετὴ καὶ ἱστορία τῶν ἀγνοουμένων“. 
+
+     Socrates the philosopher having been asked what is sweetest in life, said: "education and virtue and inquiry into things unknown.
+
 471. Socrates
 472. Socrates
 473. Socrates
