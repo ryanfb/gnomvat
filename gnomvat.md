@@ -1723,7 +1723,10 @@
 
      Socrates the philosopher having been asked what is sweetest in life, said: "education and virtue and inquiry into things unknown.
 
-471. Socrates
+471. Σωκράτης ἐρωτηθεὶς τί κτῆμα συμφορώτατον εἶπε· „φίλος βέβαιος.“
+
+     Socrates having been asked what possession was most useful, said: "A steady friendship."
+
 472. Socrates
 473. Socrates
 474. Socrates
