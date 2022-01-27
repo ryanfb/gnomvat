@@ -1735,7 +1735,10 @@
 
      Socrates having seen someone bemoaning their poverty, and later happening upon them when the Thirty Tyrants were executing the rich, said: "Is this not the one who regrets being poor?"
 
-474. Socrates
+474. Σωκράτης λέγοντος αὐτῷ τινος ὅτι „φιλῶ σε“ „ἄλλος“ ἔφη „αἴτιος, οὐκ ἐγώ.“
+
+     Socrates having been told by someone "I love you", said: "Someone else is responsible, not me."
+
 475. Socrates
 476. Socrates
 477. Socrates
