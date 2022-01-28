@@ -1850,7 +1850,7 @@
       
       2. \<Ὁ αὐτὸς ἐρωτηθεὶς τῆς πόλεως αὐτοῦ διαρπαζομένης ὑπὸ Δημητρίου· „μὴ καὶ τῶν σῶν, Στίλπων, τὶ ἀφαιρεῖται;“ εἶπεν „οὐδέν· οὐ γὰρ πώ ποτ’ ἐμὰς βοῦς ἤλασαν, οὐδὲ μὲν ἵππους·\> ἄλλως τε οὐδένα στρατιωτῶν ἀρετὴν ἐπ’ ὤμων εἶδον ἐκφέροντα.“
       
-         \[Stilpo\]
+         \<\[Stilpo\] having been asked about his city being plundered by Demetrius: "And of your things, Stilpo, what did he take?", said: "Nothing: 'for neither were my cattle ever driven away, nor my horses.'\> I especially didn't see the soldiers carrying out virtue on their shoulders."
       
 516. \[Stilpo\]
 517. Σοφοκλῆς, ὁ τῶν τραγῳδιῶν ποιητής, ἀκούσας Εὐριπίδην ἐν Μακεδονίᾳ τεθνηκέναι εἶπεν· „ἀπώλετο ἡ τῶν ἐμῶν ποιημάτων ἀκόνη.“
