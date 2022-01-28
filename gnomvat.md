@@ -1782,7 +1782,11 @@
 
      \[Socrates\] having been asked why he didn't write down his works, said: "Since I see the blank sheets selling for more than those that have been written on."
 
-500. \[Socrates\]
+500. Ὁ αὐτὸς θαυμάσαντός τινος ὅτι λακτισθεὶς ἠνέσχετο ἔφη·
+„εἰ δὲ ὄνος με ἐλάκτισε, δίκην ἂν αὐτῷ ἔλαχον;“
+
+     \[Socrates\], when someone was marveling that he restrained himself after being kicked, sad: "And if a donkey kicks me, should I file a lawsuit?"
+
 501. Σόλων ὁ σοφὸς ἐρωτῶντος αὐτόν τινος πῶς ἂν μὴ γένοιτο ἀδίκημα εἶπεν· „εἰ ὁμοίως ἀγανακτοῖεν ἐπὶ τοῖς ἀδικήμασιν οἱ μὴ ἀδικούμενοι τοῖς ἀδικουμένοις.“
 
      Solon the wise man, when someone asked him how wrongs could not happen, said, "If those who are not wronged would be equally vexed as those who are wronged at the wrongs done.
