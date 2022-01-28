@@ -1765,7 +1765,10 @@
 486. Socrates
 487. Socrates
 488. Socrates
-489. Socrates
+489. Σωκράτης ἐρωτηθεὶς εἰ σφαιροειδής ἐστιν ὁ κόσμος ἔφη· „οὐχ ὑπερέκυψα.“
+
+     Socrates having been asked if the cosmos is spherical, said: "I haven't commanded a view of it."
+
 490. \[Socrates\]
 491. \[Socrates\]
 492. \[Socrates\]
