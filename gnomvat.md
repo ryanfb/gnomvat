@@ -1778,7 +1778,10 @@
 496. Socrates
 497. \[Socrates\]
 498. \[Socrates\]
-499. \[Socrates\]
+499. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί συντάγματα οὐ γράφει ἔφη· „ὅτι τὰ ἄγραφα τῶν γεγραμμένων ὁρῶ πλείονος πωλούμενα.“ 
+
+     \[Socrates\] having been asked why he didn't write down his works, said: "Since I see the blank sheets selling for more than those that have been written on."
+
 500. \[Socrates\]
 501. Σόλων ὁ σοφὸς ἐρωτῶντος αὐτόν τινος πῶς ἂν μὴ γένοιτο ἀδίκημα εἶπεν· „εἰ ὁμοίως ἀγανακτοῖεν ἐπὶ τοῖς ἀδικήμασιν οἱ μὴ ἀδικούμενοι τοῖς ἀδικουμένοις.“
 
