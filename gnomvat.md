@@ -1749,7 +1749,10 @@
 
 477. Socrates
 478. Socrates
-479. Socrates
+479. Σωκράτης τοὺς ἄλλους ἔφησε ζῆν ἵνα ἐσθίωσιν, ἑαυτὸν δὲ ἐσθίειν ἵνα ζῇ.
+
+     Socrates said that others live to eat, but that he eats to live.
+
 480. Socrates
 481. Socrates
 482. Socrates
