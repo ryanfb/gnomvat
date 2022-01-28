@@ -1757,7 +1757,10 @@
 481. Socrates
 482. Socrates
 483. Socrates
-484. Socrates
+484. \<Σ\>ωκράτης ἰδὼν πλούσιον ἀπαίδευτον „ἰδού,“ φησί, „τὸ χρυσοῦν πρόβατον.“ 
+
+     Socrates seeing a wealthy uneducated person, said: "Behold! The golden sheep."
+
 485. Socrates
 486. Socrates
 487. Socrates
