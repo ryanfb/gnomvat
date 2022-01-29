@@ -1385,7 +1385,10 @@
 355. Isocrates
 356. \[Isocrates\]
 357. \[Isocrates\]. BL: 1 ἔργου
-358. \[Isocrates\]
+358. Ὁ αὐτὸς εἰπόντος τινὸς ὅτι ὁ δῆμος ὑπὸ τῶν ῥητόρων διαρπάζεται ἔφη· „τί θαυμαστόν, εἰ Κόρακος ἐφευρόντος τὴν ῥητορικὴν οἱ ἀπ’ ἐκείνου κόρακές εἰσιν“.
+
+     \[Isocrates\], upon being told that the people were being carried away by the rhetoricians, said: "How amazing, with Corax having discovered rhetoric, if those having learned from him were corvids!"
+
 359. \[Isocrates\]
 360. \[Isocrates\]
 361. Isocrates
