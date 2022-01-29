@@ -1408,7 +1408,10 @@
 
 376. Cyrus
 377. \[Cyrus\]
-378. \[Cyrus\]
+378. Ὁ αὐτὸς μέλλων τελευτᾶν [καὶ] θεασάμενος τοὺς φίλους θρηνοῦντας ἔφη· „θαῤῥεῖτε, ὦ φίλοι· καὶ γὰρ ὁ ἥλιος δύνει“.
+
+     \[Cyrus\] was about to die and with his friends watching and grieving, he said: "Take heart, friends! For the sun is setting."
+
 379. Ὁ αὐτὸς ἐρωτηθεὶς τίνι καταλιμπάνει τὸ βασίλειον ἔφη· „τῷ δυναμένῳ“.
 
      \[Cyrus\] having been asked what made him leave behind his kingship, said: "Being forced."
@@ -1587,7 +1590,7 @@
 
       1. Πλάτων ὀργιζόμενος τῷ οἰκέτῃ καὶ μέλλων αὐτὸν μαστιγοῦν ἐπιστάντος Ξενοκράτους ἔφη· „λαβὼν τοῦτον μαστίγωσον· ἐγὼ γὰρ ὀργίζομαι“.
 
-         Plato was angered by an enslaved house-servant and intending to thrash him with a whip but said to Xenocrates: "Take this and whip him; for I'm too angry."
+         Plato was angered by an enslaved house-servant and about to thrash him with a whip but said to Xenocrates: "Take this and whip him; for I'm too angry."
 
       2. Φασὶ δὲ αὐτὸν καὶ ἐπανατεινόμενον τὴν βακτηρίαν τῷ παιδὶ ἑστάναι χρόνον πολὺν μετέωρον ταύτην ἔχοντα καὶ τὴν αἰτίαν ἐρωτώμενον φῆσαι κολάζειν τὸν ἑαυτοῦ προορμήσαντα θυμόν. 
 
