@@ -1413,7 +1413,7 @@
 
 378. Ὁ αὐτὸς μέλλων τελευτᾶν \[καὶ\] θεασάμενος τοὺς φίλους θρηνοῦντας ἔφη· „θαῤῥεῖτε, ὦ φίλοι· καὶ γὰρ ὁ ἥλιος δύνει“.
 
-     \[Cyrus\] was about to die and with his friends watching and grieving, he said: "Take heart, friends! For the sun is also setting."
+     \[Cyrus\] was about to die and with his friends watching and grieving, he said: "Take heart, friends! For even the sun sets."
 
 379. Ὁ αὐτὸς ἐρωτηθεὶς τίνι καταλιμπάνει τὸ βασίλειον ἔφη· „τῷ δυναμένῳ“.
 
