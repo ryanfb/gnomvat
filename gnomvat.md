@@ -1409,7 +1409,10 @@
 376. Cyrus
 377. \[Cyrus\]
 378. \[Cyrus\]
-379. \[Cyrus\]
+379. Ὁ αὐτὸς ἐρωτηθεὶς τίνι καταλιμπάνει τὸ βασίλειον ἔφη· „τῷ δυναμένῳ“.
+
+     \[Cyrus\] having been asked what made him leave behind his kingship, said: "Being forced."
+
 380. Κικέρων εἶπε· „καλῶς ποιεῖν ἁπλῆ εὐεργεσία, λέγειν δὲ καὶ ποιεῖν διπλῆ“.
 
      Cicero said, "To act well is a single good, but to speak and act well is a double one."
