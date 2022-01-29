@@ -1529,7 +1529,7 @@
 
 422. \[Ταὼς εἰς δεῖπνον παρασκευάζεσθαι μέλλων ἁπλώσας τὰς πτέρυγας εἶπεν· „εἰ μὲν πολλὰ κρέα ὁρᾷς με ἔχοντα, \[καὶ\] θῦσον· εἰ δὲ τῇ τῶν πτερῶν ποικιλίᾳ κεκόσμημαι, φεῖσαι σαρκὸς ὀλίγης κεκοσμημένης.“\]
 
-     \[A peacock intending to be prepared as dinner, unfolding its wings said: "If you see all the meat I'm providing, kill me; but if you see how I've adorned my wings with colors, spare what little flesh I've adorned."\]
+     \[A peacock about to be prepared as dinner, unfolding its wings said: "If you see all the meat I'm providing, kill me; but if you see how I've adorned my wings with colors, spare what little flesh I've adorned."\]
 
 423. Πλάτων ἔφη τὴν ἀρετὴν ἀδέσποτον εἶναι.
 
