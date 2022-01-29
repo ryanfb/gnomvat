@@ -1388,7 +1388,7 @@
 358. \[Isocrates\]
 359. \[Isocrates\]
 360. \[Isocrates\]
-361. \[Isocrates\]
+361. Isocrates
 362. \[Isocrates\]
 363. \[Isocrates\]
 364. \[Isocrates\]
