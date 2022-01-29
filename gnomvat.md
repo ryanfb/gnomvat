@@ -1407,7 +1407,10 @@
      The poet Anacreon was lamenting to one of his friends about being poor, and they said: "A poet is the beautiful hopes you hold to yourself, the hopes of being awoken from dreams."
 
 376. Cyrus
-377. \[Cyrus\]
+377. Ὁ αὐτὸς ἐρωτηθεὶς ποῖος τῶν θανάτων χαλεπώτατος ἔφη· „ὁ ἀπὸ τῶν νόμων ἐπαγόμενος“.
+
+     \[Cyrus\] having been asked what death is most difficult, said: "The one which has been lead away from the laws."
+
 378. Ὁ αὐτὸς μέλλων τελευτᾶν [καὶ] θεασάμενος τοὺς φίλους θρηνοῦντας ἔφη· „θαῤῥεῖτε, ὦ φίλοι· καὶ γὰρ ὁ ἥλιος δύνει“.
 
      \[Cyrus\] was about to die and with his friends watching and grieving, he said: "Take heart, friends! For the sun is setting."
