@@ -1401,7 +1401,7 @@
 371. Cleostratus
 372. Κλείσοφος ἐπιτιμῶντος αὐτῷ Φιλίππου, ὅτι ἀεὶ αἰτεῖ, „καὶ γὰρ σὺ“ φησὶν „ἀεὶ ἔχεις“.
 
-     Cleisophos when Phillip was chiding him, that he was always begging, said: "For you, too, are always having."
+     Cleisophus when Philip was chiding him, that he was always begging, said: "For you, too, are always having."
 
 373. Conon
 374. Κότυς ὁ τῶν Θρᾳκῶν βασιλεὺς Θηβαίων σεμνυνομένων ὅτι Λακεδαιμονίων ἡγήσαντο „ἐγὼ“ φησὶν „ἑώρακα χειμάῤῥους ποταμοὺς μείζους τῶν ἀενάων γενομένους, ἀλλ’ ὀλίγον χρόνον“.
