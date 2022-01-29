@@ -1318,7 +1318,10 @@
 334. \[Theophrastus\]
 335. \[Theophrastus\]
 336. \[Theophrastus\]
-337. Thearidas
+337. Θεαρίδας ὁ Λάκων ξίφος ἀκονῶν καὶ ἐρωτώμενος εἰ ὀξύ ἐστιν ἔφη· „ὀξύτερον διαβολῆς“.
+
+     Thearidas the Spartan was sharpening his sword and when someone asked him if it was sharp, he said: "Sharper than a false accusation."
+
 338. Θεόκριτος ὁ Χῖος ἀφυοῦς ποιητοῦ ἀκρόασιν ποιούμενος ἐρωτώμενος ὑπ’ αὐτοῦ ποῖά ἐστι τὰ καλῶς εἰρημένα \<ἔφη\>· „ἃ παρέλιπες“.
 
      When Theocritus the Chian was listening to a dull poet and was asked by him what things had been said well, \<he said\>, "What you left out."
