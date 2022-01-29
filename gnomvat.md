@@ -1411,7 +1411,7 @@
 
      \[Cyrus\] having been asked what death is most difficult, said: "The one which has been lead away from the laws."
 
-378. Ὁ αὐτὸς μέλλων τελευτᾶν [καὶ] θεασάμενος τοὺς φίλους θρηνοῦντας ἔφη· „θαῤῥεῖτε, ὦ φίλοι· καὶ γὰρ ὁ ἥλιος δύνει“.
+378. Ὁ αὐτὸς μέλλων τελευτᾶν \[καὶ\] θεασάμενος τοὺς φίλους θρηνοῦντας ἔφη· „θαῤῥεῖτε, ὦ φίλοι· καὶ γὰρ ὁ ἥλιος δύνει“.
 
      \[Cyrus\] was about to die and with his friends watching and grieving, he said: "Take heart, friends! For the sun is setting."
 
