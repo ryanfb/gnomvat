@@ -1852,7 +1852,10 @@
       
          \<\[Stilpo\] having been asked about his city being plundered by Demetrius: "And of your things, Stilpo, what did he take?", said: "Nothing: 'for neither were my cattle ever driven away, nor my horses.'\> I especially didn't see the soldiers carrying out virtue on their shoulders."
       
-516. \[Stilpo\]
+516. \<Ὁ\> αὐτὸς ἐρωτηθεὶς τί ἰσχυρότερόν ἐστιν ἀνδριάντος εἶπεν· „ἄνθρωπος ἀναίσθητος.“
+
+     \[Stilpo\] having been asked what is harder than a statue, said "An unfeeling man."
+
 517. Σοφοκλῆς, ὁ τῶν τραγῳδιῶν ποιητής, ἀκούσας Εὐριπίδην ἐν Μακεδονίᾳ τεθνηκέναι εἶπεν· „ἀπώλετο ἡ τῶν ἐμῶν ποιημάτων ἀκόνη.“
 
      Sophocles, the poet of tragedies, when he heard that Euripides had died in Macedonia, said, "The whetstone of my poems has died."
