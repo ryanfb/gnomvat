@@ -1396,7 +1396,10 @@
 366. Ibycus
 367. Callisthenes
 368. \[Callisthenes\]
-369. Cleanthes
+369. Κλεάνθης ὁ Στωϊκὸς φιλόσοφος εἶπε μώλωπας ἔχειν ἐν τῇ ψυχῇ τὰς ὑπὸ Ζήνωνος νουθεσίας.
+
+     Cleanthes the Stoic philosopher said to hold Zenon's warnings as bruises in the soul.
+
 370. Cleoboulus
 371. Cleostratus
 372. Κλείσοφος ἐπιτιμῶντος αὐτῷ Φιλίππου, ὅτι ἀεὶ αἰτεῖ, „καὶ γὰρ σὺ“ φησὶν „ἀεὶ ἔχεις“.
