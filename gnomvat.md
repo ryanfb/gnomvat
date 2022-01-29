@@ -1406,7 +1406,10 @@
 
      The poet Anacreon was lamenting to one of his friends about being poor, and they said: "A poet is the beautiful hopes you hold to yourself, the hopes of being awoken from dreams."
 
-376. Cyrus
+376. Κῦρος θεασάμενός ποτε γυναῖκα εὔμορφον καί τινος εἰπόντος ὅτι „ἔξεστί σοι, εἰ θέλεις, χρήσασθαι βασιλεῖ ὄντι“ \<ἔφη\>· „ἀλλὰ βασιλεῖ μὴ σωφρονεῖν οὐκ ἔξεστιν“.
+
+     Cyrus, when he saw a pretty woman and someone said that "She exists for you, if you want, to have her for the king's desire", said: "But for a king not being temperate does not exist."
+
 377. Ὁ αὐτὸς ἐρωτηθεὶς ποῖος τῶν θανάτων χαλεπώτατος ἔφη· „ὁ ἀπὸ τῶν νόμων ἐπαγόμενος“.
 
      \[Cyrus\] having been asked what death is most difficult, said: "The one which has been lead away from the laws."
