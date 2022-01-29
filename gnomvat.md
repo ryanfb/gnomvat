@@ -1401,7 +1401,10 @@
 371. Cleostratus
 372. Cleisophos
 373. Conon
-374. Cotys
+374. Κότυς ὁ τῶν Θρᾳκῶν βασιλεὺς Θηβαίων σεμνυνομένων ὅτι Λακεδαιμονίων ἡγήσαντο „ἐγὼ“ φησὶν „ἑώρακα χειμάῤῥους ποταμοὺς μείζους τῶν ἀενάων γενομένους, ἀλλ’ ὀλίγον χρόνον“.
+
+     Cotys the king of the Thracians, when the Thebans were priding themselves that they considered themselves Spartans, said: "I've seen flooding rivers become bigger than ever-flowing ones, but in less time."
+
 375. \<Ἀνα\>κρέων ὁ ποιητὴς πρός τινα τῶν φίλων ἀπωδύρετο ἐπὶ τῷ πένης εἶναι εἰπόντος δὲ ἐκείνου· „ποιητὴς ὢν ἐλπίδας ἀγαθὰς ἔχε περὶ σεαυτοῦ“ εἶπεν· „αἱ ἐλπίδες ἐγρηγορότων εἰσὶν ἐνύπνια“.
 
      The poet Anacreon was lamenting to one of his friends about being poor, and they said: "A poet is the beautiful hopes you hold to yourself, the hopes of being awoken from dreams."
