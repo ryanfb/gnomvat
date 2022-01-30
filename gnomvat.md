@@ -1999,7 +1999,10 @@
 
      When \[Sophocles\] was asked why he depicted the character of people as good and Euripides as bad, said, "Because I depict men that should exist, and that man depicts those that do.
 
-519. Stratonicus
+519. Στρατόνικος ἰδὼν μεγάλα πρόπυλα ἰδιωτικῆς οἰκίας κόψας τὴν θύραν πρὸς τὸν ὑπακούσαντα εἶπεν· „ἔνδον Ἀγαμέμνων;“
+
+     Stratonicus having seen a private house with huge entrances and knocking on the door, said to the person answering: "Is Agamemnon home?"
+
 520. \[Stratonicus\]
 521. \[Stratonicus\]
 522. \[Stratonicus\]
