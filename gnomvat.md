@@ -1348,21 +1348,66 @@
          \[Thales\] having been asked who is fortunate, \[said\]: "One with a healthy body, a ready soul, and a well-educated nature."
       
 
-322. Theophrastus
-323. \[Theophrastus\]
-324. \[Theophrastus\]
-325. \[Theophrastus\]
-326. \[Theophrastus\]. BL: 8 φίλους δεῖν
-327. \[Theophrastus\]
-328. \[Theophrastus\]
-329. \[Theophrastus\]
-330. \[Theophrastus\]
-331. \[Theophrastus\]
-332. \[Theophrastus\]
-333. \[Theophrastus\]
-334. \[Theophrastus\]
-335. \[Theophrastus\]
-336. \[Theophrastus\]
+322. Θεόφραστος ὁ ἐκ τοῦ περιπάτου φιλόσοφος ἐρωτηθεὶς ὑπό τινος τί συνέχει τὸν τῶν ἀνθρώπων βίον εἶπεν· „εὐεργεσία καὶ τιμὴ καὶ τιμωρία“.
+
+     Theophrastus, the philosopher from the Peripatus, having been asked by someone what comprises the life of men, said, "Doing well, honor, and retribution."
+
+323. Ὁ αὐτὸς ἰδὼν νεανίσκον τινὰ εὐχόμενον τοῖς θεοῖς νοῦν καὶ φρένας ἀγαθὰς αὐτῷ περιποιεῖν „ὦ νεανίσκε“, εἶπεν, „οὐ τοῖς εὐχομένοις νοῦς καὶ φρένες περιγίνονται, ἀλλὰ τοῖς μανθάνουσιν“.
+
+     \[Theophrastus\], seeing some young man praying to the gods to secure sense and a good mind for himself, said, "O young man, sense and a mind do not come to those who pray but to those who learn."
+
+324. Ὁ αὐτὸς ἔφησε τοῖς ὄχλοις μήτε καλῶς μήτε κακῶς ποιεῖν· „κακῶς μὲν γὰρ παθόντες εἰς τὸν ἅπαντα χρόνον μνημονεύουσιν, εὐεργετηθέντες δὲ παραχρῆμα ἐπιλανθάνονται“.
+
+     \[Theophrastus\] said to treat the crowd neither well nor badly. "For, they always remember suffering badly and, when they are shown kindness, they immediately forget it."
+
+325. Ὁ αὐτὸς ἐπαινεῖν καὶ κατηγορεῖν οὐ τοῦ τυχόντος ἔφη εἶναι, ἀλλὰ τοῦ διειληφότος περὶ ἀνθρώπου καλῶς καὶ κακῶς.
+
+     \[Theophrastus\] said that it is not the task of any random person to praise and blame, but of one dividing between the good and the bad concerning people.
+
+326. Ὁ αὐτὸς ἐδοκίμαζεν μὴ φιλήσαντα κρίνειν, ἀλλὰ κρίναντα φιλεῖν, καὶ μισεῖν λόγῳ, καὶ μὴ πάθει.
+
+     \[Theophrastus\] considered it fit not to judge someone while being a friend, but to be a friend while judging them, and to hate with reason, not because of circumstance.
+
+327. Ὁ αὐτὸς δεῖν τὰ τῶν γελοίων ἔφη τοιαῦτα εἶναι, ἐφ’ οἷς ὁ μὲν ἀκούων ἡσθήσεται, ὁ δὲ λέγων οὐ καταισχυνθήσεται.
+
+     \[Theophrastus\] said that such things should be the source of jokes because of which the listener will be delighted and the reader will not be ashamed.
+
+328. Ὁ αὐτὸς ἔφη δεῖν μᾶλλον μνημονεύειν, ὑφ’ ὧν καλῶς τις πέπονθεν ἢ ὑφ’ ὧν κακῶς· καὶ γὰρ τὸ εὐχαριστεῖν τοῦ τιμωρεῖσθαι βελτίονος ἤθους εἶναι.
+
+     \[Theophrastus\] said that one should remember those by whom one has been treated well more than those by whom one has been treated badly. For it is the act of a better character to be thankful than to take revenge.
+
+329. Ὁ αὐτὸς πρὸς τὸν δακνόμενον ἐπὶ ταῖς ἑαυτοῦ ἁμαρτίαις καὶ μεταμελόμενον ἔφη· „εἰ οὕτω μέλλων πράττειν τὰ φαῦλα ἐδάκνου, ὡς πράξας, οὐκ ἂν ἥμαρτες“.
+
+     \[Theophrastus\] said to someone vexed at his own failures and regretting them, "If would be vexed when you are about to do bad things, as you are when you have done them, you would not make mistakes."
+
+330. Ὁ αὐτὸς πρὸς Νικόμαχόν ποτε τὸν Ἀριστοτέλους υἱὸν ἀργῶς φιλοσοφοῦντα καλὸν ἔφη μὴ μόνον εἶναι τῆς οὐσίας τῆς πατρῴας κληρονόμον, ἀλλὰ καὶ τῶν ἐπιτηδευμάτων ἐκείνου.
+
+     \[Theophrastus\] once said to Nicomachus the son of Aristotle when he was being lazy at philosophy that it is a good thing not only to be the inheritor of the property of one's father but also of that man's pursuits.
+
+331. Ὁ αὐτὸς λάλῳ περιπεσὼν εἶπεν· „αὔριόν σε ποῦ ἔσται μὴ ἰδεῖν“;
+
+     \[Theophrastus\], encountering a babbler, said, "Where will it be possible not to see you tomorrow?"
+
+332. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί ἐστιν ἔρως εἶπε· „πάθος ψυχῆς σχολαζούσης“.
+
+     \[Theophrastus\], having been asked by someone what love is, said "An emotion of the unoccupied soul."
+
+333. Ὁ αὐτὸς ἐν συμποσίῳ νεανίσκον τινὰ βλέπων ἡσυχίαν ἄγοντα εἶπεν· „εἰ μὲν ἀπαίδευτος ὢν σιωπᾷς, πεπαιδευμένος ὑπάρχεις· εἰ δὲ πεπαιδευμένος, ἀπαιδεύτως σιωπᾷς“.
+
+     \[Theophrastus\], seeing some young man keeping quiet at a symposium, said, "If you are silent while being uneducated, you are educated. But if you do so having been educated, you are silent without education."
+
+334. Ὁ αὐτὸς ἔφη τοὺς μοχθηροὺς τῶν ἀνθρώπων οὐχ οὕτως ἥδεσθαι ἐπὶ τοῖς ἰδίοις ἀγαθοῖς, ὡς ἐπὶ τοῖς ἀλλοτρίοις κακοῖς.
+
+     \[Theophrastus\] said that miserable people do not so much delight at their own goods as at the misfortunes of others.
+ 
+335. Ὁ αὐτὸς ἐρωτηθεὶς τίνα προκοπὴν ἔχει πολιτεία ἔφη· „φθόνον“.
+
+     \[Theophrastus\], having been asked what means of progress a body of citizens has, said, "Envy."
+
+336. Ὁ αὐτὸς τοὺς εὐειδεῖς καὶ ἀπαιδεύτους ὁμοίους ἔφησεν εἶναι ἀλαβάστροις ἔχουσιν ὄξος. 
+
+     \[Theophrastus\] said that the beautiful and uneducated are like alabaster vials of vinegar.
+
 337. Θεαρίδας ὁ Λάκων ξίφος ἀκονῶν καὶ ἐρωτώμενος εἰ ὀξύ ἐστιν ἔφη· „ὀξύτερον διαβολῆς“.
 
      Thearidas the Spartan was sharpening his sword and when someone asked him if it was sharp, he said: "Sharper than a false accusation."
