@@ -1890,7 +1890,10 @@
 
      Socrates seeing a wealthy uneducated person, said: "Behold! The golden sheep."
 
-485. Socrates
+485. Σωκράτης ἔλεγε τὸν φθόνον ἕλκος εἶναι τῆς ἀληθείας.
+
+     Socrates said that jealousy is a festering wound to truth.
+
 486. Socrates
 487. Socrates
 488. Socrates
