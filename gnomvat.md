@@ -1004,7 +1004,10 @@
 
      \[Demades\], being shouted at in the assembly, said, "You did not prevent me from speaking but yourselves from hearing."
 
-248. Democrates
+248. Δημοκράτης ὁ Παῤῥησιαστὴς ἐρωτήσαντός \[ποτε αὐτὸν\] Φιλίππου τί ἂν ποιῶν χαρίζοιτο Ἀθηναίοις εἶπεν· „ἀπαγξάμενος.“
+
+     Democrates the Outspoken, \[when\] Philip asked \[him\] what he might do to satisfy the Athenians, said: "Hang yourself."
+
 249. \[Democrates\]
 250. \[Democrates\]
 251. \[Democrates\]
