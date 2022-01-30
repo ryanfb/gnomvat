@@ -2001,7 +2001,7 @@
 
 519. Στρατόνικος ἰδὼν μεγάλα πρόπυλα ἰδιωτικῆς οἰκίας κόψας τὴν θύραν πρὸς τὸν ὑπακούσαντα εἶπεν· „ἔνδον Ἀγαμέμνων;“
 
-     Stratonicus having seen a private house with huge entrances and knocking on the door, said to the person answering: "Is Agamemnon home?"
+     Stratonicus having seen a private house with huge gates and knocking on the door, said to the person answering: "Is Agamemnon home?"
 
 520. \[Stratonicus\]
 521. \[Stratonicus\]
