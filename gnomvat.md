@@ -1836,7 +1836,10 @@
 
 480. Socrates
 481. Socrates
-482. Socrates
+482. Σωκράτης ἠρωτήθη \<ὑπό τινος\> πῶς ἂν δύναιτο ἀναμαρτήτως διαλέγεσθαι καὶ εἶπεν· „εἰ μηδὲν λέγοις, ὧν μὴ σαφῶς οἶσθα.“
+
+     Socrates was asked \<by someone\> how it might be possible to have a discussion without error, and he said: "If you never speak, about that which you do not securely know."
+
 483. Socrates
 484. \<Σ\>ωκράτης ἰδὼν πλούσιον ἀπαίδευτον „ἰδού,“ φησί, „τὸ χρυσοῦν πρόβατον.“ 
 
