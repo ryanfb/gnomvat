@@ -1006,20 +1006,56 @@
 
 248. Δημοκράτης ὁ Παῤῥησιαστὴς ἐρωτήσαντός \[ποτε αὐτὸν\] Φιλίππου τί ἂν ποιῶν χαρίζοιτο Ἀθηναίοις εἶπεν· „ἀπαγξάμενος.“
 
-     Democrates the Outspoken, \[when\] Philip asked \[him\] what he might do to satisfy the Athenians, said: "Hang yourself."
+     Democrates the Free-Speaker, when Philip asked what sort of thing pleased the Athenians, he said, "Being hanged."
 
-249. \[Democrates\]
-250. \[Democrates\]
-251. \[Democrates\]
-252. \[Democrates\]
-253. Demetrius
-254. \[Demetrius\]
-255. \[Demetrius\]
-256. \[Demetrius\]
-257. \[Demetrius\]
-258. \[Demetrius\]
-259. \[Demetrius\]
-260. \[Demetrius\]
+249. Ὁ αὐτὸς πρὸς τοὺς πυκνῶς ἐγκωμιάζοντας Φίλιππον „οὐ παύσεσθε“ εἶπε „θνητοῦ σώματος ἀθάνατοι κόλακες ὄντες;“
+
+     \[Democrates\] said to those repeatedly praising Philip, "Won't you stop being immortal flatterers of a mortal body?"
+
+250. Ὁ αὐτὸς τοὺς πλουσίους καὶ ἀπαιδεύτους παραπλησίους ἔφησεν εἶναι τοῖς κριοῖς τοῖς ἐπιπόκοις, πλὴν ὅτι ἐκείνους μὲν οἱ κουρεῖς, τούτους δὲ οἱ συκοφάνται κείρουσιν.
+
+     \[Democrates\] said that the wealthy and the uneducated resemble wooly rams, except that shearers shear those, while sycophants fleece these. 
+
+251. Ὁ αὐτός ποτε ἀποσταλεὶς παρὰ Ἀθηναίων πρὸς Φίλιππον κατὰ πρεσβείαν μετὰ παῤῥησίας αὐτῷ ὡμίλει· τοῦ δὲ Φιλίππου εἰπόντος· „οὐ φοβῇ, μὴ τὴν κεφαλήν σου προστάξω ἀφελεῖν;“ „οὐ φοβοῦμαι“ εἶπεν· „ἐὰν γὰρ σύ μου ταύτην ἀφέλῃς, ἡ πατρίς μοι αὐτὴν ἀθάνατον ἀναθήσει“. 
+
+     \[Democrates\], having been sent once by the Athenians to Philip on an embassy, associated with him frankly. And when Philip said, "Aren't you afraid that I will issue a command to take off your head?", he said, "I am not afraid, for if you take off this one of mine, my fatherland will set it up as immortal."
+
+252. Ὁ αὐτὸς θεωρῶν τοὺς περὶ Ἀριστογείτονα καὶ Πυθέαν πονηροὺς ἀνθρώπους ὑπὸ τοῦ δήμου προαγομένους „οὐκ αἰσχύνεσθε,“ φησίν, „ὦ Ἀθηναῖοι, καθάπερ οἱ ὄρνιθες τὰ κόπρια εἰς τὸ μέσον ἕλκοντες“;
+
+     \[Democrates\], seeing the immoral men close to Aristogeiton and Pytheas being preferred by the people, said, "Aren't you ashamed, O Athenians, bringing your droppings into the middle like birds?"
+
+253. Δημήτριος ὁ Φαληρεὺς ἔφη, ὡς οἱ \<θυμοὶ καθάπερ οἱ\> κύνες τυφλὰ τίκτουσι τὰ κριτήρια.
+
+     Demetrius of Phaleron said that \<emotions, like\> dogs, give birth to judgments that are blind.
+
+254. Ὁ αὐτὸς εὐχομένους μὲν ἔφη δεῖν αἰτεῖσθαι τὰ μέγιστα τῶν ἀγαθῶν, βουλευομένους δὲ ζητεῖν δυνατά.
+
+     \[Demetrius\] said that those praying should ask for the greatest of goods, but those making plans should seek those that are possible.
+
+255. Ὁ αὐτὸς ἔφη δεῖν τοὺς καλῶς ἀγομένους τῶν νεανίσκων αἰδεῖσθαι ἐν μὲν ταῖς οἰκίαις τοὺς γονεῖς, ἐν δὲ ταῖς ὁδοῖς τοὺς ἀπαντῶντας, ἐν δὲ ταῖς ἐρημίαις ἑαυτούς.
+
+     \[Demetrius\] said that well-raised youths should honor their parents at home, passersby on the road, and themselves in solitude.
+
+256. Ὁ αὐτὸς εἶπε τὸν μὴ δυνάμενον γενναίως ἐνεγκεῖν ἀτυχίαν μὴ δύνασθαι ἐπιδεξίως ἐνεγκεῖν εὐτυχίαν.
+
+     \[Demetrius\] said that he who cannot endure misfortune nobly cannot endure good fortune tactfully.
+
+257. Ὁ αὐτὸς ἔφη μὴ δεῖν ζητεῖν τοὺς ἀνθρώπους εἰ ἐκ μεγάλης πόλεώς εἰσιν, ἀλλ’ εἰ μεγάλης πόλεως ἄξιοι.
+
+     \[Demetrius\] said that one should not consider whether men are from a great city, but if they are worthy of a great city.
+
+258. Ὁ αὐτὸς ἔλεγε τὸ μὲν τὰ κακὰ ἐνεγκεῖν ἀνδραπόδων εἶναι, τὸ δὲ τὰ ἀγαθὰ ἀνδρῶν.
+
+     \[Demetrius\] said that to endure evils is the task of captives, and to endure good things is that of men.
+
+259. Ὁ αὐτὸς ἐρωτηθεὶς τί τῶν ζώων κάλλιστόν ἐστιν εἶπεν· „ἄνθρωπος παιδείᾳ κεκοσμημένος“.
+
+     \[Demetrius\], having been asked what animal is the most beautiful, said, "A human decorated with education."
+
+260. Ὁ αὐτὸς ἐρωτηθεὶς τίς ἄριστος σύμβουλος ἔφη· „ὁ καιρός.“
+
+     \[Demetrius\], having been asked what is the best advisor, said, "The right moment."
+
 261. Διονύσιος ὁ Σικελίας τύραννος ἐκπεσὼν τῆς ἀρχῆς καὶ ἐρωτώμενος ὑπό τινος· „τί ὠφέλησαι ὑπὸ Πλάτωνος;“ εἶπε· „πάλαι μὲν τὸ μετρίως ἄρχειν, νῦν δὲ τὸ μετρίως ζῆν“.
 
      Dionysius the tyrant of Sicily having been driven out of power and asked by someone, "What benefit did you gain from Plato?" said: "Earlier how to rule moderately, but now how to live moderately."
@@ -1145,8 +1181,14 @@
 
      Eratosthenes the Cyrenian said that flourishing in the prime of youth is spring, after the prime is summer and fall, and old age is winter.
 
-292. Eucrates
-293. Eumenes
+292. Εὐκράτης ὁ Κόρυδος δοκοῦντός τινος νεανίσκου παρακεχρῆσθαι τῇ ἡλικίᾳ καὶ πεπλουτηκέναι ἀπὸ τῆς ὥρας „ὁρῶ σε“, φησίν, „ὦ νεανίσκε, ἐκ τῶν ὄπισθεν εἰς τοὔμπροσθεν προβεβηκότα“.
+
+     Eucrates the Lark, when some young man seemed to have misused his age and become wealthy from his looks, said, "I see that you, young man, that you have advanced forward from your behind."
+
+293. Εὐμενὴς ὁ βασιλεὺς τοῖς ἀδελφοῖς ἔλεγε διὰ παντός· „ἐὰν μὲν ὡς βασιλεῖ προσφέρησθέ μοι, ὡς ἀδελφοῖς ὑμῖν χρήσομαι· ἐὰν δὲ ὡς ἀδελφῷ, ἐγὼ ὑμῖν ὡς βασιλεύς“.
+
+     Eumenes the king always said to his brothers, "If you treat me like a king, I will handle you as brothers. But if you treat me like a brother, I will do so as a king."
+
 294. Ἐπίκουρος ὁ φιλόσοφος τὴν οἴησιν ἱερὰν νόσον \[εἶναι\] ἔλεγεν.
 
      Epicurus the philosopher said that opinion is a sacred disease.
