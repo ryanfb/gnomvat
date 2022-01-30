@@ -1004,11 +1004,26 @@
 
      \[Demades\], being shouted at in the assembly, said, "You did not prevent me from speaking but yourselves from hearing."
 
-248. Democrates
-249. \[Democrates\]
-250. \[Democrates\]
-251. \[Democrates\]
-252. \[Democrates\]
+248. Δημοκράτης ὁ Παῤῥησιαστὴς ἐρωτήσαντός \[ποτε αὐτὸν\] Φιλίππου τί ἂν ποιῶν χαρίζοιτο Ἀθηναίοις εἶπεν· „ἀπαγξάμενος.“
+
+     Democrates the Free-Speaker, when Philip asked what sort of thing pleased the Athenians, he said, "Being hanged."
+
+249. Ὁ αὐτὸς πρὸς τοὺς πυκνῶς ἐγκωμιάζοντας Φίλιππον „οὐ παύσεσθε“ εἶπε „θνητοῦ σώματος ἀθάνατοι κόλακες ὄντες;“
+
+     \[Democrates\] said to those repeatedly praising Philip, "Won't you stop being immortal flatterers of a mortal body?"
+
+250. Ὁ αὐτὸς τοὺς πλουσίους καὶ ἀπαιδεύτους παραπλησίους ἔφησεν εἶναι τοῖς κριοῖς τοῖς ἐπιπόκοις, πλὴν ὅτι ἐκείνους μὲν οἱ κουρεῖς, τούτους δὲ οἱ συκοφάνται κείρουσιν.
+
+     \[Democrates\] said that the wealthy and the uneducated resemble wooly rams, except that shearers shear those, while sycophants fleece these. 
+
+251. Ὁ αὐτός ποτε ἀποσταλεὶς παρὰ Ἀθηναίων πρὸς Φίλιππον κατὰ πρεσβείαν μετὰ παῤῥησίας αὐτῷ ὡμίλει· τοῦ δὲ Φιλίππου εἰπόντος· „οὐ φοβῇ, μὴ τὴν κεφαλήν σου προστάξω ἀφελεῖν;“ „οὐ φοβοῦμαι“ εἶπεν· „ἐὰν γὰρ σύ μου ταύτην ἀφέλῃς, ἡ πατρίς μοι αὐτὴν ἀθάνατον ἀναθήσει“. 
+
+     \[Democrates\], having been sent once by the Athenians to Philip on an embassy, associated with him frankly. And when Philip said, "Aren't you afraid that I will issue a command to take off your head?", he said, "I am not afraid, for if you take off this one of mine, my fatherland will set it up as immortal."
+
+252. Ὁ αὐτὸς θεωρῶν τοὺς περὶ Ἀριστογείτονα καὶ Πυθέαν πονηροὺς ἀνθρώπους ὑπὸ τοῦ δήμου προαγομένους „οὐκ αἰσχύνεσθε,“ φησίν, „ὦ Ἀθηναῖοι, καθάπερ οἱ ὄρνιθες τὰ κόπρια εἰς τὸ μέσον ἕλκοντες“;
+
+     \[Democrates\], seeing the immoral men close to Aristogeiton and Pytheas being preferred by the people, said, "Aren't you ashamed, O Athenians, bringing your droppings into the middle like birds?"
+
 253. Demetrius
 254. \[Demetrius\]
 255. \[Demetrius\]
