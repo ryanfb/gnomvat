@@ -1024,14 +1024,38 @@
 
      \[Democrates\], seeing the immoral men close to Aristogeiton and Pytheas being preferred by the people, said, "Aren't you ashamed, O Athenians, bringing your droppings into the middle like birds?"
 
-253. Demetrius
-254. \[Demetrius\]
-255. \[Demetrius\]
-256. \[Demetrius\]
-257. \[Demetrius\]
-258. \[Demetrius\]
-259. \[Demetrius\]
-260. \[Demetrius\]
+253. Δημήτριος ὁ Φαληρεὺς ἔφη, ὡς οἱ \<θυμοὶ καθάπερ οἱ\> κύνες τυφλὰ τίκτουσι τὰ κριτήρια.
+
+     Demetrius of Phaleron said that \<emotions, like\> dogs, give birth to judgments that are blind.
+
+254. Ὁ αὐτὸς εὐχομένους μὲν ἔφη δεῖν αἰτεῖσθαι τὰ μέγιστα τῶν ἀγαθῶν, βουλευομένους δὲ ζητεῖν δυνατά.
+
+     \[Demetrius\] said that those praying should ask for the greatest of goods, but those making plans should seek those that are possible.
+
+255. Ὁ αὐτὸς ἔφη δεῖν τοὺς καλῶς ἀγομένους τῶν νεανίσκων αἰδεῖσθαι ἐν μὲν ταῖς οἰκίαις τοὺς γονεῖς, ἐν δὲ ταῖς ὁδοῖς τοὺς ἀπαντῶντας, ἐν δὲ ταῖς ἐρημίαις ἑαυτούς.
+
+     \[Demetrius\] said that well-raised youths should honor their parents at home, passersby on the road, and themselves in solitude.
+
+256. Ὁ αὐτὸς εἶπε τὸν μὴ δυνάμενον γενναίως ἐνεγκεῖν ἀτυχίαν μὴ δύνασθαι ἐπιδεξίως ἐνεγκεῖν εὐτυχίαν.
+
+     \[Demetrius\] said that he who cannot endure misfortune nobly cannot endure good fortune tactfully.
+
+257. Ὁ αὐτὸς ἔφη μὴ δεῖν ζητεῖν τοὺς ἀνθρώπους εἰ ἐκ μεγάλης πόλεώς εἰσιν, ἀλλ’ εἰ μεγάλης πόλεως ἄξιοι.
+
+     \[Demetrius\] said that one should not consider whether men are from a great city, but if they are worthy of a great city.
+
+258. Ὁ αὐτὸς ἔλεγε τὸ μὲν τὰ κακὰ ἐνεγκεῖν ἀνδραπόδων εἶναι, τὸ δὲ τὰ ἀγαθὰ ἀνδρῶν.
+
+     \[Demetrius\] said that to endure evils is the task of captives, and to endure good things is that of men.
+
+259. Ὁ αὐτὸς ἐρωτηθεὶς τί τῶν ζώων κάλλιστόν ἐστιν εἶπεν· „ἄνθρωπος παιδείᾳ κεκοσμημένος“.
+
+     \[Demetrius\], having been asked what animal is the most beautiful, said, "A human decorated with education."
+
+260. Ὁ αὐτὸς ἐρωτηθεὶς τίς ἄριστος σύμβουλος ἔφη· „ὁ καιρός.“
+
+     \[Demetrius\], having been asked what is the best advisor, said, "The right moment."
+
 261. Διονύσιος ὁ Σικελίας τύραννος ἐκπεσὼν τῆς ἀρχῆς καὶ ἐρωτώμενος ὑπό τινος· „τί ὠφέλησαι ὑπὸ Πλάτωνος;“ εἶπε· „πάλαι μὲν τὸ μετρίως ἄρχειν, νῦν δὲ τὸ μετρίως ζῆν“.
 
      Dionysius the tyrant of Sicily having been driven out of power and asked by someone, "What benefit did you gain from Plato?" said: "Earlier how to rule moderately, but now how to live moderately."
