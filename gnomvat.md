@@ -1826,7 +1826,10 @@
 
      Socrates said that the same wrong is done by giving to those who one should not, as by not giving to those who one should.
 
-478. Socrates
+478. Σωκράτης Ἀθηναῖος καταδικασθεὶς ὑπὸ Ἀθηναίων κατακρημνισθῆναι τῆς γυναικὸς Ξανθίππης κλαιούσης καὶ λεγούσης· „ὦ Σώκρατες, ἀδίκως ἀποθνήσκεις“ εἶπε πρὸς αὐτήν· „σὺ οὖν ἐβούλου με δικαίως ἀποθνήσκειν;“
+
+     Socrates the Athenian, when he was sentenced to be thrown off a cliff by the Athenians, and his wife Xanthippe was crying and said: "O Socrates, you're dying unjustly!", he said to her: "So you would want me to die justly?"
+
 479. Σωκράτης τοὺς ἄλλους ἔφησε ζῆν ἵνα ἐσθίωσιν, ἑαυτὸν δὲ ἐσθίειν ἵνα ζῇ.
 
      Socrates said that others live to eat, but that he eats to live.
