@@ -1822,7 +1822,10 @@
 
      Socrates having been asked "Who do you think the wealthiest person is?", said: "The one who suffices with the least: for self-sufficiency is the form of wealth."
 
-477. Socrates
+477. Σωκράτης εἶπε τῆς αὐτῆς ἁμαρτίας εἶναι τὸ διδόναι, οἷς μὴ δεῖ, καὶ τὸ μὴ διδόναι, οἷς δεῖ.
+
+     Socrates said that the same wrong is done by giving to those who one should not, as by not giving to those who one should.
+
 478. Socrates
 479. Σωκράτης τοὺς ἄλλους ἔφησε ζῆν ἵνα ἐσθίωσιν, ἑαυτὸν δὲ ἐσθίειν ἵνα ζῇ.
 
