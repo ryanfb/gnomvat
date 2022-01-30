@@ -1389,7 +1389,10 @@
 
      \[Isocrates\], upon being told that the people were being carried away by the rhetoricians, said: "How amazing, with Corax having discovered rhetoric, if those having learned from him were corvids!"
 
-359. \[Isocrates\]
+359. Ὁ αὐτὸς εἶπε· „ῥήτορα ἐμισθώσω, \<εἰ\> δίκην ἔχεις· καὶ γὰρ ὅταν φίλους ἑστιῶμεν, μαγείρους μισθούμεθα“.
+
+     \[Isocrates\] said: "Hire an orator, \<if\> you have a court case; for whenever we eat with friends, we hire cooks."
+
 360. \[Isocrates\]
 361. Isocrates
 362. \[Isocrates\]
