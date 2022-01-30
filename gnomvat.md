@@ -1895,7 +1895,10 @@
      Socrates said that jealousy is a festering wound to truth.
 
 486. Socrates
-487. Socrates
+487. Σωκράτης εἰπόντος αὐτῷ τινος· „Ἀθηναῖοί σου θάνατον \<κατ\>εψηφίσαντο“ ἔφη· „αὐτῶν δὲ ἡ φύσις.“
+
+     Socrates, when someone told him: "The Athenians have condemned you to death", said: "But that is our nature."
+
 488. Socrates
 489. Σωκράτης ἐρωτηθεὶς εἰ σφαιροειδής ἐστιν ὁ κόσμος ἔφη· „οὐχ ὑπερέκυψα.“
 
