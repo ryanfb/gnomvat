@@ -1181,8 +1181,14 @@
 
      Eratosthenes the Cyrenian said that flourishing in the prime of youth is spring, after the prime is summer and fall, and old age is winter.
 
-292. Eucrates
-293. Eumenes
+292. Εὐκράτης ὁ Κόρυδος δοκοῦντός τινος νεανίσκου παρακεχρῆσθαι τῇ ἡλικίᾳ καὶ πεπλουτηκέναι ἀπὸ τῆς ὥρας „ὁρῶ σε“, φησίν, „ὦ νεανίσκε, ἐκ τῶν ὄπισθεν εἰς τοὔμπροσθεν προβεβηκότα“.
+
+     Eucrates the Lark, when some young man seemed to have misused his age and become wealthy from his looks, said, "I see that you, young man, that you have advanced forward from your behind."
+
+293. Εὐμενὴς ὁ βασιλεὺς τοῖς ἀδελφοῖς ἔλεγε διὰ παντός· „ἐὰν μὲν ὡς βασιλεῖ προσφέρησθέ μοι, ὡς ἀδελφοῖς ὑμῖν χρήσομαι· ἐὰν δὲ ὡς ἀδελφῷ, ἐγὼ ὑμῖν ὡς βασιλεύς“.
+
+     Eumenes the king always said to his brothers, "If you treat me like a king, I will handle you as brothers. But if you treat me like a brother, I will do so as a king."
+
 294. Ἐπίκουρος ὁ φιλόσοφος τὴν οἴησιν ἱερὰν νόσον \[εἶναι\] ἔλεγεν.
 
      Epicurus the philosopher said that opinion is a sacred disease.
