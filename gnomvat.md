@@ -2028,7 +2028,10 @@
 
      \[Stratonicus\] said: "Old age and poverty are two wounds which are difficult to cure."
 
-533. Sosigenes
+533. Σωσιγένης χαλεπώτερον εἶπε τοῦ κατηγορεῖν τὸ ἀπολογεῖσθαι· „τὸν μὲν γὰρ κατηγοροῦντα μόνον δεῖ πεῖσαι, τὸν δὲ ἀπολογούμενον καὶ μεταπεῖσαι“.
+
+     Sosigenes said that it was more difficult to defend a charge than to accuse: "For in accusing it's only necessary to persuade, but in defending a charge it's also necessary to change that persuasion."
+
 534. Σκύθης ἀνὴρ γυμνὸς ὑπαντήσας τινὶ ψύχους ὄντος ἰσχυροῦ ἐρωτηθεὶς εἰ ῥιγοῖ ἔφη· „οὔ“. τοῦ δὲ θαυμάσαντος ἀντηρώτησεν ὁ Σκύθης εἰ ἐκεῖνος τὸ μέτωπον ῥιγοῖ· ἀρνησαμένου δὲ αὐτοῦ εἶπεν· „ἐγὼ τοίνυν ὅλος εἰμὶ μέτωπον.“
 
      Scythes having encountered a naked man when it was bitterly cold asked if he might shiver, he said: "No." So being amazed Scythes asked him in return if his forehead might shiver; but he  answered no and said: "Thus I am all forehead."
