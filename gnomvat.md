@@ -2014,8 +2014,14 @@
 528. \[Stratonicus\]
 529. \[Stratonicus\]
 530. \[Stratonicus\]
-531. \[Stratonicus\]
-532. \[Stratonicus\]
+531. Ὁ αὐτὸς ἐν βαλανείῳ κλέπτου τινὸς τρίβοντος αὐτὸν καὶ λέγοντος ὡς ψυχρὸν ἔχει τὸ σῶμα „σὺ μὲν οὖν“ ἔφη „θερμὰς τὰς χεῖρας.“
+
+     \[Stratonicus\], when a cheat was massaging him in the bathhouse and saying how cold his body was, said: "Well, you have hot hands."
+
+532. Ὁ αὐτὸς ἔφη· „γῆρας καὶ πενία δύο τραύματα δυσθεράπευτα.“
+
+     \[Stratonicus\] said: "Old age and poverty are two wounds which are difficult to cure."
+
 533. Sosigenes
 534. Σκύθης ἀνὴρ γυμνὸς ὑπαντήσας τινὶ ψύχους ὄντος ἰσχυροῦ ἐρωτηθεὶς εἰ ῥιγοῖ ἔφη· „οὔ“. τοῦ δὲ θαυμάσαντος ἀντηρώτησεν ὁ Σκύθης εἰ ἐκεῖνος τὸ μέτωπον ῥιγοῖ· ἀρνησαμένου δὲ αὐτοῦ εἶπεν· „ἐγὼ τοίνυν ὅλος εἰμὶ μέτωπον.“
 
