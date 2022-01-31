@@ -2013,7 +2013,10 @@
 527. \[Stratonicus\]
 528. \[Stratonicus\]
 529. \[Stratonicus\]
-530. \[Stratonicus\]
+530. Ὁ αὐτὸς εἰς Ἰταλίαν ἐλθὼν καὶ φαῦλον πιὼν οἶνον θεασάμενος τὴν ἄμπελον ἐκ τῶν φυτῶν εἰς ὕψος ἀνηρτημένην „δικαίως“ ἔφη „κρέμαται τοιοῦτον οἶνον φέρουσα.“
+
+     \[Stratonicus\] having gone to Italy and seeing someone drinking bad wine, hung the grape-vine at a height outside of the plants, and said: "This sort of wine is rightly hung."
+
 531. Ὁ αὐτὸς ἐν βαλανείῳ κλέπτου τινὸς τρίβοντος αὐτὸν καὶ λέγοντος ὡς ψυχρὸν ἔχει τὸ σῶμα „σὺ μὲν οὖν“ ἔφη „θερμὰς τὰς χεῖρας.“
 
      \[Stratonicus\], when a cheat was massaging him in the bathhouse and saying how cold his body was, said: "Well, you have hot hands."
