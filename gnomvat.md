@@ -2034,7 +2034,7 @@
 
 534. Σκύθης ἀνὴρ γυμνὸς ὑπαντήσας τινὶ ψύχους ὄντος ἰσχυροῦ ἐρωτηθεὶς εἰ ῥιγοῖ ἔφη· „οὔ“. τοῦ δὲ θαυμάσαντος ἀντηρώτησεν ὁ Σκύθης εἰ ἐκεῖνος τὸ μέτωπον ῥιγοῖ· ἀρνησαμένου δὲ αὐτοῦ εἶπεν· „ἐγὼ τοίνυν ὅλος εἰμὶ μέτωπον.“
 
-     Scythes having encountered a naked man when it was bitterly cold asked if he might shiver, he said: "No." So being amazed Scythes asked him in return if his forehead might shiver; but he  answered no and said: "Thus I am all forehead."
+     Scythes having encountered a naked man when it was bitterly cold asked if he might shiver, he said: "No." So being amazed Scythes asked him in return if his forehead might shiver; but he answered no and said: "Thus I am all forehead."
 
 535. Τίμων ὁ μισάνθρωπος καταληφθείς ποτε εἰς ἐρημίαν καὶ τοῦ καταλαβόντος αὐτὸν εἰπόντος· „ὦ Τίμων, ὡς ἡδὺ \<ἡ\> ἐρημία!“ εἶπεν· „εἰ μὴ σύγε παρῆς.“ 
 
