@@ -2040,7 +2040,10 @@
 
      Timon the misanthrope, when he had escaped to solitude and someone caught up to him saying, "O Timon, how sweet \<the\> solitude!", said: "If only you weren't here."
 
-536. \[Timon\]
+536. Ὁ αὐτὸς στοιχεῖα δύο ἔφη τῶν κακῶν εἶναι· „ἀπληστίαν καὶ φιλοδοξίαν.“
+
+     \[Timon\] said there are two components of evil: "Greed and a desire for fame."
+
 537. Timotheus
 538. Hyperides
 539. Philippus
