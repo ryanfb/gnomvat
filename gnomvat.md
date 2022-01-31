@@ -1461,7 +1461,7 @@
 
      \[Theocritus\], when he saw an astrologer stumbling, said, "How, when you see the things in the heaven, do you not see the things on earth"
 
-350. Ὁ αὐτὸς λάχανα πλύνων [καὶ] τινὸς αὐτοῦ πυνθανομένου μή τινα δανειστὴν γινώσκει εἶπεν· „πῶς φῄς; ὅ τι τοιούτῳ βίῳ ἀρκοῦμαι“;
+350. Ὁ αὐτὸς λάχανα πλύνων \[καὶ\] τινὸς αὐτοῦ πυνθανομένου μή τινα δανειστὴν γινώσκει εἶπεν· „πῶς φῄς; ὅ τι τοιούτῳ βίῳ ἀρκοῦμαι“;
 
      When \[Theocritus\] was washing vegetables, when someone asked him if he knew a certain money-lender, he said, "What are you talking about? Because I am content with such a life?"
 
