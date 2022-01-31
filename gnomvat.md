@@ -2036,7 +2036,10 @@
 
      Scythes having encountered a naked man when it was bitterly cold asked if he might shiver, he said: "No." So being amazed Scythes asked him in return if his forehead might shiver; but he  answered no and said: "Thus I am all forehead."
 
-535. Timon
+535. Τίμων ὁ μισάνθρωπος καταληφθείς ποτε εἰς ἐρημίαν καὶ τοῦ καταλαβόντος αὐτὸν εἰπόντος· „ὦ Τίμων, ὡς ἡδὺ \<ἡ\> ἐρημία!“ εἶπεν· „εἰ μὴ σύγε παρῆς.“ 
+
+     Timon the misanthrope, when he had escaped to solitude and someone caught up to him saying, "O Timon, how sweet \<the\> solitude!", said: "If only you weren't here."
+
 536. \[Timon\]
 537. Timotheus
 538. Hyperides
