@@ -2044,7 +2044,10 @@
 
      \[Timon\] said there are two components of evil: "Greed and a desire for fame."
 
-537. Timotheus
+537. Τιμόθεος ἔφη· „ὥσπερ τοῖς νοσοῦσιν οἱ ἰατροὶ σωτῆρές εἰσιν, οὕτω καὶ τοῖς ἀδικουμένοις οἱ νόμοι.“
+
+     Timotheus said: "Just as doctors are saviors of the sick, thus also laws are saviors of the wronged."
+
 538. Hyperides
 539. Philippus
 540. \[Philippus\]
