@@ -2048,7 +2048,10 @@
 
      Timotheus said: "Just as doctors are saviors of the sick, thus also laws are saviors of the wronged."
 
-538. Hyperides
+538. Ὑπερίδης ἔφη δεῖν τὸν ἀγαθὸν ἐπιδείκνυσθαι ἐν μὲν τοῖς λόγοις, ἃ φρονεῖ, ἐν δὲ τοῖς ἔργοις, ἃ ποιεῖ.
+
+     Hyperides said that it was necessary for the virtuous to show by words, that which they think, but by works, that which they do.
+
 539. Philippus
 540. \[Philippus\]
 541. \[Philippus\]
