@@ -1469,7 +1469,10 @@
 
      \[Theocritus\], when he was asked by someone why Demeter holds a torch, said, "Because all nourishment is achieved through fire."
 
-352. Theodorus. BL: 4 ἐπαγγελλόμενος;“ 
+352. Θεόδωρος ὁ Κυρηναῖος παῤῥησιαζόμενός ποτε πρὸς Λυσίμαχον τὸν βασιλέα κἀκείνου αὐτῷ ἀπειλοῦντος ἀναίρεσιν εἶπεν· „οὐκ αἰσχύνῃ, ὦ Λυσίμαχε, τοῖς \[μὲν\] δικαίοις, μὴ δυνάμενος νικῆσαι, τηλικοῦτος \[δὲ\] βασιλεὺς κανθαρίδος ἔργον ἐπαγγελλόμενος;“
+
+     Theodorus the Cyrenean, when he was speaking freely to Lysimachus the king, who then thretened him with death, said: "Aren't you ashamed, Lysimachus, that unable to be victorious over the just, so great a king instead orders the work of a poison beetle?"
+
 353. Theodectes
 354. \[Theodectes\]
 355. Isocrates
