@@ -2011,7 +2011,10 @@
 525. \[Stratonicus\]
 526. \[Stratonicus\]
 527. \[Stratonicus\]
-528. \[Stratonicus\]
+528. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος· „τίνα λειοτάτην ὁδὸν ἐπίστασαι;“ ἔφη· „τὴν \<εἰς\> Ἅιδου· ἐν ταύτῃ γὰρ καὶ μύοντες οὐ προσκόπτουσιν.“
+
+     \[Stratonicus\] having been asked by someone "What road do you think is smoothest?", said: "The one \<into\> Hades; for in this one even those with their eyes shut do not stumble."
+
 529. \[Stratonicus\]
 530. Ὁ αὐτὸς εἰς Ἰταλίαν ἐλθὼν καὶ φαῦλον πιὼν οἶνον θεασάμενος τὴν ἄμπελον ἐκ τῶν φυτῶν εἰς ὕψος ἀνηρτημένην „δικαίως“ ἔφη „κρέμαται τοιοῦτον οἶνον φέρουσα.“
 
