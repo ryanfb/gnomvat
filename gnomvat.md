@@ -1894,7 +1894,10 @@
 
      Socrates was asked \<by someone\> how it might be possible to have a discussion without error, and he said: "If you never speak, about that which you do not securely know."
 
-483. Socrates
+483. Σωκράτης ἀκαίρως τινὸς ἀδολεσχοῦντος „κρεῖττον“ ἔφησε „τῷ ποδὶ διολισθαίνειν ἢ τῇ γλώττῃ· τὸ μὲν γὰρ ἱματίῳ μολύσματα παρέχει, τὸ δὲ αὐτῷ \<ἀνθρώπῳ\> πολλάκις εἰς ἅπαντα τὸν χρόνον κηλῖδα \<περιάπτει\>· καὶ τὸ μὲν ἰατρὸν ἔχει τὸ ὕδωρ, τὸ δὲ ῥητὸν οὐκέτι ἄῤῥητον δύναται γενέσθαι.“
+
+     Socrates, when someone was prattling on unreasonably, said: "It's better to slip with the foot than the tongue; for one puts dirt on clothing, but the other often \<ties\> the same \<person\> to a stain for all time; and water holds the cure for one, but what is spoken can never be unspoken."
+
 484. \<Σ\>ωκράτης ἰδὼν πλούσιον ἀπαίδευτον „ἰδού,“ φησί, „τὸ χρυσοῦν πρόβατον.“ 
 
      Socrates seeing a wealthy uneducated person, said: "Behold! The golden sheep."
