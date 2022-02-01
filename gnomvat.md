@@ -1882,7 +1882,10 @@
 
      Socrates said that others live to eat, but that he eats to live.
 
-480. Socrates
+480. Σωκράτης ἔφη· „καλόν ἐστι συζῆν γυναικὶ θυμώδει χάριν ἀσκήσεως· καὶ γὰρ τοὺς ἱππέας ἐθίζεσθαι \<δεῖ\> τραχέσιν ἵπποις κεχρῆσθαι· τούτων γὰρ κρατήσαντες καὶ τῶν ἄλλων ῥᾳδίως κρατήσουσιν.“
+
+     Socrates said: "It's good to live with a woman with a fierce demeanor; for it is also \<necessary\> for equestrians to accustom themselves to difficult horses, since if they can control these they can easily control the others as well."
+
 481. Socrates
 482. Σωκράτης ἠρωτήθη \<ὑπό τινος\> πῶς ἂν δύναιτο ἀναμαρτήτως διαλέγεσθαι καὶ εἶπεν· „εἰ μηδὲν λέγοις, ὧν μὴ σαφῶς οἶσθα.“
 
