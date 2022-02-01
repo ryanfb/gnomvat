@@ -1886,7 +1886,10 @@
 
      Socrates said: "It's good to live with a woman with a fierce demeanor; for it is also \<necessary\> for equestrians to accustom themselves to difficult horses, since if they can control these they can easily control the others as well."
 
-481. Socrates
+481. Σωκράτει παρακολουθοῦντός τινος, ἅμα δὲ καὶ λοιδοροῦντος τῶν συνόντων \<τις\> „τί σοι“ ἔφη „λοιδορεῖται οὗτος;“ \<ὁ δὲ\> „οὐκ ἐμοί“, ἔφη, „ἀλλ’ ᾧ ταῦτα πρόσεστιν.“
+
+     When someone was following him and insulting Socrates, \<someone\> present said: "Why does he insult you?", \<and Socrates\> said: "Not me, but those present."
+
 482. Σωκράτης ἠρωτήθη \<ὑπό τινος\> πῶς ἂν δύναιτο ἀναμαρτήτως διαλέγεσθαι καὶ εἶπεν· „εἰ μηδὲν λέγοις, ὧν μὴ σαφῶς οἶσθα.“
 
      Socrates was asked \<by someone\> how it might be possible to have a discussion without error, and he said: "If you never speak, about that which you do not securely know."
