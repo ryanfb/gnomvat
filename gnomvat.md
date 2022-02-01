@@ -1602,7 +1602,7 @@
 410. \[Metrodorus\]
 411. Νικοκλῆς κακοῦ τινος ἰατροῦ λέγοντος ὅτι μεγάλην ἔχει δύναμιν ἔφη· „πῶς γὰρ οὐ μέλλεις λέγειν, ὃς τοσούτους ἀνῃρηκὼς ἀνεύθυνος γέγονας;“
 
-     Nicocles, when a bad doctor was saying that they had a lot of power, said: "Surely you mean to say, that having buried so many you've become innocent?"
+     Nicocles, when a bad doctor was saying that they had a lot of power, said: "Surely you don't mean to say, that having buried so many you've become innocent?"
 
 412. Ὁ αὐτὸς τοὺς ἰατροὺς εὐτυχεῖς ἔλεγεν, ὅτι τὰς μὲν ἐπιτυχίας αὐτῶν ὁ ἥλιος ὁρᾷ, τὰς δὲ ἀποτυχίας ἡ γῆ καλύπτει.
 
