@@ -1922,7 +1922,10 @@
 
      Socrates having been asked if the cosmos is spherical, said: "I haven't commanded a view of it."
 
-490. \[Socrates\]
+490. Ὁ αὐτὸς πάντα τὰ πράγματα ἔφη εἶναι τῶν δυναμένων αὐτοῖς χρῆσθαι.
+
+     \[Socrates\] said that all things belong to those who are able to use them.
+
 491. \[Socrates\]
 492. \[Socrates\]
 493. \[Socrates\]
