@@ -1930,7 +1930,10 @@
 
      \[Socrates\] was being upbraided by his wife Xanthippe, who then poured water out of a high window, which landed on Socrates, and he said: "I knew that a thundering Xanthippe would also rain."
 
-492. \[Socrates\]
+492. Ὁ αὐτὸς ἰδών τινα πᾶσιν ἑξῆς προχείρως χαριζόμενον καὶ ὑπηρετοῦντα „κακὸς κακῶς“ εἶπεν „ἀπόλοιο, ὅτι τὰς Χάριτας παρθένους οὔσας πόρνας ἐποίησας.“
+
+     \[Socrates\] seeing someone hastily granting favors and serving everyone one after another, said: "May you die brutally you brute, that you've made the maiden Graces be prostitutes!"
+
 493. \[Socrates\]
 494. \[Socrates\]
 495. \[Socrates\]
