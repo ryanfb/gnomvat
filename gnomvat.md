@@ -1906,7 +1906,10 @@
 
      Socrates said that jealousy is a festering wound to truth.
 
-486. Socrates
+486. Σωκράτης πολλὰ τῶν φίλων αὐτῷ πεμπόντων, ἐπεὶ μηδὲν δραξάμενος ὑπὸ Ξανθίππης τῆς γυναικὸς ηὐθύνετο, ἔφη· „βλέπε· ἂν τὰ διδόμενα ἑτοίμως λαμβάνωμεν, οὐδὲ αἰτοῦντες τοὺς δώσοντας ἕξομεν.“
+
+     Socrates, when his friends were sending him lots of things, but since he never accepted them he was criticized by his wife Xanthippe, and he said: "Look, if we readily took what is given, we'd never have need of being given things."
+
 487. Σωκράτης εἰπόντος αὐτῷ τινος· „Ἀθηναῖοί σου θάνατον \<κατ\>εψηφίσαντο“ ἔφη· „αὐτῶν δὲ ἡ φύσις.“
 
      Socrates, when someone told him: "The Athenians have condemned you to death", said: "But that is our nature."
