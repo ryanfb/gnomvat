@@ -1926,7 +1926,10 @@
 
      \[Socrates\] said that all things belong to those who are able to use them.
 
-491. \[Socrates\]
+491. Ὁ αὐτὸς διαλοιδορουμένης αὐτῷ ποτε Ξανθίππης τῆς γυναικός, ἔπειτα ἐκ μετεώρου ἐκχεάσης διὰ θυρίδος ὕδωρ, ὃ κατηνέχθη ἐπὶ τὸν Σωκράτην, εἶπεν· „ἐγίνωσκον ὅτι βροντῶσα Ξανθίππη καὶ βρέξει.“
+
+     \[Socrates\] was being upbraided by his wife Xanthippe, who then poured water out of a high window, which landed on Socrates, and he said: "I knew that a thundering Xanthippe would also rain."
+
 492. \[Socrates\]
 493. \[Socrates\]
 494. \[Socrates\]
