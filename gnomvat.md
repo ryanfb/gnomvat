@@ -1914,7 +1914,10 @@
 
      Socrates, when someone told him: "The Athenians have condemned you to death", said: "But that is our nature."
 
-488. Socrates
+488. Σωκράτης ἐν συμποσίῳ τινὶ παρεκχέοντα οἶνον ἐπεί τινες αὐτὸν ἐμέμφοντο ἐπὶ τῷ ἀπολλύναι τὸν οἶνον ἔφησεν· „ἐὰν γὰρ αὐτὸν ἐκπίω, οὐ μόνον αὐτὸς ἀπόλλυται, ἀλλὰ κἀμὲ προσαπόλλυσιν.“
+
+     Socrates poured out a little wine at a certain symposium, and since some criticized him for losing the wine, he said: "If I drank it up, not only would it be lost, but I'd be lost alongside it."
+
 489. Σωκράτης ἐρωτηθεὶς εἰ σφαιροειδής ἐστιν ὁ κόσμος ἔφη· „οὐχ ὑπερέκυψα.“
 
      Socrates having been asked if the cosmos is spherical, said: "I haven't commanded a view of it."
