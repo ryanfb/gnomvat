@@ -1932,7 +1932,7 @@
 
 492. Ὁ αὐτὸς ἰδών τινα πᾶσιν ἑξῆς προχείρως χαριζόμενον καὶ ὑπηρετοῦντα „κακὸς κακῶς“ εἶπεν „ἀπόλοιο, ὅτι τὰς Χάριτας παρθένους οὔσας πόρνας ἐποίησας.“
 
-     \[Socrates\] seeing someone hastily granting favors and serving everyone one after another, said: "May you die wretchedly you wretch, that you've made the maiden Graces be prostitutes!"
+     \[Socrates\] seeing someone hastily granting favors and serving everyone one after another, said: "May you die wretchedly you wretch, that you've made the pure Graces be prostitutes!"
 
 493. \[Socrates\]
 494. \[Socrates\]
