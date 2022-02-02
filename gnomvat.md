@@ -860,7 +860,7 @@
 
      \[Demosthenes\] said that the laws are the sinews of a democracy.
 
-212. <Ὁ> αὐτὸς ἐρωτηθεὶς ὑπό τινος τί μάλιστα \<παρ’\> ἀνθρώποις γηράσκει εἶπε· „χάρις“.
+212. \<Ὁ\> αὐτὸς ἐρωτηθεὶς ὑπό τινος τί μάλιστα \<παρ’\> ἀνθρώποις γηράσκει εἶπε· „χάρις“.
 
      \[Demosthenes\], having been asked by someone what most grows old \<among\> men, said, "A favor."
  
