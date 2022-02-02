@@ -1938,7 +1938,10 @@
 
      \[Socrates\] once saw a lavishly-dressed Aristippus about to sit down on a seat which he had dirtied; and when Aristippus was safely seated he said: "I see that you have the robe, and that you are not had by it."
 
-494. \[Socrates\]
+494. Ὁ αὐτὸς θεασάμενός τινα ἐν λίμνῃ κολυμβῶντα καὶ σπουδάζοντα ὑπὸ τῶν ἀνθρώπων ἐπαινεῖσθαι θαυμάζειν ἔφη, εἰ οὐκ αἰσχύνεται τὸ μὲν τοῦ δελφῖνος ἔργον εὖ ποιῶν, τὸ δὲ τοῦ ἀνθρώπου οὐ δυνάμενος.
+
+     \[Socrates\] once saw someone swimming in a pool eager to be praised by people for it, and he said he was amazed, if they weren't ashamed to be doing a dolphin's work well, while they were unable to do the work of a human.
+
 495. \[Socrates\]
 496. Socrates
 497. \[Socrates\]
