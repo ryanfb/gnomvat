@@ -1934,7 +1934,10 @@
 
      \[Socrates\] seeing someone hastily granting favors and serving everyone one after another, said: "May you die wretchedly you wretch, that you've made the pure Graces be prostitutes!"
 
-493. \[Socrates\]
+493. Ὁ αὐτὸς θεασάμενος Ἀρίστιππον ἠμφιεσμένον πολυτελῶς ἐμόλυνεν τὴν καθέδραν, ἐφ’ ἣν καθίζειν ἔμελλεν· τοῦ δὲ Ἀριστίππου κατὰ τὸ ἀσφαλὲς καθίσαντος εἶπε· „νενόηκα ὅτι ἔχεις τὸ ἱμάτιον, καὶ οὐκ ἔχῃ ὑπ’ αὐτοῦ.“
+
+     \[Socrates\] once saw a lavishly-dressed Aristippus about to sit down on a seat which he had dirtied; and when Aristippus was safely seated he said: "I see that you have the robe, and that you are not had by it."
+
 494. \[Socrates\]
 495. \[Socrates\]
 496. Socrates
