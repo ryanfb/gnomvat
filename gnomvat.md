@@ -1950,7 +1950,10 @@
 
      Socrates was asked how he thought king Archelaus held himself with respect to happiness, and he said he didn't know: "For I don't know how he holds himself with respect to education."
 
-497. \[Socrates\]
+497. Ὁ αὐτὸς εἶπεν· „εἰ \[ἐν\] τῷ πλουτεῖν τὸ χαίρειν συνῆν, πολλοῦ ἂν ἦν ἄξιον· νῦν δὲ ταῦτα χωρίζεται· ὁ γοῦν Μενέλαος παρὰ τῷ ποιητῇ φησιν· ὣς οὔτοι χαίρων τοῖσδε κτεάτεσσιν ἀνάσσω.“
+
+     \[Socrates\] said: "If happiness resided \[in\] being rich, it would be extremely worthwhile; but for now these things are distinct. Indeed as the poet's Menelaus says: 'I take no joy in ruling these riches.'"
+
 498. \[Socrates\]
 499. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί συντάγματα οὐ γράφει ἔφη· „ὅτι τὰ ἄγραφα τῶν γεγραμμένων ὁρῶ πλείονος πωλούμενα.“ 
 
