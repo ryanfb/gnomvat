@@ -1946,7 +1946,10 @@
 
      \[Socrates\] was being invited to Macedonia by Archelaus with impressive gifts, and he requested a message to be sent back, that as long as three coppers bought a day's worth of meal and the nearby well was flowing, Socrates would not come to Macedonia.
 
-496. Socrates
+496. Σωκράτης ἐρωτηθεὶς πῶς ἔχειν αὐτῷ δοκεῖ πρὸς εὐδαιμονίαν ὁ βασιλεὺς Ἀρχέλαος ἀγνοεῖν ἔφη· „τὸ γὰρ πῶς πρὸς παιδείαν ἔχει ἀγνοῶ.“
+
+     Socrates was asked how he thought king Archelaus held himself with respect to happiness, and he said he didn't know: "For I don't know how he holds himself with respect to education."
+
 497. \[Socrates\]
 498. \[Socrates\]
 499. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί συντάγματα οὐ γράφει ἔφη· „ὅτι τὰ ἄγραφα τῶν γεγραμμένων ὁρῶ πλείονος πωλούμενα.“ 
