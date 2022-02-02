@@ -1954,7 +1954,10 @@
 
      \[Socrates\] said: "If happiness resided \[in\] being rich, it would be extremely worthwhile; but for now these things are distinct. Indeed as the poet's Menelaus says: 'I take no joy in ruling these riches.'"
 
-498. \[Socrates\]
+498. Ὁ αὐτὸς καταμαθών τινα τῶν νέων περὶ τῆς κυνηγεσίας σφόδρα ἐσπουδακότα, τῶν δὲ λοιπῶν ὀλιγωροῦντα „πόσου“, ἔφη, „ὦ νεανίσκε, ἔστι κυνηγὸν ἀγαθὸν ὠνήσασθαι;“ τοῦ δὲ εἰπόντος ὅτι „χιλίων δραχμῶν“ „ἴσθι τοίνυν“ εἶπε „μὴ πλείονος ἄξιος ἐσόμενος, ἐάν σοι τὰ κατὰ πρόθεσιν \<καλῶς\> ἀποβαίνῃ.“
+
+     \[Socrates\], having learned that one of the youths was very eager for hunting, but neglected everything else, said: "Hey kid, what's a good hunter cost?", and he answered that it was "a thousand drachmae", so \[Socrates\] said: "Now see that you won't be worth more than this, if your plan works out \<well\>."
+
 499. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί συντάγματα οὐ γράφει ἔφη· „ὅτι τὰ ἄγραφα τῶν γεγραμμένων ὁρῶ πλείονος πωλούμενα.“ 
 
      \[Socrates\] having been asked why he didn't write down his works, said: "Since I see the blank sheets selling for more than those that have been written on."
