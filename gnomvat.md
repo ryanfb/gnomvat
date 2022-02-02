@@ -1942,7 +1942,10 @@
 
      \[Socrates\] once saw someone swimming in a pool eager to be praised by people for it, and he said he was amazed, if they weren't ashamed to be doing a dolphin's work well, while they were unable to do the work of a human.
 
-495. \[Socrates\]
+495. Ὁ αὐτὸς καλούμενος ὑπ’ Ἀρχελάου εἰς Μακεδονίαν ἐπὶ μεγάλαις δωρεαῖς ἀπαγγελθῆναι ἐκέλευσεν αὐτῷ ὅτι, ἕως ἂν τριῶν χαλκῶν ἡ χοῖνιξ τῶν ἀλφίτων πωλῆται καὶ ἡ ἐκ γειτόνων κρήνη ῥέῃ, οὐκ ἀφίξεται Σωκράτης εἰς Μακεδονίαν.
+
+     \[Socrates\] was being invited to Macedonia by Archelaus with impressive gifts, and he requested a message to be sent back, that as long as three coppers bought a day's worth of meal and the nearby well was flowing, Socrates would not come to Macedonia.
+
 496. Socrates
 497. \[Socrates\]
 498. \[Socrates\]
