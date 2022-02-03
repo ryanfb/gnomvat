@@ -2067,7 +2067,10 @@
 
      \[Stratonicus\] seeing a bad doctor who others compared to a veterinarian, said: "One of them says this now; but 'you go kill the people, I'll stay here and watch the horses.'" (Iliad 10.481)
 
-525. \[Stratonicus\]
+525. Ὁ αὐτὸς εἰσελθὼν εἰς οἰκίαν ἀφυοῦς ποιητοῦ καὶ θεασάμενος τὰ ποιήματα αὐτοῦ ἐν τοῖς τοίχοις γεγραμμένα εἶπε· „τῶν μὲν λοιπῶν τὰ κακὰ σκέπουσιν οἱ τοῖχοι, τὰ δὲ σὰ ἐκφαίνουσιν.“
+
+     \[Stratonicus\] went into the home of a dull poet and seeing the poet's poems written on the walls, said: "The rest of the walls protect from evil, but these walls reveal you."
+
 526. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί Θηβαῖοι πολλὰ ἐσθίουσιν εἶπεν· „ὅτι ἐξ ὀδόντων γεγένηνται.“
 
      \[Stratonicus\], asked why Thebans ate so much, said: "Because they came from teeth."
