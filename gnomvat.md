@@ -2050,7 +2050,7 @@
 
 520. Ὁ αὐτὸς ἐπιδεικνύμενός ποτε παρὰ Βοιωτοῖς \[καὶ\] ἐξιόντος ἐκ τοῦ θεάτρου φαλακροῦ εἶπε· „σὺ μὲν ἔξιθι· οἱ δ’ ἄλλοι μενέουσι κάρη κομόωντες Ἀχαιοί.“
 
-      \[Stratonicus\] was watching a show with some Boeotians \[and\] when a bald one left the theater, he said: "You, go; 'but the rest of the flowing-haired Achaeans will remain here.'"
+      \[Stratonicus\] was putting on a show for some Boeotians \[and\] when a bald one left the theater, he said: "You, go; 'but the rest of the flowing-haired Achaeans will remain here.'"
 
 521. \[Stratonicus\]
 522. \[Stratonicus\]
