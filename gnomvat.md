@@ -2054,7 +2054,7 @@
 
 521. Ὁ αὐτὸς διατρίψας παρὰ Διονυσίῳ τῷ τυράννῳ καὶ κληθεὶς ἐπὶ δεῖπνον, φαύλου ὄντος τοῦ οἴνου καὶ δοκοῦντος παρ’ αὐτοῖς χρηστοτάτου, ἐδυσχέραινε· τοῦ δὲ Διονυσίου ἀκούσαντος καὶ εἰπόντος· „ἀλλὰ μὲν ἐκ Πέτρας αὐτὸν μετεπεμψάμην“ „κἀγὼ“ φησὶν „διηπόρουν, εἰ ἐξ ἀμπέλου ἐστίν.“
 
-     \[Stratonicus\] was spending time with Dionysius the tyrant and was summoned to dinner, where the wine was bad but considered their best, disgusting him; Dionysius heard this and said: "But I got it from Petra!", and \[Stratonicus\] said "Me, I was completely in doubt, if it even came from a vineyard."
+     \[Stratonicus\] was spending time with Dionysius the tyrant and was summoned to dinner, where the wine was bad but considered their best, disgusting him; Dionysius heard this and said: "But I got it from Petra!", and \[Stratonicus\] said: "Me, I was completely in doubt, if it even came from a vineyard."
 
 522. \[Stratonicus\]
 523. \[Stratonicus\]
