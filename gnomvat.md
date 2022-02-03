@@ -2068,7 +2068,10 @@
      \[Stratonicus\] seeing a bad doctor who others compared to a veterinarian, said: "One of them says this now; but 'you go kill the people, I'll stay here and watch the horses.'" (Iliad 10.481)
 
 525. \[Stratonicus\]
-526. \[Stratonicus\]
+526. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί Θηβαῖοι πολλὰ ἐσθίουσιν εἶπεν· „ὅτι ἐξ ὀδόντων γεγένηνται.“
+
+     \[Stratonicus\], asked why Thebans ate so much, said: "Because they came from teeth."
+
 527. \[Stratonicus\]
 528. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος· „τίνα λειοτάτην ὁδὸν ἐπίστασαι;“ ἔφη· „τὴν \<εἰς\> Ἅιδου· ἐν ταύτῃ γὰρ καὶ μύοντες οὐ προσκόπτουσιν.“
 
