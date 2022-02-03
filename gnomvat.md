@@ -2082,7 +2082,7 @@
 
 529.  Ὁ αὐτός, ἐπεὶ ὁ μοιχεύων αὐτοῦ τὴν παλλακίδα εἰσερχομένῳ ἀπήντησεν ἐξιών, καταλαβὼν ἐκείνην ἔτι ἐπὶ κλίνης ἠρώτησεν τί οὕτως ἐστὶ σκυθρωπή· αἰφνιδίως δὲ αὐτῆς εἰπούσης ὅτι πυρετὸς ἔλαβεν αὐτὴν καὶ ἀρτίως ἀφῆκε· „πιστεύω σοι“ ἔφη· „καὶ γὰρ ἐμοὶ ἐκπορευόμενος ὑπήντα.“
 
-      \[Stratonicus\], when he ran into an adulterer leaving his mistress, he caught her still upon the bed and asked why she was so gloomy; so she said that a fever had suddenly siezed her and left immediately; and he said: "I believe you, for it met me going out."
+      \[Stratonicus\], after he ran into an adulterer leaving his mistress, he caught her still upon the bed and asked why she was so gloomy; so she said that a fever had suddenly siezed her and left immediately; and he said: "I believe you, for it met me going out."
 
 530. Ὁ αὐτὸς εἰς Ἰταλίαν ἐλθὼν καὶ φαῦλον πιὼν οἶνον θεασάμενος τὴν ἄμπελον ἐκ τῶν φυτῶν εἰς ὕψος ἀνηρτημένην „δικαίως“ ἔφη „κρέμαται τοιοῦτον οἶνον φέρουσα.“
 
