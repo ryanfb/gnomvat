@@ -1962,8 +1962,7 @@
 
      \[Socrates\] having been asked why he didn't write down his works, said: "Since I see the blank sheets selling for more than those that have been written on."
 
-500. Ὁ αὐτὸς θαυμάσαντός τινος ὅτι λακτισθεὶς ἠνέσχετο ἔφη·
-„εἰ δὲ ὄνος με ἐλάκτισε, δίκην ἂν αὐτῷ ἔλαχον;“
+500. Ὁ αὐτὸς θαυμάσαντός τινος ὅτι λακτισθεὶς ἠνέσχετο ἔφη· „εἰ δὲ ὄνος με ἐλάκτισε, δίκην ἂν αὐτῷ ἔλαχον;“
 
      \[Socrates\], when someone was marveling that he restrained himself after being kicked, sad: "And if a donkey kicks me, should I file a lawsuit?"
 
