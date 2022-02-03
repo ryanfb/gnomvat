@@ -2052,7 +2052,10 @@
 
       \[Stratonicus\] was putting on a show for some Boeotians \[and\] when a bald one left the theater, he said: "You, go; 'but the rest of the flowing-haired Achaeans will remain here.'"
 
-521. \[Stratonicus\]
+521. Ὁ αὐτὸς διατρίψας παρὰ Διονυσίῳ τῷ τυράννῳ καὶ κληθεὶς ἐπὶ δεῖπνον, φαύλου ὄντος τοῦ οἴνου καὶ δοκοῦντος παρ’ αὐτοῖς χρηστοτάτου, ἐδυσχέραινε· τοῦ δὲ Διονυσίου ἀκούσαντος καὶ εἰπόντος· „ἀλλὰ μὲν ἐκ Πέτρας αὐτὸν μετεπεμψάμην“ „κἀγὼ“ φησὶν „διηπόρουν, εἰ ἐξ ἀμπέλου ἐστίν.“
+
+     \[Stratonicus\] was spending time with Dionysius the tyrant and was summoned to dinner, the wine was bad but considered their best, disgusting him; and Dionysius heard this and said: "But I got it from Petra!", and \[Stratonicus\] said "Me, I was completely in doubt, if it even came from a vineyard."
+
 522. \[Stratonicus\]
 523. \[Stratonicus\]
 524. \[Stratonicus\]
