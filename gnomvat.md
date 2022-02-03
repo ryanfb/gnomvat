@@ -2063,7 +2063,10 @@
 
      \[Stratonicus\], when a dull citharode was playing for him and repeatedly asking, what was most pleasing to him, said: "The bit before the start." \[For this, he said, was also the most pleasing to me.\]
 
-524. \[Stratonicus\]
+524. Ὁ αὐτὸς θεασάμενος ἰατρὸν κακὸν καὶ ἱππιατρὸν ἀλλήλοις ὁμιλοῦντας εἶπε· „νῦν τούτων ὁ ἕτερος λέγει· ἀλλὰ σύ γ’ ἄνδρας ἔναιρε· μελήσουσιν δ’ ἐμοὶ ἵπποι.“
+
+     \[Stratonicus\] seeing a bad doctor who others compared to a veterinarian, said: "One of them says this now; but 'you go kill the people, I'll stay here and watch the horses'." (Iliad 10.481)
+
 525. \[Stratonicus\]
 526. \[Stratonicus\]
 527. \[Stratonicus\]
