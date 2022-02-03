@@ -2055,7 +2055,10 @@
 
      \[Stratonicus\] was spending time with Dionysius the tyrant and was summoned to dinner, where the wine was bad but considered their best, disgusting him; Dionysius heard this and said: "But I got it from Petra!", and \[Stratonicus\] said: "Me, I was completely in doubt, if it even came from a vineyard."
 
-522. \[Stratonicus\]
+522. Ὁ αὐτὸς καταπαίζων τῆς Θηβαίων πόλεως ἔφησε· „τίς ἂν προνοηθείη τῆς πόλεως ταύτης, ἐν ᾗ τὰ μὲν λάχανα πωλεῖται ὑπὸ στέγην, τὰ δὲ ἄλφιτα ἐν ὑπαίθρῳ;“
+
+     \[Stratonicus\], mocking the Theban polis, said: "Who would conceive of a polis like this, in which vegetables are sold under a roof, but barley-groats are sold in the open?"
+
 523. Ὁ αὐτὸς κιθαρῳδοῦ ἐπιδειξαμένου αὐτῷ ἀφυοῦς καὶ πολλάκις λέγοντος, τί μάλιστα ἤρεσεν αὐτῷ, ἔφη· „τὰ πρὸ τοῦ προοιμίου·“ \[τοῦτο γάρ, εἶπε, καὶ μάλιστα ἤρεσέν μοι\]. 
 
      \[Stratonicus\], when a dull citharode was playing for him and repeatedly asking, what was most pleasing to him, said: "The bit before the start." \[For this, he said, was also the most pleasing to me.\]
