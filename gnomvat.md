@@ -2057,7 +2057,10 @@
      \[Stratonicus\] was spending time with Dionysius the tyrant and was summoned to dinner, where the wine was bad but considered their best, disgusting him; Dionysius heard this and said: "But I got it from Petra!", and \[Stratonicus\] said: "Me, I was completely in doubt, if it even came from a vineyard."
 
 522. \[Stratonicus\]
-523. \[Stratonicus\]
+523. Ὁ αὐτὸς κιθαρῳδοῦ ἐπιδειξαμένου αὐτῷ ἀφυοῦς καὶ πολλάκις λέγοντος, τί μάλιστα ἤρεσεν αὐτῷ, ἔφη· „τὰ πρὸ τοῦ προοιμίου·“ \[τοῦτο γάρ, εἶπε, καὶ μάλιστα ἤρεσέν μοι\]. 
+
+     \[Stratonicus\], when a dull citharode was playing for him and repeatedly asking, what was most pleasing to him, said: "The bit before the start." \[For this, he said, was also the most pleasing to me.\]
+
 524. \[Stratonicus\]
 525. \[Stratonicus\]
 526. \[Stratonicus\]
