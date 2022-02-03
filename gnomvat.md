@@ -1970,7 +1970,7 @@
 
      Solon the wise man, when someone asked him how wrongs could not happen, said, "If those who are not wronged would be equally vexed as those who are wronged at the wrongs done.
 
-502. Ὁ αὐτὸς ἐπιτιμωμένου τινὸς ὑπ’ αὐτοῦ ἐπὶ τῷ κυβεύειν καὶ λέγοντος περὶ μικροῦ παίζειν „ἀλλὰ τό γε ἔθος“ εἶπεν „οὐ μικρὸν [κακόν].“
+502. Ὁ αὐτὸς ἐπιτιμωμένου τινὸς ὑπ’ αὐτοῦ ἐπὶ τῷ κυβεύειν καὶ λέγοντος περὶ μικροῦ παίζειν „ἀλλὰ τό γε ἔθος“ εἶπεν „οὐ μικρὸν \[κακόν\].“
 
      When someone was rebuked by \[Solon\] for playing at dice and said that he played for a small amount, he said, "But your character, at any rate, is no small thing."
 
