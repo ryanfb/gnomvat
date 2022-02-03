@@ -2065,7 +2065,7 @@
 
 524. Ὁ αὐτὸς θεασάμενος ἰατρὸν κακὸν καὶ ἱππιατρὸν ἀλλήλοις ὁμιλοῦντας εἶπε· „νῦν τούτων ὁ ἕτερος λέγει· ἀλλὰ σύ γ’ ἄνδρας ἔναιρε· μελήσουσιν δ’ ἐμοὶ ἵπποι.“
 
-     \[Stratonicus\] seeing a bad doctor who others compared to a veterinarian, said: "One of them says this now; but 'you go kill the people, I'll stay here and watch the horses'." (Iliad 10.481)
+     \[Stratonicus\] seeing a bad doctor who others compared to a veterinarian, said: "One of them says this now; but 'you go kill the people, I'll stay here and watch the horses.'" (Iliad 10.481)
 
 525. \[Stratonicus\]
 526. \[Stratonicus\]
