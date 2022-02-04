@@ -2075,7 +2075,10 @@
 
      \[Stratonicus\], asked why Thebans ate so much, said: "Because they came from teeth."
 
-527. \[Stratonicus\]
+527. Ὁ αὐτὸς ἀῤῥωστήσας ἐν Κύπρῳ καὶ διατεθεὶς ἐπικινδύνως βοῦν ηὔξατο θύσειν τῇ Ἀφροδίτῃ, ἐὰν σωθῇ· οὐκ ἔχων δὲ παραστῆσαι τὴν θυσίαν πλακοῦντα \<μέγαν\> καθ’ ὑπερβολὴν ἤνεγκεν τῇ θεῷ καὶ τῇ ἱερείᾳ εἶπεν ὅτι τὸ παρὸν ἀπορούμενος ἀξιοῖ τὴν Ἀφροδίτην συγγνώμην ἔχειν αὐτῷ· ἡ δὲ λαβοῦσα τὸν πλακοῦντα ἤρξατο καθ’ ἕνα τῶν βωμῶν αἴρουσα· „τοῦτο μὲν ἀντὶ τοῦ σκέλους ἐμοί, τοῦτο δὲ ἀντὶ τοῦ ὤμου τῷ ῥάντῃ, τοῦτο δὲ ἀντὶ τῆς πλευρᾶς τῷ κλειδοφόρῳ.“ Ὁ δὲ Στρατόνικος λαβὼν τὸ χειρόμακτρον, ᾧ συνεκαλύπτετο ὁ πλακοῦς, „σὺ δέ“, ἔφη, „παιδάριον, ἆρον ἐκ μέσου τοῦτο, μὴ καὶ ἀντὶ τῆς βύρσης ἀπενέγκηται αὐτό τινι τῶν περὶ αὐτήν.“
+
+     \[Stratonicus\] was sick in Cyprus and when the illness became dangerous he prayed that he would sacrifice a cow to Aphrodite, if she saved him; but not having provided the sacrifice he brought a ridiculously \<huge\> cake to the goddess at her temple, saying that with what he had he was at loss as to what to do and hoped to beg for Aphrodite's forgiveness; and the priestess started taking the cake onto the altar—"This against my leg, this against the shoulder of the censer, this against the ribs of the keyholder..." And Stratonicus taking a cloth, which was covering the cake, said: "But you, little one, get out of the middle of this, lest you too get carried away against the skin of those around you."
+
 528. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος· „τίνα λειοτάτην ὁδὸν ἐπίστασαι;“ ἔφη· „τὴν \<εἰς\> Ἅιδου· ἐν ταύτῃ γὰρ καὶ μύοντες οὐ προσκόπτουσιν.“
 
      \[Stratonicus\] having been asked by someone "What road do you think is smoothest?", said: "The one \<into\> Hades; for in this one even those with their eyes shut do not stumble."
