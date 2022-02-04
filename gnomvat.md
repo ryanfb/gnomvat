@@ -1578,13 +1578,34 @@
 
      \[Leonidas\] having been told by someone that the Persians were attacking with so many arrows that they darkened the sun, said: "So we will fight in the shade."
 
-392. Laconian
-393. Laconian
-394. Laconian
-395. Laconian
-396. Laconian
-397. Laconian
-398. Laconian
+392. Λάκων ἀσθενῶς διακείμενος τὸ σῶμα ἐπὶ παράταξιν προῆγεν· λεγόντων δέ τινων αὐτῷ· „ποῦ τοιοῦτος πορεύῃ“; ἔφη· „ὑπὲρ τῆς πατρίδος ἀποθανεῖν“
+
+     A Laconian, although weak in body, advanced into the line of battle. And when some people said to him, "Where are you going such as you are?" he said, "To die for my fatherland."
+
+393. Λάκων παιδαγωγὸς ἐρωτηθεὶς ὑπό τινος τί διδάσκει τοὺς παῖδας εἶπε· „τὰ καλὰ αὐτοῖς ἡδέα φαίνεσθαι“.
+
+     A Laconian instructor, having been asked by someone what he teaches his children, said, "That good things appear pleasant to them."
+
+394. Λάκων ἀνὴρ ἐρωτώμενος διὰ τί οἱ Λακεδαιμόνιοι μικρὰ ἔχουσι τὰ ἐγχειρίδια εἶπεν· „ὅτι ἐγγύθεν τοῖς πολεμίοις μάχονται“.
+
+     A Laconian man, being asked why the Lacedaimonians have small spears, said, "Because they fight their enemies from up close."
+
+395. Λάκων ἀνὴρ πρὸς τὸν εἰπόντα αὐτῷ· „διὰ τί οἱ Λακεδαιμόνιοι τὴν βραχυλογίαν ἀσκοῦσιν;“ εἶπεν· „ὅτι ἔγγιστά ἐστι τοῦ σιωπᾶν“.
+
+     A Laconian man to someone telling him, "Why do the Lacedaimonians practice brevity of speech?" said, "Because it is closest to being silent."
+
+396. Λάκων ἀνὴρ ἐρωτηθεὶς ἐπὶ πόσον αὐτῶν ἡ χώρα διήκει „ἐφ’ ὅσον ἂν“ εἶπε „τὸ δόρυ ἰσχύῃ“.
+
+     A Laconian man, having been asked how far their land extends, said, "As far as a spear has strength."
+
+397. Λάκων ἀνὴρ παραγενόμενος εἴς τινα πόλιν \[καὶ\] δεικνύντος αὐτῷ τινος τῶν ἐγχωρίων ὅτι κάλλιστα τείχη ἔχει „τοιαῦτα“, εἶπεν, „ὥστε τὰς γυναῖκας ἐξ αὐτῶν /<ἂν/> ἀμύνασθαι“.
+
+     A Laconian man, arriving at some city, when one of the locals showed him that it has the most beautiful walls, said, "Of such a kind to ward off women from them."
+
+398. Λάκων ἀνὴρ ἐν παρατάξει κείμενος ἔτι ἔμπνους ἐπιόντος τινὸς τῶν πολεμίων καὶ τοὺς ἔτι ζῶντας ἀποσφάζοντος διακύψας ἠξίωσε κατὰ τὸ στέρνον πληγῆναι ὑπ’ αὐτοῦ αἰσχυνόμενος ὀπισθοπλῆγα τὸν νεκρὸν αὐτοῦ γενέσθαι.
+
+     A Laconian man, lying in the battle line still breathing while one of the enemy approached and was slaughtering those still alive, stooping he decided to be struck by him through his chest, being ashamed to become a back-wounded corpse from him.
+
 399. Lysippus
 400. \[Lysippus\]
 401. Λυκοῦργος ὁ νομοθέτης τὸ μὲν ἀξιόχρεων τῶν ἀνθρώπων ἔφη ἐν τῇ οὐσίᾳ κεῖσθαι, τὸ δὲ ἀξιόπιστον ἐν τοῖς τρόποις.
