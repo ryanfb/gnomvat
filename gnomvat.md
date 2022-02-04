@@ -2164,7 +2164,10 @@
 
      Charbias said that a lion commanding an army of deer was more terrifying than a deer commanding lions.
 
-556. Charbias
+556. Χαβρίας καταλαβὼν \[τινας\] ἐπὶ στρατοπέδου δύο φύλακας καθεύδοντας ἀπέκτεινεν εἰπών· „οἵους κατέλαβον, τοιούτους κατέλιπον.“
+
+     Charbias having found two guards sleeping in the camp, killed them, saying: "If I find people like that, I leave them like this."
+
 557. Charbias
 558. Charbias
 559. \[Charbias\]
