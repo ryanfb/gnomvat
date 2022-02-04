@@ -2168,7 +2168,10 @@
 
      Charbias having found two guards sleeping in the camp, killed them, saying: "If I find people like that, I leave them like this."
 
-557. Charbias
+557. Χαβρίας εἰπόντος αὐτῷ τινος· „ὁ φίλος σε λάθρα λοιδορεῖ“ εἶπε· „μὴ ἔλεγχε αὐτόν, ἵνα μὴ φανερῶς αὐτὸ μέλλῃ ποιεῖν.“
+
+     Charbias having been told by someone: "A friend secretly hates you", said: "Don't expose them, so that they're not forced to do it openly."
+
 558. Charbias
 559. \[Charbias\]
 560. Ψιττακὸς ὁ φιλόσοφος τοὺς ἀγαθοὺς τῶν ἀνθρώπων θεοῦ τι μέρος ἔλεγεν ἔχειν.
