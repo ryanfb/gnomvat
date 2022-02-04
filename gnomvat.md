@@ -2147,7 +2147,10 @@
 560. Psittacus
 561. Psittacus
 562. Orion
-563. Orion
+563. \<Ὡ\>ρίων ἰδὼν νεανίαν φιλοπονοῦντα ἔφη· „κάλλιστον ὄψον τῷ γήρατι ἀρτύεις.“
+
+     Orion, seeing a youth who loved his job, said: "You're preparing a beautiful dish for your old age."
+
 564. Αποφθέγματα γυναικῶν, ἤτοι φρονήματα.
 
      Apothegms of Women, or Their Thoughts
