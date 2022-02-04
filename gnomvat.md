@@ -2160,7 +2160,10 @@
 552. \[Chilon\]
 553. Chilon
 554. \[Chilon\]
-555. Charbias
+555. Χαβρίας ἔλεγε φοβερώτερον εἶναι στρατόπεδον ἐλάφων ἡγουμένου λέοντος ἢ λεόντων ἡγουμένης ἐλάφου.
+
+     Charbias said that a lion commanding an army of deer was more terrifying than a deer commanding lions.
+
 556. Charbias
 557. Charbias
 558. Charbias
