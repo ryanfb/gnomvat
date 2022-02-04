@@ -1606,8 +1606,14 @@
 
      A Laconian man, lying in the battle line still breathing while one of the enemy approached and was slaughtering those still alive, stooping he decided to be struck by him through his chest, being ashamed to become a back-wounded corpse from him.
 
-399. Lysippus
-400. \[Lysippus\]
+399. Λύσιππος ὁ ἀνδριαντοποιὸς ἐρωτηθεὶς ὑπό τινος „διὰ τί δήμῳ, ἀνδριάντα ποιῶν, ὦτα οὐ περιέθηκας“; εἶπε· „δῆμος ἀκοῇ οὔποτε τίθεται, αὐθαδείᾳ δὲ μᾶλλον.“
+
+     Lysippus the sculptor, having been asked by someone, "Why didn't you attach ears when making a statue for the people?" said, "The people are not disposed for listening but rather for willfulness."
+
+400. Ὁ αὐτὸς ἰδὼν ἀνδριάντα κακῶς πεπλασμένον δυσκατηγόρητον ἔφη εἶναι· διὰ γὰρ τὸ πλῆθος τῶν ἁμαρτημάτων ἀπορεῖν, πόθεν ἄρξεται.
+
+     \[Lysippus\], seeing a poorly-made statue, said that it was difficult to accuse. For due to the number of mistakes, he was at a loss where to begin.
+
 401. Λυκοῦργος ὁ νομοθέτης τὸ μὲν ἀξιόχρεων τῶν ἀνθρώπων ἔφη ἐν τῇ οὐσίᾳ κεῖσθαι, τὸ δὲ ἀξιόπιστον ἐν τοῖς τρόποις.
 
      Lycurgus the lawgiver said that the noteworthiness of people is situated in their essence, but trustworthiness in their ways.
