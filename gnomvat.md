@@ -2165,7 +2165,10 @@
 557. Charbias
 558. Charbias
 559. \[Charbias\]
-560. Psittacus
+560. Ψιττακὸς ὁ φιλόσοφος τοὺς ἀγαθοὺς τῶν ἀνθρώπων θεοῦ τι μέρος ἔλεγεν ἔχειν.
+
+     Psittacus the philosopher said that good people have some divine portion.
+
 561. Ψιττακὸς ἔλεγε μὴ φιλήσαντα κρίνειν, ἀλλὰ κρίναντα φιλεῖν, καὶ μισεῖν λόγῳ, ἀλλ’ οὐ πάθει.
 
      Psittacus said not to judge someone while being a friend, but to be a friend while judging them, and to hate with reason, not because of circumstance.
