@@ -2166,7 +2166,10 @@
 558. Charbias
 559. \[Charbias\]
 560. Psittacus
-561. Psittacus
+561. Ψιττακὸς ἔλεγε μὴ φιλήσαντα κρίνειν, ἀλλὰ κρίναντα φιλεῖν, καὶ μισεῖν λόγῳ, ἀλλ’ οὐ πάθει.
+
+     Psittacus said not to judge someone while being a friend, but to be a friend while judging them, and to hate with reason, not because of circumstance.
+
 562. Ὡρίων ὁ φιλόσοφος εἶπεν· „ὅπερ σὺ μισεῖς παρ’ ἑτέρων σοὶ γενέσθαι, τοῦτο εἰς ἑτέρους μὴ ποίει.“
 
      Orion the philosopher said: "Whatever you hate others doing to you, you should not do to others."
