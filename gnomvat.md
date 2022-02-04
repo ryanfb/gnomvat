@@ -2146,7 +2146,10 @@
 559. \[Charbias\]
 560. Psittacus
 561. Psittacus
-562. Orion
+562. Ὡρίων ὁ φιλόσοφος εἶπεν· „ὅπερ σὺ μισεῖς παρ’ ἑτέρων σοὶ γενέσθαι, τοῦτο εἰς ἑτέρους μὴ ποίει.“
+
+     Orion the philosopher said: "Whatever you hate others doing to you, you should not do to others."
+
 563. \<Ὡ\>ρίων ἰδὼν νεανίαν φιλοπονοῦντα ἔφη· „κάλλιστον ὄψον τῷ γήρατι ἀρτύεις.“
 
      Orion, seeing a youth who loved his job, said: "You're preparing a beautiful dish for your old age."
