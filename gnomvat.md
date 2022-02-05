@@ -1477,8 +1477,14 @@
 
      Theodorus the Cyrenean, when he was speaking freely to Lysimachus the king, who then thretened him with death, said: "Aren't you ashamed, Lysimachus, that unable to be victorious over the just, so great a king instead orders the work of a poison beetle?"
 
-353. Theodectes
-354. \[Theodectes\]
+353. Θεοδέκτης ὁ φιλόσοφος Ἀντιπάτρου τοῦ σοφιστοῦ βάθρα μὲν ἔχοντος ἐν τῇ διατριβῇ πλείονα, μαθητὴν δὲ ἕνα Ἀντίβαθρον αὐτὸν ἐκάλει.
+
+     Theodectes the philosopher, when Antipater the sophist had a larger stage for his lecture but one student, called him "Antistager."
+
+354. Ὁ αὐτὸς προδότου τινὸς κακῶς αὐτὸν λέγοντος εἶπεν· „χαίρω ἐχθρός σου γενόμενος· σὺ γὰρ οὐ τοὺς ἐχθρούς, ἀλλὰ τοὺς φίλους κακῶς ποιεῖς“.
+
+     \[Theodectes\], when some traitor was speaking ill of him, said, "I rejoice at becoming your enemy. For you do not harm your enemies but your friends."
+
 355. Isocrates
 356. \[Isocrates\]
 357. \[Isocrates\]. BL: 1 ἔργου
