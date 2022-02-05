@@ -1485,9 +1485,18 @@
 
      \[Theodectes\], when some traitor was speaking ill of him, said, "I rejoice at becoming your enemy. For you do not harm your enemies but your friends."
 
-355. Isocrates
-356. \[Isocrates\]
-357. \[Isocrates\]. BL: 1 ἔργου
+355. Ἰσοκράτης ἔλεγε· „μεγάλους δεῖ λαμβάνειν μισθοὺς \<παρὰ τῶν\> μαθητῶν τοὺς διδασκάλους, παρὰ μὲν τῶν εὐφυῶν, ὅτι πολλὰ μανθάνουσι, παρὰ δὲ τῶν ἀφυῶν, ὅτι πολὺν κόπον παρέχουσιν“.
+
+     Isocrates used to say that, "It is necessary for teachers to take large payments \<from their\> students: from the skilled because they learn much, and from the unskilled because they provide much fatigue."
+
+356. Ὁ αὐτὸς ἐρωτηθεὶς „διὰ τίνα αἰτίαν τοὺς ἄλλους διδάσκων λέγειν αὐτὸς σιωπᾷς“; ἔφη· „καὶ γὰρ ἡ ἀκόνη αὐτὴ μὴ τέμνουσα τὰς μαχαίρας τμητικωτέρας ποιεῖ“.
+
+     \[Isocrates\], having been asked, "Why is it that you stay silent while teaching others to speak?" said, "For the whetstone also, although it does not cut, makes swords more cutting."
+
+357. Ὁ αὐτὸς ἐρωτηθεὶς τί ἐστιν ἔργον ῥήτορος εἶπεν· „τὰ μικρὰ μὲν μεγάλα ποιῆσαι, τὰ δὲ μείζονα μικρὰ τῷ λόγῳ“.
+
+     \[Isocrates\], having been asked what the task of an orator is, said, "To make the small great and the greater small through speech."
+
 358. Ὁ αὐτὸς εἰπόντος τινὸς ὅτι ὁ δῆμος ὑπὸ τῶν ῥητόρων διαρπάζεται ἔφη· „τί θαυμαστόν, εἰ Κόρακος ἐφευρόντος τὴν ῥητορικὴν οἱ ἀπ’ ἐκείνου κόρακές εἰσιν“.
 
      \[Isocrates\], upon being told that the people were being carried away by the rhetoricians, said: "How amazing, with Corax having discovered rhetoric, if those having learned from him were corvids!"
