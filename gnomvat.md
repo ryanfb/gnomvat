@@ -1505,12 +1505,30 @@
 
      \[Isocrates\] said: "Hire an orator, \<if\> you have a court case; for whenever we eat with friends, we hire cooks."
 
-360. \[Isocrates\]
-361. Isocrates
-362. \[Isocrates\]
-363. \[Isocrates\]
-364. \[Isocrates\]
-365. \[Isocrates\]
+360. Ὁ αὐτὸς ἐρωτηθεὶς τί δύναται \<ἡ\> ῥητορικὴ εἶπεν· „ἄνδρ’ ἐπαμύνασθαι, ὅτε τις \<πρότερος\> χαλεπήνῃ“.
+
+     \[Isocrates\], having been asked what the rhetorical art can do, said, "Defend a man whenever some \<earlier\> person treats them harshly.
+
+361. Ἰσοκράτης ἀκρόασιν ποιούμενος εἶπε τριῶν ἐστοχάσθαι· τοὺς συνετοὺς ὠφελῆσαι, τοὺς ἀπείρους διδάξαι, τοὺς φθονεροὺς λυπῆσαι.
+
+     Isocrates, attending a recitation, said to aim at three things: to benefit the intellegent, to teach the inexperienced, to harm the envious.
+
+362. Ὁ αὐτὸς Κλέωνος τοῦ Κυζικηνοῦ φύσει ὄντος λάλου καὶ σχολάζειν βουλομένου διττοὺς ᾔτησε \[τοὺς\] μισθούς, ἕνα μέν, ἵνα λαλεῖν μάθῃ, ἕτερον δέ, ἵνα σιγᾷ.
+
+     \[Isocrates\], since Cleon of Cyzicus was a natural babbler and wished to attend lectures, demanded a doubled payment: one to learn how to babble, and the other to be silent.
+ 
+363. Ὁ αὐτὸς ἔφη δεῖν τὸν ἀγαθὸν ἄνδρα μεμνῆσθαι μὲν τῶν προγεγενημένων, πράττειν δὲ τὰ ἐνεστῶτα, \<περὶ δὲ τῶν μελλόντων ἀσφαλίζεσθαι\>.
+
+     \[Isocrates\] said that a good man should remember what happened in the past, act on the things present, and secure themselves for the future.
+
+364. Ὁ αὐτὸς εἰπόντος τινὸς αὐτῷ ὅτι „ὁ υἱός μου παρὰ σοὶ σχολάσας ἁμαρτάνει“ εἶπε· „ποταπὸς οὖν \<ἂν\> ἐγένετο μὴ σχολάσας“;
+
+     \[Isocrates\], when someone said to him, "My son is doing wrong studying at your side," said, "What would have happened, then, if he had not been studying?"
+
+365. Ὁ αὐτὸς θεασάμενός τινα τῶν μαθητῶν τοῦ μὲν ἀγροῦ ἐπιμελούμενον, τῆς δὲ πράξεως ἀμελοῦντα „ὅρα, ὦ οὗτος“, ἔφη, „μὴ τὸν ἀγρὸν ἐξημερῶσαι βουλόμενος τὴν ψυχὴν ἐξαγριώσῃς“.
+
+     \[Isocrates\], seeing one of his students taking care of his field but neglecting his practice, said, "You there, take care that, while wishing to tame your field, you don't make your mind savage."
+
 366. Ibycus
 367. Callisthenes
 368. \[Callisthenes\]
