@@ -1088,8 +1088,7 @@
 
      Euripides, the poet of tragedies, said that good men must be honored while they are alive but praised when they are dead.
 
-269. Ὁ αὐτὸς ἀγωνιᾶν ἔφησεν εἰς τὰ θέατρα παραγινόμενος οὐχὶ εἰ νικηθήσεται, ἀλλ’ ἵνα μὴ δόξῃ παρὰ τὸ πρότερον ἑαυτοῦ χείρων
-εἰσεληλυθέναι.
+269. Ὁ αὐτὸς ἀγωνιᾶν ἔφησεν εἰς τὰ θέατρα παραγινόμενος οὐχὶ εἰ νικηθήσεται, ἀλλ’ ἵνα μὴ δόξῃ παρὰ τὸ πρότερον ἑαυτοῦ χείρων εἰσεληλυθέναι.
 
      \[Euripides\] said that, when he went into the theater, he was distressed not over whether he would be defeated but rather in order that he might not seem to have entered worse than himself compared to earlier.
  
@@ -1436,8 +1435,7 @@
 
      \[Theocritus\], when the Abderites were deliberating how they would conquer the Thracians, said, "If you elect Charmides the doctor as general, you will command the one who is now serving as general to be a doctor. For one has made the city full of men, while the other has undertaken nothing of war.
    
-344. Ὁ αὐτὸς ἐρωτηθεὶς ποῖα ἂν εἴη θηρία χαλεπώτερα εἶπεν· „ἐν μὲν τοῖς ὄρεσιν ἄρκοι καὶ λέοντες, ἐν δὲ ταῖς πόλεσι τελῶναι καὶ
-συκοφάνται“.
+344. Ὁ αὐτὸς ἐρωτηθεὶς ποῖα ἂν εἴη θηρία χαλεπώτερα εἶπεν· „ἐν μὲν τοῖς ὄρεσιν ἄρκοι καὶ λέοντες, ἐν δὲ ταῖς πόλεσι τελῶναι καὶ συκοφάνται“.
 
      \[Theocritus\], when he was asked what beasts were harsher, said, "In the mountains, bears and lions. In the cities, tax collectors and swindlers."
 
