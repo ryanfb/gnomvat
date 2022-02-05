@@ -1240,8 +1240,14 @@
 
      \[Heraclitus said that\] an opinion is an obstacle to progress.
 
-307. Hegesias. BL: 2-3 \<ἐμ-\>αυτὸν
-308. \[Hegesias\]
+307. Ἡγησίας ὁ ῥήτωρ ὀνειδιζόμενος ὑπό τινος, ὅτι \[ὑπὸ τῆς χώρας\] ἀγροίκων ἀπόγονός ἐστιν, „οἶδα“ φησίν „ἀλλὰ τοῖς μετ’ \<ἐμ-\>αὐτὸν εὐγενείας ἄρξω“.
+
+     Hegesias the orator, being mocked by someone saying that he is the offspring of farmers, says, "I know, but I will be the beginning of nobility for those after \<me\>.
+
+308. Ὁ αὐτὸς κακοῦ τινος τραγῳδοποιοῦ ἀκρόασιν ποιούμενος \[καὶ\] λέγοντός τινος νεανίσκου ὅτι ἐξελεύσεται „οὐκ ἐμοῦγε“ ἔφη „πρότερος“· καὶ ἀναστὰς ἐξῆλθεν.
+
+     \[Hegesias\], while listening to some bad tragedian, when some young man said that he was going to go, said, "Not before me," and he stood up and left.
+
 309. Ἡρόδοτος ὁ ἱστοριογράφος ἐρωτηθεὶς ὑπό τινος πῶς ἂν δύναιντο \<οἱ\> ἄνθρωποι εὐθυμεῖν εἶπεν· „ἐὰν μὴ πολλὰ πρήσσωσιν.“
 
      Herodotus the historian, having been asked by someone how people might be happy, said: "If they'd not do so much."
