@@ -1683,7 +1683,10 @@
 
      \[Menander\], when an incompetent painter was saying to him: "Plaster your house, so that I can paint it", he said: "No, you paint it first, so that I can plaster over it."
 
-406. \[Menander\]
+406. Ὁ αὐτὸς τὸν φθόνον ἔφη πρίονα εἶναι ψυχῆς. 
+
+     \[Menander\] said that jealousy is a saw on the soul.
+
 407. Menedemus
 408. Metrodorus
 409. \[Metrodorus\]
