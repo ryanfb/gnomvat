@@ -2245,7 +2245,10 @@
 549. Chilon
 550. \[Chilon\]
 551. \[Chilon\]
-552. \[Chilon\]
+552. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί κράτιστον ἐν βίῳ εἶπε· „τὸ μηδὲν ἄγαν.“
+
+     \[Chilon\] having been asked by someone what is best in life, said: "Doing 'nothing in excess'."
+
 553. Chilon
 554. \[Chilon\]
 555. Χαβρίας ἔλεγε φοβερώτερον εἶναι στρατόπεδον ἐλάφων ἡγουμένου λέοντος ἢ λεόντων ἡγουμένης ἐλάφου.
