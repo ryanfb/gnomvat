@@ -2266,9 +2266,19 @@
 
 547. Philoxenus
 548. \[Philoxenus\]
-549. Chilon
-550. \[Chilon\]
-551. \[Chilon\]
+
+549. Χίλων ὁ σοφὸς λυπουμένου τινὸς ἐπὶ τοῖς ἑαυτοῦ κακοῖς εἶπεν· „εἰ τὰ πάντων κατανοήσαις, ἔλαττον \<ἂν>\ ἐπὶ τοῖς σαυτοῦ δυσφορήσαις.“
+
+     Chilon the sage, when someone was grieving at his own evils, said, "If you should observe the affairs of everyone, you would bear your own with less pain."
+
+550. Ὁ αὐτὸς ἐρωτηθεὶς τί παραδοξότατόν ἐστιν ἐν ἀνθρώποις εἶπεν· „εἴ τις ἐξουσίας κυριεύσας ἑαυτὸν γνωρίζοι.“
+
+     \[Chilon\], having been asked what is most unexpected among people, said, "If someone with mastery over his resources should recognize himself."
+
+551. Ὁ αὐτὸς ἀκούσας τινὸς εἰπόντος ὡς οὐδεὶς αὐτῷ ἐχθρὸς εἴη οὐκ ἔχειν αὐτὸν εἶπεν οὐδὲ φίλον.
+
+     \[Chilon\], having heard someone say that he had no enemy, said that he also had no friend.
+
 552. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί κράτιστον ἐν βίῳ εἶπε· „τὸ μηδὲν ἄγαν.“
 
      \[Chilon\] having been asked by someone what is best in life, said: "Doing 'nothing in excess'."
@@ -2279,7 +2289,7 @@
 
 554. Ὁ αὐτὸς ἐρωτηθεὶς τί δύσκολόν ἐστιν ἔφη· „μάλιστα τὸ τὰ ἀπόῤῥητα σιωπῆσαι καὶ σχολὴν εὖ διαθέσθαι καὶ ἀδικούμενον δύνασθαι φέρειν.“
 
-     \[Chilon\] having been wasked what is difficult, said: "Foremost being silent about secrets and managing leisure well and being able to bear being wronged."
+     \[Chilon\], having been asked what is hard to bear, said, "Especially to not say unspeakable things, to manage one's leisure well, and to be able to bear injustice."
 
 555. Χαβρίας ἔλεγε φοβερώτερον εἶναι στρατόπεδον ἐλάφων ἡγουμένου λέοντος ἢ λεόντων ἡγουμένης ἐλάφου.
 
