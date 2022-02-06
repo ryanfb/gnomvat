@@ -2273,7 +2273,10 @@
 
      \[Chilon\] having been asked by someone what is best in life, said: "Doing 'nothing in excess'."
 
-553. Chilon
+553. Χίλων Αἰσώπου πυθομένου τί εἴη ποιῶν ὁ Ζεὺς εἶπε· „τὰ μὲν ὑψηλὰ ταπεινοῖ, τὰ δὲ ταπεινὰ ὑψοῖ.“
+
+     Chilon having been asked by Aesop what Zeus might be doing, said: "He might be debasing the exalted, or he might be exalting the debased."
+
 554. \[Chilon\]
 555. Χαβρίας ἔλεγε φοβερώτερον εἶναι στρατόπεδον ἐλάφων ἡγουμένου λέοντος ἢ λεόντων ἡγουμένης ἐλάφου.
 
