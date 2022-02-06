@@ -362,7 +362,7 @@
 
 87. Ὁ αὐτὸς ἐρωτηθεὶς τίνα μᾶλλον ἀγαπᾷ, Φίλιππον ἢ Ἀριστοτέλην, εἶπεν· „ὁμοίως ἀμφοτέρους· ὁ μὲν γάρ μοι τὸ ζῆν ἐχαρίσατο, ὁ δὲ τὸ καλῶς ζῆν ἐπαίδευσεν.“
 
-    \[Alexander\], being asked whom he loved more, Philip or Aristotle, said, "Both equally. For the one delighted me with life, and the other taught me to live well."
+    \[Alexander\], being asked whom he loved more, Philippus or Aristotle, said, "Both equally. For the one delighted me with life, and the other taught me to live well."
 
 88. Ὁ αὐτὸς Ἰολάου οἰνοχοοῦντος αὐτῷ \[καὶ\] φιάλην χρυσῆν ἀπολέσαντος καὶ δυσφοροῦντος εἶπεν· „ὅπου ἂν ᾖ, ἡμετέρα ἐστίν.“
 
@@ -382,7 +382,7 @@
 
 92. Ὁ αὐτὸς παραινοῦντος αὐτῷ Φιλίππου τοῦ πατρὸς Ὀλύμπια ἀγωνίσασθαι εἶπε· „τὸ μὲν νικᾶν τὸν ἀγῶνα τοῦτον οὐ βασιλικόν, τὸ δὲ ἡττᾶσθαι αἰσχρόν.“
 
-    \[Alexander\], when Philip was father was advising him to compete in the Olympic games, said, "To win at this contest is not kingly, and to be defeated is shameful."
+    \[Alexander\], when Philippus was father was advising him to compete in the Olympic games, said, "To win at this contest is not kingly, and to be defeated is shameful."
 
 93. Ὁ αὐτὸς λοιδορούμενος ὑπὸ κακοῦ τραγῳδοῦ „νεανίσκε“, εἶπεν, „οὐδὲν θαυμαστὸν ποιεῖς· σὺ γὰρ καὶ τὸν Αἴαντα καὶ τὸν Ἀχιλλέα λοιδορεῖς.“
 
@@ -902,7 +902,7 @@
 
 222. Ὁ αὐτὸς ἀκούσας ὅτι ὑπὸ Φιλίππου λοιδορεῖται εἶπεν· „ἀπόντα με καὶ τυπτέτω“.
 
-     \[Demosthenes\], having heard that he was being reviled by Philip, said, "Let him even strike me in my absence."
+     \[Demosthenes\], having heard that he was being reviled by Philippus, said, "Let him even strike me in my absence."
 
 223. Ὁ αὐτὸς εὐχερῶς αὐτῷ ἀργύριον χρήσαντός τινος εἶθ’ ὁρῶν πολλοῖς αὐτὸν τὸ αὐτὸ ποιοῦντα εἶπεν· „οὐκέτι σοι ἔχω χάριν· νόσῳ γάρ, οὐ κρίσει τοῦτο ποιεῖς“.
 
@@ -1006,11 +1006,11 @@
 
 248. Δημοκράτης ὁ Παῤῥησιαστὴς ἐρωτήσαντός \[ποτε αὐτὸν\] Φιλίππου τί ἂν ποιῶν χαρίζοιτο Ἀθηναίοις εἶπεν· „ἀπαγξάμενος.“
 
-     Democrates the Free-Speaker, when Philip asked what sort of thing pleased the Athenians, he said, "Being hanged."
+     Democrates the Free-Speaker, when Philippus asked what sort of thing pleased the Athenians, he said, "Being hanged."
 
 249. Ὁ αὐτὸς πρὸς τοὺς πυκνῶς ἐγκωμιάζοντας Φίλιππον „οὐ παύσεσθε“ εἶπε „θνητοῦ σώματος ἀθάνατοι κόλακες ὄντες;“
 
-     \[Democrates\] said to those repeatedly praising Philip, "Won't you stop being immortal flatterers of a mortal body?"
+     \[Democrates\] said to those repeatedly praising Philippus, "Won't you stop being immortal flatterers of a mortal body?"
 
 250. Ὁ αὐτὸς τοὺς πλουσίους καὶ ἀπαιδεύτους παραπλησίους ἔφησεν εἶναι τοῖς κριοῖς τοῖς ἐπιπόκοις, πλὴν ὅτι ἐκείνους μὲν οἱ κουρεῖς, τούτους δὲ οἱ συκοφάνται κείρουσιν.
 
@@ -1018,7 +1018,7 @@
 
 251. Ὁ αὐτός ποτε ἀποσταλεὶς παρὰ Ἀθηναίων πρὸς Φίλιππον κατὰ πρεσβείαν μετὰ παῤῥησίας αὐτῷ ὡμίλει· τοῦ δὲ Φιλίππου εἰπόντος· „οὐ φοβῇ, μὴ τὴν κεφαλήν σου προστάξω ἀφελεῖν;“ „οὐ φοβοῦμαι“ εἶπεν· „ἐὰν γὰρ σύ μου ταύτην ἀφέλῃς, ἡ πατρίς μοι αὐτὴν ἀθάνατον ἀναθήσει“. 
 
-     \[Democrates\], having been sent once by the Athenians to Philip on an embassy, associated with him frankly. And when Philip said, "Aren't you afraid that I will issue a command to take off your head?", he said, "I am not afraid, for if you take off this one of mine, my fatherland will set it up as immortal."
+     \[Democrates\], having been sent once by the Athenians to Philippus on an embassy, associated with him frankly. And when Philippus said, "Aren't you afraid that I will issue a command to take off your head?", he said, "I am not afraid, for if you take off this one of mine, my fatherland will set it up as immortal."
 
 252. Ὁ αὐτὸς θεωρῶν τοὺς περὶ Ἀριστογείτονα καὶ Πυθέαν πονηροὺς ἀνθρώπους ὑπὸ τοῦ δήμου προαγομένους „οὐκ αἰσχύνεσθε,“ φησίν, „ὦ Ἀθηναῖοι, καθάπερ οἱ ὄρνιθες τὰ κόπρια εἰς τὸ μέσον ἕλκοντες“;
 
@@ -1555,7 +1555,7 @@
 
 372. Κλείσοφος ἐπιτιμῶντος αὐτῷ Φιλίππου, ὅτι ἀεὶ αἰτεῖ, „καὶ γὰρ σὺ“ φησὶν „ἀεὶ ἔχεις“.
 
-     Cleisophus when Philip was chiding him, that he was always begging, said: "For you, too, are always having."
+     Cleisophus when Philippus was chiding him, that he was always begging, said: "For you, too, are always having."
 
 373. Κόνωνι τῷ Ἀθηναίῳ, σφόδρα ὄντι αἰσχρῷ τὴν ὄψιν, πρεσβευομένῳ πρὸς Λακεδαιμονίους οὐ μετεδίδου λόγου τὸ κοινὸν τῶν δοκούντων εὐτακτοτάτων Σπαρτιατῶν, ἀλλ’ ὑπὸ γέλωτος κατεχόμενοι ἐμποδὼν ἦσαν τἀνδρί, μέχρις οὗ ἐκεῖνος ἐχαριεντίσατο πρὸς αὐτοὺς φήσας· „οὐδέποτε ἐκ κολοβοῦ κεραμίου χρηστὸν οἶνον ἐπίετε“; ἡσυχασάντων δὲ ἐπὶ ὀλίγον εἶπε· „καὶ νῦν ἀνάσχεσθε, καὶ ἐξ ἀμόρφου σώματος ἀκούσεσθε λόγον χρηστόν.“
 
