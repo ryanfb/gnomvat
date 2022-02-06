@@ -1693,10 +1693,22 @@
 
      \[Menander\] said that jealousy is a saw on the soul.
 
-407. Menedemus
-408. Metrodorus
-409. \[Metrodorus\]
-410. \[Metrodorus\]
+407. \<Μ\>ενέδημος λέγοντος αὐτῷ νεανίσκου τινὸς· „μέγα ἐστὶ τὸ τυχεῖν, ὧν ἄν τις ἐπιθυμῇ“ εἶπε· „πολλῷ μεῖζόν ἐστι τὸ μὴ ἐπιθυμεῖν ὧν μὴ δεῖ“.
+
+     \<M\>enedemus, when some young man said to him, "It is a great thing to encounter what one desires," said, "It is much better to not desire what one should not."
+
+408. Μητρόδωρος ὁ Ἐπικούρειος ἐρωτηθεὶς διὰ τί μᾶλλον πάντων τῶν Ἐπικουρείων προκέκοφεν εἶπεν· „ὅτι πρῶτος ἀρξάμενος Ἐπικούρου ἀκούειν ἔσχατον ἐπαυσάμην“.
+
+     Metrodorus the Epicurean, having been asked why he advanced more than all the Epicureans, said, "Because, having started to listen to Epicurus first, I stopped last."
+
+409. Ὁ αὐτὸς ἔλεγεν· „ἅμα τὴν ἐπαγγελίαν ποιητέον καὶ τὴν δόσιν συναπτέον· ἐπαγγελίαν γὰρ ἀνατεινομένην οὐκέτι σφραγίζεται χάρις“.
+
+     \[Metrodorus\] said, "One must make a promise and complete a gift at the same time. For favor no more approves a promise delayed.
+
+410. \<Ὁ αὐτὸς ἔφη\>· „γεγόναμεν ἅπαξ· δὶς δὲ οὐκ ἔστι γενέσθαι· δεῖ δὲ τὸν αἰῶνα μηκέτι εἶναι· σὺ δὲ τῆς αὔριον οὐκ ὢν κύριος ἀναβάλλῃ τὸν καιρόν· ὁ δὲ πάντων βίος μελλησμῷ παραπόλλυται καὶ διὰ τοῦτο ἕκαστος ἡμῶν ἀσχολούμενος ἀποθνήσκει“.
+
+     \<\[Metrodorus\] said,\> "We were born once. And it is not possible to be born twice. And it should no longer be for an age. And you, since you are not lord of tomorrow, delay the critical moment. And the life of all things is destroyed by indecision, and because of this each of us dies busy."
+
 411. Νικοκλῆς κακοῦ τινος ἰατροῦ λέγοντος ὅτι μεγάλην ἔχει δύναμιν ἔφη· „πῶς γὰρ οὐ μέλλεις λέγειν, ὃς τοσούτους ἀνῃρηκὼς ἀνεύθυνος γέγονας;“
 
      Nicocles, when a bad doctor was saying that they had a lot of power, said: "Surely you don't mean to say, that having buried so many you've become innocent?"
