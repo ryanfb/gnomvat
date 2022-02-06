@@ -2265,7 +2265,9 @@
      Philippus said that the wealthy and uneducated person is silver-plated filth.
 
 547. Philoxenus
-548. \[Philoxenus\]
+548. Ὁ αὐτὸς ἰδὼν μειράκιον ἐρυθριᾶσαν ἔφη· „θάῤῥει· τοιοῦτον γὰρ ἔχει ἡ ἀρετὴ τὸ χρῶμα.“
+
+     \[Philoxenus\] seeing a young man blushing, said: "Cheer up! For virtue holds this color."
 
 549. Χίλων ὁ σοφὸς λυπουμένου τινὸς ἐπὶ τοῖς ἑαυτοῦ κακοῖς εἶπεν· „εἰ τὰ πάντων κατανοήσαις, ἔλαττον \<ἂν>\ ἐπὶ τοῖς σαυτοῦ δυσφορήσαις.“
 
