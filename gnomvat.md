@@ -2287,7 +2287,10 @@
 
      Chilon having been asked by Aesop what Zeus might be doing, said: "He might be debasing the exalted, or he might be exalting the debased."
 
-554. \[Chilon\]
+554. Ὁ αὐτὸς ἐρωτηθεὶς τί δύσκολόν ἐστιν ἔφη· „μάλιστα τὸ τὰ ἀπόῤῥητα σιωπῆσαι καὶ σχολὴν εὖ διαθέσθαι καὶ ἀδικούμενον δύνασθαι φέρειν.“
+
+     \[Chilon\], having been asked what is hard to bear, said, "Especially to not say unspeakable things, to manage one's leisure well, and to be able to bear injustice."
+
 555. Χαβρίας ἔλεγε φοβερώτερον εἶναι στρατόπεδον ἐλάφων ἡγουμένου λέοντος ἢ λεόντων ἡγουμένης ἐλάφου.
 
      Chabrias said that a lion commanding an army of deer was more terrifying than a deer commanding lions.
