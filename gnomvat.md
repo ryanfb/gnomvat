@@ -1667,7 +1667,10 @@
 402. Lamon
 403. Lycon
 404. Menander
-405. \[Menander\]
+405. Ὁ αὐτὸς ἀφυοῦς ζωγράφου λέγοντος αὐτῷ· „κονίασόν σου τὴν οἰκίαν, ἵνα αὐτὴν ζωγραφήσω“ ἔφη· „οὐ μὲν οὖν, ἀλλὰ πρότερον αὐτὴν ζωγράφησον, ἵνα μετὰ ταῦτα ἐγὼ αὐτὴν κονιάσω“.
+
+     \[Menander\], when an incompetent painter was saying to him: "Plaster your house, so that I can paint it", he said: "No, you paint it first, so that I can plaster over it."
+
 406. \[Menander\]
 407. Menedemus
 408. Metrodorus
