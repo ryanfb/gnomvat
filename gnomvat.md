@@ -1675,7 +1675,10 @@
 
 402. Lamon
 403. Lycon
-404. Menander
+404. Μένανδρος ἐρωτηθεὶς τί διαφέρουσιν ἀλλήλων Σοφοκλῆς καὶ Εὐριπίδης εἶπεν ὅτι Σοφοκλῆς μὲν τέρπεσθαι ποιεῖ τοὺς ἀνθρώπους, Εὐριπίδης δὲ σκυθρωπάζειν τοὺς ἀκροατάς.
+
+     Menander having been asked how Sophocles and Euripides differed from each other said that Sophocles made works to cheer people, but Euripides to depress audiences.
+
 405. Ὁ αὐτὸς ἀφυοῦς ζωγράφου λέγοντος αὐτῷ· „κονίασόν σου τὴν οἰκίαν, ἵνα αὐτὴν ζωγραφήσω“ ἔφη· „οὐ μὲν οὖν, ἀλλὰ πρότερον αὐτὴν ζωγράφησον, ἵνα μετὰ ταῦτα ἐγὼ αὐτὴν κονιάσω“.
 
      \[Menander\], when an incompetent painter was saying to him: "Plaster your house, so that I can paint it", he said: "No, you paint it first, so that I can plaster over it."
