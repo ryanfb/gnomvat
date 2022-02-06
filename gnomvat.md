@@ -2266,7 +2266,7 @@
 
 547. 547. Φιλόξενος ἔφησε τῶν ἀνθρώπων τὰς ἀκοὰς τῇ γλώσσῃ συντετρῆσθαι· πρὶν γὰρ ἢ καλῶς ἀκοῦσαι, σπουδάζειν αὐτοὺς ἅπερ οὐκ ἐπίστανται πρὸς ἄλλους λέγειν.
 
-     Philoxenus said that peoples' ears are bored out by their tongue; for before one hears well, they eagerly tell others that which they do not know.
+     Philoxenus said that peoples' ears are cleared out by their tongue; for before one hears well, they eagerly tell others that which they do not know.
 
 548. Ὁ αὐτὸς ἰδὼν μειράκιον ἐρυθριᾶσαν ἔφη· „θάῤῥει· τοιοῦτον γὰρ ἔχει ἡ ἀρετὴ τὸ χρῶμα.“
 
