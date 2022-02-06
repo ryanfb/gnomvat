@@ -2264,7 +2264,10 @@
 
      Charbias having been insulted by a very worthless person, said: "You did excellently in leaving out not a single one of your qualities."
 
-559. \[Chabrias\]
+559. Ὁ αὐτὸς ἐρωτηθεὶς ποταπὸς τῷ γένει ἐστὶν εἶπε· „κοσμογενής.“
+
+     \[Chabrias\] having been asked where he was descended from, said: "I was descended from the cosmos."
+
 560. Ψιττακὸς ὁ φιλόσοφος τοὺς ἀγαθοὺς τῶν ἀνθρώπων θεοῦ τι μέρος ἔλεγεν ἔχειν.
 
      Psittacus the philosopher said that good people have some divine portion.
