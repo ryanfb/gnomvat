@@ -2214,18 +2214,18 @@
 554. \[Chilon\]
 555. Χαβρίας ἔλεγε φοβερώτερον εἶναι στρατόπεδον ἐλάφων ἡγουμένου λέοντος ἢ λεόντων ἡγουμένης ἐλάφου.
 
-     Charbias said that a lion commanding an army of deer was more terrifying than a deer commanding lions.
+     Chabrias said that a lion commanding an army of deer was more terrifying than a deer commanding lions.
 
 556. Χαβρίας καταλαβὼν \[τινας\] ἐπὶ στρατοπέδου δύο φύλακας καθεύδοντας ἀπέκτεινεν εἰπών· „οἵους κατέλαβον, τοιούτους κατέλιπον.“
 
-     Charbias having found two guards sleeping in the camp, killed them, saying: "If I find people like that, I leave them like this."
+     Chabrias having found two guards sleeping in the camp, killed them, saying: "If I find people like that, I leave them like this."
 
 557. Χαβρίας εἰπόντος αὐτῷ τινος· „ὁ φίλος σε λάθρα λοιδορεῖ“ εἶπε· „μὴ ἔλεγχε αὐτόν, ἵνα μὴ φανερῶς αὐτὸ μέλλῃ ποιεῖν.“
 
-     Charbias having been told by someone: "A friend secretly hates you", said: "Don't expose them, so that they're not forced to do it openly."
+     Chabrias having been told by someone: "A friend secretly hates you", said: "Don't expose them, so that they're not forced to do it openly."
 
-558. Charbias
-559. \[Charbias\]
+558. Chabrias
+559. \[Chabrias\]
 560. Ψιττακὸς ὁ φιλόσοφος τοὺς ἀγαθοὺς τῶν ἀνθρώπων θεοῦ τι μέρος ἔλεγεν ἔχειν.
 
      Psittacus the philosopher said that good people have some divine portion.
