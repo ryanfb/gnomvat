@@ -1673,8 +1673,14 @@
 
      Lycurgus the lawgiver said that the noteworthiness of people is situated in their essence, but trustworthiness in their ways.
 
-402. Lamon
-403. Lycon
+402. Λάμων παλαίων τὸν ἀνταγωνιστὴν ἔδακε· τοῦ δὲ εἰπόντος· „δάκνεις ὡς γυνὴ“ εἶπεν· „οὐχί, ἀλλ’ ὡς λέων“.
+
+     Lamon bit his opponent while wrestling. And when he said, "You bite like a woman," he said, "No, but like a lion."
+
+403. Λύκων ἰδὼν γυναῖκα θρασεῖαν τὰ τῶν ἀνδρῶν πράττειν ἐθέλουσαν „οὔτε γυναῖκα“ εἶπεν „ὁμοίαν ἀνδρὶ ἀποδέχομαι, οὔτε ἄνδρα ὅμοιον γυναικί“.
+
+     Lycon, seeing a bold woman wishing to do the deeds of men, said, "I neither accept a woman who is like a man nor a man like a woman."
+
 404. Μένανδρος ἐρωτηθεὶς τί διαφέρουσιν ἀλλήλων Σοφοκλῆς καὶ Εὐριπίδης εἶπεν ὅτι Σοφοκλῆς μὲν τέρπεσθαι ποιεῖ τοὺς ἀνθρώπους, Εὐριπίδης δὲ σκυθρωπάζειν τοὺς ἀκροατάς.
 
      Menander having been asked how Sophocles and Euripides differed from each other said that Sophocles made works to cheer people, but Euripides to depress audiences.
