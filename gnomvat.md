@@ -1545,13 +1545,22 @@
 
      Cleanthes the Stoic philosopher said to hold Zenon's warnings as bruises in the soul.
 
-370. Cleoboulus
-371. Cleostratus
+370. Κλεόβουλος ἔφη τὸν μὲν φίλον δεῖν εὐεργετεῖν ἀεί, ἵνα μᾶλλον ᾖ φίλος, καὶ τὸν ἐχθρὸν ὁμοίως, ἵνα γένηται φίλος, καὶ φυλάσσεσθαι τῶν μὲν φίλων τὸν ψόγον, τῶν δὲ ἐχθρῶν τὴν ἐπιβουλήν.
+
+     Cleoboulus said that a friend should always do good, in order to become more of a friend, and an enemy should do likewise in order to become a friend, and a friend should guard against the censure of his friends and the plotting of his enemies.
+
+371. Κλεόστρατος ὁ φιλοπότης, ὡς μεθύοντά τις αὐτὸν ἐνουθέτει λέγων· „οὐκ αἰσχύνῃ μεθύων“; ἔφη· „σὺ δὲ οὐκ αἰσχύνῃ μεθύοντα νουθετῶν“.
+
+     Cleostratus the lover of drink, when someone was admonishing him while drunk by saying, "Aren't you ashamed to be drunk?", said, "But aren't you ashamed to be admonishing a drunk man?"
+
 372. Κλείσοφος ἐπιτιμῶντος αὐτῷ Φιλίππου, ὅτι ἀεὶ αἰτεῖ, „καὶ γὰρ σὺ“ φησὶν „ἀεὶ ἔχεις“.
 
      Cleisophus when Philip was chiding him, that he was always begging, said: "For you, too, are always having."
 
-373. Conon
+373. Κόνωνι τῷ Ἀθηναίῳ, σφόδρα ὄντι αἰσχρῷ τὴν ὄψιν, πρεσβευομένῳ πρὸς Λακεδαιμονίους οὐ μετεδίδου λόγου τὸ κοινὸν τῶν δοκούντων εὐτακτοτάτων Σπαρτιατῶν, ἀλλ’ ὑπὸ γέλωτος κατεχόμενοι ἐμποδὼν ἦσαν τἀνδρί, μέχρις οὗ ἐκεῖνος ἐχαριεντίσατο πρὸς αὐτοὺς φήσας· „οὐδέποτε ἐκ κολοβοῦ κεραμίου χρηστὸν οἶνον ἐπίετε“; ἡσυχασάντων δὲ ἐπὶ ὀλίγον εἶπε· „καὶ νῦν ἀνάσχεσθε, καὶ ἐξ ἀμόρφου σώματος ἀκούσεσθε λόγον χρηστόν.“
+
+     Conon the Athenian, being very ugly in appearance, when he went on an embassy to the Lacedaimonians the common people of reputed well-ordered Spartiates did not give him a chance for speaking, but rather they were seized with laughter in the man's face, until that man jested at them, saying, "Did you never drink good wine from a chipped cup?" And when they fell silent for a bit, he said, "And now hold up, and from a shapeless body hear a good speech."
+
 374. Κότυς ὁ τῶν Θρᾳκῶν βασιλεὺς Θηβαίων σεμνυνομένων ὅτι Λακεδαιμονίων ἡγήσαντο „ἐγὼ“ φησὶν „ἑώρακα χειμάῤῥους ποταμοὺς μείζους τῶν ἀενάων γενομένους, ἀλλ’ ὀλίγον χρόνον“.
 
      Cotys the king of the Thracians, when the Thebans were priding themselves that they considered themselves Spartans, said: "I've seen flooding rivers become bigger than ever-flowing ones, but in less time."
