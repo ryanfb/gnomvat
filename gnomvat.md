@@ -2264,7 +2264,7 @@
 
      Philippus said that the wealthy and uneducated person is silver-plated filth.
 
-547. 547. Φιλόξενος ἔφησε τῶν ἀνθρώπων τὰς ἀκοὰς τῇ γλώσσῃ συντετρῆσθαι· πρὶν γὰρ ἢ καλῶς ἀκοῦσαι, σπουδάζειν αὐτοὺς ἅπερ οὐκ ἐπίστανται πρὸς ἄλλους λέγειν.
+547. Φιλόξενος ἔφησε τῶν ἀνθρώπων τὰς ἀκοὰς τῇ γλώσσῃ συντετρῆσθαι· πρὶν γὰρ ἢ καλῶς ἀκοῦσαι, σπουδάζειν αὐτοὺς ἅπερ οὐκ ἐπίστανται πρὸς ἄλλους λέγειν.
 
      Philoxenus said that peoples' ears are cleared out by their tongue; for before one hears well, they eagerly tell others that which they do not know.
 
