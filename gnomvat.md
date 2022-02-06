@@ -1673,8 +1673,14 @@
 
      Lycurgus the lawgiver said that the noteworthiness of people is situated in their essence, but trustworthiness in their ways.
 
-402. Lamon
-403. Lycon
+402. Λάμων παλαίων τὸν ἀνταγωνιστὴν ἔδακε· τοῦ δὲ εἰπόντος· „δάκνεις ὡς γυνὴ“ εἶπεν· „οὐχί, ἀλλ’ ὡς λέων“.
+
+     Lamon bit his opponent while wrestling. And when he said, "You bite like a woman," he said, "No, but like a lion."
+
+403. Λύκων ἰδὼν γυναῖκα θρασεῖαν τὰ τῶν ἀνδρῶν πράττειν ἐθέλουσαν „οὔτε γυναῖκα“ εἶπεν „ὁμοίαν ἀνδρὶ ἀποδέχομαι, οὔτε ἄνδρα ὅμοιον γυναικί“.
+
+     Lycon, seeing a bold woman wishing to do the deeds of men, said, "I neither accept a woman who is like a man nor a man like a woman."
+
 404. Μένανδρος ἐρωτηθεὶς τί διαφέρουσιν ἀλλήλων Σοφοκλῆς καὶ Εὐριπίδης εἶπεν ὅτι Σοφοκλῆς μὲν τέρπεσθαι ποιεῖ τοὺς ἀνθρώπους, Εὐριπίδης δὲ σκυθρωπάζειν τοὺς ἀκροατάς.
 
      Menander having been asked how Sophocles and Euripides differed from each other said that Sophocles made works to cheer people, but Euripides to depress audiences.
@@ -1687,10 +1693,22 @@
 
      \[Menander\] said that jealousy is a saw on the soul.
 
-407. Menedemus
-408. Metrodorus
-409. \[Metrodorus\]
-410. \[Metrodorus\]
+407. \<Μ\>ενέδημος λέγοντος αὐτῷ νεανίσκου τινὸς· „μέγα ἐστὶ τὸ τυχεῖν, ὧν ἄν τις ἐπιθυμῇ“ εἶπε· „πολλῷ μεῖζόν ἐστι τὸ μὴ ἐπιθυμεῖν ὧν μὴ δεῖ“.
+
+     \<M\>enedemus, when some young man said to him, "It is a great thing to encounter what one desires," said, "It is much better to not desire what one should not."
+
+408. Μητρόδωρος ὁ Ἐπικούρειος ἐρωτηθεὶς διὰ τί μᾶλλον πάντων τῶν Ἐπικουρείων προκέκοφεν εἶπεν· „ὅτι πρῶτος ἀρξάμενος Ἐπικούρου ἀκούειν ἔσχατον ἐπαυσάμην“.
+
+     Metrodorus the Epicurean, having been asked why he advanced more than all the Epicureans, said, "Because, having started to listen to Epicurus first, I stopped last."
+
+409. Ὁ αὐτὸς ἔλεγεν· „ἅμα τὴν ἐπαγγελίαν ποιητέον καὶ τὴν δόσιν συναπτέον· ἐπαγγελίαν γὰρ ἀνατεινομένην οὐκέτι σφραγίζεται χάρις“.
+
+     \[Metrodorus\] said, "One must make a promise and complete a gift at the same time. For favor no more approves a promise delayed.
+
+410. \<Ὁ αὐτὸς ἔφη\>· „γεγόναμεν ἅπαξ· δὶς δὲ οὐκ ἔστι γενέσθαι· δεῖ δὲ τὸν αἰῶνα μηκέτι εἶναι· σὺ δὲ τῆς αὔριον οὐκ ὢν κύριος ἀναβάλλῃ τὸν καιρόν· ὁ δὲ πάντων βίος μελλησμῷ παραπόλλυται καὶ διὰ τοῦτο ἕκαστος ἡμῶν ἀσχολούμενος ἀποθνήσκει“.
+
+     \<\[Metrodorus\] said,\> "We were born once. And it is not possible to be born twice. And it should no longer be for an age. And you, since you are not lord of tomorrow, delay the critical moment. And the life of all things is destroyed by indecision, and because of this each of us dies busy."
+
 411. Νικοκλῆς κακοῦ τινος ἰατροῦ λέγοντος ὅτι μεγάλην ἔχει δύναμιν ἔφη· „πῶς γὰρ οὐ μέλλεις λέγειν, ὃς τοσούτους ἀνῃρηκὼς ἀνεύθυνος γέγονας;“
 
      Nicocles, when a bad doctor was saying that they had a lot of power, said: "Surely you don't mean to say, that having buried so many you've become innocent?"
