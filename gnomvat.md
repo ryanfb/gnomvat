@@ -2242,7 +2242,10 @@
 
      Chabrias having been told by someone: "A friend secretly hates you", said: "Don't expose them, so that they're not forced to do it openly."
 
-558. Chabrias
+558. Χαβρίας ὑπὸ πονηροῦ πολλὰ λοιδορηθεὶς ἔφη· „κάλλιστα ἐποίησας μηδέν σοι τῶν προσόντων παραλιπών.“
+
+     Charbias having been insulted by a very worthless person, said: "You did excellently in leaving out a not single one of your qualities."
+
 559. \[Chabrias\]
 560. Ψιττακὸς ὁ φιλόσοφος τοὺς ἀγαθοὺς τῶν ἀνθρώπων θεοῦ τι μέρος ἔλεγεν ἔχειν.
 
