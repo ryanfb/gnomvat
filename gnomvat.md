@@ -2232,14 +2232,38 @@
 
      Hyperides said that it was necessary for the virtuous to show by words, that which they think, but by works, that which they do.
 
-539. Philippus
-540. \[Philippus\]
-541. \[Philippus\]
-542. \[Philippus\]
-543. \[Philippus\]. BL: 2 Εὐρυδίκης
-544. \[Philippus\]. BL: 1 \[τῶν\]
-545. \[Philippus\]
-546. Philippus
+539. Φίλιππος ἐρωτηθεὶς τίς αὐτῷ τὸν ὀφθαλμὸν ἐξέκοψεν, εἶπεν· „ὁ τῆς Ἑλλάδος ἔρως.“
+
+     Philippus, having been asked who knocked out his eye, said, "The desire for Greece."
+
+540. Ὁ αὐτὸς κατεάξας τὴν κλεῖν ἐν πολέμῳ καὶ πολλὰ αἰτούμενος χρήματα ὑπὸ τοῦ θεραπεύοντος αὐτὸν ἰατροῦ παίξας εἶπε πρὸς αὐτόν· „ἕως τὴν κλεῖν ἔχεις, ταμιεύου σεαυτόν.“
+
+     \[Philippus\], having broken his collar bone in war and being asked for much money by the doctor tending him, jokingly said to him, "As long as you have the key, dispense for yourself."
+
+541. Ὁ αὐτὸς λέγοντος αὐτῷ τινος ὅτι Ἀθηναῖοι αὐτὸν μισοῦσιν εἶπε· „καὶ γὰρ αἱ ἐν Μακεδονίᾳ γυναῖκες.“
+
+     \[Philippus\], when someone told him that the Athenians hate him, said, "So too do the women in Macedonia."
+
+542. Ὁ αὐτὸς παραγενομένων πρὸς αὐτὸν ἐκ Μιλήτου πρεσβευτῶν ἀπρεπῶν „χαίρετε“ ἔφη „Κᾶρες“· τῶν δὲ εἰπόντων· „οὐκ ἐσμὲν Κᾶρες, ἀλλ’ Ἴωνες“ „χαίρετε τοίνυν“ ἔφη „Καρίωνες.“
+
+     \[Philippus\], when some unseemly ambassadors from Miletus came to him, he said, "Greetings Carians." And when they said, "We are not Carians but Ionians," he said, "So greetings, little Carians."
+
+543. Ὁ αὐτὸς μετὰ τὸ καταστρέψασθαι \<τὰ\> περὶ τὴν Μακεδονίαν ἔθνη παρακαλούμενος ὑπὸ τῆς μητρὸς Εὐρυδίκης σχολάζειν ἤδη ἐν Μακεδονίᾳ ἔφη· „ἐποίησα ἄν, ὦ μῆτερ, ὃ ἐκέλευσας, εἰ μὴ ἑώρων τοὺς σχολάζοντας τοῖς ἀσχολουμένοις ὑποτασσομένους.“
+
+     \[Philippus\], after subduing the nations around Macedonia, being summoned by his mother Eurydice to rest at this point in Macedonia, said, "I would have done, mother, what you commanded, if I did not now see those resting being subject to those who are busy."
+
+544. Ὁ αὐτὸς ἔλεγεν ἔνια \[τῶν\] ὑφ’ ἑαυτοῦ διοικεῖσθαι οὕτω κρυπτῶς, ὥστε μηδὲ τὴν χλανίδα αὑτῷ συνιστορεῖν.
+
+     \[Philippus\] said that some things were handled by him so secretly that not even his cloak shared in the knowledge with him.
+
+545. Ο αὐτὸς ἔλεγε τὸν βασιλέα δεῖν μνημονεύειν ὅτι ἄνθρωπος ὢν ἐξουσίαν εἴληφεν ἰσόθεον, ἵνα προαιρῆται μὲν καλὰ καὶ θεῖα, φωνῇ δὲ ἀνθρωπίνῃ χρῆται.
+
+     \[Philippus\] said that a king should remember that, although a man, he has taken authority equal to a god, in order that he may prefer good and godly things but employ a human voice.
+
+546. Φίλιππος τὸν πλούσιον καὶ ἀπαίδευτον ἔφησε ῥύπον περιηργυρωμένον.
+
+     Philippus said that the wealthy and uneducated person is silver-plated filth.
+
 547. Philoxenus
 548. \[Philoxenus\]
 549. Chilon
