@@ -1529,7 +1529,10 @@
 
      \[Isocrates\], seeing one of his students taking care of his field but neglecting his practice, said, "You there, take care that, while wishing to tame your field, you don't make your mind savage."
 
-366. Ibycus
+366. Ἴβυκος ὁ μελοποιὸς Αἰσώπου ἐν τοῖς μύθοις ψευδομένου καὶ εὐδοκιμοῦντος „λέγε“ ἔφη „αὐτούς· οὕτω μέν σοι ὡς ὅτι ποτὲ καὶ τὰ ἀληθῆ λέγων ἀπιστηθήσῃ“.
+
+     Ibycus the lyric poet, when Aesop was lying in his stories and was popular, said, "Tell them ... that sometimes even someone speaking the truth will not be believed."
+
 367. Callisthenes
 368. \[Callisthenes\]
 369. Κλεάνθης ὁ Στωϊκὸς φιλόσοφος εἶπε μώλωπας ἔχειν ἐν τῇ ψυχῇ τὰς ὑπὸ Ζήνωνος νουθεσίας.
