@@ -362,7 +362,7 @@
 
 87. Ὁ αὐτὸς ἐρωτηθεὶς τίνα μᾶλλον ἀγαπᾷ, Φίλιππον ἢ Ἀριστοτέλην, εἶπεν· „ὁμοίως ἀμφοτέρους· ὁ μὲν γάρ μοι τὸ ζῆν ἐχαρίσατο, ὁ δὲ τὸ καλῶς ζῆν ἐπαίδευσεν.“
 
-    \[Alexander\], being asked whom he loved more, Philippus or Aristotle, said, "Both equally. For the one delighted me with life, and the other taught me to live well."
+    \[Alexander\], being asked whom he loved more, Philip or Aristotle, said, "Both equally. For the one delighted me with life, and the other taught me to live well."
 
 88. Ὁ αὐτὸς Ἰολάου οἰνοχοοῦντος αὐτῷ \[καὶ\] φιάλην χρυσῆν ἀπολέσαντος καὶ δυσφοροῦντος εἶπεν· „ὅπου ἂν ᾖ, ἡμετέρα ἐστίν.“
 
@@ -382,7 +382,7 @@
 
 92. Ὁ αὐτὸς παραινοῦντος αὐτῷ Φιλίππου τοῦ πατρὸς Ὀλύμπια ἀγωνίσασθαι εἶπε· „τὸ μὲν νικᾶν τὸν ἀγῶνα τοῦτον οὐ βασιλικόν, τὸ δὲ ἡττᾶσθαι αἰσχρόν.“
 
-    \[Alexander\], when Philippus was father was advising him to compete in the Olympic games, said, "To win at this contest is not kingly, and to be defeated is shameful."
+    \[Alexander\], when Philip was father was advising him to compete in the Olympic games, said, "To win at this contest is not kingly, and to be defeated is shameful."
 
 93. Ὁ αὐτὸς λοιδορούμενος ὑπὸ κακοῦ τραγῳδοῦ „νεανίσκε“, εἶπεν, „οὐδὲν θαυμαστὸν ποιεῖς· σὺ γὰρ καὶ τὸν Αἴαντα καὶ τὸν Ἀχιλλέα λοιδορεῖς.“
 
@@ -902,7 +902,7 @@
 
 222. Ὁ αὐτὸς ἀκούσας ὅτι ὑπὸ Φιλίππου λοιδορεῖται εἶπεν· „ἀπόντα με καὶ τυπτέτω“.
 
-     \[Demosthenes\], having heard that he was being reviled by Philippus, said, "Let him even strike me in my absence."
+     \[Demosthenes\], having heard that he was being reviled by Philip, said, "Let him even strike me in my absence."
 
 223. Ὁ αὐτὸς εὐχερῶς αὐτῷ ἀργύριον χρήσαντός τινος εἶθ’ ὁρῶν πολλοῖς αὐτὸν τὸ αὐτὸ ποιοῦντα εἶπεν· „οὐκέτι σοι ἔχω χάριν· νόσῳ γάρ, οὐ κρίσει τοῦτο ποιεῖς“.
 
@@ -1006,11 +1006,11 @@
 
 248. Δημοκράτης ὁ Παῤῥησιαστὴς ἐρωτήσαντός \[ποτε αὐτὸν\] Φιλίππου τί ἂν ποιῶν χαρίζοιτο Ἀθηναίοις εἶπεν· „ἀπαγξάμενος.“
 
-     Democrates the Free-Speaker, when Philippus asked what sort of thing pleased the Athenians, he said, "Being hanged."
+     Democrates the Free-Speaker, when Philip asked what sort of thing pleased the Athenians, he said, "Being hanged."
 
 249. Ὁ αὐτὸς πρὸς τοὺς πυκνῶς ἐγκωμιάζοντας Φίλιππον „οὐ παύσεσθε“ εἶπε „θνητοῦ σώματος ἀθάνατοι κόλακες ὄντες;“
 
-     \[Democrates\] said to those repeatedly praising Philippus, "Won't you stop being immortal flatterers of a mortal body?"
+     \[Democrates\] said to those repeatedly praising Philip, "Won't you stop being immortal flatterers of a mortal body?"
 
 250. Ὁ αὐτὸς τοὺς πλουσίους καὶ ἀπαιδεύτους παραπλησίους ἔφησεν εἶναι τοῖς κριοῖς τοῖς ἐπιπόκοις, πλὴν ὅτι ἐκείνους μὲν οἱ κουρεῖς, τούτους δὲ οἱ συκοφάνται κείρουσιν.
 
@@ -1018,7 +1018,7 @@
 
 251. Ὁ αὐτός ποτε ἀποσταλεὶς παρὰ Ἀθηναίων πρὸς Φίλιππον κατὰ πρεσβείαν μετὰ παῤῥησίας αὐτῷ ὡμίλει· τοῦ δὲ Φιλίππου εἰπόντος· „οὐ φοβῇ, μὴ τὴν κεφαλήν σου προστάξω ἀφελεῖν;“ „οὐ φοβοῦμαι“ εἶπεν· „ἐὰν γὰρ σύ μου ταύτην ἀφέλῃς, ἡ πατρίς μοι αὐτὴν ἀθάνατον ἀναθήσει“. 
 
-     \[Democrates\], having been sent once by the Athenians to Philippus on an embassy, associated with him frankly. And when Philippus said, "Aren't you afraid that I will issue a command to take off your head?", he said, "I am not afraid, for if you take off this one of mine, my fatherland will set it up as immortal."
+     \[Democrates\], having been sent once by the Athenians to Philip on an embassy, associated with him frankly. And when Philip said, "Aren't you afraid that I will issue a command to take off your head?", he said, "I am not afraid, for if you take off this one of mine, my fatherland will set it up as immortal."
 
 252. Ὁ αὐτὸς θεωρῶν τοὺς περὶ Ἀριστογείτονα καὶ Πυθέαν πονηροὺς ἀνθρώπους ὑπὸ τοῦ δήμου προαγομένους „οὐκ αἰσχύνεσθε,“ φησίν, „ὦ Ἀθηναῖοι, καθάπερ οἱ ὄρνιθες τὰ κόπρια εἰς τὸ μέσον ἕλκοντες“;
 
@@ -1555,7 +1555,7 @@
 
 372. Κλείσοφος ἐπιτιμῶντος αὐτῷ Φιλίππου, ὅτι ἀεὶ αἰτεῖ, „καὶ γὰρ σὺ“ φησὶν „ἀεὶ ἔχεις“.
 
-     Cleisophus when Philippus was chiding him, that he was always begging, said: "For you, too, are always having."
+     Cleisophus when Philip was chiding him, that he was always begging, said: "For you, too, are always having."
 
 373. Κόνωνι τῷ Ἀθηναίῳ, σφόδρα ὄντι αἰσχρῷ τὴν ὄψιν, πρεσβευομένῳ πρὸς Λακεδαιμονίους οὐ μετεδίδου λόγου τὸ κοινὸν τῶν δοκούντων εὐτακτοτάτων Σπαρτιατῶν, ἀλλ’ ὑπὸ γέλωτος κατεχόμενοι ἐμποδὼν ἦσαν τἀνδρί, μέχρις οὗ ἐκεῖνος ἐχαριεντίσατο πρὸς αὐτοὺς φήσας· „οὐδέποτε ἐκ κολοβοῦ κεραμίου χρηστὸν οἶνον ἐπίετε“; ἡσυχασάντων δὲ ἐπὶ ὀλίγον εἶπε· „καὶ νῦν ἀνάσχεσθε, καὶ ἐξ ἀμόρφου σώματος ἀκούσεσθε λόγον χρηστόν.“
 
@@ -2234,35 +2234,35 @@
 
 539. Φίλιππος ἐρωτηθεὶς τίς αὐτῷ τὸν ὀφθαλμὸν ἐξέκοψεν, εἶπεν· „ὁ τῆς Ἑλλάδος ἔρως.“
 
-     Philippus, having been asked who knocked out his eye, said, "The desire for Greece."
+     Philip, having been asked who knocked out his eye, said, "The desire for Greece."
 
 540. Ὁ αὐτὸς κατεάξας τὴν κλεῖν ἐν πολέμῳ καὶ πολλὰ αἰτούμενος χρήματα ὑπὸ τοῦ θεραπεύοντος αὐτὸν ἰατροῦ παίξας εἶπε πρὸς αὐτόν· „ἕως τὴν κλεῖν ἔχεις, ταμιεύου σεαυτόν.“
 
-     \[Philippus\], having broken his collar bone in war and being asked for much money by the doctor tending him, jokingly said to him, "As long as you have the key, dispense for yourself."
+     \[Philip\], having broken his collar bone in war and being asked for much money by the doctor tending him, jokingly said to him, "As long as you have the key, dispense for yourself."
 
 541. Ὁ αὐτὸς λέγοντος αὐτῷ τινος ὅτι Ἀθηναῖοι αὐτὸν μισοῦσιν εἶπε· „καὶ γὰρ αἱ ἐν Μακεδονίᾳ γυναῖκες.“
 
-     \[Philippus\], when someone told him that the Athenians hate him, said, "So too do the women in Macedonia."
+     \[Philip\], when someone told him that the Athenians hate him, said, "So too do the women in Macedonia."
 
 542. Ὁ αὐτὸς παραγενομένων πρὸς αὐτὸν ἐκ Μιλήτου πρεσβευτῶν ἀπρεπῶν „χαίρετε“ ἔφη „Κᾶρες“· τῶν δὲ εἰπόντων· „οὐκ ἐσμὲν Κᾶρες, ἀλλ’ Ἴωνες“ „χαίρετε τοίνυν“ ἔφη „Καρίωνες.“
 
-     \[Philippus\], when some unseemly ambassadors from Miletus came to him, he said, "Greetings Carians." And when they said, "We are not Carians but Ionians," he said, "So greetings, little Carians."
+     \[Philip\], when some unseemly ambassadors from Miletus came to him, he said, "Greetings Carians." And when they said, "We are not Carians but Ionians," he said, "So greetings, little Carians."
 
 543. Ὁ αὐτὸς μετὰ τὸ καταστρέψασθαι \<τὰ\> περὶ τὴν Μακεδονίαν ἔθνη παρακαλούμενος ὑπὸ τῆς μητρὸς Εὐρυδίκης σχολάζειν ἤδη ἐν Μακεδονίᾳ ἔφη· „ἐποίησα ἄν, ὦ μῆτερ, ὃ ἐκέλευσας, εἰ μὴ ἑώρων τοὺς σχολάζοντας τοῖς ἀσχολουμένοις ὑποτασσομένους.“
 
-     \[Philippus\], after subduing the nations around Macedonia, being summoned by his mother Eurydice to rest at this point in Macedonia, said, "I would have done, mother, what you commanded, if I did not now see those resting being subject to those who are busy."
+     \[Philip\], after subduing the nations around Macedonia, being summoned by his mother Eurydice to rest at this point in Macedonia, said, "I would have done, mother, what you commanded, if I did not now see those resting being subject to those who are busy."
 
 544. Ὁ αὐτὸς ἔλεγεν ἔνια \[τῶν\] ὑφ’ ἑαυτοῦ διοικεῖσθαι οὕτω κρυπτῶς, ὥστε μηδὲ τὴν χλανίδα αὑτῷ συνιστορεῖν.
 
-     \[Philippus\] said that some things were handled by him so secretly that not even his cloak shared in the knowledge with him.
+     \[Philip\] said that some things were handled by him so secretly that not even his cloak shared in the knowledge with him.
 
 545. Ο αὐτὸς ἔλεγε τὸν βασιλέα δεῖν μνημονεύειν ὅτι ἄνθρωπος ὢν ἐξουσίαν εἴληφεν ἰσόθεον, ἵνα προαιρῆται μὲν καλὰ καὶ θεῖα, φωνῇ δὲ ἀνθρωπίνῃ χρῆται.
 
-     \[Philippus\] said that a king should remember that, although a man, he has taken authority equal to a god, in order that he may prefer good and godly things but employ a human voice.
+     \[Philip\] said that a king should remember that, although a man, he has taken authority equal to a god, in order that he may prefer good and godly things but employ a human voice.
 
 546. Φίλιππος τὸν πλούσιον καὶ ἀπαίδευτον ἔφησε ῥύπον περιηργυρωμένον.
 
-     Philippus said that the wealthy and uneducated person is silver-plated filth.
+     Philip said that the wealthy and uneducated person is silver-plated filth.
 
 547. Φιλόξενος ἔφησε τῶν ἀνθρώπων τὰς ἀκοὰς τῇ γλώσσῃ συντετρῆσθαι· πρὶν γὰρ ἢ καλῶς ἀκοῦσαι, σπουδάζειν αὐτοὺς ἅπερ οὐκ ἐπίστανται πρὸς ἄλλους λέγειν.
 
