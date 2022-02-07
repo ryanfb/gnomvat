@@ -738,7 +738,7 @@
 
 181. Διογένης ἔφασκεν ἡδονὴν ἀληθινὴν εἶναι τὸ τὴν ψυχὴν ἐν ἡσυχίᾳ καὶ ἱλαρότητι ἔχειν, ἄνευ δὲ τούτου οὐδὲ τὰ Μίδου οὐδὲ τὰ Κροίσου χρήματα ὠφέλιμα εἶναι· ἐὰν δέ τις ἢ ὑπὲρ μεγάλου ἢ ὑπὲρ μικροῦ λυπῆται, οὐκ εὐδαίμων, ἀλλὰ κακοδαίμων ἐστίν.
 
-     \[Diogenes\] used to say that true pleasure is having a mind in peace and cheer, and that, without this, neither the wealthy of Midas nor of Croesus is beneficial. But rather, if someone is pained on account of something great or small, he is not happy but miserable.
+     \[Diogenes\] used to say that true pleasure is having a mind in peace and cheer, and that, without this, neither the wealth of Midas nor of Croesus is beneficial. But rather, if someone is pained on account of something great or small, he is not happy but miserable.
 
 182. Ὁ αὐτὸς ἐρωτηθεὶς ὑπὸ Ἀριστίππου τί αὐτῷ περιεγένετο ἐκ φιλοσοφίας εἶπε· „τὸ πλουτεῖν μηδὲ ὀβολὸν ἔχοντα.“
 
