@@ -2246,7 +2246,7 @@
 
 542. Ὁ αὐτὸς παραγενομένων πρὸς αὐτὸν ἐκ Μιλήτου πρεσβευτῶν ἀπρεπῶν „χαίρετε“ ἔφη „Κᾶρες“· τῶν δὲ εἰπόντων· „οὐκ ἐσμὲν Κᾶρες, ἀλλ’ Ἴωνες“ „χαίρετε τοίνυν“ ἔφη „Καρίωνες.“
 
-     \[Philip\], when some unseemly ambassadors from Miletus came to him, he said, "Greetings Carians." And when they said, "We are not Carians but Ionians," he said, "So greetings, little Carians."
+     \[Philip\], when some unseemly ambassadors from Miletus came to him, he said, "Greetings Carians." And when they said, "We are not Carians but Ionians," he said, "So greetings, little Care-ions."
 
 543. Ὁ αὐτὸς μετὰ τὸ καταστρέψασθαι \<τὰ\> περὶ τὴν Μακεδονίαν ἔθνη παρακαλούμενος ὑπὸ τῆς μητρὸς Εὐρυδίκης σχολάζειν ἤδη ἐν Μακεδονίᾳ ἔφη· „ἐποίησα ἄν, ὦ μῆτερ, ὃ ἐκέλευσας, εἰ μὴ ἑώρων τοὺς σχολάζοντας τοῖς ἀσχολουμένοις ὑποτασσομένους.“
 
