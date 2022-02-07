@@ -158,7 +158,7 @@
 
 40. Ὁ αὐτὸς ἐπιλαμβανομένου αὐτοῦ ποτε Πλάτωνος [ἐπὶ] τῶν δώδεκα δραχμῶν πολυτελῆ ἰχθὺν πρίασθαι ἠρώτησεν, εἰ αὐτὸς ἂν δραχμῆς τὸν αὐτὸν ἰχθὺν ὠνήσατο· τοῦ δὲ συνθεμένου ἔφη μηδὲ αὑτῷ πολλοῦ καθεστηκέναι· „ὃ γάρ ἐστι Πλάτωνι ἡ μία δραχμή, τοῦτο Ἀριστίππῳ αἱ δώδεκα.“ 
 
-    When Plato rebuked \[Aristippus\] for trying to buy a fancy fish for 12 drachmae he asked, if \[Plato\] would buy the same fish for a drachma; and when he agreed, \[Aristippus\] said it wouldn't be too great a cost for him, "Since what is one drachma for Plato, is twelve for Aristippus."
+    When Plato rebuked \[Aristippus\] for trying to buy a fancy fish for 12 drachmas he asked, if \[Plato\] would buy the same fish for a drachma; and when he agreed, \[Aristippus\] said it wouldn't be too great a cost for him, "Since what is one drachma for Plato, is twelve for Aristippus."
 
 41. Ὁ αὐτὸς παρὰ Διονυσίῳ ποτὲ τῷ τυράννῳ γυναικείων ἐσθήτων περιφερομένων ἐν τῷ συμποσίῳ τοῖς βουλομένοις ἐνδύσασθαι καὶ συμπαῖξαι ἡνδήποτε παιδιὰν καὶ τοῦ Πλάτωνος παραιτησαμένου διὰ τοιούτου στίχου·
 
@@ -262,7 +262,7 @@
 
 62. Αἰσχίνης ὁ ῥήτωρ ἐκπεσὼν τῆς πατρίδος παραγενόμενος εἰς Ῥόδον ἐσοφίστευεν· ἐλθόντος οὖν ποτε τοῦ Δημοσθένους εἰς Ῥόδον καὶ ἀσπασαμένου αὐτὸν καὶ δραχμαῖς χιλίαις τιμήσαντος, δεξάμενος τὰ χρήματα ἐδάκρυσε· τοῦ δὲ παρακαλοῦντος αὐτὸν θαῤῥεῖν, ἴσως καὶ κάθοδον αὐτῷ διὰ τῇς σπουδῆς πέμπειν· „οὐ μέλλω“, ἔφη, „δακρύειν τοιαύτης πατρίδος ἐστερημένος, ἐν ᾗ καὶ οἱ ἐχθρεύοντές εἰσι τοιοῦτοι, ὥστε καὶ βοηθεῖν βούλεσθαι“;
 
-    Aeschines the orator, having been banished from his fatherland, went to Rhodes and was giving lectures. Then, when Demosthenes once came to Rhodes and embraced him and honored him with 1000 drachmas, accepting the money he began to weep. But when this man was encouraging him to be brave, and perhaps to take part in a return from exile for him due to his eagerness, he said, "I do not hesitate to weep when I am deprived of such a fatherland, in which even my enemies are such that they wish to help."
+    Aeschines the orator, having been banished from his fatherland, went to Rhodes and was giving lectures. Then, when Demosthenes once came to Rhodes and embraced him and honored him with 1,000 drachmas, accepting the money he began to weep. But when this man was encouraging him to be brave, and perhaps to take part in a return from exile for him due to his eagerness, he said, "I do not hesitate to weep when I am deprived of such a fatherland, in which even my enemies are such that they wish to help."
 
 63. Ὁ αὐτὸς λέγων ποτὲ δίκην καὶ ἀποκοιμηθέντων τῶν δικαστῶν, „προσέχετε“, εἶπεν, „ἄνδρες δικασταί· οὕτως ὑμῖν γένοιτο ἰδεῖν ἐνύπνιον περὶ τῆς δίκης ἧς λέγω.“
 
@@ -2065,7 +2065,7 @@
 
 498. Ὁ αὐτὸς καταμαθών τινα τῶν νέων περὶ τῆς κυνηγεσίας σφόδρα ἐσπουδακότα, τῶν δὲ λοιπῶν ὀλιγωροῦντα „πόσου“, ἔφη, „ὦ νεανίσκε, ἔστι κυνηγὸν ἀγαθὸν ὠνήσασθαι;“ τοῦ δὲ εἰπόντος ὅτι „χιλίων δραχμῶν“ „ἴσθι τοίνυν“ εἶπε „μὴ πλείονος ἄξιος ἐσόμενος, ἐάν σοι τὰ κατὰ πρόθεσιν \<καλῶς\> ἀποβαίνῃ.“
 
-     \[Socrates\], having learned that one of the youths was very eager for hunting, but neglected everything else, said: "Hey kid, what's a good hunter cost?", and he answered that it was "a thousand drachmae", so \[Socrates\] said: "Now see that you won't be worth more than this, if your plan works out \<well\>."
+     \[Socrates\], having learned that one of the youths was very eager for hunting, but neglected everything else, said: "Hey kid, what's a good hunter cost?", and he answered that it was "a thousand drachmas", so \[Socrates\] said: "Now see that you won't be worth more than this, if your plan works out \<well\>."
 
 499. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί συντάγματα οὐ γράφει ἔφη· „ὅτι τὰ ἄγραφα τῶν γεγραμμένων ὁρῶ πλείονος πωλούμενα.“ 
 
