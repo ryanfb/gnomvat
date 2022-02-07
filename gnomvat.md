@@ -2286,7 +2286,7 @@
 
 552. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί κράτιστον ἐν βίῳ εἶπε· „τὸ μηδὲν ἄγαν.“
 
-     \[Chilon\] having been asked by someone what is best in life, said: "Doing 'nothing in excess'."
+     \[Chilon\] having been asked by someone what is best in life, said: "Doing 'nothing in excess.'"
 
 553. Χίλων Αἰσώπου πυθομένου τί εἴη ποιῶν ὁ Ζεὺς εἶπε· „τὰ μὲν ὑψηλὰ ταπεινοῖ, τὰ δὲ ταπεινὰ ὑψοῖ.“
 
