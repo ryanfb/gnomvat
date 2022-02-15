@@ -1,8 +1,8 @@
 # Introduction
 
-The material collected, edited, and translated here from [Codex *Vaticanus Graecus* 743](https://digi.vatlib.it/view/MSS_Vat.gr.743) aims to provide the reader with a foothold on this small corner of the vast and confusing edifice of ancient wisdom literature. The primary point of entry is the so-called "Gnomologium Vaticanum", contained in folios 6r-46v of *Vat.Gr.*743, first edited and published by Leo Sternbach starting in 1887. This is a collection of 577 sayings arranged in first-letter alphabetical order by author, with the final 14 sayings at the end reserved for "sayings of women". This material has significant overlaps with other gnomologia, but is also the sole witness for some of the sayings it records.
+The material collected, edited, and translated here from [Codex *Vaticanus Graecus* 743](https://digi.vatlib.it/view/MSS_Vat.gr.743) aims to provide the reader with a foothold on this small corner of the vast and confusing edifice of ancient wisdom literature. The primary point of entry is the so-called "Gnomologium Vaticanum", contained in folios 6r-46v of *Vat.Gr.* 743, first edited and published by Leo Sternbach starting in 1887. This is a collection of 577 sayings arranged in first-letter alphabetical order by author, with the final 14 sayings at the end reserved for "sayings of women". This material has significant overlaps with other gnomologia, but is also the sole witness for some of the sayings it records.
 
-In order to understand this material better, I believe it is first best situated in its manuscript context. *Vat.Gr.*743 is a 16th century manuscript with 106 folios of text by four different hands:
+In order to understand this material better, I believe it is first best situated in its manuscript context. *Vat.Gr.* 743 is a 16th century manuscript with 106 folios of text by four different hands:
 
 1. 1r-3v (hand 1): Parables of "Demophilus", edited and published by Friedrich Wilhelm August Mullach in [*Fragmenta philosophorum Graecorum* I (1860), pp.485-487](https://archive.org/details/bub_gb_d7sNAAAAYAAJ/)
 2. 3v-6r (hand 1): Sayings of "Demophilus", ibid., pp.497-499
