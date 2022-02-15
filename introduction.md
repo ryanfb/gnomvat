@@ -34,7 +34,7 @@ In order to understand this material better, I believe it is best first situated
 
 8. **98r-102v** (hand 4)
 
-   Eighteen poems attributed to John Geometres. These were edited, translated into French, and published by Emilie Marlène van Opstall as "Jean Géomètre: Poèmes en hexamètres et en distiques élégiaques. Editions, traduction, commentaire", *The Medieval Mediterranean* 75 (2008), pp.108-114. The eighteen poems in the present MS are poems 53-65, 67, 68, 72, 75, 76, and 81 in Opstall's enumeration. 
+   Eighteen poems attributed to John Geometres. These were edited, translated into French, and published by Emilie Marlène van Opstall as "Jean Géomètre: Poèmes en hexamètres et en distiques élégiaques. Editions, traduction, commentaire", *The Medieval Mediterranean* 75 (2008). The eighteen poems in the present MS are poems 53-65, 67, 68, 72, 75, 76, and 81 in Opstall's enumeration. 
 
 9. **102r-106v** (hand 4)
 
