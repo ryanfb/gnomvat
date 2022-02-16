@@ -14,7 +14,7 @@ In order to understand this material better, I believe it is best first situated
    
 3. **6r-46v** (hand 1)
 
-   577 sayings comprising the "Gnomologium Vaticanum", edited and published by Sternbach. This section begins simply with the first entry starting in the manuscript as "Ἀντισθένους: Ὁ αὐτὸς τοὺς πόνους ἔφησεν…"/"Antisthenes': The same person said that tasks…". The final 14 entries have the manuscript division "Αποφθέγματα γυναικῶν, ἤτοι φρονήματα"/"Apothegms of women, or their thoughts" (45v), with the last entry edited by Sternbach running into the material below with the manuscript heading "Πλουτάρχου γνῶμοι"/"Plutarchean gnomoi" (46v).
+   577 sayings comprising the "Gnomologium Vaticanum", edited and published by Sternbach. This section begins simply with the first entry starting in the manuscript as "Ἀντισθένους: Ὁ αὐτὸς τοὺς πόνους ἔφησεν…"/"Belonging to Antisthenes: The same person said that tasks…". The final 14 entries have the manuscript division "Αποφθέγματα γυναικῶν, ἤτοι φρονήματα"/"Apothegms of women, or their thoughts" (45v), with the last entry edited by Sternbach running into the material below with the manuscript heading "Πλουτάρχου γνῶμοι"/"Plutarchean gnomoi" (46v).
 
 4. **46v-52v** (hand 1)
 
