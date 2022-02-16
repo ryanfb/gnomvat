@@ -2,7 +2,8 @@
 
 ![Translation progress badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fryanfb%2Fgnomvat%2Fmain%2Fprogress.json)
 
-[English translations from the Gnomologium Vaticanum](https://ryanfb.github.io/gnomvat/gnomvat).
+* [Introduction](https://ryanfb.github.io/gnomvat/introduction).
+* [English translations from the Gnomologium Vaticanum](https://ryanfb.github.io/gnomvat/gnomvat).
 
 **Please note that this translation is still a work-in-progress. Translations are still being added and revised.**
 
