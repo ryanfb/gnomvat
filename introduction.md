@@ -18,7 +18,7 @@ In order to understand this material better, I believe it is best first situated
 
 4. **46v-52v** (hand 1)
 
-   "Plutarchean" gnomoi, edited and published by Anton Elter as "Sententiae Pythagoreorum (fort. auctore vel collectore Demophilo)" in *Gnomica homoeomata* (1900-1904).
+   133 "Plutarchean" gnomoi (according to the MS), a subset of the 200 sententiae edited and published by Anton Elter as "Sententiae Pythagoreorum (fort. auctore vel collectore Demophilo)" in *Gnomica homoeomata* (1900-1904).
 
 5. **52v-56v** (hand 1)
 
