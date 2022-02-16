@@ -6,23 +6,23 @@ In order to understand this material better, I believe it is best first situated
 
 1. **1r-3v** (hand 1)
 
-   Parables of "Demophilus", edited and published by Friedrich Wilhelm August Mullach in [*Fragmenta philosophorum Graecorum* I (1860), pp.485-487](https://archive.org/details/bub_gb_d7sNAAAAYAAJ/).
+   59 parables of "Demophilus", edited and published by Friedrich Wilhelm August Mullach in [*Fragmenta philosophorum Graecorum* I (1860), pp.485-487](https://archive.org/details/bub_gb_d7sNAAAAYAAJ/). These also have significant overlap with the sententiae edited and published by Anton Elter as "Sententiae Pythagoreorum (fort. auctore vel collectore Demophilo)" in *Gnomica homoeomata* (1900-1904), on which see also **46v-52v** below. In the present MS this bears the title "Δημοφίλου έκ τῶν Πυθαγορείων ὅμοια ἢ βίου θεραπεία" ("Demophilean parables from the Pythagoreans, or the cultivation of life"), following Mullach's edition up through the termination of the last entry, with no indication of a break in the material before proceeding to the first entry of the next section (that is, there is no "Τέλος τῶν Δημοφίλου ὁμοίων"/"End of the Demophilean parables" in the manuscript, and no title of "Δημοφίλου Γνώμαι Πυθαγορικαἰ"/"Pythagorean Gnomoi of Demophilus" beginning the next section.)
 
 2. **3v-6r** (hand 1)
 
-   Sayings of "Demophilus", ibid., pp.497-499.
+   45 sayings of "Demophilus" in first-letter alphabetical order, edited by Mullach, op. cit., pp.497-499. These represent a subset of a larger collection of 123 sayings published as "The Pythagorean Sentences" by H. Chadwick (in *The Sentences of Sextus* (1959), pp.84-94), on which more below. Again, no break or end (i.e. Mullach's "Τἐλος τῶν τοῦ Δεμοφίλου γνωμῶν"/"End of the Demophilean gnomoi") is indicated in the manuscript before proceeding directly to the first entry of the next section.
    
 3. **6r-46v** (hand 1)
 
-   The "Gnomologium Vaticanum", edited and published by Sternbach.
+   The "Gnomologium Vaticanum", edited and published by Sternbach. This section begins simply with the first entry starting in the manuscript as "Ἀντισθένους: Ὁ αὐτὸς τοὺς πόνους ἔφησεν…"/"Antisthenes': The same person said that tasks…". The final 14 entries have the manuscript division "Αποφθέγματα γυναικῶν, ἤτοι φρονήματα"/"Apothegms of women, or their thoughts" (45v), with the last entry edited by Sternbach running into the material below with the manuscript heading "Πλουτάρχου γνῶμοι"/"Plutarchean gnomoi" (46v).
 
 4. **46v-52v** (hand 1)
 
-   "Plutarchean" gnomoi, edited and published by Anton Elter as *Gnomica homoeomata* (1900-1904).
+   "Plutarchean" gnomoi, edited and published by Anton Elter as "Sententiae Pythagoreorum (fort. auctore vel collectore Demophilo)" in *Gnomica homoeomata* (1900-1904).
 
 5. **52v-56v** (hand 1)
 
-   "Gnomica Varia", edited and published by Mullach as apothegms of Demetrius of Phalerum (pp.212-218).
+   "Gnomica Varia", edited and published by Mullach as apothegms of Demetrius of Phalerum (op. cit. pp.212-218).
 
 6. **57r-90v** (hand 1 & 2)
 
