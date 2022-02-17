@@ -22,7 +22,7 @@ In order to understand this material better, I believe it is best first situated
 
 5. **52v-56v** (hand 1)
 
-   Apothegms of seven philosophers in a numbered list, edited and published by Mullach as "Apothegms of the seven wise men by Demetrius of Phalerum" (op. cit. pp.212-218), later edited and published by H. Diels and W. Kranz in *Die Fragmente der Vorsokratiker*, vol. 1, 6th edn. (1951), pp.63-66. These are translated into English by William W. Fortenbaugh and Eckart Schütrumpf in "Demetrius of Phalerum: Text, Translation and Discussion", *Rutgers University Studies in Classical Humanities* 9 (2017), pp.154-165. Again, no title in the manuscript divides this from the previous section, it begins simply with "Φιλοσόφων αʹ: Κλεόβουλος Εὐαγόρου Λίνδιος ἔφη"/"Belonging to philosopher 1: Cleobolus son of Euagoras of Lindos said".
+   Apothegms of seven philosophers, starting with a numbered list. The material here begins similarly to the material edited and published by Mullach as "Apothegms of the seven wise men by Demetrius of Phalerum" (op. cit. pp.212-218), and later edited and published by H. Diels and W. Kranz in *Die Fragmente der Vorsokratiker*, vol. 1, 6th edn. (1951), pp.63-66. That edition of the text is translated into English by William W. Fortenbaugh and Eckart Schütrumpf in "Demetrius of Phalerum: Text, Translation and Discussion", *Rutgers University Studies in Classical Humanities* 9 (2017), pp.154-165. Again, no title in the manuscript divides this from the previous section, it begins simply with "Φιλοσόφων αʹ: Κλεόβουλος Εὐαγόρου Λίνδιος ἔφη"/"Belonging to philosopher 1: Cleobolus son of Euagoras of Lindos said".
 
 6. **57r-90v** (hand 1 & 2)
 
