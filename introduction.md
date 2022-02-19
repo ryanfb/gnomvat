@@ -26,7 +26,7 @@ In order to understand this material better, I believe it is best first situated
 
 6. **57r-90v** (hand 1 & 2)
 
-   [So-called "Sibylline Oracles"](https://www.nasscal.com/e-clavis-christian-apocrypha/sibylline-oracles/), starting with book 6, but also containing 4 & 7-9. These have been edited by Johannes Geffcken as [*Die Oracula Sibyllina* (1902)](https://archive.org/details/dieoraculasibyl00geffgoog) and translated into English by J.J. Collins in Charlesworth's *The Old Testament Pseudegpigrapha* I (1983), pp.317-472. This begins a new quire in the MS and has a significant break from the previous section, starting with the title "ἐκ τῶν προφητικῶν Σιβύλλης λόγοι θʹ"/"From the Nine Sibylline Oracles".
+   [So-called "Sibylline Oracles"](https://www.nasscal.com/e-clavis-christian-apocrypha/sibylline-oracles/), starting with book 6, but also containing 4 & 7-9. These have been edited by Johannes Geffcken as [*Die Oracula Sibyllina* (1902)](https://archive.org/details/dieoraculasibyl00geffgoog) and translated into English by J.J. Collins in Charlesworth's *The Old Testament Pseudepigrapha* I (1983), pp.317-472. This begins a new quire in the MS and has a significant break from the previous section, starting with the title "ἐκ τῶν προφητικῶν Σιβύλλης λόγοι θʹ"/"From the Nine Sibylline Oracles".
 
 7. **91r-97v** (hand 3)
 
