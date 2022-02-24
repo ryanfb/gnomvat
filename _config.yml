@@ -1,7 +1,9 @@
 title: "Gnom. Vat."
 description: "English translations from the Gnomologium Vaticanum"
+baseurl: /gnomvat
 plugins:
   - jekyll-remote-theme
+  - jekyll-optional-front-matter
   - jekyll-github-metadata
 defaults:
   -
@@ -16,3 +18,12 @@ author:
   last_name: Baumann
   email: ryan.baumann@gmail.com
   twitter: ryanfb
+# GitHub defaults:
+lsi: false
+safe: true
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge

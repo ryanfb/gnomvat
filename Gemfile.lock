@@ -280,6 +280,9 @@ PLATFORMS
 DEPENDENCIES
   faraday (~> 1.9.2)
   github-pages
+  jekyll-optional-front-matter
+  jekyll-remote-theme
+  jekyll-seo-tag
 
 BUNDLED WITH
    2.2.31
