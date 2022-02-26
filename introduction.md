@@ -1,8 +1,10 @@
 # Introduction
 
-The material collected, edited, and translated here from [Codex *Vaticanus Graecus* 743](https://digi.vatlib.it/view/MSS_Vat.gr.743) aims to provide the reader with a foothold on this small corner of the vast and confusing edifice of ancient wisdom literature. The primary point of entry is the so-called "Gnomologium Vaticanum", contained in folios 6r-46v of *Vat.Gr.* 743, first edited and published by Leo Sternbach starting in 1887. This is a collection of 577 sayings arranged in first-letter alphabetical order by author, with the final 14 sayings at the end reserved for "sayings of women". This material has significant overlaps with other gnomologia, but is also the sole witness for some of the sayings it records.
+The material collected, edited, and translated here from [Codex *Vaticanus Graecus* 743](https://digi.vatlib.it/view/MSS_Vat.gr.743) aims to provide the reader with a foothold on this small corner of the vast and confusing edifice of ancient wisdom literature. The primary point of entry is the so-called *Gnomologium Vaticanum* (*Gnom. Vat.*), contained in folios 6r-46v of *Vat. Gr.* 743, first edited and published by Leo Sternbach starting in 1887. This is a collection of 577 sayings arranged in first-letter alphabetical order by author, with the final 14 sayings at the end reserved for "sayings of women". This material has significant overlaps with other gnomological traditions, but is also the sole witness for some of the sayings it records.
 
-In order to understand this material better, I believe it is best first situated in its manuscript context. *Vat.Gr.* 743 contains 106 folios of text by four different hands, which we can separate into nine distinct sections of text:
+## Manuscript context
+
+*Vat. Gr.* 743 contains 106 folios of text by four different hands, which we can separate into nine distinct sections of text:
 
 1. **1r-3v** (hand 1)
 
@@ -40,10 +42,12 @@ In order to understand this material better, I believe it is best first situated
 
    Seven anonymous poems, edited and translated by Nikos Zagklas in ["Astrology, piety and poverty: seven anonymous poems in Vaticanus gr. 743", *Byzantinische Zeitschrift*, vol. 109, no. 2 (2016), pp. 895-918](https://doi.org/10.1515/bz-2016-0025).
 
-For more in-depth discussions of the codicology of this manuscript, see Devreesse, Tziatzi-Papagianni, and van Opstall. Although I appreciate Chadwick's exhortation against "polemical footnotes criticising scholars of the greatest learning", there are certain facts which need to be corrected, because they are constantly misstated. Many sources date *Vat.Gr.* 743 to the 16th century, but on palaeographical and textual grounds the manuscript was almost certainly made in 14th century Cyprus (see Tziatzi-Papagianni and van Opstall). This error in dating has unfortunately, in some cases, led to this manuscript being neglected for the importance of the text it contains. For example, Chadwick accepts a 16th century date, and seemingly neglects to use it for his edition of the text preserved at **3v-6r** as a result.
+For more in-depth discussions of the codicology of this manuscript, see Devreesse, Tziatzi-Papagianni, and van Opstall. Although I appreciate Chadwick's exhortation against "polemical footnotes criticising scholars of the greatest learning", there are certain facts which need to be corrected, because they are constantly misstated. Many sources date *Vat. Gr.* 743 to the 16th century, but on palaeographical and textual grounds the manuscript was almost certainly made in 14th century Cyprus (see Tziatzi-Papagianni and van Opstall). This error in dating has unfortunately, in some cases, led to this manuscript being neglected for the importance of the text it contains. For example, Chadwick accepts a 16th century date, and seemingly neglects to use it for his edition of the text preserved at **3v-6r** as a result.
 
-The material at **1r-3v** and **46v-52v** represents a gnomological tradition with a confusing transmission history, which is reconstructed in considerable depth by Elter as the *Gnomica homoeomata* tradition, where Elter uses *Vat.Gr.* 743 for both his **D** (= **1r-3v**) and **P** (= **46v-52v**) manuscript sigla.
+The material at **1r-3v** and **46v-52v** represents a gnomological tradition with a confusing transmission history, which is reconstructed in considerable depth by Elter as the *Gnomica homoeomata* tradition, where Elter uses *Vat. Gr.* 743 for both his **D** (= **1r-3v**) and **P** (= **46v-52v**) manuscript sigla.
 
-Sternbach also edited *Appendix Vaticana I & II*, two *Gnom.Vat.*-related gnomologia from *Vat.gr.* 1144 (14thC, ff. 215v-225v and 228r-232r respectively). *Appendix Vaticana I* shares 51 of its 371 entries with *Gnom.Vat.* (all within the first 120 entries of *App.Vat. I*), while *Appendix Vaticana II* overlaps with *Gnom.Vat.* in 109 out of its 147 entries.
+Sternbach also edited *Appendix Vaticana I & II*, two *Gnom. Vat.*-related gnomologia from *Vat. Gr.* 1144 (14thC, ff. 215v-225v and 228r-232r respectively). *Appendix Vaticana I* shares 51 of its 371 entries with *Gnom. Vat.* (all within the first 120 entries of *App.Vat. I*), while *Appendix Vaticana II* overlaps with *Gnom. Vat.* in 109 out of its 147 entries.
 
-As a further note, you may also come across references to the "Gnomologium Vaticanum Epicureum" (also in TLG)—this text is not represented in *Vat.Gr.* 743, but in another 14th century Vatican manuscript, *Vaticanus Graecus* 1950, under the heading "Ἐπικούρου Προσφώνησις"/"Epicurus' Declarations".
+As a further note, you may also come across references to the "Gnomologium Vaticanum Epicureum" (also in TLG)—this text is not represented in *Vat. Gr.* 743, but in another 14th century Vatican manuscript, *Vaticanus Graecus* 1950, under the heading "Ἐπικούρου Προσφώνησις"/"Epicurus' Declarations".
+
+## Gnomological context
