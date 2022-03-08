@@ -2,6 +2,10 @@
 
 The material collected, edited, and translated here from [Codex *Vaticanus Graecus* 743](https://digi.vatlib.it/view/MSS_Vat.gr.743) aims to provide the reader with a foothold on this small corner of the vast and confusing edifice of ancient wisdom literature. The primary point of entry is the so-called *Gnomologium Vaticanum* (*Gnom. Vat.*), contained in folios 6r-46v of *Vat. Gr.* 743, first edited and published by Leo Sternbach starting in 1887. This is a collection of 577 sayings arranged in first-letter alphabetical order by author, with the final 14 sayings at the end reserved for "sayings of women". This material has significant overlaps with other gnomological traditions, but is also the sole witness for some of the sayings it records.
 
+The *Gnomologium Vaticanum* in many ways presents a microcosm of the paradoxes of working with the Greek gnomological material. It's both simultaneously relatively well-known (compared to say, Elter's *Gnomica homoeomata*, partially preserved in the same MS and discussed below), and incredibly obscure (compared to say, the 3rd century CE Diogenes Laërtius). Whatever modern popularity it does enjoy likely owes in no small part to Sternbach's original publication of it being collected together and reprinted in an accessible edition by Luschnat in 1963, which was later included in the *Thesaurus Linguae Graecae* (= *TLG*). Despite this popularity, it has to my knowledge never before received a comprehensive translation in any language.
+
+My hope is that this English translation will not only make the *Gnomologium Vaticanum* more accessible to more scholars, but will also provoke broader awareness of and inquiry into the gnomological contexts in which it is situated.
+
 ## Manuscript context
 
 *Vat. Gr.* 743 contains 106 folios of text by four different hands, which we can separate into nine distinct sections of text:
