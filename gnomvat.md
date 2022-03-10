@@ -338,39 +338,39 @@
 
 81. Ὁ αὐτὸς σφαιρίσας μετά τινος νεανίσκου ἐδωρήσατο αὐτῷ τάλαντον· τῶν δὲ φίλων λεγόντων ὅτι „πλέον τοῦ δέοντος ἔδωκας“, „οὐ τοῦτό με δεῖ σκοπεῖν“, ἔφη, „πόσον ἐκεῖνος ἄξιος ἦν λαβεῖν, ἀλλὰ πόσον ἐμὲ παρασχεῖν.“
 
-    \[Alexander\], playing ball with some young man, gifted him a talent. But when his friends said, "You gave more than was necessary." he said, "I should not consider how much that man deserved to take but rather how much I deserved to offer."
+    \[Alexander\], playing ball with some young man, gifted him a talent. But when his friends said, "You gave more than was necessary." he said: "I should not consider how much that man deserved to take but rather how much I deserved to offer."
 
 82. Ὁ αὐτὸς ἐρωτηθεὶς ποῖος βασιλεὺς δοκεῖ ἄριστος εἶναι ἔφη· „ὁ τοὺς φίλους δωρεαῖς συνέχων, τοὺς δὲ ἐχθροὺς διὰ τῶν εὐεργεσιῶν φιλοποιούμενος.“
 
-    \[Alexander\], being asked what sort of king seemed best, said, "The one who heaps his friends up with gifts and who makes friends out of his enemies through his good deeds."
+    \[Alexander\], being asked what sort of king seemed best, said: "The one who heaps his friends up with gifts and who makes friends out of his enemies through his good deeds."
 
 83. Ὁ αὐτὸς ἰδὼν ὁμώνυμον δειλῶς μαχόμενον εἶπεν· „ἔα νεανίσκε, ἢ τὸ ὄνομα ἄλλαξον ἢ τοὺς τρόπους.“
 
-    \[Alexander\], seeing someone with the same name fighting in a cowardly way, said, "Let it be, young man, either change your name or your habits."
+    \[Alexander\], seeing someone with the same name fighting in a cowardly way, said: "Let it be, young man, either change your name or your habits."
 
-84. Ὁ αὐτὸς ἐπεί τις τῶν βαρβάρων ὀχυρὸν τόπον ἔχων ἑαυτὸν παραδέδωκε, καὶ τὸν τόπον καὶ τὰ ἴδια ἀπεκατέστησεν αὐτῷ καὶ πολλῆς ἄλλης χώρας ἔπαρχον ἐποίησεν· ἐρωτηθεὶς δὲ ὑπὸ τῶν φίλων διὰ τί οὕτως ἐχρήσατο αὐτῷ ἔφη· „ὅτι ἀνδρὶ ἀγαθῷ μᾶλλον ἑαυτὸν ἐπίστευσεν ἢ τόποις ὀχυροῖς.“ 
+84. Ὁ αὐτὸς ἐπεί τις τῶν βαρβάρων ὀχυρὸν τόπον ἔχων ἑαυτὸν παραδέδωκε, καὶ τὸν τόπον καὶ τὰ ἴδια ἀπεκατέστησεν αὐτῷ καὶ πολλῆς ἄλλης χώρας ἔπαρχον ἐποίησεν· ἐρωτηθεὶς δὲ ὑπὸ τῶν φίλων διὰ τί οὕτως ἐχρήσατο αὐτῷ ἔφη· „ὅτι ἀνδρὶ ἀγαθῷ μᾶλλον ἑαυτὸν ἐπίστευσεν ἢ τόποις ὀχυροῖς.“
 
-    \[Alexander\], when one of the foreigners with a secure location handed himself over, set aside both the location and his property to him and let him go as the governor of another land. And when he was asked by some of his friends why he treated him thus, he said, "Because he entrusted himself more to a good man than to secure locations."
+    \[Alexander\], when one of the foreigners with a secure location handed himself over, set aside both the location and his property to him and let him go as the governor of another land. And when he was asked by some of his friends why he treated him thus, he said: "Because he entrusted himself more to a good man than to secure locations."
 
 85. Ὁ αὐτὸς εἰπόντος Ἀναξιμένους· „ἐὰν πᾶσι πολλὰ διδῷς, οὐ δυνήσῃ τοῦτο ποιεῖν διὰ παντός“, ἔφη· „οὐδέ γε, ἐὰν παύσωμαι, μόνος πάντ’ ἔχειν δυνήσομαι πολὺν χρόνον.“
 
-    \[Alexander\], when Anaximenes was saying, "If you give many things to everyone, you won't be able to do this forever," said, "Nor will I, at any rate, if I stop, be able to have everything for much time."
+    \[Alexander\], when Anaximenes was saying, "If you give many things to everyone, you won't be able to do this forever," said: "Nor will I, at any rate, if I stop, be able to have everything for much time."
 
 86. Ὁ αὐτὸς μέλλων εἰς τὴν Ἀσίαν διαβαίνειν πυνθανομένου Φωκίωνος αὐτοῦ, ποίοις χρήμασι πεπιστευκὼς ἐπὶ μέγαν καὶ πλούσιον βασιλέα Δαρεῖον μέλλει στρατεύειν, δείξας τοὺς φίλους εἶπεν· „τούτοις.“
 
-    When \[Alexander\] was intending to cross over into Asia and Phocion asked him what resources he trusted that he intended to wage war against the great and wealthy king Darius, showing him his friends he said, "These ones."
+    When \[Alexander\] was intending to cross over into Asia and Phocion asked him what resources he trusted that he intended to wage war against the great and wealthy king Darius, showing him his friends he said: "These ones."
 
 87. Ὁ αὐτὸς ἐρωτηθεὶς τίνα μᾶλλον ἀγαπᾷ, Φίλιππον ἢ Ἀριστοτέλην, εἶπεν· „ὁμοίως ἀμφοτέρους· ὁ μὲν γάρ μοι τὸ ζῆν ἐχαρίσατο, ὁ δὲ τὸ καλῶς ζῆν ἐπαίδευσεν.“
 
-    \[Alexander\], being asked whom he loved more, Philip or Aristotle, said, "Both equally. For the one delighted me with life, and the other taught me to live well."
+    \[Alexander\], being asked whom he loved more, Philip or Aristotle, said: "Both equally. For the one delighted me with life, and the other taught me to live well."
 
 88. Ὁ αὐτὸς Ἰολάου οἰνοχοοῦντος αὐτῷ \[καὶ\] φιάλην χρυσῆν ἀπολέσαντος καὶ δυσφοροῦντος εἶπεν· „ὅπου ἂν ᾖ, ἡμετέρα ἐστίν.“
 
-    \[Alexander\], when Iolaus lost a golden bowl while he was his wine-pourer and took it badly, said, "Wherever it is, it is ours."
+    \[Alexander\], when Iolaus lost a golden bowl while he was his wine-pourer and took it badly, said: "Wherever it is, it is ours."
 
 89. Ὁ αὐτὸς ὡς ἐν παρατάξει τινὶ Πισίδας ζωγρήσαντος τρισχιλίους ἠξίουν οἱ Μακεδόνες ἀποκτεῖναι πάντας διὰ τὸ πολλὰ κακὰ πεπονθέναι ὑπ’ αὐτῶν πολλάκις, „οὐ ποιήσω τοῦτο“, ἔφη· „οὐ γὰρ βούλομαι δήμιος ἀντὶ βασιλέως κεκλῆσθαι“.
 
-    \[Alexander\], when, after capturing alive 3000 Pisidians in a battle, the Macedonians resolved to kill them all, since they had suffered so many evils from them frequently, said, "I will not do this, for I do not wish to be called executioner instead of king."
+    \[Alexander\], when, after capturing alive 3000 Pisidians in a battle, the Macedonians resolved to kill them all, since they had suffered so many evils from them frequently, said: "I will not do this, for I do not wish to be called executioner instead of king."
 
 90. Ὁ αὐτὸς παρακαλούμενος ὑπὸ τῶν φίλων συνάγειν χρήματα εἶπεν· „οὐδὲν ὤνησεν οὐδὲ Κροῖσον.“
 
