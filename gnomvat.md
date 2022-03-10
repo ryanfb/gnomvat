@@ -578,7 +578,7 @@
 
 141. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί τοῖς καλοῖς ἥδιστα διαλέγεται ἔφη· „τυφλοῦ τὸ ἐρώτημα“.
 
-     \[Aristotle\], having been asked why he gladly discusses what is good, said, "A blind person's question."
+     \[Aristotle\], having been asked why he gladly discusses what is good, said: "A blind person's question."
 
 142. Ὁ αὐτὸς τὰς εὐειδεῖς ἑταιρίδας ἔλεγε θανάσιμον μελίκρατον εἶναι.
 
@@ -590,11 +590,11 @@
 
 144. Ἀριστοτέλης θεασάμενος μειράκιον ὡραϊζόμενον „οὐκ αἰσχύνῃ“, ἔφη, „ὅτι τῆς φύσεως ἄνδρα σε ποιησάσης ἑαυτὸν τεθήλυκας“;
 
-     \[Aristotle\], seeing a young man adorning himself, said, "Are you not ashamed that, when nature made you a man, you have feminized yourself?"
+     \[Aristotle\], seeing a young man adorning himself, said: "Are you not ashamed that, when nature made you a man, you have feminized yourself?"
 
 145. Ὁ αὐτὸς ἐρωτηθεὶς τί ἰσχυρότερόν ἐστιν ἀνδριάντος εἶπεν· „ἄνθρωπος ἀναίσθητος“.
 
-     \[Aristotle\], having been asked what is harder than a statue, said "An unfeeling man."
+     \[Aristotle\], having been asked what is harder than a statue, said: "An unfeeling man."
 
 146. Ἀριστοτέλης εἶπε τοὺς ἀπαιδεύτους μόνῃ τῇ μορφῇ τῶν θηρίων διαφέρειν.
 
@@ -602,15 +602,15 @@
 
 147. Βίας ὁ σοφὸς ἐρωτηθεὶς ὑπό τινος τί ἂν εἴη \[πρᾶγμα\] ἄφοβον εἶπεν· „\<ὀρθὴ\> συνείδησις“.
 
-     Bias the sage, having been asked by someone what is without fear, said, "A proper conscience."
+     Bias the sage, having been asked by someone what is without fear, said: "A proper conscience."
 
 148. Ὁ αὐτὸς συμπλέων ποτὲ πονηροῖς καὶ διὰ τὸ χειμάζεσθαι τοὺς θεοὺς ἐπικαλουμένων αὐτῶν „μηδαμῶς“, εἶπεν, „ὦ ἄνδρες, ἀλλὰ πειραθῶμεν αὐτοὺς λαθεῖν, μὴ αἴσθωνται ὑμᾶς ἐνθάδε πλέοντας“.
 
-     \[Bias\], sailing at one time with wicked men, when they were calling upon the gods due to it storming, said, "Don't do that, o men, but let us try to escape their notice, lest they perceive you all sailing here."
+     \[Bias\], sailing at one time with wicked men, when they were calling upon the gods due to it storming, said: "Don't do that, o men, but let us try to escape their notice, lest they perceive you all sailing here."
 
 149. Ὁ αὐτὸς ἐρωτηθεὶς ὑπὸ ἀνθρώπου ἀσεβοῦς τί ἐστιν εὐσέβεια „σίγα“, ἔφη· τοῦ δὲ τὴν αἰτίαν τῆς σιγῆς πυθομένου „σιώπα“, ἔφη, „ὅτι περὶ τῶν οὐδέν σοι προσηκόντων πυνθάνῃ“.
 
-     \[Bias\], having been asked by an impious person what piety is, said "Be silent." And when he asked the reason for the silence, he said, "Be silent because you inquire about things that do not concern you at all."
+     \[Bias\], having been asked by an impious person what piety is, said: "Be silent." And when he asked the reason for the silence, he said: "Be silent because you inquire about things that do not concern you at all."
 
 150. Ὁ αὐτὸς χαλεπώτερον εἶπεν εἶναι φίλους διαφερομένους διαιτῆσαι ἤπερ ἐχθρούς· τῶν μὲν γὰρ φίλων τὸν ἡττώμενον ἐχθρὸν γίνεσθαι, τῶν δὲ ἐχθρῶν τὸν νικήσαντα φίλον.
 
@@ -618,11 +618,11 @@
 
 151. Ὁ αὐτὸς εἰπόντος αὐτῷ τινος· „καὶ λαλεῖς σὺ ἀπὸ τοιούτων γονέων γεγονώς“; „ἀπ’ ἐμοῦ με“, εἶπεν, „ἀρίθμει“.
 
-     \[Bias\], when someone said to him, "You do indeed babble, having been born from such parents," said, "Reckon me from myself."
+     \[Bias\], when someone said to him, "You do indeed babble, having been born from such parents," said: "Reckon me from myself."
 
 152. Ὁ αὐτὸς ἀηδοῦς τινος ἐν συμποσίῳ διαφερομένου πρὸς αὐτὸν καὶ λέγοντος· „ἀναστῶ σοι“ εἶπεν· „ἀπέλθω σοί“.
 
-     \[Bias\], when some unpleasant man was quarreling with him in the symposium and saying, "I shall stand up and fight you," said, "I shall go away from you."
+     \[Bias\], when some unpleasant man was quarreling with him in the symposium and saying, "I shall stand up and fight you," said: "I shall go away from you."
 
 153. Βίας ἔλεγεν ἀτυχῆ εἶναι τὸν εὐτυχίαν μὴ φέροντα καὶ νόσον ψυχῆς τὸ τῶν ἀδυνάτων ἐρᾶν.
 
@@ -630,27 +630,27 @@
 
 154. Βίας ἐρωτηθεὶς τί δυσχερὲς „τὴν ἐπὶ τὸ χεῖρον“, ἔφη, „μεταβολὴν εὐγενῶς ὑπενεγκεῖν“.
 
-     \[Bias\], having been asked what is difficult, said, "To bear nobly a change for the worse."
+     \[Bias\], having been asked what is difficult, said: "To bear nobly a change for the worse."
 
 155. Βίας ἐρωτηθεὶς τί γλυκὺ ἀνθρώποις „ἐλπὶς“ ἔφη.
 
-     \[Bias\], having been asked what is sweet for mortals, said, "Hope."
+     \[Bias\], having been asked what is sweet for mortals, said: "Hope."
 
 156. Βίων ἐρωτηθείς· „πότε χρὴ ἀριστᾶν;“ ἔφη· „τοὺς μὲν πλουσίους, ὅταν θέλωσι, τοὺς δὲ πένητας, ὅταν ἔχωσιν“.
 
-     Bion, having been asked, "When should one dine?" said, "The wealthy, whenever they wish, and the poor, whenever they can."
+     Bion, having been asked, "When should one dine?" said: "The wealthy, whenever they wish, and the poor, whenever they can."
 
 157. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος διὰ τί αὐτὸν οὐκ ὠφελεῖ τὰ ὑπ’ αὐτοῦ λεγόμενα „οὐδὲ γὰρ αἱ πυξίδες“, εἶπεν, „αἱ τὰ χρηστότατα φάρμακα ἔχουσαι ἀφ’ ἑαυτῶν ὠφελοῦνται.“
 
-     \[Bion\], having been asked why the things said by him do not benefit him, said, "For the boxes that contain the most useful medicines draw no benefit from themselves."
+     \[Bion\], having been asked why the things said by him do not benefit him, said: "For the boxes that contain the most useful medicines draw no benefit from themselves."
 
 158. Ὁ αὐτὸς ἰδών τινα φθονερὸν σφόδρα συγκεχυμένον „ἀδύνατον“, εἶπεν, „εἰ μὴ τούτῳ μέγα κακὸν γέγονεν ἢ ἄλλῳ \<μέγα\> ἀγαθόν“.
 
-     \[Bion\], seeing an envious man very disturbed, said, "Impossible, unless a great evil has happened to him, or a \<great\> good to someone else.
+     \[Bion\], seeing an envious man very disturbed, said: "Impossible, unless a great evil has happened to him, or a \<great\> good to someone else.
 
 159. Ὁ αὐτὸς ζητήσεως γενομένης παρὰ πάντων ἰδὼν νεανίσκον σιγῶντα εἶπεν· „εἰ μὲν πεπαιδευμένος σιωπᾷς, ἀπαίδευτος εἶ· εἰ δὲ ἀπαίδευτος ὤν, πεπαίδευσαι“.
 
-     \[Bion\], when a discussion was happening for everyone, seeing a young man being silent, said, "If you are silent after being educated, you are uneducated. But if you do it when uneducated, then you have been educated."
+     \[Bion\], when a discussion was happening for everyone, seeing a young man being silent, said: "If you are silent after being educated, you are uneducated. But if you do it when uneducated, then you have been educated."
 
 160. Βίων ἔλεγε δύο διδασκαλίας θανάτου εἶναι, τόν τε πρὸ τοῦ γενέσθαι χρόνον καὶ τὸν ὕπνον.
 
@@ -658,7 +658,7 @@
 
 161. Βίων ὁ Περιπατητικὸς „τὰ χρήματα“, ἔφη, „τοῖς πλουσίοις ἡ τύχη οὐ δεδώρηκεν, ἀλλὰ δεδάνεικεν“.
 
-     Bion the Peripatetic said, "Fate has not gifted the wealthy with money, but rather it has lent it."
+     Bion the Peripatetic said: "Fate has not gifted the wealthy with money, but rather it has lent it."
 
 162. Ὁ αὐτὸς τὴν μὲν φρόνησιν ἔφη παντοπώλιον εἶναι τῶν ἀγαθῶν, τὴν δὲ σωφροσύνην στρατουργίαν.
 
@@ -674,7 +674,7 @@
 
 165. Ὁ αὐτὸς ἐρωτηθεὶς τί λυπεῖ τοὺς ἀγαθοὺς εἶπε· „πονηρὸς εὐτυχῶν“.
 
-     \[Glycon\], having been asked what pains good men, said, "A wicked man faring well."
+     \[Glycon\], having been asked what pains good men, said: "A wicked man faring well."
 
 166. Γοργίας ὁ ῥήτωρ ἔλεγε τοὺς φιλοσοφίας μὲν ἀμελοῦντας, περὶ δὲ τὰ ἐγκύκλια μαθήματα γινομένους ὁμοίους εἶναι τοῖς μνηστῆρσιν, οἳ Πηνελόπην θέλοντες ταῖς θεραπαίναις αὐτῆς ἐμίγνυντο.
 
@@ -686,55 +686,55 @@
 
 168. Διογένης θεασάμενος μικρὰν πόλιν μεγάλας πύλας ἔχουσαν ἔφη· „κλείσατε τὰς πύλας, μὴ ἡ πόλις ἐξέλθῃ“.
 
-     Diogenes, seeing a small city with great gates, said, "Close the gates, lest the city gets out."
+     Diogenes, seeing a small city with great gates, said: "Close the gates, lest the city gets out."
 
 169. Ὁ αὐτὸς θεασάμενος μειράκιον ἄσωτον δεδαπανηκὸς τὰ πατρῷα \[καὶ\] ἐλαίας καὶ ἄρτον ἐσθίον καὶ πῖνον ὕδωρ ἔφη· „εἰ οὕτως κατὰ γνώμην ἠρίστας, οὐκ ἂν οὕτως κατ’ ἀνάγκην ἐδείπνεις“.
 
-     \[Diogenes\], seeing a young profligate man having spent his inheritance, eating olives and bread and drinking water, said, "If you dined thus deliberately, you would not now be dining so on compulsion."
+     \[Diogenes\], seeing a young profligate man having spent his inheritance, eating olives and bread and drinking water, said: "If you dined thus deliberately, you would not now be dining so on compulsion."
 
 170. Ὁ αὐτὸς θεασάμενος μάχαιραν ἐῤῥιμμένην ἔφη· „τίς σὲ ἀπώλεσεν ἢ τίνα σύ;“
 
-     \[Diogenes\], seeing a cast down sword, said, "Who lost you, or whom did you destroy?"
+     \[Diogenes\], seeing a cast down sword, said: "Who lost you, or whom did you destroy?"
 
 171. Ὁ αὐτὸς θεασάμενος νεανίσκον καλλωπιζόμενον ἔφη· „εἰ μὲν πρὸς ἄνδρας, ἀτυχεῖς· εἰ δὲ πρὸς γυναῖκας, ἀδικεῖς“.
 
-     \[Diogenes\], seeing a young man beautifying himself, said, "If this is for men, you are unfortunate. If this is for women, you are doing wrong."
+     \[Diogenes\], seeing a young man beautifying himself, said: "If this is for men, you are unfortunate. If this is for women, you are doing wrong."
 
 172. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος διὰ τί χρυσίον ὠχρόν ἐστιν ἔφη· „ὅτι πολλοὺς ἐπιβούλους ἔχει“.
 
-     \[Diogenes\], having been asked by someone why a piece of gold is yellow, said, "Because it has many people plotting against it."
+     \[Diogenes\], having been asked by someone why a piece of gold is yellow, said: "Because it has many people plotting against it."
 
 173. Ὁ αὐτὸς θεασάμενος <υἱὸν> αὐλητρίδος οἰήματος πλήρη ἔφη· „νεανίσκε, μεῖζον ἔχεις τὸ φύσημα τῆς μητρός.“
 
-     \[Diogenes\], seeing \<the son\> of a flute-player full of conceit, said, "Young man, you have a better knack at puffing than your mother."
+     \[Diogenes\], seeing \<the son\> of a flute-player full of conceit, said: "Young man, you have a better knack at puffing than your mother."
 
 174. Ὁ αὐτὸς ἀκούσας ὑπό τινος ὅτι „οὐκ ὢν φιλόσοφος προσποιῇ εἶναι“ εἶπε· „κατὰ τοῦτο γοῦν κρείττων σου εἰμί, τό γε βούλεσθαι“.
 
-     \[Diogenes\], having been told by someone that, "Not being a philosopher, you pretend to be one," said, "In this regard, then, I am better than you, wishing to be one at least."
+     \[Diogenes\], having been told by someone that, "Not being a philosopher, you pretend to be one," said: "In this regard, then, I am better than you, wishing to be one at least."
 
 175. Ὁ αὐτὸς ἀριστῶν ἐν ἀγορᾷ ἀκούων παρὰ τῶν παρεστώτων κύων εἶπε· „καὶ μὴν ὑμεῖς κύνες ἐστέ· οἱ γὰρ κύνες βλέπουσι \<πρὸς\> τοὺς ἐσθίοντας.“
 
-     \[Diogenes\], while dining in the agora, being called a dog by those standing beside him, said "Yes, and you all are, too. For dogs look \<at\> those who are eating."
+     \[Diogenes\], while dining in the agora, being called a dog by those standing beside him, said: "Yes, and you all are, too. For dogs look \<at\> those who are eating."
 
 176. Ὁ αὐτὸς θεασάμενος μειράκιον εὔμορφον καὶ διὰ τοῦτο φιλούμενον ἔφη· „ὦ μειράκιον, σπουδάσον τοὺς τοῦ σώματος ἐραστὰς ἐπὶ τὴν ψυχὴν μεταγαγεῖν.“
 
-     \[Diogenes\], seeing a beautiful young man and that he was beloved for this reason, said "O young man, work the lovers of your body up to transfer towards your soul.
+     \[Diogenes\], seeing a beautiful young man and that he was beloved for this reason, said: "O young man, work the lovers of your body up to transfer towards your soul.
 
 177. Ὁ αὐτὸς κατανοήσας μειράκιον ἐπὶ τῇ πολυτελείᾳ τῆς χλαμύδος σεμνυνόμενον „οὐ παύσῃ“, ἔφη, „μειράκιον, ἐπὶ προβάτου σεμνυνόμενον ἀρετῇ;“
 
-     \[Diogenes\], observing a young man boasting at the extravagance of his cloak, said, "Won't you stop, young man, boasting at the excellence of the sheep?"
+     \[Diogenes\], observing a young man boasting at the extravagance of his cloak, said: "Won't you stop, young man, boasting at the excellence of the sheep?"
 
 178. Ὁ αὐτὸς θεασάμενος ἑταιρίδος υἱὸν λίθους εἰς ὄχλον βάλλοντα „οὐκ εὐλαβῇ“, ἔφη, „σύ, μή σου τὸν πατέρα πλήξῃς“;
 
-     \[Diogenes\], seeing the son of a female companion throwing stones at a crowd, said, "Won't you be careful lest you hit your father?"
+     \[Diogenes\], seeing the son of a female companion throwing stones at a crowd, said: "Won't you be careful lest you hit your father?"
 
 179. Ὁ αὐτὸς προσελθόντος αὐτῷ τινος καὶ λέγοντος ὅτι „ὁ δεῖνά σε κακῶς λέγει“ εἶπε· „μὴ θαύμαζε· καλῶς \<γὰρ\> λέγειν οὐκ ἔμαθεν.“
 
-     \[Diogenes\], when someone approached him and said, "A certain so and so spoke badly of you," said, "Do not be amazed. For he did not know how to speak well."
+     \[Diogenes\], when someone approached him and said, "A certain so and so spoke badly of you," said: "Do not be amazed. For he did not know how to speak well."
 
 180. \<Ὁ\> αὐτὸς ἐρωτηθεὶς τίς ἐν ἀνθρώποις πλούσιος εἶπεν· „ὁ αὐτάρκης“.
 
-     \[Diogenes\], having been asked who among men is rich, said, "The self-sufficient man."
+     \[Diogenes\], having been asked who among men is rich, said: "The self-sufficient man."
 
 181. Διογένης ἔφασκεν ἡδονὴν ἀληθινὴν εἶναι τὸ τὴν ψυχὴν ἐν ἡσυχίᾳ καὶ ἱλαρότητι ἔχειν, ἄνευ δὲ τούτου οὐδὲ τὰ Μίδου οὐδὲ τὰ Κροίσου χρήματα ὠφέλιμα εἶναι· ἐὰν δέ τις ἢ ὑπὲρ μεγάλου ἢ ὑπὲρ μικροῦ λυπῆται, οὐκ εὐδαίμων, ἀλλὰ κακοδαίμων ἐστίν.
 
@@ -742,15 +742,15 @@
 
 182. Ὁ αὐτὸς ἐρωτηθεὶς ὑπὸ Ἀριστίππου τί αὐτῷ περιεγένετο ἐκ φιλοσοφίας εἶπε· „τὸ πλουτεῖν μηδὲ ὀβολὸν ἔχοντα.“
 
-     \[Diogenes\], having been asked by Aristippus what he got as the result of his philosophy, said, "To be wealthy without having an obol."
+     \[Diogenes\], having been asked by Aristippus what he got as the result of his philosophy, said: "To be wealthy without having an obol."
 
 183. Ὁ αὐτὸς ἀκούσας τινὸς λέγοντος ὡς χαλεπὸν τὸ ζῆν „οὐ μὲν οὖν“, ἔφη, „τὸ ζῆν κακόν, ἀλλὰ τὸ ζῆν κακῶς“.
 
-     \[Diogenes\], hearing someone say that living is harsh, said, "In no way is living a bad thing, but rather living badly."
+     \[Diogenes\], hearing someone say that living is harsh, said: "In no way is living a bad thing, but rather living badly."
 
 184. Ὁ αὐτὸς εἰπόντος τινὸς ὅτι „καταγελῶσί σου οἱ ἄνθρωποι“ ἔφη· „ἐγὼ δὲ οὐ καταγελῶμαι.“
 
-     \[Diogenes\], when someone said, "People are laughing at you," said, "But I am not derided."
+     \[Diogenes\], when someone said, "People are ridiculing you," said: "But I am not ridiculed."
 
 185. Ο αὐτὸς θεασάμενος μειράκιον ἀρυόμενον χερσὶ κοίλαις ἀπὸ τοῦ παραῤῥέοντος ὕδατος καὶ πῖνον ἀπέῤῥιψεν αὐτίκα καὶ τὴν ἐξ ἧς εἰώθει πίνειν κύλικα βελτίους καὶ χρησιμωτέρας τὰς χεῖρας φήσας ἑαυτὸν εἰληφέναι παρὰ τῆς φύσεως.
 
