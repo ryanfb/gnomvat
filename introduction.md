@@ -50,7 +50,7 @@ For more in-depth discussions of the codicology of this manuscript, see Devreess
 
 The material at **1r-3v** and **46v-52v** represents a gnomological tradition with a confusing transmission history, which is reconstructed in considerable depth by Elter as the *Gnomica homoeomata* tradition, where Elter uses *Vat. Gr.* 743 for both his **D** (= **1r-3v**) and **P** (= **46v-52v**) manuscript sigla.
 
-Sternbach also edited *Appendix Vaticana I & II*, two *Gnom. Vat.*-related gnomologia from *Vat. Gr.* 1144 (14thC, ff. 215v-225v and 228r-232r respectively). *Appendix Vaticana I* shares 51 of its 371 entries with *Gnom. Vat.* (all within the first 120 entries of *App.Vat. I*), while *Appendix Vaticana II* overlaps with *Gnom. Vat.* in 109 out of its 147 entries.
+Sternbach also edited *Appendix Vaticana I & II*, two *Gnom. Vat.*-related gnomologia from *Vat. Gr.* 1144 (14thC, ff. 215v-225v and 228r-232r respectively). *Appendix Vaticana I* shares 51 of its 371 entries with *Gnom. Vat.* (all within the first 120 entries of *App.Vat. I*), while *Appendix Vaticana II* overlaps with *Gnom. Vat.* in 109 out of its 147 entries. For a full comparison see the [*Concordances*](https://ryanfb.github.io/gnomvat/concordances).
 
 As a further note, you may also come across references to the "Gnomologium Vaticanum Epicureum" (also in TLG)—this text is not represented in *Vat. Gr.* 743, but in another 14th century Vatican manuscript, *Vaticanus Graecus* 1950, under the heading "Ἐπικούρου Προσφώνησις" / "Epicurus' Declarations".
 
