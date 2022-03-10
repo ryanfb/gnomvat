@@ -458,27 +458,27 @@
 
 111. Ὁ αὐτὸς ἔφη· „αἱρετώτερόν ἐστιν ἐν ἐρημίᾳ λέγειν ἢ \<ἐν\> ἀκροαταῖς μὴ ἐπισημαινομένοις· ἐκεῖ μὲν γὰρ ἠχὼ τὴν ἀντιφώνησιν ἐρανίζει· ἐν δὲ τούτοις καὶ τὴν ὑπὸ τῆς φύσεως δεδομένην φωνὴν ἀπόλλυσθαι συμβαίνει.“
 
-     \[Antagoras\] said, "It is preferable to read in a desert than \<among\> listeners when they do not applaud.  For, there, the echo collects the answer. But among these men, it happens that even the voice given by nature is lost."
+     \[Antagoras\] said: "It is preferable to read in a desert than \<among\> listeners when they do not applaud. For, there, the echo collects the answer. But among these men, it happens that even the voice given by nature is lost."
 
 112. Ὁ αὐτὸς καταδικάζειν τινὸς θανατικὴν ψῆφον μέλλων ἐδάκρυσεν· εἰπόντος δέ τινος· „τί παθὼν αὑτὸς καταδικάζεις καὶ κλαίεις“; εἶπεν· „ὅτι ἀναγκαῖόν ἐστι τῇ μὲν φύσει τὸ συμπαθὲς ἀποδοῦναι, τῷ δὲ νόμῳ τὴν ψῆφον.“
 
-     \[Antagoras\], being about to charge someone with a vote of death, began to weep. And when someone said, "What have you suffered that you yourself give the charge and weep?" he said, "Because it is necessary to give sympathy because of nature, but to give the vote because of the law."
+     \[Antagoras\], being about to charge someone with a vote of death, began to weep. And when someone said, "What have you suffered that you yourself give the charge and weep?" he said: "Because it is necessary to give sympathy because of nature, but to give the vote because of the law."
 
 113. Ὁ αὐτὸς αἰσχρὸς ὢν τὴν ὄψιν γενομένων αὐτῷ παιδίων ὁμοίων εἶπεν· „ἔχω γυναῖκα λίαν σώφρονα.“
 
-     \[Antagoras\], being ugly, when children were born to him who looked like him, said, "I have a wife who is very chaste."
+     \[Antagoras\], being ugly, when children were born to him who looked like him, said: "I have a wife who is very chaste."
 
 114. Ἀναξαγόρας ἐρωτηθεὶς εἰς τί γεγένηται ἔφη· „εἰς τὸ τὰ τῆς φύσεως ἔργα θεωρῆσαι“· πρὸς δὲ τὸν εἰπόντα· „ἐστερήθης Ἀθηναίων“ „οὐ μὲν οὖν“, ἔφη, „ἀλλ’ ἐκεῖνοι ἐμοῦ.“
 
-     Anaxagoras, having been asked for what reason he had been born, said, "To examine the works of nature." And to someone saying, "You were deprived of the Athenians." he said, "No, but rather they were deprived of me."
+     Anaxagoras, having been asked for what reason he had been born, said: "To examine the works of nature." And to someone saying, "You were deprived of the Athenians." he said: "No, but rather they were deprived of me."
 
 115. Ὁ αὐτὸς πρὸς τὸν δυσφοροῦντα, ὅτι ἐπὶ ξένης ἐτελεύτα, „πανταχόθεν“, ἔφη, „ὁμοία ἐστὶν ἡ εἰς Ἅιδου κάθοδος.“
 
-     \[Anaxagoras\] said to someone bearing it ill that he was dying in a foreign land, "Everywhere the road to Hades is the same."
+     \[Anaxagoras\], to someone bearing it ill that he was dying in a foreign land, said: "Everywhere the road to Hades is the same."
 
 116. Ὁ αὐτὸς εἰπόντος τινὸς ὅτι „κατεψηφίσαντό σου Ἀθηναῖοι θάνατον“ ἔφη· „πάλαι καὶ ἐκείνων καὶ ἐμοῦ ἡ φύσις τοῦτον κατεψηφίσατο“.
 
-     \[Anaxagoras\], when someone said, "The Athenians condemned you to death" said, "A long time ago nature condemned both those men and me to this."
+     \[Anaxagoras\], when someone said, "The Athenians condemned you to death" said: "A long time ago nature condemned both those men and me to this."
 
 117. Ἀναξαγόρας ἀπαγγείλαντός τινος, ὅτι τεθνήκασιν αὐτοῦ οἱ παῖδες, ἔφη θνητοὺς γεννῆσαι.
 
@@ -510,23 +510,23 @@
 
 124. Αἴσωπος ὁ λογοποιὸς ἀγόμενος ὑπὸ τοῦ δεσπότου εἰς μυλῶνα ἠρώτα· „τί με ἄγεις;“ ὁ δὲ εἶπεν· „ἵνα χρήσιμος γένῃ“· „τί οὖν“, φησίν, „οὐχὶ καὶ τοὺς υἱούς σου ὧδε ἄγεις;“
 
-     Aesop the writer of fables, being led by his master to the mill-house, asked, "Why are you leading me?" And he said, "So that you may become useful." He says, "So why do you not also lead your sons this way?"
+     Aesop the writer of fables, being led by his master to the mill-house, asked: "Why are you leading me?" And he said, "So that you may become useful." \[Aesop\] responded: "So why do you not also lead your sons this way?"
 
 125. Ὁ αὐτὸς ἐρωτώμενος ὑπό τινος διὰ τί τὰ αὐτομάτως ἐκ γῆς φυόμενα ταχεῖαν τὴν αὔξησιν ἔχει, τὰ δὲ σπειρόμενα καὶ φυτευόμενα βραδέως αὔξεται εἶπεν· „ὅτι \<ἡ γῆ\> τῶν μὲν μήτηρ ἐστί, τῶν δὲ μητρυιά.“
 
-     \[Aesop\], being asked by someone why the things that sprout of their own accord from the earth have a quick growth, but the things that are sown and planted grow slowly, said, "Because \<the earth\> is the mother of some things and the step-mother of others."
+     \[Aesop\], being asked by someone why the things that sprout of their own accord from the earth have a quick growth, but the things that are sown and planted grow slowly, said: "Because \<the earth\> is the mother of some things and the step-mother of others."
 
 126. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί τῶν ζῴων ἐστὶ σοφώτατον εἶπεν· „τῶν μὲν χρησίμων μέλισσα, τῶν δὲ ἀχρήστων ἀράχνη.“
 
-     \[Aesop\], having been asked by someone what animal is the wisest, said, "Of the useful ones, the bee, and of the useless ones, the spider."
+     \[Aesop\], having been asked by someone what animal is the wisest, said: "Of the useful ones, the bee, and of the useless ones, the spider."
 
 127. Ὁ αὐτὸς ἐρωτηθεὶς πότε τοῖς ἀνθρώποις ἔσται κακῶς εἶπεν· „ὅταν πάντες πάντα ποιῶσιν“.
 
-     \[Aesop\], having been asked when it will be bad for mortals, said, "When everyone does everything."
+     \[Aesop\], having been asked when it will be bad for mortals, said: "When everyone does everything."
 
 128. Ὁ αὐτὸς ἐρωτώμενος ὑπό τινος πῶς ἂν μεγίστη ταραχὴ γένοιτο ἐν ἀνθρώποις ἔφη· „εἰ οἱ τετελευτηκότες ἀναστάντες ἀπαιτοῖεν τὰ ἴδια.“
 
-     \[Aesop\], being asked by someone how a great disturbance could happen among mortals, said, "If the dead, rising up, should ask for their belongings."
+     \[Aesop\], being asked by someone how a great disturbance could happen among mortals, said: "If the dead, rising up, should ask for their belongings."
 
 129. Ἀπελλῆς ὁ ζωγράφος ἐρωτηθεὶς διὰ τί τὴν Τύχην καθημένην ἔγραψεν εἶπεν· „ὅτι οὐχ ἕστηκεν.“
 
