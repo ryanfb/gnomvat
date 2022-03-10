@@ -848,15 +848,15 @@
 
 208. Ὁ αὐτὸς σκυτοτόμου τινὸς ἐν ἐκκλησίᾳ ταράττοντος „εὕρηκα ἄλλον“ εἶπεν „Ὑποδημάδην“.
 
-     \[Demosthenes\], when some leatherworker was causing a ruckus in the assembly, said, "I have found another Hypodemades."
+     \[Demosthenes\], when some leatherworker was causing a ruckus in the assembly, said: "I have found another Hypodemades."
 
 209. Ὁ αὐτὸς εἶπεν· „ὥσπερ δεῖ τοὺς πλέοντας πνεῦμα δεξιὸν ἐπιτηρεῖν, οὕτω καὶ τοὺς πολιτευομένους καιρόν, ἵν’ ἔλθωσιν, ὅπου βούλονται“.
 
-     \[Demosthenes\] said, "As it is very necessary for those sailing to watch out for the right wind, so also should those in politics look for the right moment, in order that they may come when they wish."
+     \[Demosthenes\] said: "As it is very necessary for those sailing to watch out for the right wind, so also should those in politics look for the right moment, in order that they may come when they wish."
 
 210. Ὁ αὐτὸς ὀνειδίζοντος αὐτόν τινος καὶ λέγοντος· „μεθύων παραλαλεῖς“ εἶπεν· „σὺ δὲ οἴει με νήφοντα παραλαλεῖν“. 
 
-     \[Demosthenes\], when someone was reproaching him and saying, "You are babbling while drunk," said, "But you think that I babble while sober."
+     \[Demosthenes\], when someone was reproaching him and saying, "You are babbling while drunk," said: "But you think that I babble while sober."
 
 211. Ὁ αὐτὸς ἔφησε τοὺς νόμους δημοκρατίας νεῦρα.
 
@@ -864,19 +864,19 @@
 
 212. \<Ὁ\> αὐτὸς ἐρωτηθεὶς ὑπό τινος τί μάλιστα \<παρ’\> ἀνθρώποις γηράσκει εἶπε· „χάρις“.
 
-     \[Demosthenes\], having been asked by someone what most grows old \<among\> men, said, "A favor."
+     \[Demosthenes\], having been asked by someone what most grows old \<among\> men, said: "A favor."
  
 213. Ὁ αὐτὸς ἐπὶ ἐκφοράν ποτε παραγενόμενος φιλαργύρου „οὗτος“ ἔφη „ζήσας ἀβίωτον βίον ἑτέροις ἀπολέλοιπεν βίον“.
 
-     \[Demosthenes\], once being present at the funeral of an avaricious man, said, "This man, after living a lifeless life, has left behind a life for others."
+     \[Demosthenes\], once being present at the funeral of an avaricious man, said: "This man, after living a lifeless life, has left behind a life for others."
 
 214. Ὁ αὐτὸς νεωτέρου τινὸς εὐειδοῦς μὲν τὴν ὄψιν, ἀσελγοῦς δὲ τὸν τρόπον, λοιδορουμένου αὐτῷ καὶ λέγοντος ὡς, εἰ ἐπίσης αὐτῷ ἐμισεῖτο ὑπὸ τῶν πολιτῶν, ἀπήγξατο ἂν ἔφη· „ἐγὼ μὲν οὖν ἀπηγξάμην ἄν, \<εἰ\> ἐπίσης σοι ὑπὸ τῶν πολιτῶν ἐφιλούμην“.
 
-     \[Demosthenes\], when some young man, beautiful in appearance but wanton in his way of life, was reproaching him and saying that, if he was hated by the citizens as much as he was, he would have been strangled, said, "So would I have been strangled, \<if\> I were loved as much as you are by the citizens."
+     \[Demosthenes\], when some young man, beautiful in appearance but wanton in his way of life, was reproaching him and saying that, if he was hated by the citizens as much as he was, he would have been strangled, said: "So would I have been strangled, \<if\> I were loved as much as you are by the citizens."
  
 215. Ὁ αὐτὸς ἑξηκονταετοῦς τινος εἰπόντος μηδεπώποτε οὕτως ἀσθενῆσαι ἔφη· „οὐδεπώποτε γὰρ ἑξηκονταετὴς ἐγένου“.
 
-     \[Demosthenes\], when a 60 year old man said that he had never been so weak, said, "For you were never 60 years old."
+     \[Demosthenes\], when a 60 year old man said that he had never been so weak, said: "For you were never 60 years old."
 
 216. Ὁ αὐτὸς τὸν πλούσιον καὶ ἀπαίδευτον ἔφη Τύχης ἔμετον εἶναι.
 
