@@ -562,15 +562,15 @@
 
 137. Ἀριστοτέλης ἐρωτηθεὶς τί ἐστι φίλος ἔφη· „μία ψυχὴ ἐν δυσὶ σώμασιν οἰκοῦσα.“
 
-     Aristotle, having been asked what a "friend" is, said, "One soul dwelling in two bodies."
+     Aristotle, having been asked what a "friend" is, said: "One soul dwelling in two bodies."
 
 138. Ὁ αὐτὸς ἐρωτηθεὶς τί τάχιστα γηράσκει εἶπε· „χάρις“.
 
-     \[Aristotle\], having been asked what grows old fastest, said, "A favor."
+     \[Aristotle\], having been asked what grows old fastest, said: "A favor."
 
 139. Ὁ αὐτὸς ἐπεκούρησέ ποτέ τινι αἰτήσαντι αὐτόν, καί τις πρὸς αὐτὸν εἶπεν, ὡς πονηρὸς εἴη ὁ ἄνθρωπος, „ἀλλ’ οὐ τῷ ἀνθρώπῳ ἔδωκα“, φησίν, „ἀλλὰ τῷ ἀνθρωπίνῳ“.
 
-     \[Aristotle\] once helped someone who asked him for it, and someone said to him that the man was dishonorable. He said, "But I did not give it to a human, but to his humanity.
+     \[Aristotle\] once helped someone who asked him for it, and when someone said to him that the man was dishonorable, he said: "But I did not give it to a human, but to his humanity.
 
 140. Ὁ αὐτὸς θεασάμενος νεανίσκον κατωφρυωμένον, μηδὲν δὲ ἐπιστάμενον, „νεανίσκε“, ἔφη, „οἷος μὲν δοκεῖς σεαυτῷ εἶναι, ἐγὼ γενοίμην· οἷος δὲ τῇ ἀληθείᾳ ὑπάρχεις, τοιοῦτοί μου οἱ ἐχθροὶ γένοιντο.“
 
