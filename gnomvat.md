@@ -454,7 +454,7 @@
 
 110. Ὁ αὐτὸς εἰς τὸ Τριχώνιον τῆς Αἰτωλίας ἐπιών, ἐπεὶ ἀναγινώσκοντος αὐτοῦ οὐδεὶς ἐπεσήμαινε, „δεόντως“, εἶπεν, „ἄνδρες, καὶ σφόδρα οἰκείως ὑμῖν ἐπίκειται τὸ τῆς πόλεως ὄνομα· παρὰ τρίχα \<γὰρ\> ὄνοι γεγόνατε.“
 
-     \[Antagoras\], journeying into Trichonion of Aitolia, when no one applauded while he was reading, said: "Fittingly, men, and very reasonably is the name of this city applied to you. For you are within a hair of becoming asses."
+     \[Antagoras\], journeying into Trichonion of Aitolia, when no one applauded while he was reading, said: "Fittingly, men, and very reasonably is the name of this city applied to you. For you are within a hair (*tricha*) of becoming asses (*onoi*)."
 
 111. Ὁ αὐτὸς ἔφη· „αἱρετώτερόν ἐστιν ἐν ἐρημίᾳ λέγειν ἢ \<ἐν\> ἀκροαταῖς μὴ ἐπισημαινομένοις· ἐκεῖ μὲν γὰρ ἠχὼ τὴν ἀντιφώνησιν ἐρανίζει· ἐν δὲ τούτοις καὶ τὴν ὑπὸ τῆς φύσεως δεδομένην φωνὴν ἀπόλλυσθαι συμβαίνει.“
 
