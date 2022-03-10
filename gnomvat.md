@@ -1,3 +1,5 @@
+# English translations from the *Gnomologium Vaticanum*
+
 ![Translation progress badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fryanfb%2Fgnomvat%2Fmain%2Fprogress.json)
 
 1. Ἀντισθένης τοὺς πόνους ἔφησεν ὁμοίους εἶναι κυσί· καὶ γὰρ ἐκεῖνοι τοὺς ἀσυνήθεις δάκνουσιν.
@@ -834,7 +836,7 @@
 
 205. Ὁ αὐτὸς ἐρωτηθεὶς τί ἐστι συκοφάντης εἶπεν· „καθημερινὸς λωποδύτης“.
 
-     \[Demosthenes\], having been asked what a sycophant is, said, "An everyday thief."
+     \[Demosthenes\], having been asked what a sycophant is, said: "An everyday thief."
 
 206. Ὁ αὐτὸς ἔφη τὸν κόλακα τοῦτο διαφέρειν τοῦ κόρακος, ᾗ ὁ μὲν ζῶντας, ὁ δὲ νεκροὺς ἐσθίει.
 
@@ -842,7 +844,7 @@
 
 207. Ὁ αὐτὸς μειρακίου παρὰ πότον πολλὰ ληροῦντος καὶ μὴ βουλομένου σιωπῆσαι „μειράκιον“ εἶπε· „πῶς, παρ’ ᾧ ἔμαθες λαλεῖν, παρὰ τούτῳ σιωπᾶν οὐκ ἔμαθες“;
 
-     \[Demosthenes\], when a young man was acting very foolish in his drink and did not wish to be silent, said, "Young man, How did you not know how to be silent from the man from whom you learned to act foolishly."
+     \[Demosthenes\], when a young man was acting very foolish in his drink and did not wish to be silent, said: "Young man, How did you not know how to be silent from the man from whom you learned to act foolishly."
 
 208. Ὁ αὐτὸς σκυτοτόμου τινὸς ἐν ἐκκλησίᾳ ταράττοντος „εὕρηκα ἄλλον“ εἶπεν „Ὑποδημάδην“.
 
