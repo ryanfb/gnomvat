@@ -4,8 +4,9 @@
 
 * [Introduction](https://ryanfb.github.io/gnomvat/introduction).
 * [English translations from the Gnomologium Vaticanum](https://ryanfb.github.io/gnomvat/gnomvat).
+* [Concordances](https://ryanfb.github.io/gnomvat/concordances).
 
-**Please note that this translation is still a work-in-progress. Translations are still being added and revised.**
+**Please note that this translation is still a work-in-progress. Translations are still being revised.**
 
 The Greek text used is: L. Sternbach, *Gnomologium Vaticanum e codice Vaticano Graeco 743. Texte und Kommentare* 2. Berlin: De Gruyter, 1887 (repr. 1963). Berichtigungsliste readings have been incorporated into the text.
 
