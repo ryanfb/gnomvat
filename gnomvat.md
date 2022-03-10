@@ -574,7 +574,7 @@
 
 140. Ὁ αὐτὸς θεασάμενος νεανίσκον κατωφρυωμένον, μηδὲν δὲ ἐπιστάμενον, „νεανίσκε“, ἔφη, „οἷος μὲν δοκεῖς σεαυτῷ εἶναι, ἐγὼ γενοίμην· οἷος δὲ τῇ ἀληθείᾳ ὑπάρχεις, τοιοῦτοί μου οἱ ἐχθροὶ γένοιντο.“
 
-     \[Aristotle\], seeing a young man being arrogant but knowing nothing, said, "Young man, I wish I were the sort of man you think yourself to be. But what sort of person you are in truth, may my enemies be such people."
+     \[Aristotle\], seeing a young man being arrogant but knowing nothing, said: "Young man, I wish I were the sort of man you think yourself to be. But what sort of person you are in truth, may my enemies be such people."
 
 141. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί τοῖς καλοῖς ἥδιστα διαλέγεται ἔφη· „τυφλοῦ τὸ ἐρώτημα“.
 
