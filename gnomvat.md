@@ -1096,31 +1096,31 @@
  
 270. Ὁ αὐτὸς ὀνειδιζόμενός ποτε ὅτι δίκην ἔχων ἐμισθώσατο ῥήτορα ἔφη· „καὶ γάρ, ὅταν δεῖπνον ἔχω, μάγειρον μισθοῦμαι“.
 
-     When \[Euripides\] was being rebuked because he hired an orator when he had a court case, he said, "Certainly, for whenever I have dinner, I hire a cook."
+     When \[Euripides\] was being rebuked because he hired an orator when he had a court case, he said: "Certainly, for whenever I have dinner, I hire a cook."
 
 271. Ὁ αὐτὸς ὀνειδιζόμενος ὑπό τινων ἐπὶ τῷ βαρβαρίζειν ἔφη· „ἐγὼ μὲν τῷ λόγῳ, ὑμεῖς δὲ τῷ τρόπῳ“.
 
-     When \[Euripides\] was being rebuked by certain people for speaking gibberish, he said, "I do so in my speech, but you do so in your way of life.
+     When \[Euripides\] was being rebuked by certain people for speaking gibberish, he said: "I do so in my speech, but you do so in your way of life.
 
 272. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί \[αὐτὸς\] τούς τε πονηροὺς καὶ ἀγαθοὺς μισεῖ ἔφη· „τοὺς μὲν πονηροὺς διὰ τὴν μοχθηρίαν, τοὺς δὲ ἀγαθοὺς ὅτι τοὺς κακοὺς οὐ μισοῦσιν“.
 
-     When \[Euripides\] was asked why he hated both the wicked and the good, he said, "I hate the wicked for their depravity and the good because they do not hate the bad."
+     When \[Euripides\] was asked why he hated both the wicked and the good, he said: "I hate the wicked for their depravity and the good because they do not hate the bad."
 
 273. Ὁ αὐτὸς ἔφη· „ὅστις φίλον λυπούμενον ἔφυγεν, οὐδὲ τοῦ χαίροντος ἀπολαύειν ἄξιος“.
 
-     \[Euripides\] said, "Whoever avoids a friend in pain does not deserve to enjoy them when they are well."
+     \[Euripides\] said: "Whoever avoids a friend in pain does not deserve to enjoy them when they are well."
 
 274. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί σφόδρα ἀγανακτεῖ κακῶς ἀκούων ἔφη· „ὅτι οὐδὲ ἐπαινούμενος ἡσθήσομαι, εἰ μὴ κακῶς ἀκούων ἀχθεσθήσομαι“.
 
-     When \[Euripides\] was asked why he gets so annoyed at being criticized, he said, "Because I will not enjoy being praised unless I am pained at being criticized."
+     When \[Euripides\] was asked why he gets so annoyed at being criticized, he said: "Because I will not enjoy being praised unless I am pained at being criticized."
 
 275. Ὁ αὐτὸς, ἐπεὶ ὀψωνοῦντος αὐτοῦ ἐπελάβετό τις λέγων ὅτι Σοφοκλῆς τοῦτο διὰ δούλου ποιεῖ \<ἔφη\>· „τοιγαροῦν Σοφοκλῆς μὲν ἐσθίει ὄψον, ὁποῖον ἂν τῷ οἰκέτῃ ἀρέσῃ, ἐγὼ δέ, ὁποῖον ἂν ἐμοί“.
 
-     \[Euripides\], when someone rebuked him for cooking by saying that Sophocles had a slave do this, said, "In that case, Sophocles eats the food that his slave likes, but I eat what I like."
+     \[Euripides\], when someone rebuked him for cooking by saying that Sophocles had a slave do this, said: "In that case, Sophocles eats the food that his slave likes, but I eat what I like."
 
 276. Ὁ αὐτός ποτε φακῆν ἕψων καὶ μὴ ἔχων ξύλα ἀνελόμενος ξόανον Ἡρακλέους ἐγγὺς ἑστηκὸς ἐπέθηκε τῇ ἑστίᾳ εἰπών· „Ἡράκλεις, τρισκαιδέκατόν σοι τοῦτον ἆθλον Εὐριπίδης ἐπέθηκεν, \[ἐπὶ\] φακῆν ἑψῆσαι“
 
-     Once, when \[Euripides\] was boiling lentils and didn't have any wood, he took up a wooden statue of Heracles standing nearby and put it onto the hearth, saying, "Heracles, Euripides imposes a thirteenth labor upon you: boil the lentils."
+     Once, when \[Euripides\] was boiling lentils and didn't have any wood, he took up a wooden statue of Heracles standing nearby and put it onto the hearth, saying: "Heracles, Euripides imposes a thirteenth labor upon you: boil the lentils."
 
 277. Εὐκλείδης ὁ φιλόσοφος ἐρωτώμενος ὑπό τινος ὁποῖοί τινές εἰσιν οἱ θεοὶ καὶ τίσι χαίρουσι „τὰ μὲν ἄλλα οὐκ οἶδα“ εἶπε· „τοὺς μέντοι φιλοπράγμονας ὅτι μισοῦσιν, ἀσφαλῶς οἶδα“.
 
@@ -1184,11 +1184,11 @@
 
 292. Εὐκράτης ὁ Κόρυδος δοκοῦντός τινος νεανίσκου παρακεχρῆσθαι τῇ ἡλικίᾳ καὶ πεπλουτηκέναι ἀπὸ τῆς ὥρας „ὁρῶ σε“, φησίν, „ὦ νεανίσκε, ἐκ τῶν ὄπισθεν εἰς τοὔμπροσθεν προβεβηκότα“.
 
-     Eucrates the Lark, when some young man seemed to have misused his age and become wealthy from his looks, said, "I see that you, young man, that you have advanced forward from your behind."
+     Eucrates the Lark, when some young man seemed to have misused his age and become wealthy from his looks, said: "I see that you, young man, that you have advanced forward from your behind."
 
 293. Εὐμενὴς ὁ βασιλεὺς τοῖς ἀδελφοῖς ἔλεγε διὰ παντός· „ἐὰν μὲν ὡς βασιλεῖ προσφέρησθέ μοι, ὡς ἀδελφοῖς ὑμῖν χρήσομαι· ἐὰν δὲ ὡς ἀδελφῷ, ἐγὼ ὑμῖν ὡς βασιλεύς“.
 
-     Eumenes the king always said to his brothers, "If you treat me like a king, I will handle you as brothers. But if you treat me like a brother, I will do so as a king."
+     Eumenes the king always said to his brothers: "If you treat me like a king, I will handle you as brothers. But if you treat me like a brother, I will do so as a king."
 
 294. Ἐπίκουρος ὁ φιλόσοφος τὴν οἴησιν ἱερὰν νόσον \[εἶναι\] ἔλεγεν.
 
@@ -1244,11 +1244,11 @@
 
 307. Ἡγησίας ὁ ῥήτωρ ὀνειδιζόμενος ὑπό τινος, ὅτι \[ὑπὸ τῆς χώρας\] ἀγροίκων ἀπόγονός ἐστιν, „οἶδα“ φησίν „ἀλλὰ τοῖς μετ’ \<ἐμ-\>αὐτὸν εὐγενείας ἄρξω“.
 
-     Hegesias the orator, being mocked by someone saying that he is the offspring of farmers, says, "I know, but I will be the beginning of nobility for those after \<me\>.
+     Hegesias the orator, being mocked by someone saying that he is the offspring of farmers, said: "I know, but I will be the beginning of nobility for those after \<me\>."
 
 308. Ὁ αὐτὸς κακοῦ τινος τραγῳδοποιοῦ ἀκρόασιν ποιούμενος \[καὶ\] λέγοντός τινος νεανίσκου ὅτι ἐξελεύσεται „οὐκ ἐμοῦγε“ ἔφη „πρότερος“· καὶ ἀναστὰς ἐξῆλθεν.
 
-     \[Hegesias\], while listening to some bad tragedian, when some young man said that he was going to go, said, "Not before me," and he stood up and left.
+     \[Hegesias\], while listening to some bad tragedian, when some young man said that he was going to go, said: "Not before me," and he stood up and left.
 
 309. Ἡρόδοτος ὁ ἱστοριογράφος ἐρωτηθεὶς ὑπό τινος πῶς ἂν δύναιντο \<οἱ\> ἄνθρωποι εὐθυμεῖν εἶπεν· „ἐὰν μὴ πολλὰ πρήσσωσιν.“
 
@@ -1260,15 +1260,15 @@
 
 311. Ὁ αὐτὸς ἔφη· „κακοὶ μάρτυρες ὦτα καὶ ὀφθαλμοὶ ἀφρόνων ἀνθρώπων“.
 
-     \[Heraclitus\] said, "Bad witnesses are the ears and eyes of senseless people."
+     \[Heraclitus\] said: "Bad witnesses are the ears and eyes of senseless people."
 
 312. Ὁ αὐτὸς ἔφη· „τιμαὶ θεοὺς καὶ ἀνθρώπους καταδουλοῦνται“.
 
-     \[Heraclitus\] said, "Honors enslave gods and men."
+     \[Heraclitus\] said: "Honors enslave gods and men."
 
 313. \<Ὁ\> αὐτὸς εἶπεν· „ἄνθρωποι κακοὶ ἀληθινῶν ἀντίδικοι“.
 
-     \[Heraclitus\] said, "Bad men are the opponents of genuine ones."
+     \[Heraclitus\] said: "Bad men are the opponents of genuine ones."
 
 314. Ἡράκλειτος τὴν παιδείαν ἕτερον ἥλιον εἶναι τοῖς πεπαιδευμένοις ἔλεγεν.
 
@@ -1280,7 +1280,7 @@
 
 316. Θαλῆς ὁ σοφὸς ἐρωτηθεὶς εἰ λανθάνει τις ποιῶν τι τὸν θεὸν εἶπεν· „οὐδὲ διανοούμενος“.
 
-     Thales the sage, having been asked if anyone does anything with the gods unaware, said, "They do not even plan it."
+     Thales the sage, having been asked if anyone does anything with the gods unaware, said: "They do not even plan it."
 
 317. Ὁ αὐτὸς ἐρωτῶντος αὐτόν τινος εἰ ὀμόσῃ, ὅτι οὐκ ἐμοίχευσεν, ἐκέλευσε μὴ ὀμόσαι φήσας τὸν ὅρκον μεῖζον αὐτὸν βλάψειν ἢ τὸ ἔργον.
 
@@ -1292,7 +1292,7 @@
 
 319. Ὁ αὐτὸς ἀποσκοπῶν ποτε νύκτωρ εἰς τὰ μετέωρα καὶ διὰ τοῦτο κατενεχθεὶς εἴς τι φρέαρ, πρὸς τὴν ἐκείνου φωνὴν τὸ προσεδρεῦον αὐτῷ θεραπαινίδιον ἐλθὸν καὶ διὰ κλιμακίου μόλις ἀνελκύσαν τὸν δεσπότην εἶπεν· „ὦ Θαλῆς, τὰ ἐν οὐρανῷ σκοπῶν τὰ ἐπὶ γῆς οὐχ ἑώρακας“.
 
-     \[Thales\], once looking steadily at night at things in the heavens and, for this reason, having fallen into some well, the attendant woman who served him, coming to the sound of his voice and dragging her master up with difficulty with a ladder, said to him, "O Thales, watching the things in the sky you have not seen the ones on the ground."
+     \[Thales\], once looking steadily at night at things in the heavens and, for this reason, having fallen into some well, the attendant woman who served him, coming to the sound of his voice and dragging her master up with difficulty with a ladder, said to him: "O Thales, watching the things in the sky you have not seen the ones on the ground."
 
 320. Θαλῆς ἐρωτηθεὶς
 
