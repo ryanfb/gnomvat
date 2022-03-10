@@ -382,59 +382,59 @@
 
 92. Ὁ αὐτὸς παραινοῦντος αὐτῷ Φιλίππου τοῦ πατρὸς Ὀλύμπια ἀγωνίσασθαι εἶπε· „τὸ μὲν νικᾶν τὸν ἀγῶνα τοῦτον οὐ βασιλικόν, τὸ δὲ ἡττᾶσθαι αἰσχρόν.“
 
-    \[Alexander\], when Philip was father was advising him to compete in the Olympic games, said, "To win at this contest is not kingly, and to be defeated is shameful."
+    \[Alexander\], when Philip was father was advising him to compete in the Olympic games, said: "To win at this contest is not kingly, and to be defeated is shameful."
 
 93. Ὁ αὐτὸς λοιδορούμενος ὑπὸ κακοῦ τραγῳδοῦ „νεανίσκε“, εἶπεν, „οὐδὲν θαυμαστὸν ποιεῖς· σὺ γὰρ καὶ τὸν Αἴαντα καὶ τὸν Ἀχιλλέα λοιδορεῖς.“
 
-    \[Alexander\], being mocked by a wicked actor of tragedy, said, "Young man, you are doing nothing marvelous. For you also mock both Ajax and Achilles."
+    \[Alexander\], being mocked by a wicked actor of tragedy, said: "Young man, you are doing nothing marvelous. For you also mock both Ajax and Achilles."
 
 94. Ὁ αὐτὸς παραινούντων αὐτῷ τῶν φίλων στρατεύειν ἐπὶ τὰς Ἀμαζόνας εἶπε· „τὸ μὲν νικῆσαι γυναῖκας οὐκ ἔνδοξον, τὸ δὲ νικηθῆναι ὑπ’ αὐτῶν ἄδοξον.“
 
-    \[Alexander\], when his friends were advising him to make war against the Amazons, said, "To conquer women is not noteworthy, and to be defeated by them is disreputable."
+    \[Alexander\], when his friends were advising him to make war against the Amazons, said: "To conquer women is not noteworthy, and to be defeated by them is disreputable."
 
 95. Ὁ αὐτὸς ἰδών τινα ἐν γήρᾳ βάπτοντα τὰς τρίχας εἶπεν· „μὴ τὰς τρίχας βάπτε, ἀλλὰ τὰ γόνατα.“
 
-    \[Alexander\], seeing someone in old age dipping their hair in water, said, "Don't dip your hair but your knees."
+    \[Alexander\], seeing someone in old age dipping their hair in water, said: "Don't dip your hair, but your knees."
  
 96. Ἀλέξανδρος ὁ βασιλεὺς πληρώσας ποτὲ ὀστέων πίνακα ἔπεμψεν Διογένει τῷ Κυνικῷ· ὁ δὲ λαβὼν εἶπε· „κυνικὸν μὲν τὸ βρῶμα, οὐ βασιλικὸν δὲ τὸ δῶρον.“
 
-    Alexander the king, having once filled up a trencher with bones, sent it to Diogenes the Cynic. And he, taking it, said, "The food is for the dogs, but the gift is not kingly."
+    Alexander the king, having once filled up a trencher with bones, sent it to Diogenes the Cynic. And he, taking it, said: "The food is for the dogs, but the gift is not kingly."
 
 97. Ὁ αὐτὸς ἰδὼν Διογένην κοιμώμενον ἐν πίθῳ εἶπε· „πίθῳ μεστὲ φρενῶν“, ὁ δὲ φιλόσοφος ἀποστὰς εἶπεν· „ὦ βασιλεῦ μέγιστε, θέλω τύχης σταλαγμὸν ἢ φρενῶν πίθον, ἧς μὴ παρούσης δυστυχοῦσιν αἱ φρένες.“
 
-    \[Alexander\], seeing Diogenes lying in a jug, said, "Jug full of wits," and the philosopher, withdrawing from him, said, "O greatest king, I wish for a drop of fortune rather than a jug of wits, since with the fortune being gone, my wits fare ill."
+    \[Alexander\], seeing Diogenes lying in a jug, said, "Jug full of wits," and the philosopher, withdrawing from him, said: "O greatest king, I wish for a drop of fortune rather than a jug of wits, since with the fortune being gone, my wits fare ill."
 
 98. Τῷ αὐτῷ ἐξιόντι ἐπὶ πόλεμον Ἀριστοτέλης ἔφη· „περίμεινον τὸ τέλειον τῆς ἡλικίας καὶ τότε πολέμει.“ ὁ δὲ ἔφη· „φοβοῦμαι, μὴ περιμένων τὸ τέλειον τῆς ἡλικίας τὴν τῆς νεότητος τόλμαν ἀπολέσω·“
 
-    When \[Alexander\] was going off to war, Aristotle said, "Wait for the end of the prime of life and then wage war." But he said, "I am afraid that if I wait for the end of the prime of life I will lose the daring of youth."
+    When \[Alexander\] was going off to war, Aristotle said, "Wait for the end of the prime of life and then wage war." But he said: "I am afraid that if I wait for the end of the prime of life I will lose the daring of youth."
 
 99. Ὁ αὐτὸς ἰδὼν Δαρεῖον πεσόντα καὶ τὸ σῶμα γυμνωθέντα ἄρας τὴν ἑαυτοῦ χλαμύδα ἐπέθηκεν αὐτῷ εἰπών· „ἄνδρες φίλοι, οὐ τὸν νεκρὸν καλύπτω, ἀλλὰ τὴν τύχην περιστέλλω.“
 
-    \[Alexander\], seeing Darius fallen and lifting his naked body, placed his own mantle upon him, saying, "Dear men, I do not cover up a corpse, but rather I wrap up his fate."
+    \[Alexander\], seeing Darius fallen and lifting his naked body, placed his own mantle upon him, saying: "Dear men, I do not cover up a corpse, but rather I wrap up his fate."
 
 100. Ὁ αὐτὸς εἰς Ἰλλυρίους παραγενόμενος ἐν τῷ τοῦ Διὸς ἱερῷ κατιδὼν \<γυναῖκα\> κάλλει διαφέρουσαν \<ἐκπλαγεὶς\> αὐτῆς τὴν εὐμορφίαν πολὺν χρόνον ἐθεᾶτο· τοῦ δὲ Ἡφαιστίωνος εἰπόντος, \<ὅτι\> εἰκότως \<ἂν\> παραλάβοι τὴν προῃρημένην ἔφη· „καὶ πῶς οὐ δεινόν, εἰ ἄλλων ἀκρασίας κολάζειν βουλόμενοι δουλεύοντες ἀκρασίαις ὑπὸ τῶν ἐκτὸς ἀνθρώπων φωραθῶμεν;“
 
-     \[Alexander\], having come to the Illyrians and seeing in the temple of Zeus \<a woman\> outstanding in beauty, \<amazed\> at her beauty he watched her for a long time. And when Hephaistion said \<that\> he could reasonably take the preferred woman as his own, he said, "And how is this not dreadful, if, when we want to chastise other men's lack of control, we are detected by foreign men being slaves to our own lack of control?"
+     \[Alexander\], having come to the Illyrians and seeing in the temple of Zeus \<a woman\> outstanding in beauty, \<amazed\> at her beauty he watched her for a long time. And when Hephaistion said \<that\> he could reasonably take the preferred woman as his own, he said: "And how is this not dreadful, if, when we want to chastise other men's lack of control, we are detected by foreign men being slaves to our own lack of control?"
 
 101. Ὁ αὐτὸς „ἐν τίνι μάλιστα ἀπολέλαυκας τῆς δυναστείας;“ ἐρωτηθεὶς ἔφη· „ἐν τῷ μηδενὸς εἰς εὐεργεσίαν ἡττᾶσθαι.“
 
-     \[Alexander\], being asked, "In what way do you most enjoy your dominion?" said, "In being conquered by no one in doing good deeds."
+     \[Alexander\], being asked, "In what way do you most enjoy your dominion?" said: "In being conquered by no one in doing good deeds."
 
 102. Ὁ αὐτὸς παράγγελμα ἔλαβεν ὅτι „ἐὰν δύνῃ ὁδεῦσαι, μὴ πλεύσῃς· καθ’ ἑκάστην ἡμέραν διατίθου· γυναικὶ ἀπόῤῥητα μὴ θαῤῥήσῃς· καὶ ἐὰν ὀργισθῇς κατά τινος, μὴ ποιήσῃς εἰς αὐτὸν \<ἐξέλευσιν\>, πρὶν \<ἂν\> ἀπαγγείλῃς \<τὰ κδ στοιχεῖα τοῦ ἀλφαβήτου\>“.
 
-     \[Alexander\] took an instruction that said, "If you can travel by land, do not sail. Settle yourself every day. Do not trust a woman with secret things. And if you become angry at someone, do not make a \<decision\> against him before you relate \<the 24 letters of the alphabet\>.
+     \[Alexander\] took an instruction that said: "If you can travel by land, do not sail. Settle yourself every day. Do not trust a woman with secret things. And if you become angry at someone, do not make a \<decision\> against him before you relate \<the 24 letters of the alphabet\>.
 
 103. Ὁ αὐτὸς πρεσβευτὴν μέλλων πέμπειν εἰς Πέρσας ἔφη εὐλαβεῖσθαι, μὴ ἀλογηθῇ· τοῦ δὲ εἰπόντος· „καλὸν ἔχοιμι ὑπεραποθνήσκειν σοῦ, βασιλεῦ“ εἶπε· „κἀμοὶ τὸ φείδεσθαι τῶν τοιούτων φίλων.“
 
-     \[Alexander\], being about to send an ambassador to the Persians, told him to take care not to be heedless. And when he said, "I would consider it a good thing to die on your behalf, king." he said, "And I would consider it good to spare such friends."
+     \[Alexander\], being about to send an ambassador to the Persians, told him to take care not to be heedless. And when he said, "I would consider it a good thing to die on your behalf, king." he said: "And I would consider it good to spare such friends."
 
 104. Ὁ αὐτὸς αἰτήσαντος αὐτὸν Διογένους δραχμὴν ἔφη· „οὐ βασιλικὸν τὸ δῶρον·“ τοῦ δὲ εἰπόντος· „καὶ δὸς τάλαντον“ εἶπεν· „ἀλλ’ οὐ κυνικὸν τὸ αἴτημα.“
 
-     \[Alexander\], when Diogenes asked him for a drachma, said, "The gift is not kingly." But when he said, "Then give a talent," he said, "But the request is not Cynic."
+     \[Alexander\], when Diogenes asked him for a drachma, said: "The gift is not kingly." But when he said, "Then give a talent," he said: "But the request is not Cynic."
 
 105. Ὁ αὐτὸς συμβουλευόντων αὐτῷ πολλῶν καταδουλώσασθαι τὴν Ἑλλάδα „βούλομαι“, ἔφη, „ἐπὶ πολὺν χρόνον χρηστὸς κληθῆναι ἢ δεσπότης ἐπ’ ὀλίγον“.
 
-     \[Alexander\], when many people were counseling him to enslave Greece, said, "I wish to be called good for a long time rather than a master for a short time."
+     \[Alexander\], when many people were counseling him to enslave Greece, said: "I wish to be called good for a long time rather than a master for a short time."
 
 106. Ἀνταγόρας ὁ ποιητὴς ἀκρόασιν παρέχων ἐν Θήβαις καὶ μηδεμιᾶς τυγχάνων τιμῆς εἶπεν· „ὦ ἄνδρες Θηβαῖοι· ἥμαρτεν Ὀδυσσεὺς ἐμφράξας τῶν ἑταίρων τὰς ἀκοάς, ὅτε τὰς Σειρῆνας παρέπλει· ἔδει γὰρ αὐτὸν ὑμᾶς ναύτας μισθώσασθαι.“
 
@@ -450,11 +450,11 @@
 
 109. Ἀνταγόρας ὁ Ῥόδιος ἐποποιὸς ἐν Θήβαις ἀναγινώσκων τὸ τῆς Θηβαΐδος σύγγραμμα, ὡς οὐδεὶς ἐπεσημαίνετο, εἱλήσας τὸ βιβλίον εἶπεν· „δικαίως καλεῖσθε Βοιωτοί· βοῶν γὰρ ὦτα ἔχετε.“
 
-     Antagoras the epic poet of Rhodes, reading his work the Thebaid in Thebes, when no one applauded, rolling up the scroll, said, "Justly are you called Boiotians. For you have the ears of bovines."
+     Antagoras the epic poet of Rhodes, reading his work the Thebaid in Thebes, when no one applauded, rolling up the scroll, said: "Justly are you called Boiotians. For you have the ears of bovines."
 
 110. Ὁ αὐτὸς εἰς τὸ Τριχώνιον τῆς Αἰτωλίας ἐπιών, ἐπεὶ ἀναγινώσκοντος αὐτοῦ οὐδεὶς ἐπεσήμαινε, „δεόντως“, εἶπεν, „ἄνδρες, καὶ σφόδρα οἰκείως ὑμῖν ἐπίκειται τὸ τῆς πόλεως ὄνομα· παρὰ τρίχα \<γὰρ\> ὄνοι γεγόνατε.“
 
-     \[Antagoras\], journeying into Trichonion of Aitolia, when no one applauded while he was reading, said, "Fittingly, men, and very reasonably is the name of this city applied to you. For you are within a hair of becoming asses."
+     \[Antagoras\], journeying into Trichonion of Aitolia, when no one applauded while he was reading, said: "Fittingly, men, and very reasonably is the name of this city applied to you. For you are within a hair of becoming asses."
 
 111. Ὁ αὐτὸς ἔφη· „αἱρετώτερόν ἐστιν ἐν ἐρημίᾳ λέγειν ἢ \<ἐν\> ἀκροαταῖς μὴ ἐπισημαινομένοις· ἐκεῖ μὲν γὰρ ἠχὼ τὴν ἀντιφώνησιν ἐρανίζει· ἐν δὲ τούτοις καὶ τὴν ὑπὸ τῆς φύσεως δεδομένην φωνὴν ἀπόλλυσθαι συμβαίνει.“
 
