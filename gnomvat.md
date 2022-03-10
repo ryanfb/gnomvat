@@ -346,7 +346,7 @@
 
 83. Ὁ αὐτὸς ἰδὼν ὁμώνυμον δειλῶς μαχόμενον εἶπεν· „ἔα νεανίσκε, ἢ τὸ ὄνομα ἄλλαξον ἢ τοὺς τρόπους.“
 
-    \[Alexander\], seeing someone with the same name fighting in a cowardly way, said: "Let it be, young man, either change your name or your habits."
+    \[Alexander\], seeing someone with the same name fighting in a cowardly way, said: "Halt, young man, either change your name or your ways!"
 
 84. Ὁ αὐτὸς ἐπεί τις τῶν βαρβάρων ὀχυρὸν τόπον ἔχων ἑαυτὸν παραδέδωκε, καὶ τὸν τόπον καὶ τὰ ἴδια ἀπεκατέστησεν αὐτῷ καὶ πολλῆς ἄλλης χώρας ἔπαρχον ἐποίησεν· ἐρωτηθεὶς δὲ ὑπὸ τῶν φίλων διὰ τί οὕτως ἐχρήσατο αὐτῷ ἔφη· „ὅτι ἀνδρὶ ἀγαθῷ μᾶλλον ἑαυτὸν ἐπίστευσεν ἢ τόποις ὀχυροῖς.“
 
