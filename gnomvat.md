@@ -1004,15 +1004,15 @@
 
 247. Ὁ αὐτὸς ἐν ἐκκλησίᾳ θροούμενος εἶπεν· „οὐκ ἐμὲ ἐκωλύσατε λέγειν, ἀλλ’ ἑαυτοὺς ἀκούειν“.
 
-     \[Demades\], being shouted at in the assembly, said, "You did not prevent me from speaking but yourselves from hearing."
+     \[Demades\], being shouted at in the assembly, said: "You did not prevent me from speaking but yourselves from hearing."
 
 248. Δημοκράτης ὁ Παῤῥησιαστὴς ἐρωτήσαντός \[ποτε αὐτὸν\] Φιλίππου τί ἂν ποιῶν χαρίζοιτο Ἀθηναίοις εἶπεν· „ἀπαγξάμενος.“
 
-     Democrates the Free-Speaker, when Philip asked what sort of thing pleased the Athenians, he said, "Being hanged."
+     Democrates the Free-Speaker, when Philip asked what sort of thing pleased the Athenians, said: "Being hanged."
 
 249. Ὁ αὐτὸς πρὸς τοὺς πυκνῶς ἐγκωμιάζοντας Φίλιππον „οὐ παύσεσθε“ εἶπε „θνητοῦ σώματος ἀθάνατοι κόλακες ὄντες;“
 
-     \[Democrates\] said to those repeatedly praising Philip, "Won't you stop being immortal flatterers of a mortal body?"
+     \[Democrates\] said to those repeatedly praising Philip: "Won't you stop being immortal flatterers of a mortal body?"
 
 250. Ὁ αὐτὸς τοὺς πλουσίους καὶ ἀπαιδεύτους παραπλησίους ἔφησεν εἶναι τοῖς κριοῖς τοῖς ἐπιπόκοις, πλὴν ὅτι ἐκείνους μὲν οἱ κουρεῖς, τούτους δὲ οἱ συκοφάνται κείρουσιν.
 
@@ -1020,11 +1020,11 @@
 
 251. Ὁ αὐτός ποτε ἀποσταλεὶς παρὰ Ἀθηναίων πρὸς Φίλιππον κατὰ πρεσβείαν μετὰ παῤῥησίας αὐτῷ ὡμίλει· τοῦ δὲ Φιλίππου εἰπόντος· „οὐ φοβῇ, μὴ τὴν κεφαλήν σου προστάξω ἀφελεῖν;“ „οὐ φοβοῦμαι“ εἶπεν· „ἐὰν γὰρ σύ μου ταύτην ἀφέλῃς, ἡ πατρίς μοι αὐτὴν ἀθάνατον ἀναθήσει“. 
 
-     \[Democrates\], having been sent once by the Athenians to Philip on an embassy, associated with him frankly. And when Philip said, "Aren't you afraid that I will issue a command to take off your head?", he said, "I am not afraid, for if you take off this one of mine, my fatherland will set it up as immortal."
+     \[Democrates\], having been sent once by the Athenians to Philip on an embassy, associated with him frankly. And when Philip said, "Aren't you afraid that I will issue a command to take off your head?", he said: "I am not afraid, for if you take off this one of mine, my fatherland will set it up as immortal."
 
 252. Ὁ αὐτὸς θεωρῶν τοὺς περὶ Ἀριστογείτονα καὶ Πυθέαν πονηροὺς ἀνθρώπους ὑπὸ τοῦ δήμου προαγομένους „οὐκ αἰσχύνεσθε,“ φησίν, „ὦ Ἀθηναῖοι, καθάπερ οἱ ὄρνιθες τὰ κόπρια εἰς τὸ μέσον ἕλκοντες“;
 
-     \[Democrates\], seeing the immoral men close to Aristogeiton and Pytheas being preferred by the people, said, "Aren't you ashamed, O Athenians, bringing your droppings into the middle like birds?"
+     \[Democrates\], seeing the immoral men close to Aristogeiton and Pytheas being preferred by the people, said: "Aren't you ashamed, O Athenians, bringing your droppings into the middle like birds?"
 
 253. Δημήτριος ὁ Φαληρεὺς ἔφη, ὡς οἱ \<θυμοὶ καθάπερ οἱ\> κύνες τυφλὰ τίκτουσι τὰ κριτήρια.
 
@@ -1052,11 +1052,11 @@
 
 259. Ὁ αὐτὸς ἐρωτηθεὶς τί τῶν ζώων κάλλιστόν ἐστιν εἶπεν· „ἄνθρωπος παιδείᾳ κεκοσμημένος“.
 
-     \[Demetrius\], having been asked what animal is the most beautiful, said, "A human decorated with education."
+     \[Demetrius\], having been asked what animal is the most beautiful, said: "A human decorated with education."
 
 260. Ὁ αὐτὸς ἐρωτηθεὶς τίς ἄριστος σύμβουλος ἔφη· „ὁ καιρός.“
 
-     \[Demetrius\], having been asked what is the best advisor, said, "The right moment."
+     \[Demetrius\], having been asked what is the best advisor, said: "The right moment."
 
 261. Διονύσιος ὁ Σικελίας τύραννος ἐκπεσὼν τῆς ἀρχῆς καὶ ἐρωτώμενος ὑπό τινος· „τί ὠφέλησαι ὑπὸ Πλάτωνος;“ εἶπε· „πάλαι μὲν τὸ μετρίως ἄρχειν, νῦν δὲ τὸ μετρίως ζῆν“.
 
