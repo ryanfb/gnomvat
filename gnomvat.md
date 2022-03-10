@@ -758,39 +758,39 @@
 
 186. Διογένης πρὸς τὸν λοιδορούμενον αὐτῷ „ἀλλ’ οὔτε ἐμοί“, ἔφη, „πιστεύσει τις εὐφημοῦντί σε οὔτε σοὶ ἐμὲ βλασφημοῦντι“.
 
-     Diogenes said to a person abusing him, "But no one believes me speaking well of you nor of you speaking ill of me."
+     Diogenes said to a person abusing him: "But no one believes me speaking well of you, nor of you speaking ill of me."
 
 187. Ὁ αὐτὸς ἐρωτώμενος πῶς ἄν τις ἀμύναιτο τὸν ἐχθρὸν εἶπεν· „εἰ σύ γε καλὸς καὶ ἀγαθὸς αὐτῷ γένοιο“.
 
-     \[Diogenes\], being asked how someone could ward off an enemy, said, "If you, at least, are good and noble to him."
+     \[Diogenes\], being asked how someone could ward off an enemy, said: "If you, at least, are good and noble to him."
 
 188. Διογένει τῷ σοφῷ ἐπισκώψαντός τινος ὅτι φιλόσοφος ὢν πλακοῦντας ἐσθίει „πάντων“, ἔφη, „οἱ φιλόσοφοι ἅπτονται, ἀλλ’ οὐχ ὥσπερ οἱ λοιποὶ ἄνθρωποι“.
 
-     When someone was making fun of Diogenes the wise man because, although he's a philosopher, he eats flat cakes, he said, "Philosophers touch all things, but, not like like the remainder of men do."
+     When someone was making fun of Diogenes the wise man because, although he's a philosopher, he eats flat cakes, he said: "Philosophers touch all things, but, not like the remainder of men do."
 
 189. Ὁ αὐτὸς ἐρωτηθεὶς τί κακὸν ἐν βίῳ ἔφη· „γυνὴ καλὴ τῷ εἴδει“.
 
-     \[Diogenes\], having been asked what is evil in life, said, "A woman beautiful in appearance."
+     \[Diogenes\], having been asked what is evil in life, said: "A woman beautiful in appearance."
 
 190. Ὁ αὐτὸς γεγονώς ποτε κριτὴς δύο ἀνθρώπων πονηρῶν, ἐγκαλοῦντος κλοπῆς θατέρου τῷ ἄλλῳ, μετὰ τὸ ἀκοῦσαι ἀμφοτέρων „σὺ μέν“, ἔφη, „φαίνει μοι μὴ ἀπολέσας, οὗτος δὲ κεκλοφέναι“.
 
-     \[Diogenes\], having become the judge once for two wretched men, with one accusing the other of theft, after hearing both of them, said, "You, on the one hand, clearly have not lost anything in my eyes, but this man seems to have stolen."
+     \[Diogenes\], having become the judge once for two wretched men, with one accusing the other of theft, after hearing both of them, said: "You, on the one hand, clearly have not lost anything in my eyes, but this man seems to have stolen."
  
 191. Ὁ αὐτὸς ἐλθών ποτε εἰς Μέγαρα καὶ θεασάμενος Μεγαρέων τὰ πρόβατα ταῖς διφθέραις εἱλημένα, τοὺς δὲ υἱοὺς γυμνοὺς αὐτὰ ποιμαίνοντας ἔφη· „κρεῖσσόν ἐστι Μεγαρέων κριὸν εἶναι ἢ υἱόν“.
 
-     \[Diogenes\], having gone once to Megara and seen the flocks of the Megarians covered with hides but the sons tending them while naked, said, "It is better to be a ram of the Megarians than a son."
+     \[Diogenes\], having gone once to Megara and seen the flocks of the Megarians covered with hides but the sons tending them while naked, said: "It is better to be a ram of the Megarians than a son."
 
 192. Διογένης Ἀριστίππου θεασαμένου ποτὲ αὐτὸν ἐπὶ κρήνης λάχανα ἄγρια πλύνοντα καὶ εἰπόντος· „ὦ Διόγενες, εἰ αὐλὰς τυράννων ἐθεράπευες, οὐκ ἂν ταῦτα ἤσθιες“, „σὺ μὲν οὖν, ὦ Ἀρίστιππε“, ἔφη, „εἰ ταῦτα ἤσθιες, οὐκ ἂν αὐλὰς τυράννων ἐθεράπευες“.
 
-     Diogenes, when Aristippus once saw him washing wild greens in a spring and said, "O Diogenes, if you would pay court to the halls of tyrans, you wouldn't be eating these things," said, "Well, o Aristippus, if you would eat these things, you would not pay court to the halls of tyrants."
+     Diogenes, when Aristippus once saw him washing wild greens in a spring and said, "O Diogenes, if you would pay court to the halls of tyrans, you wouldn't be eating these things," said: "Well, o Aristippus, if you would eat these things, you would not pay court to the halls of tyrants."
 
 193. Ὁ αὐτὸς καταμαθὼν νεανίσκον τινὰ πᾶσι τοῖς σοφισταῖς προσομιλοῦντα \[καὶ\] προθυμούμενον καὶ αὐτῷ προσομιλῆσαι ἔφη· „μήτι μοι ἀλλοπρόσαλλε παρεζόμενος μινύριζε“.
 
-     \[Diogenes\] observing that some young man associating with all the sophists was eager to associate with him also, said, "Do not, fickle one, whine while sitting close to me."
+     \[Diogenes\] observing that some young man associating with all the sophists was eager to associate with him also, said: "Do not, fickle one, whine while sitting close to me."
 
 194. Ὁ αὐτὸς ἀγανακτοῦντος Πολυξένου τοῦ διαλεκτικοῦ ἐπὶ τῷ κύνα αὐτόν τινας προσαγορεύειν ἔφη· „καὶ σύ με κάλει κύνα· Διογένης γάρ μοί ἐστι παρώνυμον· εἰμὶ δὲ κύων, τῶν μέντοι γενναίων καὶ φυλαττόντων τοὺς φίλους“.
 
-     \[Diogenes\], when Polyxenus the dialectician was angry because some people were calling him a dog, said, "You, call me a dog, too. For Diogenes is my nickname. But I am a dog, however, one of the noble ones and those that protect their friends."
+     \[Diogenes\], when Polyxenus the dialectician was angry because some people were calling him a dog, said: "You, call me a dog, too. For Diogenes is my nickname. But I am a dog, however, one of the noble ones and those that protect their friends."
 
 195. Ὁ αὐτὸς τριδούλους ἐκάλει τοὺς γαστρὸς καὶ αἰδοίου καὶ ὕπνου ἥττονας.
 
@@ -798,23 +798,23 @@
 
 196. Ὁ αὐτὸς ἐρωτηθεὶς δι’ ἣν αἰτίαν ἐν τῇ στοᾷ ἐσθίει εἶπεν ὅτι „καὶ τοὺς κυβερνήτας ὁρῶ καὶ τοὺς ἄλλους τεχνίτας πρὸς τὸ ἔργον τὴν τροφὴν λαμβάνοντας“.
 
-     \[Diogenes\], having been asked why he eats in the colonnade, said, "I see even pilots and other workers taking their food at their work."
+     \[Diogenes\], having been asked why he eats in the colonnade, said: "I see even pilots and other workers taking their food at their work."
 
 197. Ὁ αὐτὸς καταμαθών τινα τῶν γνωρίμων μοχθηροῖς ἀνθρώποις ὁμιλοῦντα „ἄτοπόν γε“, εἶπεν, „εἰ πλεῖν μὲν βουλόμενοι σύμπλους βελτίστους ἐπιλεξόμεθα, βιοῦν δὲ ὀρθῶς προαιρούμενοι κοινωνοὺς τοῦ βίου τοὺς τυχόντας αἱρησόμεθα“.
 
-     \[Diogenes\], observing someone of a notable family associating with wretched people, said, "It is strange if, when wishing to sail we select the best shipmates, but when we prefer to live properly, we choose as companions of our life those we meet by chance."
+     \[Diogenes\], observing someone of a notable family associating with wretched people, said: "It is strange if, when wishing to sail we select the best shipmates, but when we prefer to live properly, we choose as companions of our life those we meet by chance."
 
 198. Ὁ αὐτὸς συνιστάντος τινὸς αὐτῷ υἱὸν καὶ λέγοντος ὅτι καλὸς καὶ ἀγαθός ἐστι καὶ δυνάμενος χάριτας ἀποδοῦναι „τί οὖν“, ἔφη, „ἔτι μου χρείαν ἔχει;“
 
-     \[Diogenes\], when someone introduced their son to him and said that he is good and noble and able to return favors, said, "So why does he still need me?"
+     \[Diogenes\], when someone introduced their son to him and said that he is good and noble and able to return favors, said: "So why does he still need me?"
 
 199. Ὁ αὐτὸς θεασάμενος πόῤῥωθεν προσιόντα κυρτόν, ἐπειδὴ ἐγγὺς ἐγένετο, εἶπεν· „ἄνθρωπε· ᾤμην τί σε φέρειν“.
 
-     \[Diogenes\], seeing from afar a hunchbacked person approaching, when he was near said, "Sir, I thought that you were carrying something."
+     \[Diogenes\], seeing from afar a hunchbacked person approaching, when he was near said: "Sir, I thought that you were carrying something."
 
 200. Ὁ αὐτὸς νοσήσας ποτὲ ἐν πανδοχείῳ καὶ κινδυνεύων πυθομένου αὐτοῦ τινός, εἰ ἀποθάνοι, τίς αὐτὸν ἐκκομίσει, ἔφη· „ὁ τῆς οἰκίας δεσπότης“.
 
-     \[Diogenes\], being sick once at an inn and being in danger, when someone asked him, if he should die, who would bring him out, said, "The master of the house."
+     \[Diogenes\], being sick once at an inn and being in danger, when someone asked him, if he should die, who would bring him out, said: "The master of the house."
 
 201. Ὁ αὐτὸς ἔφη πάντα ἔχειν τὰ ἐν ταῖς τραγῳδίαις· εἶναί τε γὰρ πτωχός, πλανήτης, βίον ἔχων ἐφήμερον· „ἀλλ’ ὅμως τοιούτων ὑπαρχόντων τῶν κατ’ ἐμὲ ἕτοιμός εἰμι περὶ εὐδαιμονίας τῷ Περσῶν βασιλεῖ ἀγωνίσασθαι.“
 
@@ -826,11 +826,11 @@
 
 203. Δημοσθένης ὁ ῥήτωρ τὸν οἶνον παρῃτεῖτο οὐ ψυχῆς ὄντα πόμα, ἀλλὰ σώματος, ἵνα τε ξυνιέναι ὀξύτερος ᾖ καὶ ἀμείνων μνημονεύς.
 
-     Demosthenes the orator refused wine, being a drink not for the mind but for the body, in order that he may be keener at understanding and a better recollector. 
+     Demosthenes the orator refused wine, being a drink not for the mind but for the body, in order that he may be keener at understanding and a better recollector.
 
 204. Ὁ αὐτὸς σκωπτόμενος ὑπό τινος ὅτι διὰ σμικρολογίας τοῦτο ποιεῖ εἶπεν· „ἀλλ’ ἐγὼ πλεῖον ἔλαιον δαπανῶ νυκτὸς οὗ πίνεις οἴνου.“
 
-     \[Demosthenes\], being made fun of by someone that he does this out of stinginess, said, "But I buy more olive oil in a night than you drink wine."
+     \[Demosthenes\], being made fun of by someone that he does this out of stinginess, said: "But I buy more olive oil in a night than you drink wine."
 
 205. Ὁ αὐτὸς ἐρωτηθεὶς τί ἐστι συκοφάντης εἶπεν· „καθημερινὸς λωποδύτης“.
 
