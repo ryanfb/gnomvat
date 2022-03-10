@@ -262,7 +262,7 @@
 
 62. Αἰσχίνης ὁ ῥήτωρ ἐκπεσὼν τῆς πατρίδος παραγενόμενος εἰς Ῥόδον ἐσοφίστευεν· ἐλθόντος οὖν ποτε τοῦ Δημοσθένους εἰς Ῥόδον καὶ ἀσπασαμένου αὐτὸν καὶ δραχμαῖς χιλίαις τιμήσαντος, δεξάμενος τὰ χρήματα ἐδάκρυσε· τοῦ δὲ παρακαλοῦντος αὐτὸν θαῤῥεῖν, ἴσως καὶ κάθοδον αὐτῷ διὰ τῇς σπουδῆς πέμπειν· „οὐ μέλλω“, ἔφη, „δακρύειν τοιαύτης πατρίδος ἐστερημένος, ἐν ᾗ καὶ οἱ ἐχθρεύοντές εἰσι τοιοῦτοι, ὥστε καὶ βοηθεῖν βούλεσθαι“;
 
-    Aeschines the orator, having been banished from his fatherland, went to Rhodes and was giving lectures. Then, when Demosthenes once came to Rhodes and embraced him and honored him with 1,000 drachmas, accepting the money he began to weep. But when this man was encouraging him to be brave, and perhaps to take part in a return from exile for him due to his eagerness, he said, "I do not hesitate to weep when I am deprived of such a fatherland, in which even my enemies are such that they wish to help."
+    Aeschines the orator, having been banished from his fatherland, went to Rhodes and was giving lectures. Then, when Demosthenes once came to Rhodes and embraced him and honored him with 1,000 drachmas, accepting the money he began to weep. But when this man was encouraging him to be brave, and perhaps to take part in a return from exile for him due to his eagerness, he said: "I do not hesitate to weep when I am deprived of such a fatherland, in which even my enemies are such that they wish to help."
 
 63. Ὁ αὐτὸς λέγων ποτὲ δίκην καὶ ἀποκοιμηθέντων τῶν δικαστῶν, „προσέχετε“, εἶπεν, „ἄνδρες δικασταί· οὕτως ὑμῖν γένοιτο ἰδεῖν ἐνύπνιον περὶ τῆς δίκης ἧς λέγω.“
 
@@ -270,7 +270,7 @@
 
 64. Ἀνάξαρχος, ὁ φυσικὸς φιλόσοφος, Ἀλεξάνδρου τοῦ βασιλέως εἰπόντος αὐτῷ· „κρεμῶ σε“, „ἄλλοις“, ἔφη, „ἀπείλει· ἐμοὶ δὲ οὐδὲν διαφέρει ὑπὲρ γῆς ἢ κατὰ γῆς σήπεσθαι.“  
 
-    Anaxarchos, the natural philosopher, when Alexander the king said to him, "I will hang you," said, "Threaten others. But it makes no difference to me to rot over or under the earth."
+    Anaxarchos, the natural philosopher, when Alexander the king said to him, "I will hang you," said: "Threaten others. But it makes no difference to me to rot over or under the earth."
 
 65. Ἀρκεσίλαος ὁ φιλόσοφος ἐπιπλήσσοντός τινος αὐτῷ, ὅτι οὐ δεῖ τὸν φιλόσοφον ἐρωμένην ἔχειν, μᾶλλον μὲν οὖν ἔφη δεῖν ἔχειν καὶ μὴ ἔχεσθαι ὑπ’ αὐτῆς.
 
@@ -286,15 +286,15 @@
 
 68. Ἀγησίλαος ὁ Λακεδαιμόνιος ἐρωτηθεὶς ὑπό τινος, τί ἄν τις ποιῶν γένοιτο πλούσιος, ἔφη· „ἐὰν τὰς ἐπιθυμίας παραιτήσηται“.
 
-    Agesilaus the Lacedaimonian, having been asked by someone by what methods someone could become rich, he said, "If he refuses his emotions."
+    Agesilaus the Lacedaimonian, having been asked by someone by what methods someone could become rich, said: "If he refuses his emotions."
 
 69. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, διὰ τί ἀτείχιστός ἐστιν ἡ Σπάρτη, „μὴ ψεύδου“, ἔφη, „τετείχισται γάρ, οὐ λίθοις, ἀλλὰ ταῖς τῶν \<ἐνοικούντων ἀρεταῖς\>“.
 
-    \[Agesilaus\], having been asked by someone why Sparta is unwalled, said, "Do not lie, for it is walled, not with stones, but with the excellence of its inhabitants."
+    \[Agesilaus\], having been asked by someone why Sparta is unwalled, said: "Do not lie, for it is walled, not with stones, but with the excellence of its inhabitants."
 
 70. Ὁ αὐτὸς ἐρωτηθείς, τίνα δεῖ τὸν στρατηγὸν ἔχειν εἶπεν· „πρὸς μὲν τοὺς ἐναντίους τόλμαν, πρὸς δὲ τοὺς ὑποτεταγμένους εὔνοιαν, πρὸς δὲ τοὺς καιροὺς λογισμόν.“
 
-    \[Agesilaus\], having been asked what a general should possess, said, "Daring against his opponents, good-will towards those placed under him, and a plan for the right moment."
+    \[Agesilaus\], having been asked what a general should possess, said: "Daring against his opponents, good-will towards those placed under him, and a plan for the right moment."
 
 71. Ἀντιφῶν ἐρωτηθεὶς τί ἐστι μαντικὴ εἶπεν· „ἀνθρώπου φρονίμου εἰκασμός“.
 
@@ -306,27 +306,27 @@
 
 73. Ἀλέξανδρος, ὁ τῶν Μακεδόνων βασιλεύς, \<πρός τινα\> διαβάλλοντα αὐτῷ Ἀντίπατρον εἶπεν· \<παῦσαι ἄνθρωπε· πολλὰ γάρ μοι ἀντὶ πατρὸς Ἀντίπατρος ἐγένετο.\> 
 
-    Alexander, king of the Macedonians, said \<to someone\> slandering Antipater to him, \<"Stop, sir. For Antipater was like a father to me in many ways."\>
+    Alexander, king of the Macedonians, said \<to someone\> slandering Antipater to him: \<"Stop, sir. For Antipater was like a father to me in many ways."\>
 
 74. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τίνι τρόπῳ τὰς τηλικαύτας πράξεις ἐν ὀλίγῳ χρόνῳ κατειργάσατο εἶπεν· „μηδὲν ἀναβαλλόμενος“.
 
-    \[Alexander\], being asked by someone how he accomplished such great deeds in a little time, said, "By not delaying."
+    \[Alexander\], being asked by someone how he accomplished such great deeds in a little time, said: "By not delaying."
 
 75. Ὁ αὐτὸς πικρότερόν τι αὐτῷ ἐπιτασσούσης Ὀλυμπίαδος τῆς μητρὸς εἶπεν· „βαρύ γε ἐνοίκιον τῆς δεκαμήνου ἀπαιτεῖς“.
 
-    \[Alexander\], when his mother Olympia was giving him orders rather harshly, said, "You demand a heavy rent for a 10-month period."
+    \[Alexander\], when his mother Olympia was giving him orders rather harshly, said: "You demand a heavy rent for a 10-month period."
 
 76. \<Ὁ\> αὐτὸς ἀξιούμενος ὑπὸ τῶν φίλων τεκνοποιῆσαι εἶπε· „μὴ ἀγωνιᾶτε· καταλείπω γὰρ τέκνα τὰς ἐκ τῶν ἀγώνων πράξεις.“
 
-    \[Alexander\], being expected by his friends to bear children, said, "Do not be anxious. For I leave behind the accomplishments from my struggles as children."
+    \[Alexander\], being expected by his friends to bear children, said: "Do not be anxious. For I leave behind the accomplishments from my struggles as children."
 
 77. Ὁ αὐτὸς παρακαλούμενος ὑπὸ τῶν φίλων νυκτὸς ἐπιθέσθαι τοῖς πολεμίοις εἶπεν· „οὐ βασιλικὸν τὸ κλέψαι τὴν νίκην.“
 
-    \[Alexander\], being summoned by his friends to attack the enemy at night, said, "It is not kingly to hide one's victory."
+    \[Alexander\], being summoned by his friends to attack the enemy at night, said: "It is not kingly to hide one's victory."
 
 78. Ὁ αὐτὸς ἐλθὼν εἰς Ἴλιον καὶ θεασάμενος τὸν Ἀχιλλέως τάφον στὰς εἶπεν· „ὦ Ἀχιλλεῦ· ὡς \[οὐ\] μέγας ὢν μεγάλου κήρυκος ἔτυχες Ὁμήρου!“ παρόντος δὲ Ἀναξιμένους καὶ εἰπόντος· „καὶ ἡμεῖς σέ, ὦ βασιλεῦ, ἔνδοξον ποιήσομεν“, „ἀλλὰ νὴ τοὺς θεοὺς“, ἔφη, „παρ’ Ὁμήρῳ ἐβουλόμην ἂν εἶναι Θερσίτης ἢ παρὰ σοὶ Ἀχιλλεύς.“
 
-    \[Alexander\], having come to Ilium and seen the tomb of Achilles, stopped and said, "O Achilles! How you, being great, luckily met a great herald in Homer!" And when Anaximenes was nearby and said, "We also, o king, will make you famous," he said, "But by the gods, I would wish to be Thersites with Homer, or Achilles with you."
+    \[Alexander\], having come to Ilium and seen the tomb of Achilles, stopped and said: "O Achilles! How you, being great, luckily met a great herald in Homer!" And when Anaximenes was nearby and said, "We also, o king, will make you famous," he said: "But by the gods, I would wish to be Thersites with Homer, or Achilles with you."
 
 79. Ὁ αὐτὸς εἶπεν ἄριστον εἶναι πρὸς κοίτην στρῶμα τὸν πόνον.
 
@@ -334,7 +334,7 @@
  
 80. Ὁ αὐτὸς Ἀντιπάτρου αὐτῷ πολλάκις κατὰ τῆς μητρὸς Ὀλυμπιάδος γράφοντος ἔφη· „ἀγνοεῖ Ἀντίπατρος, ὅτι μητρὸς ἓν δάκρυον πολλῶν διαβολῶν ἐπιστολὰς δύναται ἀπαλεῖψαι.“
 
-    \[Alexander\], when Antipater was frequently writing to him against his mother Olympias, said, "Antipater does not know that one tear from my mother can cleanse his letters of many attacks."
+    \[Alexander\], when Antipater was frequently writing to him against his mother Olympias, said: "Antipater does not know that one tear from my mother can cleanse his letters of many attacks."
 
 81. Ὁ αὐτὸς σφαιρίσας μετά τινος νεανίσκου ἐδωρήσατο αὐτῷ τάλαντον· τῶν δὲ φίλων λεγόντων ὅτι „πλέον τοῦ δέοντος ἔδωκας“, „οὐ τοῦτό με δεῖ σκοπεῖν“, ἔφη, „πόσον ἐκεῖνος ἄξιος ἦν λαβεῖν, ἀλλὰ πόσον ἐμὲ παρασχεῖν.“
 
