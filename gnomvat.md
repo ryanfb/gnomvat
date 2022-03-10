@@ -374,11 +374,11 @@
 
 90. Ὁ αὐτὸς παρακαλούμενος ὑπὸ τῶν φίλων συνάγειν χρήματα εἶπεν· „οὐδὲν ὤνησεν οὐδὲ Κροῖσον.“
 
-    \[Alexander\], being summoned by his friends to sum up his wealth, said, "In no way did that benefit Croesus at all."
+    \[Alexander\], being summoned by his friends to sum up his wealth, said: "In no way did that benefit Croesus at all."
 
 91. Ὁ αὐτὸς θεασάμενος Διογένην τὸν κυνικὸν φιλόσοφον καὶ θαυμάσας εἶπέ τινι τῶν γνωρίμων· „ὡς ἡδέως ἂν ἐγενόμην Διογένης, εἰ μὴ ἐγεγόνειν Ἀλέξανδρος!“
 
-    \[Alexander\], seeing Diogenes the Cynic philosopher and marveling, said to one of his acquaintains, "How pleasantly would I have been born Diogenes had I not been born Alexander!"
+    \[Alexander\], seeing Diogenes the Cynic philosopher and marveling, said to one of his acquaintances: "How pleasantly would I have been born Diogenes had I not been born Alexander!"
 
 92. Ὁ αὐτὸς παραινοῦντος αὐτῷ Φιλίππου τοῦ πατρὸς Ὀλύμπια ἀγωνίσασθαι εἶπε· „τὸ μὲν νικᾶν τὸν ἀγῶνα τοῦτον οὐ βασιλικόν, τὸ δὲ ἡττᾶσθαι αἰσχρόν.“
 
