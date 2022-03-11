@@ -1537,11 +1537,11 @@
 
 367. Καλλισθένης ὁ ἱστοριογράφος πρὸ τοῦ Ἀλεξάνδρῳ συσταλῆναι γεγραφὼς τὰ Ἑλληνικά, μετὰ δὲ ταῦτα τὰς Ἀλεξάνδρου πράξεις ἐρωτώμενος ὑπό τινος διὰ τί βέλτιον τὰ Ἑλληνικὰ συνεγράψατο „ὅτι ἐκεῖνα μὲν“ εἶπε „πεινῶν ἔγραφον, ταῦτα δὲ κεχορτασμένος“.
 
-     Callisthenes the historian who wrote of Greek affairs before the humbling by Alexander and, after this, the deeds of Alexander, being asked by someone why he composed the Greek affairs better, said, "Because I was writing those events while hungry, but these while fattened."
+     Callisthenes the historian who wrote of Greek affairs before the humbling by Alexander and, after this, the deeds of Alexander, being asked by someone why he composed the Greek affairs better, said: "Because I was writing those events while hungry, but these while fattened."
 
 368. Ὁ αὐτὸς ἐρωτῶντός τινος διὰ τί οὐ μετήγαγεν Ἀλέξανδρον ἀπὸ τοῦ τύφου „ὅτι“, εἶπεν, „ἐμοῦ ἑνὸς οἰκοδομοῦντος πολλοὶ ἦσαν οἱ καταβάλλοντες“.
 
-     \[Callisthenes\], when someone asked why he did not lead Alexander away from his delusion, he said, "Because while I as one person was building up the house, there were many people tearing it down."
+     \[Callisthenes\], when someone asked why he did not lead Alexander away from his delusion, said: "Because while I as one person was building up the house, there were many people tearing it down."
  
 369. Κλεάνθης ὁ Στωϊκὸς φιλόσοφος εἶπε μώλωπας ἔχειν ἐν τῇ ψυχῇ τὰς ὑπὸ Ζήνωνος νουθεσίας.
 
@@ -1553,7 +1553,7 @@
 
 371. Κλεόστρατος ὁ φιλοπότης, ὡς μεθύοντά τις αὐτὸν ἐνουθέτει λέγων· „οὐκ αἰσχύνῃ μεθύων“; ἔφη· „σὺ δὲ οὐκ αἰσχύνῃ μεθύοντα νουθετῶν“.
 
-     Cleostratus the lover of drink, when someone was admonishing him while drunk by saying, "Aren't you ashamed to be drunk?", said, "But aren't you ashamed to be admonishing a drunk man?"
+     Cleostratus the lover of drink, when someone was admonishing him while drunk by saying, "Aren't you ashamed to be drunk?", said: "But aren't you ashamed to be admonishing a drunk man?"
 
 372. Κλείσοφος ἐπιτιμῶντος αὐτῷ Φιλίππου, ὅτι ἀεὶ αἰτεῖ, „καὶ γὰρ σὺ“ φησὶν „ἀεὶ ἔχεις“.
 
