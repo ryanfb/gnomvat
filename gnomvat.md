@@ -1361,7 +1361,7 @@
 
 323. Ὁ αὐτὸς ἰδὼν νεανίσκον τινὰ εὐχόμενον τοῖς θεοῖς νοῦν καὶ φρένας ἀγαθὰς αὐτῷ περιποιεῖν „ὦ νεανίσκε“, εἶπεν, „οὐ τοῖς εὐχομένοις νοῦς καὶ φρένες περιγίνονται, ἀλλὰ τοῖς μανθάνουσιν“.
 
-     \[Theophrastus\], seeing some young man praying to the gods to secure sense and a good mind for himself, said, "O young man, sense and a mind do not come to those who pray but to those who learn."
+     \[Theophrastus\], seeing some young man praying to the gods to secure sense and a good mind for himself, said: "O young man, sense and a mind do not come to those who pray but to those who learn."
 
 324. Ὁ αὐτὸς ἔφησε τοῖς ὄχλοις μήτε καλῶς μήτε κακῶς ποιεῖν· „κακῶς μὲν γὰρ παθόντες εἰς τὸν ἅπαντα χρόνον μνημονεύουσιν, εὐεργετηθέντες δὲ παραχρῆμα ἐπιλανθάνονται“.
 
@@ -1385,7 +1385,7 @@
 
 329. Ὁ αὐτὸς πρὸς τὸν δακνόμενον ἐπὶ ταῖς ἑαυτοῦ ἁμαρτίαις καὶ μεταμελόμενον ἔφη· „εἰ οὕτω μέλλων πράττειν τὰ φαῦλα ἐδάκνου, ὡς πράξας, οὐκ ἂν ἥμαρτες“.
 
-     \[Theophrastus\] said to someone vexed at his own failures and regretting them, "If would be vexed when you are about to do bad things, as you are when you have done them, you would not make mistakes."
+     \[Theophrastus\] said to someone vexed at his own failures and regretting them: "If you would be vexed when you are about to do bad things, as you are when you have done them, you would not make mistakes."
 
 330. Ὁ αὐτὸς πρὸς Νικόμαχόν ποτε τὸν Ἀριστοτέλους υἱὸν ἀργῶς φιλοσοφοῦντα καλὸν ἔφη μὴ μόνον εἶναι τῆς οὐσίας τῆς πατρῴας κληρονόμον, ἀλλὰ καὶ τῶν ἐπιτηδευμάτων ἐκείνου.
 
@@ -1393,7 +1393,7 @@
 
 331. Ὁ αὐτὸς λάλῳ περιπεσὼν εἶπεν· „αὔριόν σε ποῦ ἔσται μὴ ἰδεῖν“;
 
-     \[Theophrastus\], encountering a babbler, said, "Where will it be possible not to see you tomorrow?"
+     \[Theophrastus\], encountering a babbler, said: "Where will it be possible not to see you tomorrow?"
 
 332. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί ἐστιν ἔρως εἶπε· „πάθος ψυχῆς σχολαζούσης“.
 
