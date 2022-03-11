@@ -1561,7 +1561,7 @@
 
 373. Κόνωνι τῷ Ἀθηναίῳ, σφόδρα ὄντι αἰσχρῷ τὴν ὄψιν, πρεσβευομένῳ πρὸς Λακεδαιμονίους οὐ μετεδίδου λόγου τὸ κοινὸν τῶν δοκούντων εὐτακτοτάτων Σπαρτιατῶν, ἀλλ’ ὑπὸ γέλωτος κατεχόμενοι ἐμποδὼν ἦσαν τἀνδρί, μέχρις οὗ ἐκεῖνος ἐχαριεντίσατο πρὸς αὐτοὺς φήσας· „οὐδέποτε ἐκ κολοβοῦ κεραμίου χρηστὸν οἶνον ἐπίετε“; ἡσυχασάντων δὲ ἐπὶ ὀλίγον εἶπε· „καὶ νῦν ἀνάσχεσθε, καὶ ἐξ ἀμόρφου σώματος ἀκούσεσθε λόγον χρηστόν.“
 
-     Conon the Athenian, being very ugly in appearance, when he went on an embassy to the Lacedaimonians the common people of reputed well-ordered Spartiates did not give him a chance for speaking, but rather they were seized with laughter in the man's face, until that man jested at them, saying, "Did you never drink good wine from a chipped cup?" And when they fell silent for a bit, he said, "And now hold up, and from a shapeless body hear a good speech."
+     Conon the Athenian, being very ugly in appearance, when he went on an embassy to the Spartans the common people of reputed well-ordered Spartiates did not give him a chance for speaking, but rather they were seized with laughter in the man's face, until that man jested at them, saying, "Did you never drink good wine from a chipped cup?" And when they fell silent for a bit, he said: "And now hold up, and from a shapeless body hear a good speech."
 
 374. Κότυς ὁ τῶν Θρᾳκῶν βασιλεὺς Θηβαίων σεμνυνομένων ὅτι Λακεδαιμονίων ἡγήσαντο „ἐγὼ“ φησὶν „ἑώρακα χειμάῤῥους ποταμοὺς μείζους τῶν ἀενάων γενομένους, ἀλλ’ ὀλίγον χρόνον“.
 
