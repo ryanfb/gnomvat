@@ -244,7 +244,7 @@
 
 57. Ὁ αὐτὸς ἔφη· μεγάλους χρὴ λαμβάνειν μισθοὺς παρὰ μὲν τῶν εὐφυῶν, ὅτι πολλὰ ὠφελοῦνται, παρὰ δὲ τῶν ἀφυῶν, ὅτι πολλὰ πράγματα μανθάνοντες παρέχουσι τοῖς διδάσκουσιν
 
-    \[Aristotle\] said: "It is necessary to take large payments from the competent because they are helped much and from the incompetent because, in their learning, they provide many troubles to their teachers."
+    \[Aristotle\] said: "It is necessary to take large payments from the competent because they are helped much, and from the incompetent because, in their learning, they provide many troubles to their teachers."
 
 58. ῾Ο αὐτὸς ἐρωτηθείς, τί δυσκολώτατόν ἐστιν ἐν βίῳ, εἶπε· „τὸ σιωπᾶν”.
 
