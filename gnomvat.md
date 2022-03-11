@@ -256,7 +256,7 @@
 
 60. Ἀρχίδαμος, ὁ τῶν Λακεδαιμονίων βασιλεύς, θεασάμενος τὸν ἴδιον παῖδα προπετῶς μαχόμενον τοῖς Ἀθηναίοις εἶπεν· „ἢ τῇ δυνάμει πρόσθες ἢ τοῦ θράσους ἄφελε“.
 
-    Archidamos, the king of the Lacedaimonians, seeing his own son fighting the Athenians rashly, said: "Either add to your strength or subtract from your boldness."
+    Archidamos, the king of the Spartans, seeing his own son fighting the Athenians rashly, said: "Either add to your strength or subtract from your boldness."
 
 61. Ἀναξιμένης ἐπὶ ξένης τελευτῶν ἠρωτᾶτο ὑπὸ τῶν φίλων, εἰ βούλοιτο εἰς πατρίδα ἀνακομισθεὶς κηδευθῆναι· ὁ δὲ εἶπεν· „οὐ γὰρ ἐκ παντὸς κλίματος ὁδὸς ἀνέῳγεν εἰς Ἅιδην“;
 
@@ -288,7 +288,7 @@
 
 68. Ἀγησίλαος ὁ Λακεδαιμόνιος ἐρωτηθεὶς ὑπό τινος, τί ἄν τις ποιῶν γένοιτο πλούσιος, ἔφη· „ἐὰν τὰς ἐπιθυμίας παραιτήσηται“.
 
-    Agesilaus the Lacedaimonian, having been asked by someone by what methods someone could become rich, said: "If he refuses his emotions."
+    Agesilaus the Spartan, having been asked by someone by what methods someone could become rich, said: "If he refuses his emotions."
 
 69. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος, διὰ τί ἀτείχιστός ἐστιν ἡ Σπάρτη, „μὴ ψεύδου“, ἔφη, „τετείχισται γάρ, οὐ λίθοις, ἀλλὰ ταῖς τῶν \<ἐνοικούντων ἀρεταῖς\>“.
 
@@ -1637,19 +1637,19 @@
 
 392. Λάκων ἀσθενῶς διακείμενος τὸ σῶμα ἐπὶ παράταξιν προῆγεν· λεγόντων δέ τινων αὐτῷ· „ποῦ τοιοῦτος πορεύῃ“; ἔφη· „ὑπὲρ τῆς πατρίδος ἀποθανεῖν“
 
-     A Spartan, although weak in body, advanced into the line of battle. And when some people said to him, "Where are you going such as you are?" he said, "To die for my fatherland."
+     A Spartan, although weak in body, advanced into the line of battle. And when some people said to him, "Where are you going such as you are?" he said: "To die for my fatherland."
 
 393. Λάκων παιδαγωγὸς ἐρωτηθεὶς ὑπό τινος τί διδάσκει τοὺς παῖδας εἶπε· „τὰ καλὰ αὐτοῖς ἡδέα φαίνεσθαι“.
 
-     A Spartan instructor, having been asked by someone what he teaches his children, said, "That good things appear pleasant to them."
+     A Spartan instructor, having been asked by someone what he teaches his children, said: "That good things appear pleasant to them."
 
 394. Λάκων ἀνὴρ ἐρωτώμενος διὰ τί οἱ Λακεδαιμόνιοι μικρὰ ἔχουσι τὰ ἐγχειρίδια εἶπεν· „ὅτι ἐγγύθεν τοῖς πολεμίοις μάχονται“.
 
-     A Spartan man, being asked why the Lacedaimonians have small spears, said, "Because they fight their enemies from up close."
+     A Spartan man, being asked why the Spartans have small spears, said: "Because they fight their enemies from up close."
 
 395. Λάκων ἀνὴρ πρὸς τὸν εἰπόντα αὐτῷ· „διὰ τί οἱ Λακεδαιμόνιοι τὴν βραχυλογίαν ἀσκοῦσιν;“ εἶπεν· „ὅτι ἔγγιστά ἐστι τοῦ σιωπᾶν“.
 
-     A Spartan man to someone telling him, "Why do the Lacedaimonians practice brevity of speech?" said, "Because it is closest to being silent."
+     A Spartan man to someone telling him, "Why do the Spartans practice brevity of speech?" said: "Because it is closest to being silent."
 
 396. Λάκων ἀνὴρ ἐρωτηθεὶς ἐπὶ πόσον αὐτῶν ἡ χώρα διήκει „ἐφ’ ὅσον ἂν“ εἶπε „τὸ δόρυ ἰσχύῃ“.
 
