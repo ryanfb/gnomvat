@@ -1677,11 +1677,11 @@
 
 402. Λάμων παλαίων τὸν ἀνταγωνιστὴν ἔδακε· τοῦ δὲ εἰπόντος· „δάκνεις ὡς γυνὴ“ εἶπεν· „οὐχί, ἀλλ’ ὡς λέων“.
 
-     Lamon bit his opponent while wrestling. And when he said, "You bite like a woman," he said, "No, but like a lion."
+     Lamon bit his opponent while wrestling. And when he said, "You bite like a woman," he said: "No, but like a lion."
 
 403. Λύκων ἰδὼν γυναῖκα θρασεῖαν τὰ τῶν ἀνδρῶν πράττειν ἐθέλουσαν „οὔτε γυναῖκα“ εἶπεν „ὁμοίαν ἀνδρὶ ἀποδέχομαι, οὔτε ἄνδρα ὅμοιον γυναικί“.
 
-     Lycon, seeing a bold woman wishing to do the deeds of men, said, "I neither accept a woman who is like a man nor a man like a woman."
+     Lycon, seeing a bold woman wishing to do the deeds of men, said: "I neither accept a woman who is like a man nor a man like a woman."
 
 404. Μένανδρος ἐρωτηθεὶς τί διαφέρουσιν ἀλλήλων Σοφοκλῆς καὶ Εὐριπίδης εἶπεν ὅτι Σοφοκλῆς μὲν τέρπεσθαι ποιεῖ τοὺς ἀνθρώπους, Εὐριπίδης δὲ σκυθρωπάζειν τοὺς ἀκροατάς.
 
@@ -1697,19 +1697,19 @@
 
 407. \<Μ\>ενέδημος λέγοντος αὐτῷ νεανίσκου τινὸς· „μέγα ἐστὶ τὸ τυχεῖν, ὧν ἄν τις ἐπιθυμῇ“ εἶπε· „πολλῷ μεῖζόν ἐστι τὸ μὴ ἐπιθυμεῖν ὧν μὴ δεῖ“.
 
-     \<M\>enedemus, when some young man said to him, "It is a great thing to encounter what one desires," said, "It is much better to not desire what one should not."
+     \<M\>enedemus, when some young man said to him, "It is a great thing to encounter what one desires," said: "It is much better to not desire what one should not."
 
 408. Μητρόδωρος ὁ Ἐπικούρειος ἐρωτηθεὶς διὰ τί μᾶλλον πάντων τῶν Ἐπικουρείων προκέκοφεν εἶπεν· „ὅτι πρῶτος ἀρξάμενος Ἐπικούρου ἀκούειν ἔσχατον ἐπαυσάμην“.
 
-     Metrodorus the Epicurean, having been asked why he advanced more than all the Epicureans, said, "Because, having started to listen to Epicurus first, I stopped last."
+     Metrodorus the Epicurean, having been asked why he advanced more than all the Epicureans, said: "Because, having started to listen to Epicurus first, I stopped last."
 
 409. Ὁ αὐτὸς ἔλεγεν· „ἅμα τὴν ἐπαγγελίαν ποιητέον καὶ τὴν δόσιν συναπτέον· ἐπαγγελίαν γὰρ ἀνατεινομένην οὐκέτι σφραγίζεται χάρις“.
 
-     \[Metrodorus\] said, "One must make a promise and complete a gift at the same time. For favor no more approves a promise delayed.
+     \[Metrodorus\] said: "One must make a promise and complete a gift at the same time. For favor no more approves a promise delayed."
 
 410. \<Ὁ αὐτὸς ἔφη\>· „γεγόναμεν ἅπαξ· δὶς δὲ οὐκ ἔστι γενέσθαι· δεῖ δὲ τὸν αἰῶνα μηκέτι εἶναι· σὺ δὲ τῆς αὔριον οὐκ ὢν κύριος ἀναβάλλῃ τὸν καιρόν· ὁ δὲ πάντων βίος μελλησμῷ παραπόλλυται καὶ διὰ τοῦτο ἕκαστος ἡμῶν ἀσχολούμενος ἀποθνήσκει“.
 
-     \<\[Metrodorus\] said,\> "We were born once. And it is not possible to be born twice. And it should no longer be for an age. And you, since you are not lord of tomorrow, delay the critical moment. And the life of all things is destroyed by indecision, and because of this each of us dies busy."
+     \<\[Metrodorus\] said:\> "We were born once. And it is not possible to be born twice. And it should no longer be for an age. And you, since you are not lord of tomorrow, delay the critical moment. And the life of all things is destroyed by indecision, and because of this each of us dies busy."
 
 411. Νικοκλῆς κακοῦ τινος ἰατροῦ λέγοντος ὅτι μεγάλην ἔχει δύναμιν ἔφη· „πῶς γὰρ οὐ μέλλεις λέγειν, ὃς τοσούτους ἀνῃρηκὼς ἀνεύθυνος γέγονας;“
 
@@ -1729,7 +1729,7 @@
 
 415. Ὁ αὐτὸς ἀπαγγείλαντός τινος αὐτῷ ὅτι „ὁ υἱός σου ἐν τῷ πολέμῳ τέθνηκεν ἀνὴρ ἀγαθὸς γενόμενος“ εἶπεν· „ἐμὸς γὰρ ἦν.“
 
-     \[Xenophon\], when someone announced to him, "Your son has died in war as a good man," he said, "Yes, for he was mine."
+     \[Xenophon\], when someone announced to him, "Your son has died in war as a good man," said: "Yes, for he was mine."
 
 416. Ὁ αὐτὸς εἶπε κρεῖσσον εἶναι βασιλεῖ τὸ τῶν χαρίτων ἀπολιπεῖν πλῆθος ἢ τροπαίων.
 
@@ -1839,7 +1839,7 @@
 
 441. Ὁ αὐτὸς λοιδορούμενος ὑπό τινος „λέγε“ ἔφη „κακῶς, ἐπεὶ καλῶς οὐκ ἔμαθες.“
 
-     \[Plato\] being insulted by someone, said "Speak ill, since you don't know how to speak well."
+     \[Plato\] being insulted by someone, said: "Speak ill, since you don't know how to speak well."
 
 442. Ὁ αὐτὸς ἐρωτηθεὶς τίς αὐτῷ δοκεῖ Διογένης ὑπάρχειν ἔφη· „Σωκράτης μαινόμενος“.
 
@@ -1887,7 +1887,7 @@
 
 453. Ὁ αὐτὸς τὸν ἀνθρώπινον βίον ὅμοιον ἔφησεν εἶναι θαλάσσῃ· „καὶ γὰρ ἐκείνη νηνεμίας μὲν οὔσης εὐδιεινοτάτη ἐστίν· ὅταν δὲ οἱ ἄνεμοι πνέωσι, ταράττεται· οὕτως καὶ τῶν ἀνθρώπων ὁ βίος εὐσταθοῦς μὲν τῆς τύχης οὔσης ἱλαρός ἐστιν, ἀντιπνευσάσης δὲ χειμάζεται“.
 
-     \[Pericles\] said that a human life is like the sea; "For whenever the wind is calm it's calmest; but when the winds blow, it's troubled; thus also a mortal life calm in fortune is cheerful, but when the winds blow against it it's thrown around by the storm."
+     \[Pericles\] said that a human life is like the sea: "For whenever the wind is calm it's calmest; but when the winds blow, it's troubled; thus also a mortal life calm in fortune is cheerful, but when the winds blow against it it's thrown around by the storm."
 
 454. Περσῖνος ὁ ποιητὴς ἐρωτηθεὶς τίς ἄριστός ἐστι ποιητὴς „παρ’ ἑαυτῷ μὲν ἕκαστος“, \<εἶπε\>, „παρὰ δὲ τοῖς ἄλλοις Ὅμηρος“.
 
@@ -2075,7 +2075,7 @@
 
 500. Ὁ αὐτὸς θαυμάσαντός τινος ὅτι λακτισθεὶς ἠνέσχετο ἔφη· „εἰ δὲ ὄνος με ἐλάκτισε, δίκην ἂν αὐτῷ ἔλαχον;“
 
-     \[Socrates\], when someone was marveling that he restrained himself after being kicked, sad: "And if a donkey kicks me, should I file a lawsuit?"
+     \[Socrates\], when someone was marveling that he restrained himself after being kicked, said: "And if a donkey kicks me, should I file a lawsuit?"
 
 501. Σόλων ὁ σοφὸς ἐρωτῶντος αὐτόν τινος πῶς ἂν μὴ γένοιτο ἀδίκημα εἶπεν· „εἰ ὁμοίως ἀγανακτοῖεν ἐπὶ τοῖς ἀδικήμασιν οἱ μὴ ἀδικούμενοι τοῖς ἀδικουμένοις.“
 
