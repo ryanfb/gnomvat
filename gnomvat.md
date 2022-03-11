@@ -272,7 +272,7 @@
 
 64. Ἀνάξαρχος, ὁ φυσικὸς φιλόσοφος, Ἀλεξάνδρου τοῦ βασιλέως εἰπόντος αὐτῷ· „κρεμῶ σε“, „ἄλλοις“, ἔφη, „ἀπείλει· ἐμοὶ δὲ οὐδὲν διαφέρει ὑπὲρ γῆς ἢ κατὰ γῆς σήπεσθαι.“  
 
-    Anaxarchos, the natural philosopher, when Alexander the king said to him, "I will hang you," said: "Threaten others. But it makes no difference to me to rot over or under the earth."
+    Anaxarchos, the natural philosopher, when Alexander the king said to him, "I will hang you", said: "Threaten others. But it makes no difference to me to rot over or under the earth."
 
 65. Ἀρκεσίλαος ὁ φιλόσοφος ἐπιπλήσσοντός τινος αὐτῷ, ὅτι οὐ δεῖ τὸν φιλόσοφον ἐρωμένην ἔχειν, μᾶλλον μὲν οὖν ἔφη δεῖν ἔχειν καὶ μὴ ἔχεσθαι ὑπ’ αὐτῆς.
 
@@ -328,7 +328,7 @@
 
 78. Ὁ αὐτὸς ἐλθὼν εἰς Ἴλιον καὶ θεασάμενος τὸν Ἀχιλλέως τάφον στὰς εἶπεν· „ὦ Ἀχιλλεῦ· ὡς \[οὐ\] μέγας ὢν μεγάλου κήρυκος ἔτυχες Ὁμήρου!“ παρόντος δὲ Ἀναξιμένους καὶ εἰπόντος· „καὶ ἡμεῖς σέ, ὦ βασιλεῦ, ἔνδοξον ποιήσομεν“, „ἀλλὰ νὴ τοὺς θεοὺς“, ἔφη, „παρ’ Ὁμήρῳ ἐβουλόμην ἂν εἶναι Θερσίτης ἢ παρὰ σοὶ Ἀχιλλεύς.“
 
-    \[Alexander\], having come to Ilium and seen the tomb of Achilles, stopped and said: "O Achilles! How you, being great, luckily met a great herald in Homer!" And when Anaximenes was nearby and said, "We also, o king, will make you famous," he said: "But by the gods, I would wish to be Thersites with Homer, or Achilles with you."
+    \[Alexander\], having come to Ilium and seen the tomb of Achilles, stopped and said: "O Achilles! How you, being great, luckily met a great herald in Homer!" And when Anaximenes was nearby and said, "We also, o king, will make you famous", he said: "But by the gods, I would wish to be Thersites with Homer, or Achilles with you."
 
 79. Ὁ αὐτὸς εἶπεν ἄριστον εἶναι πρὸς κοίτην στρῶμα τὸν πόνον.
 
@@ -356,7 +356,7 @@
 
 85. Ὁ αὐτὸς εἰπόντος Ἀναξιμένους· „ἐὰν πᾶσι πολλὰ διδῷς, οὐ δυνήσῃ τοῦτο ποιεῖν διὰ παντός“, ἔφη· „οὐδέ γε, ἐὰν παύσωμαι, μόνος πάντ’ ἔχειν δυνήσομαι πολὺν χρόνον.“
 
-    \[Alexander\], when Anaximenes was saying, "If you give many things to everyone, you won't be able to do this forever," said: "Nor will I, at any rate, if I stop, be able to have everything for much time."
+    \[Alexander\], when Anaximenes was saying, "If you give many things to everyone, you won't be able to do this forever", said: "Nor will I, at any rate, if I stop, be able to have everything for much time."
 
 86. Ὁ αὐτὸς μέλλων εἰς τὴν Ἀσίαν διαβαίνειν πυνθανομένου Φωκίωνος αὐτοῦ, ποίοις χρήμασι πεπιστευκὼς ἐπὶ μέγαν καὶ πλούσιον βασιλέα Δαρεῖον μέλλει στρατεύειν, δείξας τοὺς φίλους εἶπεν· „τούτοις.“
 
@@ -404,7 +404,7 @@
 
 97. Ὁ αὐτὸς ἰδὼν Διογένην κοιμώμενον ἐν πίθῳ εἶπε· „πίθῳ μεστὲ φρενῶν“, ὁ δὲ φιλόσοφος ἀποστὰς εἶπεν· „ὦ βασιλεῦ μέγιστε, θέλω τύχης σταλαγμὸν ἢ φρενῶν πίθον, ἧς μὴ παρούσης δυστυχοῦσιν αἱ φρένες.“
 
-    \[Alexander\], seeing Diogenes lying in a jug, said, "Jug full of wits," and the philosopher, withdrawing from him, said: "O greatest king, I wish for a drop of fortune rather than a jug of wits, since with the fortune being gone, my wits fare ill."
+    \[Alexander\], seeing Diogenes lying in a jug, said, "Jug full of wits", and the philosopher, withdrawing from him, said: "O greatest king, I wish for a drop of fortune rather than a jug of wits, since with the fortune being gone, my wits fare ill."
 
 98. Τῷ αὐτῷ ἐξιόντι ἐπὶ πόλεμον Ἀριστοτέλης ἔφη· „περίμεινον τὸ τέλειον τῆς ἡλικίας καὶ τότε πολέμει.“ ὁ δὲ ἔφη· „φοβοῦμαι, μὴ περιμένων τὸ τέλειον τῆς ἡλικίας τὴν τῆς νεότητος τόλμαν ἀπολέσω·“
 
@@ -432,7 +432,7 @@
 
 104. Ὁ αὐτὸς αἰτήσαντος αὐτὸν Διογένους δραχμὴν ἔφη· „οὐ βασιλικὸν τὸ δῶρον·“ τοῦ δὲ εἰπόντος· „καὶ δὸς τάλαντον“ εἶπεν· „ἀλλ’ οὐ κυνικὸν τὸ αἴτημα.“
 
-     \[Alexander\], when Diogenes asked him for a drachma, said: "The gift is not kingly." But when he said, "Then give a talent," he said: "But the request is not Cynic."
+     \[Alexander\], when Diogenes asked him for a drachma, said: "The gift is not kingly." But when he said, "Then give a talent", he said: "But the request is not Cynic."
 
 105. Ὁ αὐτὸς συμβουλευόντων αὐτῷ πολλῶν καταδουλώσασθαι τὴν Ἑλλάδα „βούλομαι“, ἔφη, „ἐπὶ πολὺν χρόνον χρηστὸς κληθῆναι ἢ δεσπότης ἐπ’ ὀλίγον“.
 
@@ -620,11 +620,11 @@
 
 151. Ὁ αὐτὸς εἰπόντος αὐτῷ τινος· „καὶ λαλεῖς σὺ ἀπὸ τοιούτων γονέων γεγονώς“; „ἀπ’ ἐμοῦ με“, εἶπεν, „ἀρίθμει“.
 
-     \[Bias\], when someone said to him, "You do indeed babble, having been born from such parents," said: "Reckon me from myself."
+     \[Bias\], when someone said to him, "You do indeed babble, having been born from such parents", said: "Reckon me from myself."
 
 152. Ὁ αὐτὸς ἀηδοῦς τινος ἐν συμποσίῳ διαφερομένου πρὸς αὐτὸν καὶ λέγοντος· „ἀναστῶ σοι“ εἶπεν· „ἀπέλθω σοί“.
 
-     \[Bias\], when some unpleasant man was quarreling with him in the symposium and saying, "I shall stand up and fight you," said: "I shall go away from you."
+     \[Bias\], when some unpleasant man was quarreling with him in the symposium and saying, "I shall stand up and fight you", said: "I shall go away from you."
 
 153. Βίας ἔλεγεν ἀτυχῆ εἶναι τὸν εὐτυχίαν μὴ φέροντα καὶ νόσον ψυχῆς τὸ τῶν ἀδυνάτων ἐρᾶν.
 
@@ -712,7 +712,7 @@
 
 174. Ὁ αὐτὸς ἀκούσας ὑπό τινος ὅτι „οὐκ ὢν φιλόσοφος προσποιῇ εἶναι“ εἶπε· „κατὰ τοῦτο γοῦν κρείττων σου εἰμί, τό γε βούλεσθαι“.
 
-     \[Diogenes\], having been told by someone that, "Not being a philosopher, you pretend to be one," said: "In this regard, then, I am better than you, wishing to be one at least."
+     \[Diogenes\], having been told by someone that, "Not being a philosopher, you pretend to be one", said: "In this regard, then, I am better than you, wishing to be one at least."
 
 175. Ὁ αὐτὸς ἀριστῶν ἐν ἀγορᾷ ἀκούων παρὰ τῶν παρεστώτων κύων εἶπε· „καὶ μὴν ὑμεῖς κύνες ἐστέ· οἱ γὰρ κύνες βλέπουσι \<πρὸς\> τοὺς ἐσθίοντας.“
 
@@ -732,7 +732,7 @@
 
 179. Ὁ αὐτὸς προσελθόντος αὐτῷ τινος καὶ λέγοντος ὅτι „ὁ δεῖνά σε κακῶς λέγει“ εἶπε· „μὴ θαύμαζε· καλῶς \<γὰρ\> λέγειν οὐκ ἔμαθεν.“
 
-     \[Diogenes\], when someone approached him and said, "A certain so and so spoke badly of you," said: "Do not be amazed. For he did not know how to speak well."
+     \[Diogenes\], when someone approached him and said, "A certain so and so spoke badly of you", said: "Do not be amazed. For he did not know how to speak well."
 
 180. \<Ὁ\> αὐτὸς ἐρωτηθεὶς τίς ἐν ἀνθρώποις πλούσιος εἶπεν· „ὁ αὐτάρκης“.
 
@@ -752,7 +752,7 @@
 
 184. Ὁ αὐτὸς εἰπόντος τινὸς ὅτι „καταγελῶσί σου οἱ ἄνθρωποι“ ἔφη· „ἐγὼ δὲ οὐ καταγελῶμαι.“
 
-     \[Diogenes\], when someone said, "People are ridiculing you," said: "But I am not ridiculed."
+     \[Diogenes\], when someone said, "People are ridiculing you", said: "But I am not ridiculed."
 
 185. Ο αὐτὸς θεασάμενος μειράκιον ἀρυόμενον χερσὶ κοίλαις ἀπὸ τοῦ παραῤῥέοντος ὕδατος καὶ πῖνον ἀπέῤῥιψεν αὐτίκα καὶ τὴν ἐξ ἧς εἰώθει πίνειν κύλικα βελτίους καὶ χρησιμωτέρας τὰς χεῖρας φήσας ἑαυτὸν εἰληφέναι παρὰ τῆς φύσεως.
 
@@ -784,7 +784,7 @@
 
 192. Διογένης Ἀριστίππου θεασαμένου ποτὲ αὐτὸν ἐπὶ κρήνης λάχανα ἄγρια πλύνοντα καὶ εἰπόντος· „ὦ Διόγενες, εἰ αὐλὰς τυράννων ἐθεράπευες, οὐκ ἂν ταῦτα ἤσθιες“, „σὺ μὲν οὖν, ὦ Ἀρίστιππε“, ἔφη, „εἰ ταῦτα ἤσθιες, οὐκ ἂν αὐλὰς τυράννων ἐθεράπευες“.
 
-     Diogenes, when Aristippus once saw him washing wild greens in a spring and said, "O Diogenes, if you would pay court to the halls of tyrans, you wouldn't be eating these things," said: "Well, o Aristippus, if you would eat these things, you would not pay court to the halls of tyrants."
+     Diogenes, when Aristippus once saw him washing wild greens in a spring and said, "O Diogenes, if you would pay court to the halls of tyrans, you wouldn't be eating these things", said: "Well, o Aristippus, if you would eat these things, you would not pay court to the halls of tyrants."
 
 193. Ὁ αὐτὸς καταμαθὼν νεανίσκον τινὰ πᾶσι τοῖς σοφισταῖς προσομιλοῦντα \[καὶ\] προθυμούμενον καὶ αὐτῷ προσομιλῆσαι ἔφη· „μήτι μοι ἀλλοπρόσαλλε παρεζόμενος μινύριζε“.
 
@@ -856,7 +856,7 @@
 
 210. Ὁ αὐτὸς ὀνειδίζοντος αὐτόν τινος καὶ λέγοντος· „μεθύων παραλαλεῖς“ εἶπεν· „σὺ δὲ οἴει με νήφοντα παραλαλεῖν“. 
 
-     \[Demosthenes\], when someone was reproaching him and saying, "You are babbling while drunk," said: "But you think that I babble while sober."
+     \[Demosthenes\], when someone was reproaching him and saying, "You are babbling while drunk", said: "But you think that I babble while sober."
 
 211. Ὁ αὐτὸς ἔφησε τοὺς νόμους δημοκρατίας νεῦρα.
 
@@ -916,7 +916,7 @@
 
 225. Ὁ αὐτὸς ὡς οἱ γνώριμοι ἔλεγον· „οὐκ ἀκούουσίν σου Ἀθηναῖοι“ εἶπεν· „ἀλλ’ αὐτίκα ἀκούσονται καὶ σιωπᾶν βουλόμενον οὐκ ἐάσουσιν“.
 
-     \[Demosthenes\], when the distinguished people used to say, "The Athenians are not listening to you," said: "But presently they will listen and will not let me be silent, although wishing it."
+     \[Demosthenes\], when the distinguished people used to say, "The Athenians are not listening to you", said: "But presently they will listen and will not let me be silent, although wishing it."
 
 226. Ὁ αὐτὸς ἰδὼν κακὸν παλαιστὴν ἰατρεύοντα „νῦν“ εἶπεν „εὕρηκας μέθοδον, δι’ ἧς πολλοὺς καταβαλεῖς“.
 
@@ -1248,7 +1248,7 @@
 
 308. Ὁ αὐτὸς κακοῦ τινος τραγῳδοποιοῦ ἀκρόασιν ποιούμενος \[καὶ\] λέγοντός τινος νεανίσκου ὅτι ἐξελεύσεται „οὐκ ἐμοῦγε“ ἔφη „πρότερος“· καὶ ἀναστὰς ἐξῆλθεν.
 
-     \[Hegesias\], while listening to some bad tragedian, when some young man said that he was going to go, said: "Not before me," and he stood up and left.
+     \[Hegesias\], while listening to some bad tragedian, when some young man said that he was going to go, said: "Not before me", and he stood up and left.
 
 309. Ἡρόδοτος ὁ ἱστοριογράφος ἐρωτηθεὶς ὑπό τινος πῶς ἂν δύναιντο \<οἱ\> ἄνθρωποι εὐθυμεῖν εἶπεν· „ἐὰν μὴ πολλὰ πρήσσωσιν.“
 
@@ -1525,7 +1525,7 @@
 
 364. Ὁ αὐτὸς εἰπόντος τινὸς αὐτῷ ὅτι „ὁ υἱός μου παρὰ σοὶ σχολάσας ἁμαρτάνει“ εἶπε· „ποταπὸς οὖν \<ἂν\> ἐγένετο μὴ σχολάσας“;
 
-     \[Isocrates\], when someone said to him, "My son is doing wrong studying at your side," said: "What would have happened, then, if he had not been studying?"
+     \[Isocrates\], when someone said to him, "My son is doing wrong studying at your side", said: "What would have happened, then, if he had not been studying?"
 
 365. Ὁ αὐτὸς θεασάμενός τινα τῶν μαθητῶν τοῦ μὲν ἀγροῦ ἐπιμελούμενον, τῆς δὲ πράξεως ἀμελοῦντα „ὅρα, ὦ οὗτος“, ἔφη, „μὴ τὸν ἀγρὸν ἐξημερῶσαι βουλόμενος τὴν ψυχὴν ἐξαγριώσῃς“.
 
@@ -1677,7 +1677,7 @@
 
 402. Λάμων παλαίων τὸν ἀνταγωνιστὴν ἔδακε· τοῦ δὲ εἰπόντος· „δάκνεις ὡς γυνὴ“ εἶπεν· „οὐχί, ἀλλ’ ὡς λέων“.
 
-     Lamon bit his opponent while wrestling. And when he said, "You bite like a woman," he said: "No, but like a lion."
+     Lamon bit his opponent while wrestling. And when he said, "You bite like a woman", he said: "No, but like a lion."
 
 403. Λύκων ἰδὼν γυναῖκα θρασεῖαν τὰ τῶν ἀνδρῶν πράττειν ἐθέλουσαν „οὔτε γυναῖκα“ εἶπεν „ὁμοίαν ἀνδρὶ ἀποδέχομαι, οὔτε ἄνδρα ὅμοιον γυναικί“.
 
@@ -1697,7 +1697,7 @@
 
 407. \<Μ\>ενέδημος λέγοντος αὐτῷ νεανίσκου τινὸς· „μέγα ἐστὶ τὸ τυχεῖν, ὧν ἄν τις ἐπιθυμῇ“ εἶπε· „πολλῷ μεῖζόν ἐστι τὸ μὴ ἐπιθυμεῖν ὧν μὴ δεῖ“.
 
-     \<M\>enedemus, when some young man said to him, "It is a great thing to encounter what one desires," said: "It is much better to not desire what one should not."
+     \<M\>enedemus, when some young man said to him, "It is a great thing to encounter what one desires", said: "It is much better to not desire what one should not."
 
 408. Μητρόδωρος ὁ Ἐπικούρειος ἐρωτηθεὶς διὰ τί μᾶλλον πάντων τῶν Ἐπικουρείων προκέκοφεν εἶπεν· „ὅτι πρῶτος ἀρξάμενος Ἐπικούρου ἀκούειν ἔσχατον ἐπαυσάμην“.
 
@@ -1729,7 +1729,7 @@
 
 415. Ὁ αὐτὸς ἀπαγγείλαντός τινος αὐτῷ ὅτι „ὁ υἱός σου ἐν τῷ πολέμῳ τέθνηκεν ἀνὴρ ἀγαθὸς γενόμενος“ εἶπεν· „ἐμὸς γὰρ ἦν.“
 
-     \[Xenophon\], when someone announced to him, "Your son has died in war as a good man," said: "Yes, for he was mine."
+     \[Xenophon\], when someone announced to him, "Your son has died in war as a good man", said: "Yes, for he was mine."
 
 416. Ὁ αὐτὸς εἶπε κρεῖσσον εἶναι βασιλεῖ τὸ τῶν χαρίτων ἀπολιπεῖν πλῆθος ἢ τροπαίων.
 
@@ -2107,7 +2107,7 @@
 
 508. Σόλων ἐπερωτῶν Κροῖσον τί παρὰ τῆς βασιλείας ἔσχε τιμιώτατον, ἐκείνου δὲ εἰπόντος· „τὸ τοὺς ἐχθροὺς μετελθεῖν καὶ φίλους εὐεργετεῖν“ „πόσῳ μᾶλλον“ ἔφη „χαριέστερον \<ἂν\> ἐποίησας, εἰ καὶ τούτους εἰς φιλίαν μετετρόπωσας;“
 
-     When Solon asked Croesus what he considered the most valuable thing from his kingdom and that man said, "To attack my enemies and show kindness to my friends," he said: "How much more pleasant would you have considered it if you had turned these men also towards friendship?"
+     When Solon asked Croesus what he considered the most valuable thing from his kingdom and that man said, "To attack my enemies and show kindness to my friends", he said: "How much more pleasant would you have considered it if you had turned these men also towards friendship?"
 
 509. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τίνα αἰτίαν οὐ τεκνοποιεῖ ἔφη· „διὰ φιλοτεκνίαν.“
 
@@ -2248,7 +2248,7 @@
 
 542. Ὁ αὐτὸς παραγενομένων πρὸς αὐτὸν ἐκ Μιλήτου πρεσβευτῶν ἀπρεπῶν „χαίρετε“ ἔφη „Κᾶρες“· τῶν δὲ εἰπόντων· „οὐκ ἐσμὲν Κᾶρες, ἀλλ’ Ἴωνες“ „χαίρετε τοίνυν“ ἔφη „Καρίωνες.“
 
-     \[Philip\], when some unseemly ambassadors from Miletus came to him, he said: "Greetings Carians." And when they said, "We are not Carians but Ionians," he said: "So greetings, little Care-ions."
+     \[Philip\], when some unseemly ambassadors from Miletus came to him, he said: "Greetings Carians." And when they said, "We are not Carians but Ionians", he said: "So greetings, little Care-ions."
 
 543. Ὁ αὐτὸς μετὰ τὸ καταστρέψασθαι \<τὰ\> περὶ τὴν Μακεδονίαν ἔθνη παρακαλούμενος ὑπὸ τῆς μητρὸς Εὐρυδίκης σχολάζειν ἤδη ἐν Μακεδονίᾳ ἔφη· „ἐποίησα ἄν, ὦ μῆτερ, ὃ ἐκέλευσας, εἰ μὴ ἑώρων τοὺς σχολάζοντας τοῖς ἀσχολουμένοις ὑποτασσομένους.“
 
