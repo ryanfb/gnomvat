@@ -2079,11 +2079,11 @@
 
 501. Σόλων ὁ σοφὸς ἐρωτῶντος αὐτόν τινος πῶς ἂν μὴ γένοιτο ἀδίκημα εἶπεν· „εἰ ὁμοίως ἀγανακτοῖεν ἐπὶ τοῖς ἀδικήμασιν οἱ μὴ ἀδικούμενοι τοῖς ἀδικουμένοις.“
 
-     Solon the wise man, when someone asked him how wrongs could not happen, said, "If those who are not wronged would be equally vexed as those who are wronged at the wrongs done.
+     Solon the wise man, when someone asked him how wrongs could not happen, said: "If those who are not wronged would be equally vexed as those who are wronged at the wrongs done.
 
 502. Ὁ αὐτὸς ἐπιτιμωμένου τινὸς ὑπ’ αὐτοῦ ἐπὶ τῷ κυβεύειν καὶ λέγοντος περὶ μικροῦ παίζειν „ἀλλὰ τό γε ἔθος“ εἶπεν „οὐ μικρὸν \[κακόν\].“
 
-     When someone was rebuked by \[Solon\] for playing at dice and said that he played for a small amount, he said, "But your character, at any rate, is no small thing."
+     When someone was rebuked by \[Solon\] for playing at dice and said that he played for a small amount, he said: "But your character, at any rate, is no small thing."
 
 503. Ὁ αὐτὸς ἔφη ἐκείνην ἄριστα διοικεῖσθαι τὴν πόλιν, ἐν ᾗ τοὺς ἀγαθοὺς συμβαίνει τιμᾶσθαι, κάκιστα δὲ οἰκεῖσθαι, ἐν ᾗ τοὺς κακούς.
 
@@ -2091,7 +2091,7 @@
 
 504. Ὁ αὐτὸς ἔγραψεν ἐντὸς πεντήκοντα ἐτῶν γυναῖκα εἰς τὸ δημόσιον μὴ προιέναι· ἐρωτώμενος δὲ „διὰ τί τοῦτο ἐποίησας;“ εἶπεν· „ἵνα μήτις πυνθάνηται, τίνος γυνή, ἀλλὰ τίνος μήτηρ.“
 
-     \[Solon\] wrote for a woman within 50 years not to go into a public building. But when asked, "Why did you do this?" he said, "So that no one would ask, "Whose wife is this?" but rather "Whose mother?"
+     \[Solon\] wrote for a woman within 50 years not to go into a public building. But when asked, "Why did you do this?" he said: "So that no one would ask, 'Whose wife is this?' but rather 'Whose mother?'"
 
 505. Σόλων ἔλεγε τοὺς παρὰ τοῖς τυράννοις δυναστεύοντας παραπλησίους εἶναι ταῖς ψήφοις ταῖς ἐπὶ τῶν λογισμῶν· καὶ γὰρ ἐκείνων ἑκάστην ποτὲ μὲν πλείω σημαίνειν, ποτὲ δὲ ἐλάττω· καὶ τούτων τοὺς τυράννους ποτὲ μὲν μέγαν ἕκαστον ἄγειν, ποτὲ δὲ ἄτιμον.
 
@@ -2099,39 +2099,39 @@
 
 506. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί κατὰ πατροκτόνου νόμον οὐκ ἔθηκεν εἶπε· „διὰ τὸ ἀπελπίσαι.“
 
-     \[Solon\], when he was asked why he did not establish a law against father-killing, said, "Because I hoped it would not happen."
+     \[Solon\], when he was asked why he did not establish a law against father-killing, said: "Because I hoped it would not happen."
 
 507. Σόλων ἐρωτηθεὶς ὑπό τινος τί ἐστι νόμος εἶπε· „τῶν μὲν δειλῶν φόβος, τῶν δὲ τολμηρῶν κόλασις.“
 
-     Solon, having been asked by someone what the law is, said, "A fear, for the cowardly, and a punishment, for the daring."
+     Solon, having been asked by someone what the law is, said: "A fear, for the cowardly, and a punishment, for the daring."
 
 508. Σόλων ἐπερωτῶν Κροῖσον τί παρὰ τῆς βασιλείας ἔσχε τιμιώτατον, ἐκείνου δὲ εἰπόντος· „τὸ τοὺς ἐχθροὺς μετελθεῖν καὶ φίλους εὐεργετεῖν“ „πόσῳ μᾶλλον“ ἔφη „χαριέστερον \<ἂν\> ἐποίησας, εἰ καὶ τούτους εἰς φιλίαν μετετρόπωσας;“
 
-     When Solon asked Croesus what he considered the most valuable thing from his kingdom and that man said, "To attack my enemies and show kindness to my friends," he said, "How much more pleasant would you have considered it if you had turned these men also towards friendship?"
+     When Solon asked Croesus what he considered the most valuable thing from his kingdom and that man said, "To attack my enemies and show kindness to my friends," he said: "How much more pleasant would you have considered it if you had turned these men also towards friendship?"
 
 509. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τίνα αἰτίαν οὐ τεκνοποιεῖ ἔφη· „διὰ φιλοτεκνίαν.“
 
-     \[Solon\], having been asked why he did not bear children, said, "Because of my love for children."
+     \[Solon\], having been asked why he did not bear children, said: "Because of my love for children."
 
 510. Σιμωνίδης ἐρωτηθεὶς ὑπό τινος ποῖός ἐστιν ἀσφαλέστατος βίος ἔφη· „ὅταν τις οὕτως ζήσῃ, ὥστε μήτε ἐλεεῖσθαι μήτε βασκαίνεσθαι.“
 
-     When Simonides was asked by someone what the safest sort of life was, he said, "Whenever someone lives in such a way that they never feel pity nor envy."
+     When Simonides was asked by someone what the safest sort of life was, he said: "Whenever someone lives in such a way that they never feel pity nor envy."
 
 511. Ὁ αὐτὸς ἔφη τὰ πάθη τοῖς ἀνθρώποις μαθήματα εἶναι περὶ τὸν βίον· „πολλοὶ γὰρ οὐ δυνάμενοι τῷ λόγῳ προορᾶν τὸ μέλλον τῷ πάσχειν ᾔσθοντο τὰ πράγματα.“
 
-     \[Simonides\] said that the emotions are lessons for humans about life. "For many, although they are not able through reason to foretell the future, through suffering they understood their circumstances."
+     \[Simonides\] said that the emotions are lessons for humans about life: "For many, although they are not able through reason to foretell the future, through suffering they understood their circumstances."
  
 512. Ὁ αὐτὸς ἐρωτηθεὶς εἰ πάντα γηράσκει ἔφη· „\<πάντα\> πλὴν κέρδους ἀπλήστου.“
 
-     \[Simonides\], having been asked if all things grow old, said, "\<Everything\> except the insatiable desire for profit."
+     \[Simonides\], having been asked if all things grow old, said: "\<Everything\> except the insatiable desire for profit."
 
 513. Ὁ αὐτὸς νεανίσκου τινὸς αὐτὸν παρακαλοῦντος γράψαι ἐγκώμιον αὐτοῦ, χάριν γὰρ αὐτῷ ἕξειν, „δύο μοι“, εἶπεν, „ὦ βέλτιστε, κιβώτια ὑπάρχει· καὶ εἰς μὲν τὸ ἓν τὰς χάριτας ἀποτίθεμαι, εἰς δὲ τὸ ἕτερον ἀργυρίδιον· ὅταν οὖν ἀνοίξω αὐτὰ βουλόμενος χρῆσθαι, τὸ μὲν τοῦ ἀργυρίου πλῆρες εὑρίσκω, τὸ δὲ τῶν χαρίτων κεκενωμένον.“
 
-     \[Simonides\], when some young man asked him to write an encomium of him, for he would consider it a favor for him, he said, "O good man, I have two boxes. And into the one I put favors, and into the other, silver coin. Then whenever I open them wanting to make use of them, I find the one full of silver, and the other empty of any favors."
+     \[Simonides\], when some young man asked him to write an encomium of him, for he would consider it a favor for him, he said: "O good man, I have two boxes. And into the one I put favors, and into the other, silver coin. Then whenever I open them wanting to make use of them, I find the one full of silver, and the other empty of any favors."
 
 514. Ὁ αὐτὸς ἐρωτηθεὶς πότερος κρείσσων, Ὅμηρος ἢ Ἡσίοδος, εἶπεν· „Ἡσίοδον μὲν αἱ Μοῦσαι, Ὅμηρον δὲ αἱ Χάριτες ἐτέκνωσαν.“
 
-     \[Simonides\], when he was asked who was greater, Homer or Hesiod, said, "The Muses bore Hesiod, the Graces, Homer."
+     \[Simonides\], when he was asked who was greater, Homer or Hesiod, said: "The Muses bore Hesiod, the Graces, Homer."
 
 515. 
       1. Στίλπων ὁ Μεγαρικὸς φιλόσοφος ἁλούσης αὐτοῦ τῆς πατρίδος ὑπὸ Δημητρίου τοῦ Πολιορκητοῦ καὶ διαρπαγείσης ἀναχθεὶς ἐπὶ τὸν βασιλέα καὶ ἐρωτώμενος εἴ τι δὴ αὐτὸς ἀπώλεσε „τῶν ἐμῶν μὲν οὐδὲν“ ἔφη· „τὸν γὰρ λόγον καὶ τὴν παιδείαν ἔχω, τὰ δὲ λοιπὰ διὰ τί μᾶλλον ἐμὰ ἢ οὐχὶ τῶν πολιορκούντων;“
@@ -2144,15 +2144,15 @@
       
 516. \<Ὁ\> αὐτὸς ἐρωτηθεὶς τί ἰσχυρότερόν ἐστιν ἀνδριάντος εἶπεν· „ἄνθρωπος ἀναίσθητος.“
 
-     \[Stilpo\] having been asked what is harder than a statue, said "An unfeeling man."
+     \[Stilpo\] having been asked what is harder than a statue, said: "An unfeeling man."
 
 517. Σοφοκλῆς, ὁ τῶν τραγῳδιῶν ποιητής, ἀκούσας Εὐριπίδην ἐν Μακεδονίᾳ τεθνηκέναι εἶπεν· „ἀπώλετο ἡ τῶν ἐμῶν ποιημάτων ἀκόνη.“
 
-     Sophocles, the poet of tragedies, when he heard that Euripides had died in Macedonia, said, "The whetstone of my poems has died."
+     Sophocles, the poet of tragedies, when he heard that Euripides had died in Macedonia, said: "The whetstone of my poems has died."
 
 518. Ὁ αὐτὸς ἐρωτηθεὶς διὰ τί αὐτὸς μὲν ποιεῖ τὰ ἤθη τῶν ἀνθρώπων χρηστά, Εὐριπίδης δὲ φαῦλα „ὅτι“ ἔφη „ἐγὼ μέν, οἵους ἔδει εἶναι, τοὺς ἀνθρώπους ποιῶ, ἐκεῖνος δέ, ὁποῖοί εἰσιν.“
 
-     When \[Sophocles\] was asked why he depicted the character of people as good and Euripides as bad, said, "Because I depict men that should exist, and that man depicts those that do.
+     When \[Sophocles\] was asked why he depicted the character of people as good and Euripides as bad, said: "Because I depict men that should exist, and that man depicts those that do.
 
 519. Στρατόνικος ἰδὼν μεγάλα πρόπυλα ἰδιωτικῆς οἰκίας κόψας τὴν θύραν πρὸς τὸν ὑπακούσαντα εἶπεν· „ἔνδον Ἀγαμέμνων;“
 
@@ -2236,23 +2236,23 @@
 
 539. Φίλιππος ἐρωτηθεὶς τίς αὐτῷ τὸν ὀφθαλμὸν ἐξέκοψεν, εἶπεν· „ὁ τῆς Ἑλλάδος ἔρως.“
 
-     Philip, having been asked who knocked out his eye, said, "The desire for Greece."
+     Philip, having been asked who knocked out his eye, said: "The desire for Greece."
 
 540. Ὁ αὐτὸς κατεάξας τὴν κλεῖν ἐν πολέμῳ καὶ πολλὰ αἰτούμενος χρήματα ὑπὸ τοῦ θεραπεύοντος αὐτὸν ἰατροῦ παίξας εἶπε πρὸς αὐτόν· „ἕως τὴν κλεῖν ἔχεις, ταμιεύου σεαυτόν.“
 
-     \[Philip\], having broken his collar bone in war and being asked for much money by the doctor tending him, jokingly said to him, "As long as you have the key, dispense for yourself."
+     \[Philip\], having broken his collar bone in war and being asked for much money by the doctor tending him, jokingly said to him: "As long as you have the key, dispense for yourself."
 
 541. Ὁ αὐτὸς λέγοντος αὐτῷ τινος ὅτι Ἀθηναῖοι αὐτὸν μισοῦσιν εἶπε· „καὶ γὰρ αἱ ἐν Μακεδονίᾳ γυναῖκες.“
 
-     \[Philip\], when someone told him that the Athenians hate him, said, "So too do the women in Macedonia."
+     \[Philip\], when someone told him that the Athenians hate him, said: "So too do the women in Macedonia."
 
 542. Ὁ αὐτὸς παραγενομένων πρὸς αὐτὸν ἐκ Μιλήτου πρεσβευτῶν ἀπρεπῶν „χαίρετε“ ἔφη „Κᾶρες“· τῶν δὲ εἰπόντων· „οὐκ ἐσμὲν Κᾶρες, ἀλλ’ Ἴωνες“ „χαίρετε τοίνυν“ ἔφη „Καρίωνες.“
 
-     \[Philip\], when some unseemly ambassadors from Miletus came to him, he said, "Greetings Carians." And when they said, "We are not Carians but Ionians," he said, "So greetings, little Care-ions."
+     \[Philip\], when some unseemly ambassadors from Miletus came to him, he said: "Greetings Carians." And when they said, "We are not Carians but Ionians," he said: "So greetings, little Care-ions."
 
 543. Ὁ αὐτὸς μετὰ τὸ καταστρέψασθαι \<τὰ\> περὶ τὴν Μακεδονίαν ἔθνη παρακαλούμενος ὑπὸ τῆς μητρὸς Εὐρυδίκης σχολάζειν ἤδη ἐν Μακεδονίᾳ ἔφη· „ἐποίησα ἄν, ὦ μῆτερ, ὃ ἐκέλευσας, εἰ μὴ ἑώρων τοὺς σχολάζοντας τοῖς ἀσχολουμένοις ὑποτασσομένους.“
 
-     \[Philip\], after subduing the nations around Macedonia, being summoned by his mother Eurydice to rest at this point in Macedonia, said, "I would have done, mother, what you commanded, if I did not now see those resting being subject to those who are busy."
+     \[Philip\], after subduing the nations around Macedonia, being summoned by his mother Eurydice to rest at this point in Macedonia, said: "I would have done, mother, what you commanded, if I did not now see those resting being subject to those who are busy."
 
 544. Ὁ αὐτὸς ἔλεγεν ἔνια \[τῶν\] ὑφ’ ἑαυτοῦ διοικεῖσθαι οὕτω κρυπτῶς, ὥστε μηδὲ τὴν χλανίδα αὑτῷ συνιστορεῖν.
 
@@ -2276,11 +2276,11 @@
 
 549. Χίλων ὁ σοφὸς λυπουμένου τινὸς ἐπὶ τοῖς ἑαυτοῦ κακοῖς εἶπεν· „εἰ τὰ πάντων κατανοήσαις, ἔλαττον \<ἂν>\ ἐπὶ τοῖς σαυτοῦ δυσφορήσαις.“
 
-     Chilon the sage, when someone was grieving at his own evils, said, "If you should observe the affairs of everyone, you would bear your own with less pain."
+     Chilon the sage, when someone was grieving at his own evils, said: "If you should observe the affairs of everyone, you would bear your own with less pain."
 
 550. Ὁ αὐτὸς ἐρωτηθεὶς τί παραδοξότατόν ἐστιν ἐν ἀνθρώποις εἶπεν· „εἴ τις ἐξουσίας κυριεύσας ἑαυτὸν γνωρίζοι.“
 
-     \[Chilon\], having been asked what is most unexpected among people, said, "If someone with mastery over his resources should recognize himself."
+     \[Chilon\], having been asked what is most unexpected among people, said: "If someone with mastery over his resources should recognize himself."
 
 551. Ὁ αὐτὸς ἀκούσας τινὸς εἰπόντος ὡς οὐδεὶς αὐτῷ ἐχθρὸς εἴη οὐκ ἔχειν αὐτὸν εἶπεν οὐδὲ φίλον.
 
@@ -2296,7 +2296,7 @@
 
 554. Ὁ αὐτὸς ἐρωτηθεὶς τί δύσκολόν ἐστιν ἔφη· „μάλιστα τὸ τὰ ἀπόῤῥητα σιωπῆσαι καὶ σχολὴν εὖ διαθέσθαι καὶ ἀδικούμενον δύνασθαι φέρειν.“
 
-     \[Chilon\], having been asked what is hard to bear, said, "Especially to not say unspeakable things, to manage one's leisure well, and to be able to bear injustice."
+     \[Chilon\], having been asked what is hard to bear, said: "Especially to stay silent about secrets, to manage one's leisure well, and to be able to bear injustice."
 
 555. Χαβρίας ἔλεγε φοβερώτερον εἶναι στρατόπεδον ἐλάφων ἡγουμένου λέοντος ἢ λεόντων ἡγουμένης ἐλάφου.
 
