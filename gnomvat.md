@@ -1589,7 +1589,7 @@
 
 380. Κικέρων εἶπε· „καλῶς ποιεῖν ἁπλῆ εὐεργεσία, λέγειν δὲ καὶ ποιεῖν διπλῆ“.
 
-     Cicero said, "To act well is a single good, but to speak and act well is a double one."
+     Cicero said: "To act well is a single good, but to speak and act well is a double one."
 
 381. Κράτης ὁ Κυνικὸς ἰδὼν μειράκιον καλλωπιζόμενον ὅμοιον αὐτὸ ἔφη εἶναι ὁδῷ λείᾳ καὶ πλατείᾳ, δι’ ἧς πολλοὶ εὐχερῶς ὁδεύουσιν.
 
@@ -1605,11 +1605,11 @@
 
 384. Ὁ αὐτὸς Ζήνωνί ποτε τῷ Κιτιεῖ γνωρίμῳ ὄντι αὐτοῦ ἔδωκε χύτραν φέρειν φακῆς, καὶ τοῦ Ζήνωνος φιλοδοξότερον ἀποκρύπτοντος ἐν τῷ ὄχλῳ τὴν χύτραν πλήξας ὁ Κράτης τῇ βακτηρίᾳ κατέαξεν αὐτήν· φερομένης οὖν τῆς φακῆς κατὰ τῶν τοῦ Ζήνωνος σκελῶν κἀκείνου ἐρυθριῶντος ἐπὶ τούτῳ „θάῤῥει, ὦ φοινικίδιον“, ἔφη· „οὐδὲν γὰρ δεινόν ἐστιν, ἀλλὰ φακῆ“.
 
-     \[Crates\] once gave to Zeno of Citium, his acquaintance, a pot of lentils to carry, and when Zeno was hiding the pot among the crowd out of concern for his reputation, Crates struck the pot with his staff and broke it. So, with the lentils falling down the legs of Zeno, and with him blushing at it, he said, "Take heart, little-red-cloak, for it is nothing dreadful, but lentils."
+     \[Crates\] once gave to Zeno of Citium, his acquaintance, a pot of lentils to carry, and when Zeno was hiding the pot among the crowd out of concern for his reputation, Crates struck the pot with his staff and broke it. So, with the lentils falling down the legs of Zeno, and with him blushing at it, he said: "Take heart, little-red-cloak, for it is nothing dreadful, but lentils."
 
 385. \<Ὁ\> αὐτὸς καλοῦντος αὐτὸν Ἀλεξάνδρου εἰς Μακεδονίαν καὶ ἐπαγγελλομένου τὰς Θήβας ἀναστήσειν \[τὴν πατρίδα τοῦ Κράτητος\] εἶπεν· „οὐ χρῄζω τοιαύτης πατρίδος, ἣν ἕτερος Ἀλέξανδρος καθαιρήσει.“ 
 
-     \[Crates\], when Alexander was calling him to Macedonia and announcing that he would cause Thebes to evacuate, he said, "I do not want such a fatherland which another Alexander will destroy."
+     \[Crates\], when Alexander was calling him to Macedonia and announcing that he would cause Thebes to evacuate, he said: "I do not want such a fatherland which another Alexander will destroy."
 
 386. Ὁ αὐτὸς παρεκελεύετο τοῖς ἀνθρώποις ἢ νοῦν ἢ βρόχον.
 
@@ -1637,31 +1637,31 @@
 
 392. Λάκων ἀσθενῶς διακείμενος τὸ σῶμα ἐπὶ παράταξιν προῆγεν· λεγόντων δέ τινων αὐτῷ· „ποῦ τοιοῦτος πορεύῃ“; ἔφη· „ὑπὲρ τῆς πατρίδος ἀποθανεῖν“
 
-     A Laconian, although weak in body, advanced into the line of battle. And when some people said to him, "Where are you going such as you are?" he said, "To die for my fatherland."
+     A Spartan, although weak in body, advanced into the line of battle. And when some people said to him, "Where are you going such as you are?" he said, "To die for my fatherland."
 
 393. Λάκων παιδαγωγὸς ἐρωτηθεὶς ὑπό τινος τί διδάσκει τοὺς παῖδας εἶπε· „τὰ καλὰ αὐτοῖς ἡδέα φαίνεσθαι“.
 
-     A Laconian instructor, having been asked by someone what he teaches his children, said, "That good things appear pleasant to them."
+     A Spartan instructor, having been asked by someone what he teaches his children, said, "That good things appear pleasant to them."
 
 394. Λάκων ἀνὴρ ἐρωτώμενος διὰ τί οἱ Λακεδαιμόνιοι μικρὰ ἔχουσι τὰ ἐγχειρίδια εἶπεν· „ὅτι ἐγγύθεν τοῖς πολεμίοις μάχονται“.
 
-     A Laconian man, being asked why the Lacedaimonians have small spears, said, "Because they fight their enemies from up close."
+     A Spartan man, being asked why the Lacedaimonians have small spears, said, "Because they fight their enemies from up close."
 
 395. Λάκων ἀνὴρ πρὸς τὸν εἰπόντα αὐτῷ· „διὰ τί οἱ Λακεδαιμόνιοι τὴν βραχυλογίαν ἀσκοῦσιν;“ εἶπεν· „ὅτι ἔγγιστά ἐστι τοῦ σιωπᾶν“.
 
-     A Laconian man to someone telling him, "Why do the Lacedaimonians practice brevity of speech?" said, "Because it is closest to being silent."
+     A Spartan man to someone telling him, "Why do the Lacedaimonians practice brevity of speech?" said, "Because it is closest to being silent."
 
 396. Λάκων ἀνὴρ ἐρωτηθεὶς ἐπὶ πόσον αὐτῶν ἡ χώρα διήκει „ἐφ’ ὅσον ἂν“ εἶπε „τὸ δόρυ ἰσχύῃ“.
 
-     A Laconian man, having been asked how far their land extends, said, "As far as a spear has strength."
+     A Spartan man, having been asked how far their land extends, said, "As far as a spear has strength."
 
 397. Λάκων ἀνὴρ παραγενόμενος εἴς τινα πόλιν \[καὶ\] δεικνύντος αὐτῷ τινος τῶν ἐγχωρίων ὅτι κάλλιστα τείχη ἔχει „τοιαῦτα“, εἶπεν, „ὥστε τὰς γυναῖκας ἐξ αὐτῶν /<ἂν/> ἀμύνασθαι“.
 
-     A Laconian man, arriving at some city, when one of the locals showed him that it has the most beautiful walls, said, "Of such a kind to ward off women from them."
+     A Spartan man, arriving at some city, when one of the locals showed him that it has the most beautiful walls, said, "Of such a kind to ward off women from them."
 
 398. Λάκων ἀνὴρ ἐν παρατάξει κείμενος ἔτι ἔμπνους ἐπιόντος τινὸς τῶν πολεμίων καὶ τοὺς ἔτι ζῶντας ἀποσφάζοντος διακύψας ἠξίωσε κατὰ τὸ στέρνον πληγῆναι ὑπ’ αὐτοῦ αἰσχυνόμενος ὀπισθοπλῆγα τὸν νεκρὸν αὐτοῦ γενέσθαι.
 
-     A Laconian man, lying in the battle line still breathing while one of the enemy approached and was slaughtering those still alive, stooping he decided to be struck by him through his chest, being ashamed to become a back-wounded corpse from him.
+     A Spartan man, lying in the battle line still breathing while one of the enemy approached and was slaughtering those still alive, stooping he decided to be struck by him through his chest, being ashamed to become a back-wounded corpse from him.
 
 399. Λύσιππος ὁ ἀνδριαντοποιὸς ἐρωτηθεὶς ὑπό τινος „διὰ τί δήμῳ, ἀνδριάντα ποιῶν, ὦτα οὐ περιέθηκας“; εἶπε· „δῆμος ἀκοῇ οὔποτε τίθεται, αὐθαδείᾳ δὲ μᾶλλον.“
 
