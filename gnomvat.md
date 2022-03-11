@@ -1397,11 +1397,11 @@
 
 332. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί ἐστιν ἔρως εἶπε· „πάθος ψυχῆς σχολαζούσης“.
 
-     \[Theophrastus\], having been asked by someone what love is, said "An emotion of the unoccupied soul."
+     \[Theophrastus\], having been asked by someone what love is, said: "An emotion of the unoccupied soul."
 
 333. Ὁ αὐτὸς ἐν συμποσίῳ νεανίσκον τινὰ βλέπων ἡσυχίαν ἄγοντα εἶπεν· „εἰ μὲν ἀπαίδευτος ὢν σιωπᾷς, πεπαιδευμένος ὑπάρχεις· εἰ δὲ πεπαιδευμένος, ἀπαιδεύτως σιωπᾷς“.
 
-     \[Theophrastus\], seeing some young man keeping quiet at a symposium, said, "If you are silent while being uneducated, you are educated. But if you do so having been educated, you are silent without education."
+     \[Theophrastus\], seeing some young man keeping quiet at a symposium, said: "If you are silent while being uneducated, you are educated. But if you do so having been educated, you are silent without education."
 
 334. Ὁ αὐτὸς ἔφη τοὺς μοχθηροὺς τῶν ἀνθρώπων οὐχ οὕτως ἥδεσθαι ἐπὶ τοῖς ἰδίοις ἀγαθοῖς, ὡς ἐπὶ τοῖς ἀλλοτρίοις κακοῖς.
 
@@ -1409,7 +1409,7 @@
  
 335. Ὁ αὐτὸς ἐρωτηθεὶς τίνα προκοπὴν ἔχει πολιτεία ἔφη· „φθόνον“.
 
-     \[Theophrastus\], having been asked what means of progress a body of citizens has, said, "Envy."
+     \[Theophrastus\], having been asked what means of progress a body of citizens has, said: "Envy."
 
 336. Ὁ αὐτὸς τοὺς εὐειδεῖς καὶ ἀπαιδεύτους ὁμοίους ἔφησεν εἶναι ἀλαβάστροις ἔχουσιν ὄξος. 
 
@@ -1421,39 +1421,39 @@
 
 338. Θεόκριτος ὁ Χῖος ἀφυοῦς ποιητοῦ ἀκρόασιν ποιούμενος ἐρωτώμενος ὑπ’ αὐτοῦ ποῖά ἐστι τὰ καλῶς εἰρημένα \<ἔφη\>· „ἃ παρέλιπες“.
 
-     When Theocritus the Chian was listening to a dull poet and was asked by him what things had been said well, \<he said\>, "What you left out."
+     When Theocritus the Chian was listening to a dull poet and was asked by him what things had been said well, \<he said\>: "What you left out."
 
 339. Ὁ αὐτὸς παρὰ πότον τινῶν νεανίσκων ἐριζόντων πρὸς ἀλλήλους ποῖον ὕδωρ χρηστότατόν ἐστι τῶν κατὰ τὴν οἰκουμένην, καὶ τοῦ δείπνου μὴ παρατιθεμένου, ἀλλὰ τῶν μὲν φασκόντων τὸ ἐν Κορίνθῳ ἀπὸ τῆς Πειρήνης, τῶν δὲ τὸ ἐν Πιερίᾳ ἀπὸ τοῦ Ἑλικῶνος, τῶν δὲ τὸ ἐν Χαλκίδι ἀπὸ τῆς Ἀρεθούσης, εἶτα ἐρωτώντων αὐτὸν ποίῳ συγκατατίθεται εἶπεν· „ἐμοὶ δοκεῖ κατὰ τὸν παρόντα καιρὸν ἄριστον εἶναι ὕδωρ τὸ κατὰ χειρῶν“.
 
-     \[Theocritus\] was at a drinking party where certain young men were quarreling with each other over what was the most pleasant water of all those in the world (but dinner was not being served), with some of them saying it was the water in Corinth from Pirene, others saying the water in Pieria from Helicon, and others saying the water in Chalcis from Arethousa. Then, when they asked him which he agreed with, he said, "I think at the present moment that the best water is the one for washing hands."
+     \[Theocritus\] was at a drinking party where certain young men were quarreling with each other over what was the most pleasant water of all those in the world (but dinner was not being served), with some of them saying it was the water in Corinth from Pirene, others saying the water in Pieria from Helicon, and others saying the water in Chalcis from Arethousa. Then, when they asked him which he agreed with, he said: "I think at the present moment that the best water is the one for washing hands."
 
 340. Ὁ αὐτὸς τῶν Χίων οὐκ ἐώντων αὐτὸν στῆσαι τὴν εἰκόνα αὐτοῦ πρὸς τῇ στοᾷ, ἀλλὰ φασκόντων τοὺς ὀλυμπιονίκας ἐκεῖ δεῖν ἵστασθαι, ἔφη· „ἐὰν Ὀλύμπιά τις ὑμῶν νικήσῃ, μετάθετέ μου τὴν εἰκόνα εἰς τὴν ταριχόπωλιν“.
 
-     When the Chians did not allow \[Theocritus\] to set up a statue of himself near the stoa, claiming that Olympic victors should stand there, he said, "If one of you wins at the Olympic games, transfer my statue to the salt-fish market."
+     When the Chians did not allow \[Theocritus\] to set up a statue of himself near the stoa, claiming that Olympic victors should stand there, he said: "If one of you wins at the Olympic games, transfer my statue to the salt-fish market."
 
 341. Ὁ αὐτὸς ἐν συμποσίῳ ἀσώτου τινὸς κληθείς, ὅστις τὸν ἴδιον ἀγρὸν πωλήσας καταβεβρώκει, προσενεγκαμένου ἔδεσμα ζέον καὶ φάσκοντος κατακεκαῦσθαι τὸν οὐρανὸν „ἀλλὰ μὴν εἴ γε“ ἔφη „τὴν μὲν γῆν καταβέβρωκας, τὸν δὲ οὐρανὸν κατακέκαυκας, λοιπὸν ἔτι σοι τὴν θάλασσαν ἐκπιεῖν“.
 
-     When \[Theocritus\] was invited to the symposium of a profligate man who, having sold his own land, had devoured it up, and when that man brought forward boiling food and claimed that he had burnt down the sky, he said, "Well then, if you have devoured up the land and burnt down the sky, the only remaining thing for you is the drink up the sea."
+     When \[Theocritus\] was invited to the symposium of a profligate man who, having sold his own land, had devoured it up, and when that man brought forward boiling food and claimed that he had burnt down the sky, he said: "Well then, if you have devoured up the land and burnt down the sky, the only remaining thing for you is the drink up the sea."
 
 342. Ὁ αὐτὸς Φιλοξένου πρὸς αὐτὸν μαχομένου καὶ συζητοῦντος ἔφη· „πότερον βούλει μοι διαλέγεσθαι ἢ διαδάκνεσθαι“;
 
-     \[Theocritus\], when Philoxenus was fighting and disputing with him, said, "Do you want to have a conversation with me, or a biting match?"
+     \[Theocritus\], when Philoxenus was fighting and disputing with him, said: "Do you want to have a conversation with me, or a biting match?"
 
 343. Ὁ αὐτὸς βουλευομένων Ἀβδηριτῶν πῶς ἂν καταγωνίσαιντο τοὺς Θρᾷκας εἶπεν· „εἰ Χαρμίδην μὲν τὸν ἰατρὸν χειροτονήσετε στρατηγόν, τὸν δὲ νῦν στρατηγοῦντα κελεύσετε ἰατρεύειν· ὁ μὲν γὰρ πολυάνδριον τὴν πόλιν πεποίηκεν, ὁ δ’ οὐδένα τῶν πολεμίων ἀνῄρηκεν“.
 
-     \[Theocritus\], when the Abderites were deliberating how they would conquer the Thracians, said, "If you elect Charmides the doctor as general, you will command the one who is now serving as general to be a doctor. For one has made the city full of men, while the other has undertaken nothing of war.
+     \[Theocritus\], when the Abderites were deliberating how they would conquer the Thracians, said: "If you elect Charmides the doctor as general, you will command the one who is now serving as general to be a doctor. For one has made the city full of men, while the other has undertaken nothing of war.
    
 344. Ὁ αὐτὸς ἐρωτηθεὶς ποῖα ἂν εἴη θηρία χαλεπώτερα εἶπεν· „ἐν μὲν τοῖς ὄρεσιν ἄρκοι καὶ λέοντες, ἐν δὲ ταῖς πόλεσι τελῶναι καὶ συκοφάνται“.
 
-     \[Theocritus\], when he was asked what beasts were harsher, said, "In the mountains, bears and lions. In the cities, tax collectors and swindlers."
+     \[Theocritus\], when he was asked what beasts were harsher, said: "In the mountains, bears and lions. In the cities, tax collectors and swindlers."
 
 345. Ὁ αὐτὸς ἐλθὼν εἰς Καῦνον καὶ ἰδὼν πάντας τοὺς ἐν τῇ πόλει χλωροὺς εἶπεν· „οἵη περ φύλλων γενεή, τοίη δὲ καὶ ἀνδρῶν“.
 
-     \[Theocritus\], having come to Caunus and seen all the pallid people in the city, said, "As the generations of leaves, so those of men."
+     \[Theocritus\], having come to Caunus and seen all the pallid people in the city, said: "As the generations of leaves, so those of men."
 
 346. Ὁ αὐτὸς ῥήτορος κακοῦ σεμνυνομένου ὅτι παρ’ οὐδενὸς οὐδὲν πώποτε εἴληφεν „οὐδεὶς γάρ σοι“ ἔφη „οὐδὲν ἂν δῴη, ἐπεὶ σύ γ’ ἂν ἡδέως ὀμφαλὸν ἰσχάδος λάβοις“.
 
-     \[Theocritus\], when a bad orator was boasting that he had never taken anything from anyone, said, "For no one would give you anything, since you would gladly take the stem of a dried fig."
+     \[Theocritus\], when a bad orator was boasting that he had never taken anything from anyone, said: "For no one would give you anything, since you would gladly take the stem of a dried fig."
 
 347. Ὁ αὐτὸς τὰ μὲν ἐπιτεύγματα τῶν ποιητῶν ὡς θεῶν ἐκδέχεσθαι δεῖν ἔφη, τὰ δὲ ἀποτεύγματα ὡς ἀνθρώπων συγγνώμης ἀξιοῦν.
 
@@ -1461,19 +1461,19 @@
 
 348. Ὁ αὐτὸς Ἀναξιμένους ποιούμενος ἀκρόασιν ἐπὶ πολὺ συνεγγίζοντος ἤδη τῇ τελευτῇ τοῦ βιβλίου μεγάλῃ [τῇ] φωνῇ ἔφη· „θαρσεῖτε ἄνδρες· γῆν ὁρῶ“.
 
-     When \[Theocritus\] was attending a lecture of Anaximenes and that man was drawing near to the end of his book, with a loud voice he said, "Take heart, men; I see land!"
+     When \[Theocritus\] was attending a lecture of Anaximenes and that man was drawing near to the end of his book, with a loud voice he said: "Take heart, men; I see land!"
 
 349. Ὁ αὐτὸς θεασάμενος μαθηματικὸν προσκόψαντα εἶπε· „πῶς τὰ ἐν οὐρανῷ ὁρῶν τὰ ἐν τῇ γῇ οὐχ ὁρᾷς“.
 
-     \[Theocritus\], when he saw an astrologer stumbling, said, "How, when you see the things in the heaven, do you not see the things on earth"
+     \[Theocritus\], when he saw an astrologer stumbling, said: "How, when you see the things in the heaven, do you not see the things on earth"
 
 350. Ὁ αὐτὸς λάχανα πλύνων \[καὶ\] τινὸς αὐτοῦ πυνθανομένου μή τινα δανειστὴν γινώσκει εἶπεν· „πῶς φῄς; ὅ τι τοιούτῳ βίῳ ἀρκοῦμαι“;
 
-     When \[Theocritus\] was washing vegetables, when someone asked him if he knew a certain money-lender, he said, "What are you talking about? Because I am content with such a life?"
+     When \[Theocritus\] was washing vegetables, when someone asked him if he knew a certain money-lender, he said: "What are you talking about? Because I am content with such a life?"
 
 351. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος διὰ τί ἡ Δημήτρα λαμπάδα κατέχει εἶπεν· „ὅτι πᾶσα τροφὴ πυρὶ κατεργάζεται“.
 
-     \[Theocritus\], when he was asked by someone why Demeter holds a torch, said, "Because all nourishment is achieved through fire."
+     \[Theocritus\], when he was asked by someone why Demeter holds a torch, said: "Because all nourishment is achieved through fire."
 
 352. Θεόδωρος ὁ Κυρηναῖος παῤῥησιαζόμενός ποτε πρὸς Λυσίμαχον τὸν βασιλέα κἀκείνου αὐτῷ ἀπειλοῦντος ἀναίρεσιν εἶπεν· „οὐκ αἰσχύνῃ, ὦ Λυσίμαχε, τοῖς \[μὲν\] δικαίοις, μὴ δυνάμενος νικῆσαι, τηλικοῦτος \[δὲ\] βασιλεὺς κανθαρίδος ἔργον ἐπαγγελλόμενος;“
 
@@ -1485,19 +1485,19 @@
 
 354. Ὁ αὐτὸς προδότου τινὸς κακῶς αὐτὸν λέγοντος εἶπεν· „χαίρω ἐχθρός σου γενόμενος· σὺ γὰρ οὐ τοὺς ἐχθρούς, ἀλλὰ τοὺς φίλους κακῶς ποιεῖς“.
 
-     \[Theodectes\], when some traitor was speaking ill of him, said, "I rejoice at becoming your enemy. For you do not harm your enemies but your friends."
+     \[Theodectes\], when some traitor was speaking ill of him, said: "I rejoice at becoming your enemy. For you do not harm your enemies but your friends."
 
 355. Ἰσοκράτης ἔλεγε· „μεγάλους δεῖ λαμβάνειν μισθοὺς \<παρὰ τῶν\> μαθητῶν τοὺς διδασκάλους, παρὰ μὲν τῶν εὐφυῶν, ὅτι πολλὰ μανθάνουσι, παρὰ δὲ τῶν ἀφυῶν, ὅτι πολὺν κόπον παρέχουσιν“.
 
-     Isocrates used to say that, "It is necessary for teachers to take large payments \<from their\> students: from the skilled because they learn much, and from the unskilled because they provide much fatigue."
+     Isocrates used to say: "It is necessary for teachers to take large payments \<from their\> students: from the skilled because they learn much, and from the unskilled because they provide much fatigue."
 
 356. Ὁ αὐτὸς ἐρωτηθεὶς „διὰ τίνα αἰτίαν τοὺς ἄλλους διδάσκων λέγειν αὐτὸς σιωπᾷς“; ἔφη· „καὶ γὰρ ἡ ἀκόνη αὐτὴ μὴ τέμνουσα τὰς μαχαίρας τμητικωτέρας ποιεῖ“.
 
-     \[Isocrates\], having been asked, "Why is it that you stay silent while teaching others to speak?" said, "For the whetstone also, although it does not cut, makes swords more cutting."
+     \[Isocrates\], having been asked, "Why is it that you stay silent while teaching others to speak?" said: "For the whetstone also, although it does not cut, makes swords more cutting."
 
 357. Ὁ αὐτὸς ἐρωτηθεὶς τί ἐστιν ἔργον ῥήτορος εἶπεν· „τὰ μικρὰ μὲν μεγάλα ποιῆσαι, τὰ δὲ μείζονα μικρὰ τῷ λόγῳ“.
 
-     \[Isocrates\], having been asked what the task of an orator is, said, "To make the small great and the greater small through speech."
+     \[Isocrates\], having been asked what the task of an orator is, said: "To make the small great and the greater small through speech."
 
 358. Ὁ αὐτὸς εἰπόντος τινὸς ὅτι ὁ δῆμος ὑπὸ τῶν ῥητόρων διαρπάζεται ἔφη· „τί θαυμαστόν, εἰ Κόρακος ἐφευρόντος τὴν ῥητορικὴν οἱ ἀπ’ ἐκείνου κόρακές εἰσιν“.
 
@@ -1509,7 +1509,7 @@
 
 360. Ὁ αὐτὸς ἐρωτηθεὶς τί δύναται \<ἡ\> ῥητορικὴ εἶπεν· „ἄνδρ’ ἐπαμύνασθαι, ὅτε τις \<πρότερος\> χαλεπήνῃ“.
 
-     \[Isocrates\], having been asked what the rhetorical art can do, said, "Defend a man whenever some \<earlier\> person treats them harshly.
+     \[Isocrates\], having been asked what the rhetorical art can do, said: "Defend a man whenever some \<earlier\> person treats them harshly.
 
 361. Ἰσοκράτης ἀκρόασιν ποιούμενος εἶπε τριῶν ἐστοχάσθαι· τοὺς συνετοὺς ὠφελῆσαι, τοὺς ἀπείρους διδάξαι, τοὺς φθονεροὺς λυπῆσαι.
 
@@ -1525,15 +1525,15 @@
 
 364. Ὁ αὐτὸς εἰπόντος τινὸς αὐτῷ ὅτι „ὁ υἱός μου παρὰ σοὶ σχολάσας ἁμαρτάνει“ εἶπε· „ποταπὸς οὖν \<ἂν\> ἐγένετο μὴ σχολάσας“;
 
-     \[Isocrates\], when someone said to him, "My son is doing wrong studying at your side," said, "What would have happened, then, if he had not been studying?"
+     \[Isocrates\], when someone said to him, "My son is doing wrong studying at your side," said: "What would have happened, then, if he had not been studying?"
 
 365. Ὁ αὐτὸς θεασάμενός τινα τῶν μαθητῶν τοῦ μὲν ἀγροῦ ἐπιμελούμενον, τῆς δὲ πράξεως ἀμελοῦντα „ὅρα, ὦ οὗτος“, ἔφη, „μὴ τὸν ἀγρὸν ἐξημερῶσαι βουλόμενος τὴν ψυχὴν ἐξαγριώσῃς“.
 
-     \[Isocrates\], seeing one of his students taking care of his field but neglecting his practice, said, "You there, take care that, while wishing to tame your field, you don't make your mind savage."
+     \[Isocrates\], seeing one of his students taking care of his field but neglecting his practice, said: "You there, take care that, while wishing to tame your field, you don't make your mind savage."
 
 366. Ἴβυκος ὁ μελοποιὸς Αἰσώπου ἐν τοῖς μύθοις ψευδομένου καὶ εὐδοκιμοῦντος „λέγε“ ἔφη „αὐτούς· οὕτω μέν σοι ὡς ὅτι ποτὲ καὶ τὰ ἀληθῆ λέγων ἀπιστηθήσῃ“.
 
-     Ibycus the lyric poet, when Aesop was lying in his stories and was popular, said, "Tell them ... that sometimes even someone speaking the truth will not be believed."
+     Ibycus the lyric poet, when Aesop was lying in his stories and was popular, said: "Tell them; thus it's because of you that sometimes even someone speaking the truth will not be believed."
 
 367. Καλλισθένης ὁ ἱστοριογράφος πρὸ τοῦ Ἀλεξάνδρῳ συσταλῆναι γεγραφὼς τὰ Ἑλληνικά, μετὰ δὲ ταῦτα τὰς Ἀλεξάνδρου πράξεις ἐρωτώμενος ὑπό τινος διὰ τί βέλτιον τὰ Ἑλληνικὰ συνεγράψατο „ὅτι ἐκεῖνα μὲν“ εἶπε „πεινῶν ἔγραφον, ταῦτα δὲ κεχορτασμένος“.
 
