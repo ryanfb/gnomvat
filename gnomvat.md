@@ -1669,7 +1669,7 @@
 
 400. Ὁ αὐτὸς ἰδὼν ἀνδριάντα κακῶς πεπλασμένον δυσκατηγόρητον ἔφη εἶναι· διὰ γὰρ τὸ πλῆθος τῶν ἁμαρτημάτων ἀπορεῖν, πόθεν ἄρξεται.
 
-     \[Lysippus\], seeing a poorly-made statue, said that it was difficult to criticise; for due to the number of mistakes, he was at a loss where to begin.
+     \[Lysippus\], seeing a poorly-made statue, said that it was difficult to criticize; for due to the number of mistakes, he was at a loss where to begin.
 
 401. Λυκοῦργος ὁ νομοθέτης τὸ μὲν ἀξιόχρεων τῶν ἀνθρώπων ἔφη ἐν τῇ οὐσίᾳ κεῖσθαι, τὸ δὲ ἀξιόπιστον ἐν τοῖς τρόποις.
 
