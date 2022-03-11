@@ -1653,11 +1653,11 @@
 
 396. Λάκων ἀνὴρ ἐρωτηθεὶς ἐπὶ πόσον αὐτῶν ἡ χώρα διήκει „ἐφ’ ὅσον ἂν“ εἶπε „τὸ δόρυ ἰσχύῃ“.
 
-     A Spartan man, having been asked how far their land extends, said, "As far as a spear has strength."
+     A Spartan man, having been asked how far their land extends, said: "As far as a spear has strength."
 
 397. Λάκων ἀνὴρ παραγενόμενος εἴς τινα πόλιν \[καὶ\] δεικνύντος αὐτῷ τινος τῶν ἐγχωρίων ὅτι κάλλιστα τείχη ἔχει „τοιαῦτα“, εἶπεν, „ὥστε τὰς γυναῖκας ἐξ αὐτῶν /<ἂν/> ἀμύνασθαι“.
 
-     A Spartan man, arriving at some city, when one of the locals showed him that it has the most beautiful walls, said, "Of such a kind to ward off women from them."
+     A Spartan man, arriving at some city, when one of the locals showed him that it has the most beautiful walls, said: "Of such a kind to ward off women from them."
 
 398. Λάκων ἀνὴρ ἐν παρατάξει κείμενος ἔτι ἔμπνους ἐπιόντος τινὸς τῶν πολεμίων καὶ τοὺς ἔτι ζῶντας ἀποσφάζοντος διακύψας ἠξίωσε κατὰ τὸ στέρνον πληγῆναι ὑπ’ αὐτοῦ αἰσχυνόμενος ὀπισθοπλῆγα τὸν νεκρὸν αὐτοῦ γενέσθαι.
 
@@ -1665,11 +1665,11 @@
 
 399. Λύσιππος ὁ ἀνδριαντοποιὸς ἐρωτηθεὶς ὑπό τινος „διὰ τί δήμῳ, ἀνδριάντα ποιῶν, ὦτα οὐ περιέθηκας“; εἶπε· „δῆμος ἀκοῇ οὔποτε τίθεται, αὐθαδείᾳ δὲ μᾶλλον.“
 
-     Lysippus the sculptor, having been asked by someone, "Why didn't you attach ears when making a statue for the people?" said, "The people are not disposed for listening but rather for willfulness."
+     Lysippus the sculptor, having been asked by someone, "Why didn't you attach ears when making a statue for the people?" said: "The people are not disposed for listening but rather for willfulness."
 
 400. Ὁ αὐτὸς ἰδὼν ἀνδριάντα κακῶς πεπλασμένον δυσκατηγόρητον ἔφη εἶναι· διὰ γὰρ τὸ πλῆθος τῶν ἁμαρτημάτων ἀπορεῖν, πόθεν ἄρξεται.
 
-     \[Lysippus\], seeing a poorly-made statue, said that it was difficult to accuse. For due to the number of mistakes, he was at a loss where to begin.
+     \[Lysippus\], seeing a poorly-made statue, said that it was difficult to criticise; for due to the number of mistakes, he was at a loss where to begin.
 
 401. Λυκοῦργος ὁ νομοθέτης τὸ μὲν ἀξιόχρεων τῶν ἀνθρώπων ἔφη ἐν τῇ οὐσίᾳ κεῖσθαι, τὸ δὲ ἀξιόπιστον ἐν τοῖς τρόποις.
 
