@@ -692,7 +692,7 @@
 
 169. Ὁ αὐτὸς θεασάμενος μειράκιον ἄσωτον δεδαπανηκὸς τὰ πατρῷα \[καὶ\] ἐλαίας καὶ ἄρτον ἐσθίον καὶ πῖνον ὕδωρ ἔφη· „εἰ οὕτως κατὰ γνώμην ἠρίστας, οὐκ ἂν οὕτως κατ’ ἀνάγκην ἐδείπνεις“.
 
-     \[Diogenes\], seeing a young profligate man having spent his inheritance, eating olives and bread and drinking water, said: "If you dined thus deliberately, you would not now be dining so on compulsion."
+     \[Diogenes\], seeing a young profligate man having spent his inheritance, eating olives and bread and drinking water, said: "If you had dined thus deliberately, you would not now be dining so on compulsion."
 
 170. Ὁ αὐτὸς θεασάμενος μάχαιραν ἐῤῥιμμένην ἔφη· „τίς σὲ ἀπώλεσεν ἢ τίνα σύ;“
 
