@@ -608,7 +608,7 @@
 
 148. Ὁ αὐτὸς συμπλέων ποτὲ πονηροῖς καὶ διὰ τὸ χειμάζεσθαι τοὺς θεοὺς ἐπικαλουμένων αὐτῶν „μηδαμῶς“, εἶπεν, „ὦ ἄνδρες, ἀλλὰ πειραθῶμεν αὐτοὺς λαθεῖν, μὴ αἴσθωνται ὑμᾶς ἐνθάδε πλέοντας“.
 
-     \[Bias\], sailing at one time with wicked men, when they were calling upon the gods due to it storming, said: "Don't do that, o men, but let us try to escape their notice, lest they perceive you all sailing here."
+     \[Bias\], when he was sailing alongside wicked men, and they were calling upon the gods due to it storming, said: "Don't do that, o men, but let us try to escape their notice, lest they perceive you all sailing here."
 
 149. Ὁ αὐτὸς ἐρωτηθεὶς ὑπὸ ἀνθρώπου ἀσεβοῦς τί ἐστιν εὐσέβεια „σίγα“, ἔφη· τοῦ δὲ τὴν αἰτίαν τῆς σιγῆς πυθομένου „σιώπα“, ἔφη, „ὅτι περὶ τῶν οὐδέν σοι προσηκόντων πυνθάνῃ“.
 
