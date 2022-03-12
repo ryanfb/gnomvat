@@ -616,7 +616,7 @@
 
 150. Ὁ αὐτὸς χαλεπώτερον εἶπεν εἶναι φίλους διαφερομένους διαιτῆσαι ἤπερ ἐχθρούς· τῶν μὲν γὰρ φίλων τὸν ἡττώμενον ἐχθρὸν γίνεσθαι, τῶν δὲ ἐχθρῶν τὸν νικήσαντα φίλον.
 
-     \[Bias\] said that it is more difficult to aritrate quarreling friends than enemies. For the losing friend becomes an enemy, but the victorious enemy becomes a friend.
+     \[Bias\] said that it is more difficult to arbitrate quarreling friends than enemies. For the losing friend becomes an enemy, but the victorious enemy becomes a friend.
 
 151. Ὁ αὐτὸς εἰπόντος αὐτῷ τινος· „καὶ λαλεῖς σὺ ἀπὸ τοιούτων γονέων γεγονώς“; „ἀπ’ ἐμοῦ με“, εἶπεν, „ἀρίθμει“.
 
