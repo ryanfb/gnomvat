@@ -1200,7 +1200,7 @@
 
 296. Ζήνων ἐρωτηθεὶς τί ἐστι φίλος ἔφη· „ἄλλος οἷος ἐγώ“.
 
-     Zeno having been asked by someone "what is a friend", said: "Another like myself."
+     Zeno having been asked by someone "What is a friend?", said: "Another like myself."
 
 297. Ζήνων ἔφη τὴν μὲν ὅρασιν ἀπὸ τοῦ ἀέρος λαμβάνειν τὸ φῶς, τὴν δὲ ψυχὴν ἀπὸ τῶν μαθημάτων. 
 
