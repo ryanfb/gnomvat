@@ -182,7 +182,7 @@
 | 532       | 118        | 137         |
 | 533       | 119        | 138         |
 
-## Vat.gr. 743 3v-6r & Chadwick's "Pythagorean Sentences"
+## Vat.gr. 743 3v-6r & Chadwick's "Pythagorean Sentences" <a id="chadwick"/>
 
 | Vat.gr. 743 3v-6r | Chadwick's "Pythagorean Sentences" |
 | ----------------- | ---------------------------------- |
@@ -232,7 +232,7 @@
 | 44                | 110                                |
 | 45                | 119                                |
 
-## Elter's "Gnomica homoeomata", Vat.gr. 743 1r-3v "Demophilean similes", & Vat.gr. 743 46v-52v "Plutarchean gnomoi"
+## Elter's "Gnomica homoeomata", Vat.gr. 743 1r-3v "Demophilean similes", & Vat.gr. 743 46v-52v "Plutarchean gnomoi" <a id="hdp"/>
 
 * **h.** = Elter's "Gnomica homoeomata"
 * **D** = Vat.gr. 743 1r-3v, "Demophilean similes"
