@@ -1357,7 +1357,7 @@
 
 322. Θεόφραστος ὁ ἐκ τοῦ περιπάτου φιλόσοφος ἐρωτηθεὶς ὑπό τινος τί συνέχει τὸν τῶν ἀνθρώπων βίον εἶπεν· „εὐεργεσία καὶ τιμὴ καὶ τιμωρία“.
 
-     Theophrastus, the philosopher from the Peripatus, having been asked by someone what comprises the life of men, said, "Doing well, honor, and retribution."
+     Theophrastus, the philosopher from the Peripatus, having been asked by someone what comprises the life of men, said: "Doing well, honor, and retribution."
 
 323. Ὁ αὐτὸς ἰδὼν νεανίσκον τινὰ εὐχόμενον τοῖς θεοῖς νοῦν καὶ φρένας ἀγαθὰς αὐτῷ περιποιεῖν „ὦ νεανίσκε“, εἶπεν, „οὐ τοῖς εὐχομένοις νοῦς καὶ φρένες περιγίνονται, ἀλλὰ τοῖς μανθάνουσιν“.
 
