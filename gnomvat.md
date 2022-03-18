@@ -1517,7 +1517,7 @@
 
 362. Ὁ αὐτὸς Κλέωνος τοῦ Κυζικηνοῦ φύσει ὄντος λάλου καὶ σχολάζειν βουλομένου διττοὺς ᾔτησε \[τοὺς\] μισθούς, ἕνα μέν, ἵνα λαλεῖν μάθῃ, ἕτερον δέ, ἵνα σιγᾷ.
 
-     \[Isocrates\], since Cleon of Cyzicus was a natural babbler and wished to attend lectures, demanded a doubled payment: one to learn how to babble, and the other to be silent.
+     \[Isocrates\], since Cleon of Cyzicus was a natural babbler and wished to attend lectures, demanded a doubled payment: one to learn how to babble, and the other, to learn how to be silent.
  
 363. Ὁ αὐτὸς ἔφη δεῖν τὸν ἀγαθὸν ἄνδρα μεμνῆσθαι μὲν τῶν προγεγενημένων, πράττειν δὲ τὰ ἐνεστῶτα, \<περὶ δὲ τῶν μελλόντων ἀσφαλίζεσθαι\>.
 
