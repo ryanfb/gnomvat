@@ -1665,7 +1665,7 @@
 
 399. Λύσιππος ὁ ἀνδριαντοποιὸς ἐρωτηθεὶς ὑπό τινος „διὰ τί δήμῳ, ἀνδριάντα ποιῶν, ὦτα οὐ περιέθηκας“; εἶπε· „δῆμος ἀκοῇ οὔποτε τίθεται, αὐθαδείᾳ δὲ μᾶλλον.“
 
-     Lysippus the sculptor, having been asked by someone, "Why didn't you attach ears when making a statue for the people?" said: "The people are not disposed for listening but rather for willfulness."
+     Lysippus the sculptor, having been asked by someone, "Why didn't you attach ears when making a statue for the people?" said: "The people are not disposed for listening but rather for stubbornness."
 
 400. Ὁ αὐτὸς ἰδὼν ἀνδριάντα κακῶς πεπλασμένον δυσκατηγόρητον ἔφη εἶναι· διὰ γὰρ τὸ πλῆθος τῶν ἁμαρτημάτων ἀπορεῖν, πόθεν ἄρξεται.
 
