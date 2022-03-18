@@ -1777,7 +1777,7 @@
 
 427. Πλάτων πυθομένου τινὸς τί ἐστι νόμος εἶπε· „ψυχὴ πόλεως \[ἢ δόγμα ἀθάνατον καὶ κοινόν\].“
 
-     Plato having been asked by someone what is law, said: "The soul of the polis \[or an immortal and common dogma\]."
+     Plato having been asked by someone what a law is, said: "The soul of the polis \[or an immortal and common dogma\]."
 
 428. Πλάτων ἐρωτηθεὶς „διὰ τί γέρων ὢν φιλάργυρος εἶ“; ἔφη· „κρεῖττόν ἐστι μεταλλάξαντα τοῖς ἐχθροῖς καταλιπεῖν ἢ ζῶντα τῶν φίλων δεηθῆναι“. \[κατέγνω γὰρ τῆς τῶν πολλῶν φιλίας \<τὸ ἀβέβαιον\>\].
 
