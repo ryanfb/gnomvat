@@ -1365,7 +1365,7 @@
 
 324. Ὁ αὐτὸς ἔφησε τοῖς ὄχλοις μήτε καλῶς μήτε κακῶς ποιεῖν· „κακῶς μὲν γὰρ παθόντες εἰς τὸν ἅπαντα χρόνον μνημονεύουσιν, εὐεργετηθέντες δὲ παραχρῆμα ἐπιλανθάνονται“.
 
-     \[Theophrastus\] said to treat the crowd neither well nor badly. "For, they always remember suffering badly and, when they are shown kindness, they immediately forget it."
+     \[Theophrastus\] said to treat the crowd neither well nor badly: "For, they always remember suffering badly and, when they are shown kindness, they immediately forget it."
 
 325. Ὁ αὐτὸς ἐπαινεῖν καὶ κατηγορεῖν οὐ τοῦ τυχόντος ἔφη εἶναι, ἀλλὰ τοῦ διειληφότος περὶ ἀνθρώπου καλῶς καὶ κακῶς.
 
@@ -1509,7 +1509,7 @@
 
 360. Ὁ αὐτὸς ἐρωτηθεὶς τί δύναται \<ἡ\> ῥητορικὴ εἶπεν· „ἄνδρ’ ἐπαμύνασθαι, ὅτε τις \<πρότερος\> χαλεπήνῃ“.
 
-     \[Isocrates\], having been asked what the rhetorical art can do, said: "Defend a man whenever some \<earlier\> person treats them harshly.
+     \[Isocrates\], having been asked what the rhetorical art can do, said: "Defend a man whenever some \<earlier\> person treats them harshly."
 
 361. Ἰσοκράτης ἀκρόασιν ποιούμενος εἶπε τριῶν ἐστοχάσθαι· τοὺς συνετοὺς ὠφελῆσαι, τοὺς ἀπείρους διδάξαι, τοὺς φθονεροὺς λυπῆσαι.
 
