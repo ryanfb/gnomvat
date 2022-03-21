@@ -400,7 +400,7 @@
  
 96. Ἀλέξανδρος ὁ βασιλεὺς πληρώσας ποτὲ ὀστέων πίνακα ἔπεμψεν Διογένει τῷ Κυνικῷ· ὁ δὲ λαβὼν εἶπε· „κυνικὸν μὲν τὸ βρῶμα, οὐ βασιλικὸν δὲ τὸ δῶρον.“
 
-    Alexander the king, having once filled up a trencher with bones, sent it to Diogenes the Cynic. And he, taking it, said: "The food is for the dogs, but the gift is not kingly."
+    Alexander the king, having filled up a platter with bones, sent it to Diogenes the Cynic. And he, taking it, said: "The food is for the dogs, but the gift is not kingly."
 
 97. Ὁ αὐτὸς ἰδὼν Διογένην κοιμώμενον ἐν πίθῳ εἶπε· „πίθῳ μεστὲ φρενῶν“, ὁ δὲ φιλόσοφος ἀποστὰς εἶπεν· „ὦ βασιλεῦ μέγιστε, θέλω τύχης σταλαγμὸν ἢ φρενῶν πίθον, ἧς μὴ παρούσης δυστυχοῦσιν αἱ φρένες.“
 
