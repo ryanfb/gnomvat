@@ -413,7 +413,7 @@
 | 178  |    | 132 |
 | 179  |    | 133 |
 
-# Die Wiener Apophthegmen-Sammlung & Gnom. Vat.
+## <a id="wa"/>Die Wiener Apophthegmen-Sammlung & Gnom. Vat.
 
 Wachsmuth omitted some manuscript pages of **WA** as spurious in his original edition, however, all but one of these sayings later turned out to also be in **GV**. I've added these as supplements in the concordance, e.g. *Suppl. 1*.
 
