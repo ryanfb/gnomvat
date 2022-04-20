@@ -663,5 +663,4 @@ Wachsmuth omitted some manuscript pages of **WA** as spurious in his original ed
 | 187       |                |
 | 188       |                |
 | 189       |                |
-| 190       |                |
-| 191       | 577            |
+| 190       | 577            |
