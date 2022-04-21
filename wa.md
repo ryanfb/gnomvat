@@ -316,7 +316,9 @@
 
     Anacharsis said that the Greeks screwed up, since their skilled workers contend among themselves, but the unskilled judge them.
 
-57. **Ἀνάχαρσις ἐρωτηθεὶς πῶς οὐκ ἂν γένοιτό τις φιλοπότης ἔφη· "εἰ πρὸ ὀφθαλμῶν ἔχει τὰς τῶν μεθυόντων ἀσχημοσύνας."** (WA 57)
+57. Ἀνάχαρσις ἐρωτηθεὶς πῶς οὐκ ἂν γένοιτό τις φιλοπότης ἔφη· "εἰ πρὸ ὀφθαλμῶν ἔχει τὰς τῶν μεθυόντων ἀσχημοσύνας." (WA 57)
+
+    Anacharasis having been asked how one might not become and alcoholic, said: "If they cast their eyes upon the shameful acts of drunks."
 
 58. **Ἀνάχαρσις θαυμάζειν ἔφη πῶς οἱ Ἕλληνες ἀρχόμενοι μὲν ἐν μικροῖς πίνουσι, πληρωθέντες δὲ μεγάλοις.** (WA 58)
 
