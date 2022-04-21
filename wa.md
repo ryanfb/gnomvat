@@ -306,7 +306,9 @@
 
     \[Anacharsis\] having been asked by someone, what made jealous people so distressed, said: “Not only do their own misfortunes sting them, but good things happening to their neighbors distresses them as well.”
 
-55. **Ἀνάχαρσις ἔφη τὴν ἄμπελον τρεῖς βότρυας φέρειν· τὸν πρῶτον ἡδονῆς, τὸν δεύτερον μέθης, καὶ τὸν τρίτον ἀηδίας.** (WA 55)
+55. Ἀνάχαρσις ἔφη τὴν ἄμπελον τρεῖς βότρυας φέρειν· τὸν πρῶτον ἡδονῆς, τὸν δεύτερον μέθης, καὶ τὸν τρίτον ἀηδίας. (WA 55)
+
+    Anacharsis said that the vine bears three kinds of grapes: the first of pleasure, the second of drunkenness, and the third of displeasure.
 
 56. Ἀνάχαρσις θαυμάζειν εἶπε παρὰ τοῖς Ἕλλησιν ὅτι ἀγωνίζονται μὲν οἱ τεχνῖται, κρίνουσι δὲ οἰ ἄτεχνοι. (WA 56)
 
