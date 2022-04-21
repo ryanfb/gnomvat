@@ -52,7 +52,9 @@
 
     Alexander the king, when someone was saying that Darius was leading 300,000 troops into combat, said: "One butcher does not fear many sheep."
 
-11. **Ἀλέξανδρος ὁ βασιλεὺς τοῦ κατασκόπου λέγοντος αὐτῷ πλείους \<εἶναι\> τοὺς Δαρείου εἶπε· "καὶ τὰ πρόβατα πλείονα ὄντα ὑφ’ ἑνὸς ἢ δευτέρου λύκου χειροῦνται."** (WA 11)
+11. Ἀλέξανδρος ὁ βασιλεὺς τοῦ κατασκόπου λέγοντος αὐτῷ πλείους \<εἶναι\> τοὺς Δαρείου εἶπε· "καὶ τὰ πρόβατα πλείονα ὄντα ὑφ’ ἑνὸς ἢ δευτέρου λύκου χειροῦνται." (WA 11)
+
+    Alexander the king, when a spy told thim that Darius had more troops, said: "And even more sheep can be subdued by one or two wolves."
 
 12. Ἀλέξανδρος ἐπεὶ Ἀντίπατρος αὐτῷ πολλὰ κατὰ τῆς μητρὸς ἔγραφεν "ἀγνοεῖς," ἔφη, "Ἀντίπατρε, ὅτι μητρὸς ἓν δάκρυον πολλῶν διαβολῶν ἐπιστολὰς ἀπαλείφει;" (WA 12)
 
