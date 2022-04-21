@@ -48,7 +48,9 @@
 
    When Alexander the king had captured the wife of Darius and was being advised by his friends to abuse her and the other female captives, he said: "It's shameful for a man who's conquered others to be overcome by women."
 
-10. **Ἀλέξανδρος ὁ βασιλεὺς εἰπόντος τινὸς ὅτι Δαρεῖος τριάκοντα μυριάδας εἰς παράταξιν ἄγει ἔφη· "εἷς μάγειρος οὐ φοβεῖται πολλὰ πρόβατα."** (WA 10)
+10. Ἀλέξανδρος ὁ βασιλεὺς εἰπόντος τινὸς ὅτι Δαρεῖος τριάκοντα μυριάδας εἰς παράταξιν ἄγει ἔφη· "εἷς μάγειρος οὐ φοβεῖται πολλὰ πρόβατα." (WA 10)
+
+    Alexander the king, when someone was saying that Darius was leading 300,000 troops into combat, said: "One butcher does not fear many sheep."
 
 11. **Ἀλέξανδρος ὁ βασιλεὺς τοῦ κατασκόπου λέγοντος αὐτῷ πλείους \<εἶναι\> τοὺς Δαρείου εἶπε· "καὶ τὰ πρόβατα πλείονα ὄντα ὑφ’ ἑνὸς ἢ δευτέρου λύκου χειροῦνται."** (WA 11)
 
