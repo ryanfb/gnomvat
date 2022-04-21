@@ -44,7 +44,9 @@
 
    \[Alexander\], being asked, "In what way do you most enjoy your dominion?" said: "In being conquered by no one in doing good deeds."
 
-9. **Ἀλέξανδρος ὁ βασιλεὺς ἐγκρατὴς γενόμενος τῆς Δαρείου γυναικὸς ὑπὸ τῶν φίλων παρακαλούμενος χρήσασθαι καὶ ταύτῃ καὶ ταῖς ἄλλαις αἰχμαλώτοις "αἰσχρόν," ἔφη, "τὴν ἀνδρείαν περιγενομένους ὑπὸ γυναικῶν ἡττᾶσθαι."** (WA 9)
+9. Ἀλέξανδρος ὁ βασιλεὺς ἐγκρατὴς γενόμενος τῆς Δαρείου γυναικὸς ὑπὸ τῶν φίλων παρακαλούμενος χρήσασθαι καὶ ταύτῃ καὶ ταῖς ἄλλαις αἰχμαλώτοις "αἰσχρόν," ἔφη, "τὴν ἀνδρείαν περιγενομένους ὑπὸ γυναικῶν ἡττᾶσθαι." (WA 9)
+
+   When Alexander the king had captured the wife of Darius and was being advised by his friends to abuse her and the other female captives, he said: "It's shameful for a man who's conquered others to be overcome by women."
 
 10. **Ἀλέξανδρος ὁ βασιλεὺς εἰπόντος τινὸς ὅτι Δαρεῖος τριάκοντα μυριάδας εἰς παράταξιν ἄγει ἔφη· "εἷς μάγειρος οὐ φοβεῖται πολλὰ πρόβατα."** (WA 10)
 
