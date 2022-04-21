@@ -308,7 +308,7 @@
 
 55. Ἀνάχαρσις ἔφη τὴν ἄμπελον τρεῖς βότρυας φέρειν· τὸν πρῶτον ἡδονῆς, τὸν δεύτερον μέθης, καὶ τὸν τρίτον ἀηδίας. (WA 55)
 
-    Anacharsis said that the vine bears three kinds of grapes: the first of pleasure, the second of drunkenness, and the third of displeasure.
+    Anacharsis said that the vine bears three grapes: the first of pleasure, the second of drunkenness, and the third of displeasure.
 
 56. Ἀνάχαρσις θαυμάζειν εἶπε παρὰ τοῖς Ἕλλησιν ὅτι ἀγωνίζονται μὲν οἱ τεχνῖται, κρίνουσι δὲ οἰ ἄτεχνοι. (WA 56)
 
