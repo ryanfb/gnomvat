@@ -4,21 +4,15 @@
 
 1. Ἀλέξανδρος ὁ βασιλεὺς πληρώσας ποτὲ ὀστέων πίνακα ἔπεμψε Διογένει τῷ κυνικῷ φιλοσόφῳ · ὁ δὲ λαβὼν εἶπε· "κυνικὸν μὲν τὸ βρῶμα, οὐ βασιλικὸν δὲ τὸ δῶρον." (WA 1)
 
-   Ἀλέξανδρος ὁ βασιλεὺς πληρώσας ποτὲ ὀστέων πίνακα ἔπεμψεν Διογένει τῷ Κυνικῷ· ὁ δὲ λαβὼν εἶπε· „κυνικὸν μὲν τὸ βρῶμα, οὐ βασιλικὸν δὲ τὸ δῶρον.“ (GV 96)
-
-   Alexander the king, having filled up a platter with bones, sent it to Diogenes the Cynic. And he, taking it, said: "The food is for the dogs, but the gift is not kingly."
+   Alexander the king, having filled up a platter with bones, sent it to Diogenes the cynic philosopher. And he, taking it, said: "The food is for the dogs, but the gift is not kingly." (cf. GV 96)
 
 2. Ἀλέξανδρος ὁ βασιλεὺς ἰδὼν Διογένην τὸν αὐτὸν κοιμώμενον ἐν πίθῳ εἶπε· "πίθε μεστὲ φρενῶν·" ὁ δὲ φιλόσοφος ἀναστὰς εἶπεν· "ὦ βασιλεῦ μέγιστε, θέλω τύχης σταλαγμὸν \[λαβεῖν\] ἢ φρενῶν πίθον ἧς μὴ παρούσης δυστυχοῦσιν αἱ φρένες." (WA 2)
 
-   Ὁ αὐτὸς ἰδὼν Διογένην κοιμώμενον ἐν πίθῳ εἶπε· „πίθῳ μεστὲ φρενῶν“, ὁ δὲ φιλόσοφος ἀποστὰς εἶπεν· „ὦ βασιλεῦ μέγιστε, θέλω τύχης σταλαγμὸν ἢ φρενῶν πίθον, ἧς μὴ παρούσης δυστυχοῦσιν αἱ φρένες.“ (GV 97)
-
-   \[Alexander\], seeing Diogenes lying in a jug, said, "Jug full of wits", and the philosopher, withdrawing from him, said: "O greatest king, I wish for a drop of fortune rather than a jug of wits, since with the fortune being gone, my wits fare ill."
+   Alexander the king, seeing Diogenes lying in a jug, said, "Jug full of wits", and the philosopher, standing up, said: "O greatest king, I'd rather \[take\] a drop of fortune than a jug of wits, since with the fortune being gone, my wits fare ill." (cf. GV 97)
 
 3. Ἀλεξάνδρῳ τῷ βασιλεῖ ἐξιόντι ἐπὶ πόλεμον Ἀριστοτέλης ἔφη· "περίμεινον τὸ τέλειον τῆς ἡλικίας εἰς αὔξησιν τοῦ σώματος καὶ τότε πολέμει·" ὁ δὲ Ἀλέξανδρος ἔφη· "φοβοῦμαι μὴ περιμένων τὸ τέλειον τῆς ἡλικίας τὴν τῆς νεότητος τόλμαν ἀπολέσω." (WA 3)
 
-   Τῷ αὐτῷ ἐξιόντι ἐπὶ πόλεμον Ἀριστοτέλης ἔφη· „περίμεινον τὸ τέλειον τῆς ἡλικίας καὶ τότε πολέμει.“ ὁ δὲ ἔφη· „φοβοῦμαι, μὴ περιμένων τὸ τέλειον τῆς ἡλικίας τὴν τῆς νεότητος τόλμαν ἀπολέσω·“ (GV 98)
-
-   When \[Alexander\] was going off to war, Aristotle said, "Wait for the end of the prime of life and then wage war." But he said: "I am afraid that if I wait for the end of the prime of life I will lose the daring of youth."
+   When Alexander the king was going off to war, Aristotle said, "Wait for the end of the prime of life when you've grown your body and then wage war." But he said: "I am afraid that if I wait for the end of the prime of life I will lose the daring of youth." (cf. GV 98)
 
 4. Ἀλέξανδρος ὁ βασιλεὺς παρακαλούμενος ὑπὸ τῶν φίλων νυκτὸς ἐπιθέσθαι τοῖς πολεμίοις "οὐ βασιλικὸν κλέψαι τὴν νίκην" ἔφη. (WA 4)
 
