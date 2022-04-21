@@ -72,7 +72,9 @@
 
     Alexander, when someone said to him that "Your cities are able to provide greater revenues", said: "And I hate a gardener who cuts the roots off of the vegetables."
 
-15. **Ἀλέξανδρος ὁ βασιλεὺς πολλῶν πολεμίων ἐπιστάντων καὶ φίλου εἰπόντος "ἐμπεπτώκαμεν, βασιλεῦ" εἶπεν· "οὐχ ἡμεῖς γε ἐκείνοις, ἀλλ’ οὗτοι ἡμῖν."** (WA 15)
+15. Ἀλέξανδρος ὁ βασιλεὺς πολλῶν πολεμίων ἐπιστάντων καὶ φίλου εἰπόντος "ἐμπεπτώκαμεν, βασιλεῦ" εἶπεν· "οὐχ ἡμεῖς γε ἐκείνοις, ἀλλ’ οὗτοι ἡμῖν." (WA 15)
+
+    King Alexander, when many enemies were upon him and a friend said: "We've fallen into our enemy's trap, o king!", said: "Not we theirs, but they ours!"
 
 16. Ἀλέξανδρος ὁ βασιλεὺς ἐρωτηθεὶς τίνα μᾶλλον ποθεῖ, τὸν πατέρα Φίλιππον ἢ Ἀριστοτέλην τὸν διδάσκαλον, ἔφη· "τὸν διδάσκαλον, ὁ μὲν γὰρ τοῦ γενέσθαι, ὁ δὲ τοῦ καλὸς \[δεῖ\] γενέσθαι αἴτιος." (WA 16)
 
