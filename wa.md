@@ -4,15 +4,15 @@
 
 1. Ἀλέξανδρος ὁ βασιλεὺς πληρώσας ποτὲ ὀστέων πίνακα ἔπεμψε Διογένει τῷ κυνικῷ φιλοσόφῳ · ὁ δὲ λαβὼν εἶπε· "κυνικὸν μὲν τὸ βρῶμα, οὐ βασιλικὸν δὲ τὸ δῶρον." (WA 1)
 
-   Alexander the king, having filled up a platter with bones, sent it to Diogenes the cynic philosopher. And he, taking it, said: "The food is for the dogs, but the gift is not kingly." (cf. GV 96)
+   King Alexander, having filled up a platter with bones, sent it to Diogenes the cynic philosopher. And he, taking it, said: "The food is for the dogs, but the gift is not kingly." (cf. GV 96)
 
 2. Ἀλέξανδρος ὁ βασιλεὺς ἰδὼν Διογένην τὸν αὐτὸν κοιμώμενον ἐν πίθῳ εἶπε· "πίθε μεστὲ φρενῶν·" ὁ δὲ φιλόσοφος ἀναστὰς εἶπεν· "ὦ βασιλεῦ μέγιστε, θέλω τύχης σταλαγμὸν \[λαβεῖν\] ἢ φρενῶν πίθον ἧς μὴ παρούσης δυστυχοῦσιν αἱ φρένες." (WA 2)
 
-   Alexander the king, seeing Diogenes lying in a jug, said, "Jug full of wits", and the philosopher, standing up, said: "O greatest king, I'd rather \[take\] a drop of fortune than a jug of wits, since with the fortune being gone, my wits fare ill." (cf. GV 97)
+   King Alexander, seeing Diogenes lying in a jug, said, "Jug full of wits", and the philosopher, standing up, said: "O greatest king, I'd rather \[take\] a drop of fortune than a jug of wits, since with the fortune being gone, my wits fare ill." (cf. GV 97)
 
 3. Ἀλεξάνδρῳ τῷ βασιλεῖ ἐξιόντι ἐπὶ πόλεμον Ἀριστοτέλης ἔφη· "περίμεινον τὸ τέλειον τῆς ἡλικίας εἰς αὔξησιν τοῦ σώματος καὶ τότε πολέμει·" ὁ δὲ Ἀλέξανδρος ἔφη· "φοβοῦμαι μὴ περιμένων τὸ τέλειον τῆς ἡλικίας τὴν τῆς νεότητος τόλμαν ἀπολέσω." (WA 3)
 
-   When Alexander the king was going off to war, Aristotle said, "Wait for the end of the prime of life when you've grown your body and then wage war." But he said: "I am afraid that if I wait for the end of the prime of life I will lose the daring of youth." (cf. GV 98)
+   When King Alexander was going off to war, Aristotle said, "Wait for the end of the prime of life when you've grown your body and then wage war." But he said: "I am afraid that if I wait for the end of the prime of life I will lose the daring of youth." (cf. GV 98)
 
 4. Ἀλέξανδρος ὁ βασιλεὺς παρακαλούμενος ὑπὸ τῶν φίλων νυκτὸς ἐπιθέσθαι τοῖς πολεμίοις "οὐ βασιλικὸν κλέψαι τὴν νίκην" ἔφη. (WA 4)
 
@@ -46,15 +46,15 @@
 
 9. Ἀλέξανδρος ὁ βασιλεὺς ἐγκρατὴς γενόμενος τῆς Δαρείου γυναικὸς ὑπὸ τῶν φίλων παρακαλούμενος χρήσασθαι καὶ ταύτῃ καὶ ταῖς ἄλλαις αἰχμαλώτοις "αἰσχρόν," ἔφη, "τὴν ἀνδρείαν περιγενομένους ὑπὸ γυναικῶν ἡττᾶσθαι." (WA 9)
 
-   When Alexander the king had captured the wife of Darius and was being advised by his friends to abuse her and the other female captives, he said: "It's shameful for a man who's conquered others to be overcome by women."
+   When King Alexander had captured the wife of Darius and was being advised by his friends to abuse her and the other female captives, he said: "It's shameful for a man who's conquered others to be overcome by women."
 
 10. Ἀλέξανδρος ὁ βασιλεὺς εἰπόντος τινὸς ὅτι Δαρεῖος τριάκοντα μυριάδας εἰς παράταξιν ἄγει ἔφη· "εἷς μάγειρος οὐ φοβεῖται πολλὰ πρόβατα." (WA 10)
 
-    Alexander the king, when someone was saying that Darius was leading 300,000 troops into combat, said: "One butcher does not fear many sheep."
+    King Alexander, when someone was saying that Darius was leading 300,000 troops into combat, said: "One butcher does not fear many sheep."
 
 11. Ἀλέξανδρος ὁ βασιλεὺς τοῦ κατασκόπου λέγοντος αὐτῷ πλείους \<εἶναι\> τοὺς Δαρείου εἶπε· "καὶ τὰ πρόβατα πλείονα ὄντα ὑφ’ ἑνὸς ἢ δευτέρου λύκου χειροῦνται." (WA 11)
 
-    Alexander the king, when a spy told thim that Darius had more troops, said: "And even more sheep can be subdued by one or two wolves."
+    King Alexander, when a spy told thim that Darius had more troops, said: "And even more sheep can be subdued by one or two wolves."
 
 12. Ἀλέξανδρος ἐπεὶ Ἀντίπατρος αὐτῷ πολλὰ κατὰ τῆς μητρὸς ἔγραφεν "ἀγνοεῖς," ἔφη, "Ἀντίπατρε, ὅτι μητρὸς ἓν δάκρυον πολλῶν διαβολῶν ἐπιστολὰς ἀπαλείφει;" (WA 12)
 
@@ -218,7 +218,7 @@
 
     Ἀνάξαρχος, ὁ φυσικὸς φιλόσοφος, Ἀλεξάνδρου τοῦ βασιλέως εἰπόντος αὐτῷ· „κρεμῶ σε“, „ἄλλοις“, ἔφη, „ἀπείλει· ἐμοὶ δὲ οὐδὲν διαφέρει ὑπὲρ γῆς ἢ κατὰ γῆς σήπεσθαι.“   (GV 64)
 
-    Anaxarchos, the natural philosopher, when Alexander the king said to him, "I will hang you", said: "Threaten others. But it makes no difference to me to rot over or under the earth."
+    Anaxarchos, the natural philosopher, when King Alexander said to him, "I will hang you", said: "Threaten others. But it makes no difference to me to rot over or under the earth."
 
 41. Ἀρκεσίλαος ὁ φιλόσοφος ἐπιπλήσσοντός τινος αὐτῷ ὅτι οὐ δεῖ τὸν φιλόσοφον ἐρωμένην ἔχειν μᾶλλον μὲν ἔφη δεῖν ἔχειν καὶ μὴ ἔχεσθαι ὑπ’ αὐτῆς. (WA 41)
 
