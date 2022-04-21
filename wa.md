@@ -290,7 +290,9 @@
 
     \[Theocritus\], when he saw an astrologer stumbling, said: "How, when you see the things in the heaven, do you not see the things on earth"
 
-52. **Ἀττικὸς νεανίσκος ἀρρωστῶν καὶ προσδοκώμενος ἀποθανεῖν ἐρωτώμενος ὑπὸ τῶν δοκούντων αὐτὸν κληρονομεῖν "πῶς ἔχεις;" ἔφη· " οὐδὲν ἔχω."** (WA 52)
+52. Ἀττικὸς νεανίσκος ἀρρωστῶν καὶ προσδοκώμενος ἀποθανεῖν ἐρωτώμενος ὑπὸ τῶν δοκούντων αὐτὸν κληρονομεῖν "πῶς ἔχεις;" ἔφη· " οὐδὲν ἔχω." (WA 52)
+
+    An Athenian youth who was sick and expected to die,  being asked by those hoping to inherit from him "How're you holding?" said: "I hold nothing!"
 
 53. Ἀρχίδαμος ὁ τῶν Λακεδαιμονίων βασιλεὺς θεασάμενος τὸν ἴδιον παῖδα προπετῶς μαχόμενον τοῖς  Ἀθηναίοις εἶπεν· "ἢ τῇ δυνάμει πρόσθες ἢ τοῦ θράσους ἄφελε." (WA 53)
 
