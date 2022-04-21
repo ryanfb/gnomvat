@@ -68,7 +68,9 @@
 
     \[Alexander\] took an instruction that said: "If you can travel by land, do not sail. Settle yourself every day. Do not trust a woman with secret things. And if you become angry at someone, do not make a \<decision\> against him before you relate \<the 24 letters of the alphabet\>.
 
-14. **Ἀλέξανδρος εἰπόντος αὐτῷ τινος ὅτι "δύνανται αἱ πόλεις σοι πλείονας παρέχειν εἰσόδους" ἔφη· " καὶ κηπουρὸν μισῶ τὸν ἐκ ῥιζῶν τέμνοντα τὰ λαχανα."** (WA 14)
+14. Ἀλέξανδρος εἰπόντος αὐτῷ τινος ὅτι "δύνανται αἱ πόλεις σοι πλείονας παρέχειν εἰσόδους" ἔφη· "καὶ κηπουρὸν μισῶ τὸν ἐκ ῥιζῶν τέμνοντα τὰ λαχανα." (WA 14)
+
+    Alexander, when someone said to him that "Your cities are able to provide greater revenues", said: "And I hate a gardener who cuts the roots off of the vegetables."
 
 15. **Ἀλέξανδρος ὁ βασιλεὺς πολλῶν πολεμίων ἐπιστάντων καὶ φίλου εἰπόντος "ἐμπεπτώκαμεν, βασιλεῦ" εἶπεν· "οὐχ ἡμεῖς γε ἐκείνοις, ἀλλ’ οὗτοι ἡμῖν."** (WA 15)
 
