@@ -1465,7 +1465,7 @@
 
 349. Ὁ αὐτὸς θεασάμενος μαθηματικὸν προσκόψαντα εἶπε· „πῶς τὰ ἐν οὐρανῷ ὁρῶν τὰ ἐν τῇ γῇ οὐχ ὁρᾷς“.
 
-     \[Theocritus\], when he saw an astrologer stumbling, said: "How, when you see the things in the heaven, do you not see the things on earth"
+     \[Theocritus\], when he saw an astrologer stumbling, said: "How, when you see the things in the heaven, do you not see the things on earth?"
 
 350. Ὁ αὐτὸς λάχανα πλύνων \[καὶ\] τινὸς αὐτοῦ πυνθανομένου μή τινα δανειστὴν γινώσκει εἶπεν· „πῶς φῄς; ὅ τι τοιούτῳ βίῳ ἀρκοῦμαι“;
 
