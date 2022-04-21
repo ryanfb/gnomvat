@@ -318,7 +318,7 @@
 
 57. Ἀνάχαρσις ἐρωτηθεὶς πῶς οὐκ ἂν γένοιτό τις φιλοπότης ἔφη· "εἰ πρὸ ὀφθαλμῶν ἔχει τὰς τῶν μεθυόντων ἀσχημοσύνας." (WA 57)
 
-    Anacharasis having been asked how one might not become and alcoholic, said: "If they cast their eyes upon the shameful acts of drunks."
+    Anacharasis having been asked how one might not become and alcoholic, said: "If they cast their eyes towards the shameful acts of drunks."
 
 58. **Ἀνάχαρσις θαυμάζειν ἔφη πῶς οἱ Ἕλληνες ἀρχόμενοι μὲν ἐν μικροῖς πίνουσι, πληρωθέντες δὲ μεγάλοις.** (WA 58)
 
