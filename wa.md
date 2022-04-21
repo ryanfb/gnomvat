@@ -164,9 +164,7 @@
 
 32. Ἀναξαγόρας ὁ ποιητὴς ἀκρόασιν παρέχων ἐν Θήβαις καὶ μηδεμιᾶς τυγχάνων τιμῆς εἶπεν· "ὦ ἄνδρες Θηβαῖοι, ἥμαρτεν Ὀδυσσεὺς ἐμφράξας τῶν ἑταίρων τὰς ἀκοὰς ὅτε τὰς Σειρῆνας παρέπλει· ἔδει γὰρ αὐτὸν ἡμᾶς ναύτας μισθώσασθαι." (WA 32)
 
-    Ἀνταγόρας ὁ ποιητὴς ἀκρόασιν παρέχων ἐν Θήβαις καὶ μηδεμιᾶς τυγχάνων τιμῆς εἶπεν· „ὦ ἄνδρες Θηβαῖοι· ἥμαρτεν Ὀδυσσεὺς ἐμφράξας τῶν ἑταίρων τὰς ἀκοάς, ὅτε τὰς Σειρῆνας παρέπλει· ἔδει γὰρ αὐτὸν ὑμᾶς ναύτας μισθώσασθαι.“ (GV 106)
-
-    Antagoras the poet giving a recitation in Thebes and flopping with the audience, said: "Theban citizens! Odysseus erred in plugging his companions' ears, when they were sailing by the Sirens: he should've just hired you as sailors instead."
+    Anaxagoras the poet giving a recitation in Thebes and flopping with the audience, said: "Theban citizens! Odysseus erred in plugging his companions' ears, when they were sailing by the Sirens: he should've just hired you as sailors instead." (cf. GV 106, attributed to Antagoras)
 
 33. Ἀναξαγόρας πρὸς τὸν δυσφοροῦντα ὅτι ἐπὶ ξένης τελευτᾷ "πανταχόθεν," ἔφη, "ὁμοία ἐστὶν ἡ εἰς Ἅιδου κάθοδος." (WA 33)
 
