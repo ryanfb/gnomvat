@@ -1,5 +1,7 @@
 # English translations from *Die Wiener Apophthegmen-Sammlung*
 
+## NOTE: This translation was assembled from translations from the *Gnomologium Vaticanum*. Translations are being revised to reflect the Greek text of *Die Wiener Apophthegmen-Sammlung*, and translations for WA-exclusive entries are still being added.
+
 1. Ἀλέξανδρος ὁ βασιλεὺς πληρώσας ποτὲ ὀστέων πίνακα ἔπεμψε Διογένει τῷ κυνικῷ φιλοσόφῳ · ὁ δὲ λαβὼν εἶπε· "κυνικὸν μὲν τὸ βρῶμα, οὐ βασιλικὸν δὲ τὸ δῶρον." (WA 1)
 
    Ἀλέξανδρος ὁ βασιλεὺς πληρώσας ποτὲ ὀστέων πίνακα ἔπεμψεν Διογένει τῷ Κυνικῷ· ὁ δὲ λαβὼν εἶπε· „κυνικὸν μὲν τὸ βρῶμα, οὐ βασιλικὸν δὲ τὸ δῶρον.“ (GV 96)
