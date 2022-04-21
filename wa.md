@@ -16,15 +16,11 @@
 
 4. Ἀλέξανδρος ὁ βασιλεὺς παρακαλούμενος ὑπὸ τῶν φίλων νυκτὸς ἐπιθέσθαι τοῖς πολεμίοις "οὐ βασιλικὸν κλέψαι τὴν νίκην" ἔφη. (WA 4)
 
-   Ὁ αὐτὸς παρακαλούμενος ὑπὸ τῶν φίλων νυκτὸς ἐπιθέσθαι τοῖς πολεμίοις εἶπεν· „οὐ βασιλικὸν τὸ κλέψαι τὴν νίκην.“ (GV 77)
-
-   \[Alexander\], being summoned by his friends to attack the enemy at night, said: "It is not kingly to hide one's victory."
+   King Alexander, being summoned by his friends to attack the enemy at night, said: "It is not kingly to hide one's victory." (cf. GV 77)
 
 5. Ἀλέξανδρος ὁ βασιλεὺς παρακαλούμενος ἐπὶ τὰς Ἀμαζόνας στρατεύσασθαι εἶπε· "νικᾶν μὲν γυναῖκας αἰσχρόν, τὸ δὲ νικᾶσθαι καὶ ὑπὸ γυναικῶν αἰσχρότερον." (WA 5)
 
-   Ὁ αὐτὸς παραινούντων αὐτῷ τῶν φίλων στρατεύειν ἐπὶ τὰς Ἀμαζόνας εἶπε· „τὸ μὲν νικῆσαι γυναῖκας οὐκ ἔνδοξον, τὸ δὲ νικηθῆναι ὑπ’ αὐτῶν ἄδοξον.“ (GV 94)
-
-   \[Alexander\], when his friends were advising him to make war against the Amazons, said: "To conquer women is not noteworthy, and to be defeated by them is disreputable."
+   King Alexander, when his friends were advising him to make war against the Amazons, said: "Conquering women is shameful, and being conquered by women is more shameful!" (cf. GV 94)
 
 6. Ἀλέξανδρος ὁ βασιλεὺς ἰδὼν Δαρεῖον ἐπὶ παρατάξεως πεσόντα τὸ σῶμα γυμνωθέντα ἄρας τὴν ἑαυτοῦ χλαμύδα περιέθηκεν αὐτῷ· ἐρωτώμενος δὲ ὑπὸ τῶν φίλων τί τοῦτο ἐποίει εἶπεν· " ἄνδρες φίλοι, οὐ τὸν νεκρὸν καλύπτω, ἀλλὰ τὴν τύχην περιστέλλω." (WA 6)
 
