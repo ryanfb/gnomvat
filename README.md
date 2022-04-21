@@ -4,6 +4,7 @@
 
 * [Introduction](https://ryanfb.github.io/gnomvat/introduction).
 * [English translations from the Gnomologium Vaticanum](https://ryanfb.github.io/gnomvat/gnomvat).
+* [English translations from Die Wiener Apophthegmen-Sammlung](https://ryanfb.github.io/gnomvat/wa).
 * [Concordances](https://ryanfb.github.io/gnomvat/concordances).
 
 **Please note that this translation is still a work-in-progress. Translations are still being revised.**
