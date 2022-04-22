@@ -1200,11 +1200,9 @@
 
      An Athenian woman, when someone was saying how beautiful her arms were, said: "But not belonging to the public."
 
-235. Ἀττικὴ γυνὴ ἰδοῦσα γράμμα ἐπὶ θυρῶν μέλλοντος γαμεῖν "Ἡρακλῆς ἐνθάδε κατοικεῖ· μηδὲν εἰσίτω κακόν" εἶπεν· " οὖν ἡ γυνὴ οὐ μὴ εἰσελεύσεται." (WA 167)
+235. Ἀττικὴ γυνὴ ἰδοῦσα γράμμα ἐπὶ θυρῶν μέλλοντος γαμεῖν "Ἡρακλῆς ἐνθάδε κατοικεῖ· μηδὲν εἰσίτω κακόν" εἶπεν· " οὖν ἡ γυνὴ οὐ μὴ εἰσελεύσεται." (WA 167, cf. GV 564)
 
-     Ἀττικὴ γυνὴ ἰδοῦσα γράμμα ἐπὶ θυρῶν μέλλοντος γαμεῖν· „Ἡρακλῆς ἐνθάδε κατοικεῖ· μηδὲν εἰσίτω κακὸν“ εἶπεν· „νῦν οὖν ἡ γυνὴ οὐ μὴ εἰσελεύσεται.“ (GV 564)
-
-     An Athenian woman having seen a sign on the door of someone intending to get married reading “Heracles lives here; let there be no evil”, said: “So now the wife will not enter!”
+     An Athenian woman having seen a sign on the door of someone intending to get married reading “Heracles lives here; let there be no evil”, said: “So, the wife will not enter!”
 
 236. Ἀττικὴ γραῦς ἐρωτηθεῖσα ὑπό τινος ἐν συμποσίῳ εἰ θνητὸς ὁ Διόνυσος ἰδοῦσα κλεπτόμενον οἶνον εἶπε· "ναὶ θνητός· εἶδον γὰρ αὐτὸν ἐκφερόμενον." (WA 168)
 
