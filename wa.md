@@ -320,7 +320,9 @@
 
     Anacharsis said he was amazed at how the Greeks begin drinking in small cups, but use big ones once they are full.
 
-59. **Ἀνάχαρσις ἐρωτηθεὶς εἰ εἰσὶν αὐλοὶ ἐν Σκύθαις εἶπεν· "ἀλλ’ οὐδὲ ἄμπελος."** (WA 59)
+59. Ἀνάχαρσις ἐρωτηθεὶς εἰ εἰσὶν αὐλοὶ ἐν Σκύθαις εἶπεν· "ἀλλ’ οὐδὲ ἄμπελος." (WA 59)
+
+    Anacharsis having been asked if there are auloi in Scythia, said: "No, but vineyards neither."
 
 60. Ἀνάχαρσις ἐρωτηθεὶς ὁπότεροι πλείους εἰσὶν οἱ ζῶντες ἢ οἱ νεκροὶ ἔφη· "τοὺς ἐμπλέοντας ποῦ τίθης;" (WA 60)
 
