@@ -716,11 +716,9 @@
 
      Philip said that the wealthy and uneducated person is silver-plated filth.
 
-130. Φιλιστίων ὁ τῶν κωμῳδιῶν ποιητὴς ἀκούσας ὅτι τέθνηκε Μένανδρος ἔφη· "οἴμοι ὅτι ἀπώλεσά μου τὴν ἀκόνην." (WA 130)
+130. Φιλιστίων ὁ τῶν κωμῳδιῶν ποιητὴς ἀκούσας ὅτι τέθνηκε Μένανδρος ἔφη· "οἴμοι ὅτι ἀπώλεσά μου τὴν ἀκόνην." (WA 130, cf. GV 517 attributed to Sophocles)
 
-     Σοφοκλῆς, ὁ τῶν τραγῳδιῶν ποιητής, ἀκούσας Εὐριπίδην ἐν Μακεδονίᾳ τεθνηκέναι εἶπεν· „ἀπώλετο ἡ τῶν ἐμῶν ποιημάτων ἀκόνη.“ (GV 517)
-
-     Sophocles, the poet of tragedies, when he heard that Euripides had died in Macedonia, said: "The whetstone of my poems has died."
+     Philistion, the poet of comedies, when he heard that Menander had died, said: "I despair that the whetstone of my poems has died."
 
 131. **Φιλιστίων ἐρωτηθεὶς ἐκ τῶν στρογγύλων καὶ μακρῶν ποῖά εἰσιν ἀσφαλῆ ἔφη· "τὰ νεωλκούμενα."** (WA 131)
 
