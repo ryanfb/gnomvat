@@ -330,7 +330,9 @@
 
     Anacharsis having been asked which were more plentiful, the living or the dead, said: "So where are you putting those in the sea?"
 
-61. **Ἀνάχαρσις ὀνειδιζόμενος ὑπό τινος  Ἀττικοῦ ὅτι Σκύθης ἐστὶν "ἀλλ’ ἐμοὶ μὲν ὄνειδος," εἶπεν, "ἡ πατρίς, σὺ δὲ τῆς πατρίδος."** (WA 61)
+61. Ἀνάχαρσις ὀνειδιζόμενος ὑπό τινος  Ἀττικοῦ ὅτι Σκύθης ἐστὶν "ἀλλ’ ἐμοὶ μὲν ὄνειδος," εἶπεν, "ἡ πατρίς, σὺ δὲ τῆς πατρίδος." (WA 61)
+
+    Anacharsis having been insulted by an Athenian that he was Scythian, said: "My fatherland may be an insult to me, but you are an insult to your fatherland."
 
 62. Ἀνάχαρσις ἐρωτηθεὶς τί ἐστιν ἐν ἀνθρώποις ἀγαθόν τε καὶ φαῦλον ἔφη· "γλῶσσα." (WA 62)
 
