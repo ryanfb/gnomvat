@@ -598,7 +598,9 @@
 
      Scythes having encountered a naked man when it was bitterly cold asked if he might shiver, he said: "No." So being amazed Scythes asked him in return if his forehead might shiver; but he answered no and said: "Thus I am all forehead."
 
-108. **Στρατώνικος ἰατρὸν κολακεύων ἔλεγεν· "ἐπαινῶ σου τὴν ἐμπειρίαν ὅτι οὐκ ἐᾷς τοὺς ἀρρώστους κατασαπῆναι τάχιον αὐτοὺς τοῦ ζῆν ἀπαλλάσσων."** (WA 108)
+108. Στρατώνικος ἰατρὸν κολακεύων ἔλεγεν· "ἐπαινῶ σου τὴν ἐμπειρίαν ὅτι οὐκ ἐᾷς τοὺς ἀρρώστους κατασαπῆναι τάχιον αὐτοὺς τοῦ ζῆν ἀπαλλάσσων." (WA 108)
+
+     Stratonicus flattering a doctor said: "I applaud your wisdom, that you don't allow the sick to rot but quickly free them from their life."
 
 109. Σοφὸς τοὺς συκοφάντας πολιτικοὺς ἔφησε λύκους εἶναι. (WA 109)
 
