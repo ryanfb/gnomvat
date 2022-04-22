@@ -490,7 +490,7 @@
 
 89. Αἴσωπος ὀνειδιζόμενος ὅτι χαλεπὴν ἔχει τὴν ὄψιν "μή μου τὸ εἶδος," ἔφη, "ἀλλ’ εἰς τὸν νοῦν πρόσεχε." (WA 89)
 
-    Aesop having been insulted that he was ugly, said: "Don't pay attention to my body but to my mind."
+    Aesop having been insulted that he was ugly, said: "Don't pay attention to my body, but to my mind."
 
 90. Αἴσωπος ὁ λογοποιὸς ἀγόμενος ὑπὸ τοῦ δεσπότου εἰς μυλῶνα ἠρώτα "τί με ἄγεις;" ὁ δὲ εἶπεν· "ἵνα χρήσιμος γένῃ·" "τί οὖν," φησίν, "οὐ καὶ τοὺς υἱούς σου ἐνθάδε ἄγεις;" (WA 90)
 
