@@ -398,9 +398,7 @@
 
     Aristotle, having been asked what a "friend" is, said: "One soul dwelling in two bodies."
 
-73. Ὁ αὐτὸς ἐρωτηθεὶς τί τάχιστα γηράσκει εἶπε· " χάρις." (WA 73)
-
-    Ὁ αὐτὸς ἐρωτηθεὶς τί τάχιστα γηράσκει εἶπε· „χάρις“. (GV 138)
+73. Ὁ αὐτὸς ἐρωτηθεὶς τί τάχιστα γηράσκει εἶπε· " χάρις." (WA 73 = GV 138)
 
     \[Aristotle\], having been asked what grows old fastest, said: "A favor."
 
