@@ -316,7 +316,9 @@
 
     Anacharasis having been asked how one might not become and alcoholic, said: "If they cast their eyes towards the shameful acts of drunks."
 
-58. **Ἀνάχαρσις θαυμάζειν ἔφη πῶς οἱ Ἕλληνες ἀρχόμενοι μὲν ἐν μικροῖς πίνουσι, πληρωθέντες δὲ μεγάλοις.** (WA 58)
+58. Ἀνάχαρσις θαυμάζειν ἔφη πῶς οἱ Ἕλληνες ἀρχόμενοι μὲν ἐν μικροῖς πίνουσι, πληρωθέντες δὲ μεγάλοις. (WA 58)
+
+    Anacharsis said he was amazed at how the Greeks begin drinking in small cups, but use big ones once they are full.
 
 59. **Ἀνάχαρσις ἐρωτηθεὶς εἰ εἰσὶν αὐλοὶ ἐν Σκύθαις εἶπεν· "ἀλλ’ οὐδὲ ἄμπελος."** (WA 59)
 
