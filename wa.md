@@ -1192,7 +1192,9 @@
 
      \[Demades\], being shouted at in the assembly, said: "You did not prevent me from speaking but yourselves from hearing."
 
-234. **Ἀττικὴ γυνὴ εἰπόντος τινὸς ὡς καλός ἐστιν αὐτῇ ὁ πῆχυς εἶπεν· "ἀλλ’ οὐ δημόσιος."** (WA 166)
+234. Ἀττικὴ γυνὴ εἰπόντος τινὸς ὡς καλός ἐστιν αὐτῇ ὁ πῆχυς εἶπεν· "ἀλλ’ οὐ δημόσιος." (WA 166)
+
+     An Athenian woman, when someone was saying how beautiful her arms were, said: "But not belonging to the public."
 
 235. Ἀττικὴ γυνὴ ἰδοῦσα γράμμα ἐπὶ θυρῶν μέλλοντος γαμεῖν "Ἡρακλῆς ἐνθάδε κατοικεῖ· μηδὲν εἰσίτω κακόν" εἶπεν· " οὖν ἡ γυνὴ οὐ μὴ εἰσελεύσεται." (WA 167)
 
