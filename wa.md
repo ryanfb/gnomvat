@@ -442,7 +442,9 @@
 
     \[Aristotle\] said that the uneducated differ from beasts in shape alone.
 
-81. **Ὁ αὐτὸς ἔλεγε· "τὸν μὲν διδόντα χάριν δεῖ παραχρῆμα ἐπιλανθάνεσθαι, τὸν δὲ λαβόντα διὰ παντὸς μεμνῆσθαι."** (WA 81)
+81. Ὁ αὐτὸς ἔλεγε· "τὸν μὲν διδόντα χάριν δεῖ παραχρῆμα ἐπιλανθάνεσθαι, τὸν δὲ λαβόντα διὰ παντὸς μεμνῆσθαι." (WA 81)
+
+    \[Aristotle\] said: "It's necessary for those giving a gift to forget immediately, and for those receiving one to remember always."
 
 82. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος διὰ τί οἱ Βυζάντιοι λάλοι εἰσὶν ἔφη· "ὅτι ἐπὶ τοῦ στόματος οἰκοῦσιν." (WA 82)
 
