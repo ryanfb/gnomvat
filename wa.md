@@ -710,17 +710,17 @@
 
      \[Philip\] said that a king should remember that, although a man, he has taken authority equal to a god, in order that he may prefer good and godly things but employ a human voice.
 
-129. Φίλιππος τὸν πλούσιον καὶ ἀπαίδευτον εἶναι ἔφησε ῥύπον περιηργυρωμένον. (WA 129)
-
-     Φίλιππος τὸν πλούσιον καὶ ἀπαίδευτον ἔφησε ῥύπον περιηργυρωμένον. (GV 546)
+129. Φίλιππος τὸν πλούσιον καὶ ἀπαίδευτον εἶναι ἔφησε ῥύπον περιηργυρωμένον. (WA 129, cf. GV 546)
 
      Philip said that the wealthy and uneducated person is silver-plated filth.
 
-130. Φιλιστίων ὁ τῶν κωμῳδιῶν ποιητὴς ἀκούσας ὅτι τέθνηκε Μένανδρος ἔφη· "οἴμοι ὅτι ἀπώλεσά μου τὴν ἀκόνην." (WA 130, cf. GV 517 attributed to Sophocles)
+130. Φιλιστίων ὁ τῶν κωμῳδιῶν ποιητὴς ἀκούσας ὅτι τέθνηκε Μένανδρος ἔφη· "οἴμοι ὅτι ἀπώλεσά μου τὴν ἀκόνην." (WA 130, cf. GV 517 attr. Sophocles)
 
      Philistion, the poet of comedies, when he heard that Menander had died, said: "I despair that the whetstone of my poems has died."
 
-131. **Φιλιστίων ἐρωτηθεὶς ἐκ τῶν στρογγύλων καὶ μακρῶν ποῖά εἰσιν ἀσφαλῆ ἔφη· "τὰ νεωλκούμενα."** (WA 131)
+131. Φιλιστίων ἐρωτηθεὶς ἐκ τῶν στρογγύλων καὶ μακρῶν ποῖά εἰσιν ἀσφαλῆ ἔφη· "τὰ νεωλκούμενα." (WA 131, cf. Ath.8.350b attr. Stratonicus, DL 1.8.104 attr. Anacharis)
+
+     Philistion having been asked out of the roundships and longships what kind is safest, said: "Those on shore."
 
 132. Φιλόξενος ὁ ποιητὴς εἰπόντος τινὸς διὰ τί Σοφοκλῆς χρηστὰς παρεισάγει τὰς γυναῖκας, \[Σοφοκλῆς\] αὐτὸς δὲ φαύλας εἶπεν ὅτι· " Σοφοκλῆς μὲν οἵας δεῖ εἶναι τὰς γυναῖκας λέγει, ἐγὼ δὲ οἷαί εἰσιν." (WA 132)
 
