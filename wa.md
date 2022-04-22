@@ -582,7 +582,9 @@
 
      Aeschines the orator, having been banished from his fatherland, went to Rhodes and was giving lectures. Then, when Demosthenes once came to Rhodes and embraced him and honored him with 1,000 drachmas, accepting the money he began to weep. But when this man was encouraging him to be brave, and perhaps to take part in a return from exile for him due to his eagerness, he said: "I do not hesitate to weep when I am deprived of such a fatherland, in which even my enemies are such that they wish to help."
 
-105. **\<Σ\>ωρανὸς ὁ ζωγράφος βουλόμενος τὴν ἀναίδειαν ὑποτυπῶσαι ἔγραψεν αὐτὴν γυναῖκα ἐπὶ πυρὸς καθημένην.** (WA 105)
+105. \<Σ\>ωρανὸς ὁ ζωγράφος βουλόμενος τὴν ἀναίδειαν ὑποτυπῶσαι ἔγραψεν αὐτὴν γυναῖκα ἐπὶ πυρὸς καθημένην. (WA 105)
+
+     Soranos the life-painter wanting to sketch something shameless drew his wife seated upon a fire.
 
 106. \<Σ\>ωσιγένης χαλεπώτερον εἶπε τοῦ κατηγορεῖν τὸ ἀπολογεῖσθαι· τὸν μὲν γὰρ κατηγοροῦντα μόνον δεῖ πεῖσαι, τὸν δὲ ἀπολογούμενον καὶ μεταπεῖσαι. (WA 106)
 
