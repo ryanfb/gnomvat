@@ -1046,7 +1046,9 @@
 
      \[Demosthenes\], when someone was reproaching him and saying, "You are babbling while drunk", said: "But you think that I babble while sober."
 
-209. **Ὁ αὐτὸς Ἐπικλέους ῥήτορος αὐτοῦ κατηγοροῦντος ἔχοντος δὲ τὴν κεφαλὴν βεβαμμένην "καὶ πῶς," ἔφησε, "τούτῳ πιστεύετε, ὦ πολῖται, οὗ τὸ ψεῦδος ἐπὶ τῆς κεφαλῆς ἐστιν;"** (WA Suppl. 28)
+209. Ὁ αὐτὸς Ἐπικλέους ῥήτορος αὐτοῦ κατηγοροῦντος ἔχοντος δὲ τὴν κεφαλὴν βεβαμμένην "καὶ πῶς," ἔφησε, "τούτῳ πιστεύετε, ὦ πολῖται, οὗ τὸ ψεῦδος ἐπὶ τῆς κεφαλῆς ἐστιν;" (WA Suppl. 28)
+
+     \[Demosthenes\], when the orator Epicles criticized him despite having dyed hair, said: "And how can you trust this man, o citizens, who has a lie upon his head?"
 
 210. Ὁ αὐτὸς ἔφησε τοὺς νόμους δημοκρατίας νεῦρα. (WA Suppl. 29)
 
