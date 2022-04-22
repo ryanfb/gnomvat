@@ -346,7 +346,9 @@
 
     \[Anacharsis\] said it was better to have one friend of great worth than to have many of no worth.
 
-64. **\<Ὁ\> αὐτὸς τὴν ἀγορὰν ὡρισμένον τόπον ἔφη εἰς τὸ ἀλλήλους ἀπαντᾶν καὶ πλεονεκτεῖν.** (WA 64)
+64. \<Ὁ\> αὐτὸς τὴν ἀγορὰν ὡρισμένον τόπον ἔφη εἰς τὸ ἀλλήλους ἀπαντᾶν καὶ πλεονεκτεῖν. (WA 64)
+
+    \[Anacharsis\] said that the marketplace is a place marked out for meeting and cheating one another.
 
 65. Ὁ αὐτὸς ὑπὸ μειρακίου παρὰ πότον ὑβρισθεὶς ἔφη· "μειράκιον, ἐὰν \<νέος\> ὢν τὸν οἶνον μὴ φέρῃς γέρων γενόμενος \[τὸ\] ὕδωρ οἴσεις." (WA 65)
 
