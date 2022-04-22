@@ -1191,6 +1191,10 @@
      Ὁ αὐτὸς ἐν ἐκκλησίᾳ θροούμενος εἶπεν· „οὐκ ἐμὲ ἐκωλύσατε λέγειν, ἀλλ’ ἑαυτοὺς ἀκούειν“. (GV 247)
 
      \[Demades\], being shouted at in the assembly, said: "You did not prevent me from speaking but yourselves from hearing."
+     
+     Αποφθέγματα γυναικῶν
+     
+     Apothegms of Women
 
 234. Ἀττικὴ γυνὴ εἰπόντος τινὸς ὡς καλός ἐστιν αὐτῇ ὁ πῆχυς εἶπεν· "ἀλλ’ οὐ δημόσιος." (WA 166)
 
@@ -1198,9 +1202,9 @@
 
 235. Ἀττικὴ γυνὴ ἰδοῦσα γράμμα ἐπὶ θυρῶν μέλλοντος γαμεῖν "Ἡρακλῆς ἐνθάδε κατοικεῖ· μηδὲν εἰσίτω κακόν" εἶπεν· " οὖν ἡ γυνὴ οὐ μὴ εἰσελεύσεται." (WA 167)
 
-     Αποφθέγματα γυναικῶν, ἤτοι φρονήματα. (GV 564)
+     Ἀττικὴ γυνὴ ἰδοῦσα γράμμα ἐπὶ θυρῶν μέλλοντος γαμεῖν· „Ἡρακλῆς ἐνθάδε κατοικεῖ· μηδὲν εἰσίτω κακὸν“ εἶπεν· „νῦν οὖν ἡ γυνὴ οὐ μὴ εἰσελεύσεται.“ (GV 564)
 
-     Apothegms of Women, or Their Thoughts
+     An Athenian woman having seen a sign on the door of someone intending to get married reading “Heracles lives here; let there be no evil”, said: “So now the wife will not enter!”
 
 236. Ἀττικὴ γραῦς ἐρωτηθεῖσα ὑπό τινος ἐν συμποσίῳ εἰ θνητὸς ὁ Διόνυσος ἰδοῦσα κλεπτόμενον οἶνον εἶπε· "ναὶ θνητός· εἶδον γὰρ αὐτὸν ἐκφερόμενον." (WA 168)
 
