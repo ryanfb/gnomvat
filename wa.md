@@ -1266,7 +1266,9 @@
 
      Olympias, mother of Alexander, having been asked by someone, “Why don’t you adorn yourself?”, said: “Because Alexander is sufficient adornment for me.”
 
-255. **Πυθιὰς ἡ Ἀριστοτέλους θυγάτηρ ἐρωτηθεῖσα ποῖόν ἐστι κάλλιον χρῶμα εἶπε· "τὸ διὰ τὴν αἰδῶ τοῖς ἐλευθέροις ἐπιγινόμενον."** (WA 187)
+255. Πυθιὰς ἡ Ἀριστοτέλους θυγάτηρ ἐρωτηθεῖσα ποῖόν ἐστι κάλλιον χρῶμα εἶπε· "τὸ διὰ τὴν αἰδῶ τοῖς ἐλευθέροις ἐπιγινόμενον." (WA 187)
+
+     Pythias the daughter of Aristotle, having been asked what color is beautiful, said: "That which is caused by reverence for being born after the free."
 
 256. **Ῥοδίνη ἑταίρα Χαιρεφῶντος ποτὲ ἀκλήτου ἐπὶ δεῖπνον ἐλθόντος προπιοῦσα αὐτῷ ἔφη· "δέξαι τὸ ποτήριον, ὑπερήφανε, ὃς οὐδὲ καλούμενος ἔρχῃ."** (WA 188)
 
