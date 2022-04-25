@@ -800,7 +800,9 @@
 
      Chilon having been asked by Aesop what Zeus might be doing, said: "He might be debasing the exalted, or he might be exalting the debased."
 
-155. **Χείλων πυθομένου τινὸς τί διαφέρουσιν οἱ πεπαιδευμένοι τῶν ἀπαιδεύτων ἔφη· "ἐλπίσιν ἀγαθαῖς."** (WA 156)
+155. Χείλων πυθομένου τινὸς τί διαφέρουσιν οἱ πεπαιδευμένοι τῶν ἀπαιδεύτων ἔφη· "ἐλπίσιν ἀγαθαῖς." (WA 156)
+
+     Chilon having been asked by someone how the educated differ from the uneducated, said: "In their good hopes."
 
 156. Χείλων ἐρωτηθεὶς τί δύσκολόν ἐστιν ἔφη· " μάλιστα τὸ ἀπόρρητα σιωπῆσαι καὶ σχολὴν εὖ διαθέσθαι καὶ ἀδικούμενον δύνασθαι φέρειν." (WA 157)
 
