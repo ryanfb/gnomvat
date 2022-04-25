@@ -34,11 +34,9 @@
 
    \[Alexander\], having come to the Illyrians and seeing in the temple of Zeus \<a woman\> outstanding in beauty, \<amazed\> at her beauty he watched her for a long time. And when Hephaistion said \<that\> he could reasonably take the preferred woman as his own, he said: "And how is this not dreadful, if, when we want to chastise other men's lack of control, we are detected by foreign men being slaves to our own lack of control?"
 
-8. Ἀλέξανδρος ὁ βασιλεὺς " ἐν τίνι μάλιστα ἀπολέλαυκας τῆς δυναστείας;" ἐρωτηθεὶς ἔφη· " ἐν τῷ μηδὲν εἰς εὐεργεσίαν ἡττᾶσθαι." (WA 8)
+8. Ἀλέξανδρος ὁ βασιλεὺς "ἐν τίνι μάλιστα ἀπολέλαυκας τῆς δυναστείας;" ἐρωτηθεὶς ἔφη· "ἐν τῷ μηδὲν εἰς εὐεργεσίαν ἡττᾶσθαι." (WA 8, cf. GV 101)
 
-   Ὁ αὐτὸς „ἐν τίνι μάλιστα ἀπολέλαυκας τῆς δυναστείας;“ ἐρωτηθεὶς ἔφη· „ἐν τῷ μηδενὸς εἰς εὐεργεσίαν ἡττᾶσθαι.“ (GV 101)
-
-   \[Alexander\], being asked, "In what way do you most enjoy your dominion?" said: "In being conquered by no one in doing good deeds."
+   King Alexander, being asked, "In what way do you most enjoy your dominion?" said: "In being conquered by no one in doing good deeds."
 
 9. Ἀλέξανδρος ὁ βασιλεὺς ἐγκρατὴς γενόμενος τῆς Δαρείου γυναικὸς ὑπὸ τῶν φίλων παρακαλούμενος χρήσασθαι καὶ ταύτῃ καὶ ταῖς ἄλλαις αἰχμαλώτοις "αἰσχρόν," ἔφη, "τὴν ἀνδρείαν περιγενομένους ὑπὸ γυναικῶν ἡττᾶσθαι." (WA 9)
 
@@ -632,27 +630,19 @@
 
      Timon the misanthrope, when he had escaped to solitude and someone caught up to him saying, "O Timon, how sweet \<the\> solitude!", said: "If only you weren't here."
 
-116. Ὁ αὐτὸς στοιχεῖα ἔφη δύο τῶν κακῶν εἶναι ἀπληστίαν καὶ φιλοδοξίαν. (WA 116)
-
-     Ὁ αὐτὸς στοιχεῖα δύο ἔφη τῶν κακῶν εἶναι· „ἀπληστίαν καὶ φιλοδοξίαν.“ (GV 536)
+116. Ὁ αὐτὸς στοιχεῖα ἔφη δύο τῶν κακῶν εἶναι ἀπληστίαν καὶ φιλοδοξίαν. (WA 116, cf. GV 536)
 
      \[Timon\] said there are two components of evil: "Greed and a desire for fame."
 
-117. Σόλων ὁ σοφὸς ἐρωτῶντος αὐτόν τινος πῶς ἂν μὴ γένοιτο ἀδίκημα εἶπεν· "εἰ ὁμοίως ἀγανακτοῖεν ἐπὶ τοῖς ἀδικήμασιν οἱ μὴ ἀδικούμενοι τοῖς ἀδικουμένοις." (WA 117)
-
-     Σόλων ὁ σοφὸς ἐρωτῶντος αὐτόν τινος πῶς ἂν μὴ γένοιτο ἀδίκημα εἶπεν· „εἰ ὁμοίως ἀγανακτοῖεν ἐπὶ τοῖς ἀδικήμασιν οἱ μὴ ἀδικούμενοι τοῖς ἀδικουμένοις.“ (GV 501)
+117. Σόλων ὁ σοφὸς ἐρωτῶντος αὐτόν τινος πῶς ἂν μὴ γένοιτο ἀδίκημα εἶπεν· "εἰ ὁμοίως ἀγανακτοῖεν ἐπὶ τοῖς ἀδικήμασιν οἱ μὴ ἀδικούμενοι τοῖς ἀδικουμένοις." (WA 117 = GV 501)
 
      Solon the wise man, when someone asked him how wrongs could not happen, said: "If those who are not wronged would be equally vexed as those who are wronged at the wrongs done.
 
-118. Ὁ αὐτὸς ἐπιτιμωμένου ὑπ’ αὐτοῦ τινος ἐπὶ τῷ κυβεύειν καὶ λέγοντος περὶ μικροῦ παίζειν εἶπεν· "ἀλλὰ τό γε ἔθος οὐ μικρὸν κακόν." (WA 118)
-
-     Ὁ αὐτὸς ἐπιτιμωμένου τινὸς ὑπ’ αὐτοῦ ἐπὶ τῷ κυβεύειν καὶ λέγοντος περὶ μικροῦ παίζειν „ἀλλὰ τό γε ἔθος“ εἶπεν „οὐ μικρὸν \[κακόν\].“ (GV 502)
+118. Ὁ αὐτὸς ἐπιτιμωμένου ὑπ’ αὐτοῦ τινος ἐπὶ τῷ κυβεύειν καὶ λέγοντος περὶ μικροῦ παίζειν εἶπεν· "ἀλλὰ τό γε ἔθος οὐ μικρὸν κακόν." (WA 118, cf. GV 502)
 
      When someone was rebuked by \[Solon\] for playing at dice and said that he played for a small amount, he said: "But your character, at any rate, is no small thing."
 
-119. Ὁ αὐτὸς ἐκείνην \<εἶπεν\> ἄριστα διοικεῖσθαι τὴν πόλιν ἐν ᾗ τοὺς ἀγαθοὺς συμβαίνει τιμᾶσθαι, κάκιστα δὲ οἰκεῖσθαι ἐν ᾗ τοὺς κακούς. (WA 119)
-
-     Ὁ αὐτὸς ἔφη ἐκείνην ἄριστα διοικεῖσθαι τὴν πόλιν, ἐν ᾗ τοὺς ἀγαθοὺς συμβαίνει τιμᾶσθαι, κάκιστα δὲ οἰκεῖσθαι, ἐν ᾗ τοὺς κακούς. (GV 503)
+119. Ὁ αὐτὸς ἐκείνην \<εἶπεν\> ἄριστα διοικεῖσθαι τὴν πόλιν ἐν ᾗ τοὺς ἀγαθοὺς συμβαίνει τιμᾶσθαι, κάκιστα δὲ οἰκεῖσθαι ἐν ᾗ τοὺς κακούς. (WA 119, cf. GV 503)
 
      \[Solon\] said that that city is managed best in which it happens that the good are honored, but that that one is managed worst in which the bad are.
 
@@ -662,17 +652,15 @@
 
      \[Simonides\], when some young man asked him to write an encomium of him, for he would consider it a favor for him, he said: "O good man, I have two boxes. And into the one I put favors, and into the other, silver coin. Then whenever I open them wanting to make use of them, I find the one full of silver, and the other empty of any favors."
 
-121. Ὑπερίδης ἔφη δεῖν τὸν ἀγαθὸν ἐπιδείκνυσθαι ἐν μὲν τοῖς λόγοις ἃ φρονεῖ, ἐν δὲ τοῖς ἔργοις ἃ ποιεῖ. (WA 121)
-
-     Ὑπερίδης ἔφη δεῖν τὸν ἀγαθὸν ἐπιδείκνυσθαι ἐν μὲν τοῖς λόγοις, ἃ φρονεῖ, ἐν δὲ τοῖς ἔργοις, ἃ ποιεῖ. (GV 538)
+121. Ὑπερίδης ἔφη δεῖν τὸν ἀγαθὸν ἐπιδείκνυσθαι ἐν μὲν τοῖς λόγοις ἃ φρονεῖ, ἐν δὲ τοῖς ἔργοις ἃ ποιεῖ. (WA 121 = GV 538)
 
      Hyperides said that it was necessary for the virtuous to show by words, that which they think, but by works, that which they do.
 
-122. Ὑπερίδης ἔφη κακῶν ἀνθρώπων φεύγειν φιλίαν καὶ ἀγαθῶν ἔχθραν. (WA 122)
+122. Ὑπερίδης ἔφη κακῶν ἀνθρώπων φεύγειν φιλίαν καὶ ἀγαθῶν ἔχθραν. (WA 122, cf. GV 460 attr. \[Pythagoras\])
 
      Ὁ αὐτὸς ἔλεγε φεύγειν κακῶν φιλίαν καὶ ἀγαθῶν ἔχθραν. (GV 460)
 
-     \[Pythagoras\] said that to avoid bad things is goodwill and to avoid good things is hatred.
+     Hyperides said that to avoid bad things is goodwill and to avoid good things is hatred.
 
 123. Φίλιππος ἐρωτηθεὶς τίς αὐτῷ τὸν ὀφθαλμὸν ἐξέκοψεν εἶπεν· "ὁ τῆς Ἐλλάδος ἔρως." (WA 123)
 
@@ -752,7 +740,9 @@
 
 140. **Οὐκ ἔστι παισὶ τοῦδε κάλλιον γέρας ἢ πατρὸς ἐσθλοῦ κἀγαθοῦ πεφυκέναι.** (WA 141)
 
-141. **Zῆθι, ὦ ἄνθρωπε, μὴ μόνον ἵνα φάγῃς καὶ πίῃς, ἀλλ’ ἵνα τὸ \[εὖ\] ζῆν καὶ τὸ ζῆν καταχρήσῃ.** (WA 142)
+141. Zῆθι, ὦ ἄνθρωπε, μὴ μόνον ἵνα φάγῃς καὶ πίῃς, ἀλλ’ ἵνα τὸ \[εὖ\] ζῆν καὶ τὸ ζῆν καταχρήσῃ. (WA 142)
+
+     Live, o mortal, not only to eat and drink, but for a good life and a life well-spent.
 
 142. **Ζητεῖν δεῖ ἄνδρα καὶ γυναῖκα κατὰ πάντα τὴν ἀπαλλαγὴν τοῦ βίου ποιμάνοντα.** (WA 143)
 
@@ -1180,15 +1170,11 @@
 
      \[Demades\] said: "Just as the beauty of Helen resulted in the destruction of heroes, thus also Demosthenes' strength in speaking grew into the destruction of Greece."
 
-232. Ὁ αὐτὸς ἔφη ὥσπερ ἀγωνιστοῦ γίνεσθαι δυσημερίαν οὕτω καὶ ἀκροατοῦ. (WA Suppl. 51)
-
-     Ὁ αὐτὸς ἔφη, ὥσπερ ἀγωνιστοῦ γίνεσθαι δυσημερίαν, οὕτω καὶ ἀκροατοῦ. (GV 246)
+232. Ὁ αὐτὸς ἔφη ὥσπερ ἀγωνιστοῦ γίνεσθαι δυσημερίαν οὕτω καὶ ἀκροατοῦ. (WA Suppl. 51 = GV 246)
 
      \[Demades\] said that, just as a bad day happens for the debater, so too it does for the listener.
 
-233. Ὁ αὐτὸς ἐν ἐκκλησίᾳ θροούμενος εἶπεν· "οὐκ ἐμὲ ἐκωλύσατε λέγειν, ἀλλ’ ἑαυτοὺς ἀκούειν." (WA Suppl. 52)
-
-     Ὁ αὐτὸς ἐν ἐκκλησίᾳ θροούμενος εἶπεν· „οὐκ ἐμὲ ἐκωλύσατε λέγειν, ἀλλ’ ἑαυτοὺς ἀκούειν“. (GV 247)
+233. Ὁ αὐτὸς ἐν ἐκκλησίᾳ θροούμενος εἶπεν· "οὐκ ἐμὲ ἐκωλύσατε λέγειν, ἀλλ’ ἑαυτοὺς ἀκούειν." (WA Suppl. 52 = GV 247)
 
      \[Demades\], being shouted at in the assembly, said: "You did not prevent me from speaking but yourselves from hearing."
      
@@ -1260,9 +1246,7 @@
 
      A Spartan woman whose son was proud of being the lone survivor of a battle, said: "So why aren't you ashamed of being the only one alive?"
 
-254. Ὀλυμπιὰς Ἀλεξάνδρου μήτηρ ἐρωτηθεῖσα ὑπό τινος ὅτι διὰ τί οὐ κοσμεῖται εἶπεν· "ὅτι ἀρκεῖ μοι ὁ Ἀλεξάνδρου κόσμος." (WA 186)
-
-     Ὀλυμπιὰς Ἀλεξάνδρου μήτηρ ἐρωτηθεῖσα ὑπό τινος [ὅτι] „διὰ τί οὐ κοσμῇ;“ εἶπεν· „ὅτι ἀρκεῖ μοι ὁ Ἀλεξάνδρου κόσμος.“ (GV 576)
+254. Ὀλυμπιὰς Ἀλεξάνδρου μήτηρ ἐρωτηθεῖσα ὑπό τινος ὅτι διὰ τί οὐ κοσμεῖται εἶπεν· "ὅτι ἀρκεῖ μοι ὁ Ἀλεξάνδρου κόσμος." (WA 186 = GV 576)
 
      Olympias, mother of Alexander, having been asked by someone, “Why don’t you adorn yourself?”, said: “Because Alexander is sufficient adornment for me.”
 
