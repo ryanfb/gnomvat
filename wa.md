@@ -758,15 +758,11 @@
 
      Chabrias having found two guards sleeping in the camp, killed them, saying: "If I find people like that, I strike them down like this."
 
-147. Χαβρίας εἰπόντος τινὸς "ὁ φίλος σε λάθρα λοιδορεῖ" εἶπε· "μὴ ἔλεγχε αὐτὸν ἵνα μὴ φανερῶς αὐτὸ μέλλῃ ποιεῖν." (WA 148)
-
-     Χαβρίας εἰπόντος αὐτῷ τινος· „ὁ φίλος σε λάθρα λοιδορεῖ“ εἶπε· „μὴ ἔλεγχε αὐτόν, ἵνα μὴ φανερῶς αὐτὸ μέλλῃ ποιεῖν.“ (GV 557)
+147. Χαβρίας εἰπόντος τινὸς "ὁ φίλος σε λάθρα λοιδορεῖ" εἶπε· "μὴ ἔλεγχε αὐτὸν ἵνα μὴ φανερῶς αὐτὸ μέλλῃ ποιεῖν." (WA 148, cf. GV 557)
 
      Chabrias having been told by someone: "A friend secretly hates you", said: "Don't expose them, so that they're not forced to do it openly."
 
-148. Χαβρίας ὑπὸ πονηροῦ πολλὰ λοιδορηθεὶς ἔφη· "κάλλιστα ἐποίησας μηδέν σοι τῶν προσόντων παραλιπών." (WA 149)
-
-     Χαβρίας ὑπὸ πονηροῦ πολλὰ λοιδορηθεὶς ἔφη· „κάλλιστα ἐποίησας μηδέν σοι τῶν προσόντων παραλιπών.“ (GV 558)
+148. Χαβρίας ὑπὸ πονηροῦ πολλὰ λοιδορηθεὶς ἔφη· "κάλλιστα ἐποίησας μηδέν σοι τῶν προσόντων παραλιπών." (WA 149 = GV 558)
 
      Charbias having been insulted by a very worthless person, said: "You did excellently in leaving out not a single one of your qualities."
 
@@ -776,7 +772,9 @@
 
      \[Chabrias\] having been asked where he was descended from, said: "I was descended from the cosmos."
 
-150. **Χαβρίας ἐρωτηθεὶς τίνα ἐστὶ τὰ ἐν Ἅιδου εἶπεν· "οὔτε ἐγὼ πεπόρευμαι οὔτε τῶν ἐκεῖσέ τινι συντετύχηκα."** (WA 151)
+150. Χαβρίας ἐρωτηθεὶς τίνα ἐστὶ τὰ ἐν Ἅιδου εἶπεν· "οὔτε ἐγὼ πεπόρευμαι οὔτε τῶν ἐκεῖσέ τινι συντετύχηκα." (WA 151)
+
+     Chabrias having been asked who is in Hades, said: "I've never gone nor have I met anyone there."
 
 151. Χείλων ὁ σοφὸς λυπουμένου τινὸς ἐπὶ τοῖς ἑαυτοῦ κακοῖς εἶπεν· "εἰ τὰ πάντων κατανοήσεις ἔλλατον ἐπὶ τοῖς ἑαυτοῦ δυσφορήσεις." (WA 152)
 
