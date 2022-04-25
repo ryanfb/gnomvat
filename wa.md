@@ -828,7 +828,9 @@
 
      Psittacus said not to judge someone while being a friend, but to be a friend while judging them, and to hate with reason, not because of circumstance.
 
-160. **Χείλων εἶπε· "μὴ πολλὰ λάλει, διαμαρτήσεις γάρ· \[εἰ δὲ μὴ, ἀκούσῇ ἐφ’ οἷς λυπηθήσῃ\]."** (WA 161)
+160. Χείλων εἶπε· "μὴ πολλὰ λάλει, διαμαρτήσεις γάρ· \[εἰ δὲ μὴ, ἀκούσῇ ἐφ’ οἷς λυπηθήσῃ\]." (WA 161)
+
+     Chilon said: "Don't speak too much, for you will make a grave mistake; \[and if not, you will hear painful things]."
 
 161. **"Μὴ ἀπείλει τοῖς ἐλευθέροις· οὐ γὰρ δίκαιον."** (WA 162a)
 
