@@ -788,9 +788,7 @@
 
      \[Chilon\], having heard someone say that he had no enemy, said that he also had no friend.
 
-153. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί κράτιστον ἐν βίῳ εἶπε· "τὸ μηδὲν ἄγαν." (WA 154)
-
-     Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί κράτιστον ἐν βίῳ εἶπε· „τὸ μηδὲν ἄγαν.“ (GV 552)
+153. Ὁ αὐτὸς ἐρωτηθεὶς ὑπό τινος τί κράτιστον ἐν βίῳ εἶπε· "τὸ μηδὲν ἄγαν." (WA 154 = GV 552)
 
      \[Chilon\] having been asked by someone what is best in life, said: "Doing 'nothing in excess.'"
 
@@ -1090,9 +1088,7 @@
 
      \[Demosthenes\], when the jury was once making an uproar, asked them: "What sort of trial is this, in which the one being judged is quiet but those judging it are speaking?"
 
-219. Ὁ αὐτὸς δημηγορήσας ποτὲ παρ’ Ἀθηναίοις λαμπρῶς ἔπειτα καθίσας καὶ ἰδὼν ἐξανιστάμενον Δημάδην εἶπεν· "ἀνίσταται ἡ τῶν ἡμετέρων λόγων σφύρα." (WA Suppl. 38)
-
-     Ὁ αὐτὸς δημηγορήσας ποτὲ παρ’ Ἀθηναίοις λαμπρῶς ἔπειτα καθίσας καὶ ἰδὼν ἐξανιστάμενον Δημάδην εἶπεν· „ἀνίσταται ἡ τῶν ἡμετέρων λόγων σφῦρα“. (GV 228)
+219. Ὁ αὐτὸς δημηγορήσας ποτὲ παρ’ Ἀθηναίοις λαμπρῶς ἔπειτα καθίσας καὶ ἰδὼν ἐξανιστάμενον Δημάδην εἶπεν· "ἀνίσταται ἡ τῶν ἡμετέρων λόγων σφύρα." (WA Suppl. 38 = GV 228)
 
      \[Demosthenes\], once orating brilliantly among the Athenians, then having sat down and seen Demades standing up, said: "The mallet of our speeches is standing."
 
