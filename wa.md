@@ -764,7 +764,7 @@
 
 148. Χαβρίας ὑπὸ πονηροῦ πολλὰ λοιδορηθεὶς ἔφη· "κάλλιστα ἐποίησας μηδέν σοι τῶν προσόντων παραλιπών." (WA 149 = GV 558)
 
-     Charbias having been insulted by a very worthless person, said: "You did excellently in leaving out not a single one of your qualities."
+     Chabrias having been insulted by a very worthless person, said: "You did excellently in leaving out not a single one of your qualities."
 
 149. Χαβρίας ἐρωτηθεὶς ποταπὸς τῷ γένει ἔφη· "κοσμογενής." (WA 150)
 
@@ -782,9 +782,7 @@
 
      Chilon the sage, when someone was grieving at his own evils, said: "If you should observe the affairs of everyone, you would bear your own with less pain."
 
-152. Ὁ αὐτὸς ἀκούσας τινὸς εἰπόντος ὡς οὐδεὶς αὐτῷ ἐχθρὸς εἴη οὐκ ἔχειν εἶπεν οὐδὲ φίλον. (WA 153)
-
-     Ὁ αὐτὸς ἀκούσας τινὸς εἰπόντος ὡς οὐδεὶς αὐτῷ ἐχθρὸς εἴη οὐκ ἔχειν αὐτὸν εἶπεν οὐδὲ φίλον. (GV 551)
+152. Ὁ αὐτὸς ἀκούσας τινὸς εἰπόντος ὡς οὐδεὶς αὐτῷ ἐχθρὸς εἴη οὐκ ἔχειν εἶπεν οὐδὲ φίλον. (WA 153, cf. GV 551)
 
      \[Chilon\], having heard someone say that he had no enemy, said that he also had no friend.
 
@@ -1128,9 +1126,7 @@
 
      \[Demades\], being harangued by the people, said: "O men, rather hangmen!"
 
-226. Ὁ αὐτὸς εἶπε τὴν ἐπιτίμησιν τοῖς ἀνθρώποις ἔμψυχον μάστιγα. (WA Suppl. 45)
-
-     Ὁ αὐτὸς εἶπε τὴν ἐπιτίμησιν τοῖς ἀνθρώποις ἔμψυχον μάστιγα. (GV 240)
+226. Ὁ αὐτὸς εἶπε τὴν ἐπιτίμησιν τοῖς ἀνθρώποις ἔμψυχον μάστιγα. (WA Suppl. 45 = GV 240)
 
      \[Demades\] said that criticism was a living scourge for people.
 
